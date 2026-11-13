@@ -5,7 +5,7 @@
     "subtitle": "读故事 · 识人物 · 看天下 · 问古人",
     "version": "0.1.0",
     "note": "站名为暂定名，可在 content/master.json 一处修改。",
-    "generatedAt": "2026-11-13T08:59:12.098Z"
+    "generatedAt": "2026-11-13T11:09:55.273Z"
   },
   "stats": {
     "chapters": 120,
@@ -9230,13 +9230,573 @@
       "src": "assets/img/people/zhugeliang.webp",
       "alt": "诸葛亮（孔明）写实人物立绘"
     },
+    "zhaoyun": {
+      "src": "assets/img/people/zhaoyun.webp",
+      "alt": "赵云（子龙）写实人物立绘"
+    },
     "caocao": {
       "src": "assets/img/people/caocao.webp",
       "alt": "曹操（孟德）写实人物立绘"
     },
+    "caopi": {
+      "src": "assets/img/people/caopi.webp",
+      "alt": "曹丕（子桓）写实人物立绘"
+    },
+    "simayi": {
+      "src": "assets/img/people/simayi.webp",
+      "alt": "司马懿（仲达）写实人物立绘"
+    },
+    "sunquan": {
+      "src": "assets/img/people/sunquan.webp",
+      "alt": "孙权（仲谋）写实人物立绘"
+    },
+    "zhouyu": {
+      "src": "assets/img/people/zhouyu.webp",
+      "alt": "周瑜（公瑾）写实人物立绘"
+    },
+    "lusu": {
+      "src": "assets/img/people/lusu.webp",
+      "alt": "鲁肃（子敬）写实人物立绘"
+    },
+    "lvmeng": {
+      "src": "assets/img/people/lvmeng.webp",
+      "alt": "吕蒙（子明）写实人物立绘"
+    },
+    "luxun": {
+      "src": "assets/img/people/luxun.webp",
+      "alt": "陆逊（伯言）写实人物立绘"
+    },
+    "sunce": {
+      "src": "assets/img/people/sunce.webp",
+      "alt": "孙策（伯符）写实人物立绘"
+    },
+    "sunjian": {
+      "src": "assets/img/people/sunjian.webp",
+      "alt": "孙坚（文台）写实人物立绘"
+    },
+    "xunyu": {
+      "src": "assets/img/people/xunyu.webp",
+      "alt": "荀彧（文若）写实人物立绘"
+    },
+    "guojia": {
+      "src": "assets/img/people/guojia.webp",
+      "alt": "郭嘉（奉孝）写实人物立绘"
+    },
+    "jiaxu": {
+      "src": "assets/img/people/jiaxu.webp",
+      "alt": "贾诩（文和）写实人物立绘"
+    },
+    "chengyu": {
+      "src": "assets/img/people/chengyu.webp",
+      "alt": "程昱（仲德）写实人物立绘"
+    },
+    "zhangliao": {
+      "src": "assets/img/people/zhangliao.webp",
+      "alt": "张辽（文远）写实人物立绘"
+    },
+    "xuchu": {
+      "src": "assets/img/people/xuchu.webp",
+      "alt": "许褚（仲康）写实人物立绘"
+    },
+    "xiahoudun": {
+      "src": "assets/img/people/xiahoudun.webp",
+      "alt": "夏侯惇（元让）写实人物立绘"
+    },
+    "caoren": {
+      "src": "assets/img/people/caoren.webp",
+      "alt": "曹仁（子孝）写实人物立绘"
+    },
+    "caozhi": {
+      "src": "assets/img/people/caozhi.webp",
+      "alt": "曹植（子建）写实人物立绘"
+    },
+    "pangtong": {
+      "src": "assets/img/people/pangtong.webp",
+      "alt": "庞统（士元）写实人物立绘"
+    },
+    "fazheng": {
+      "src": "assets/img/people/fazheng.webp",
+      "alt": "法正（孝直）写实人物立绘"
+    },
+    "huangzhong": {
+      "src": "assets/img/people/huangzhong.webp",
+      "alt": "黄忠（汉升）写实人物立绘"
+    },
+    "machao": {
+      "src": "assets/img/people/machao.webp",
+      "alt": "马超（孟起）写实人物立绘"
+    },
+    "weiyan": {
+      "src": "assets/img/people/weiyan.webp",
+      "alt": "魏延（文长）写实人物立绘"
+    },
+    "jiangwei": {
+      "src": "assets/img/people/jiangwei.webp",
+      "alt": "姜维（伯约）写实人物立绘"
+    },
+    "huanggai": {
+      "src": "assets/img/people/huanggai.webp",
+      "alt": "黄盖（公覆）写实人物立绘"
+    },
+    "ganning": {
+      "src": "assets/img/people/ganning.webp",
+      "alt": "甘宁（兴霸）写实人物立绘"
+    },
+    "taishici": {
+      "src": "assets/img/people/taishici.webp",
+      "alt": "太史慈（子义）写实人物立绘"
+    },
+    "zhangzhao": {
+      "src": "assets/img/people/zhangzhao.webp",
+      "alt": "张昭（子布）写实人物立绘"
+    },
+    "zhugejin": {
+      "src": "assets/img/people/zhugejin.webp",
+      "alt": "诸葛瑾（子瑜）写实人物立绘"
+    },
+    "xushu": {
+      "src": "assets/img/people/xushu.webp",
+      "alt": "徐庶（元直）写实人物立绘"
+    },
+    "lvbu": {
+      "src": "assets/img/people/lvbu.webp",
+      "alt": "吕布（奉先）写实人物立绘"
+    },
+    "yuanshao": {
+      "src": "assets/img/people/yuanshao.webp",
+      "alt": "袁绍（本初）写实人物立绘"
+    },
+    "yuanshu": {
+      "src": "assets/img/people/yuanshu.webp",
+      "alt": "袁术（公路）写实人物立绘"
+    },
+    "dongzhuo": {
+      "src": "assets/img/people/dongzhuo.webp",
+      "alt": "董卓（仲颖）写实人物立绘"
+    },
+    "liubiao": {
+      "src": "assets/img/people/liubiao.webp",
+      "alt": "刘表（景升）写实人物立绘"
+    },
+    "liuzhang": {
+      "src": "assets/img/people/liuzhang.webp",
+      "alt": "刘璋（季玉）写实人物立绘"
+    },
+    "liushan": {
+      "src": "assets/img/people/liushan.webp",
+      "alt": "刘禅（公嗣）写实人物立绘"
+    },
+    "masu": {
+      "src": "assets/img/people/masu.webp",
+      "alt": "马谡（幼常）写实人物立绘"
+    },
+    "mengda": {
+      "src": "assets/img/people/mengda.webp",
+      "alt": "孟达（子度）写实人物立绘"
+    },
+    "menghuo": {
+      "src": "assets/img/people/menghuo.webp",
+      "alt": "孟获（无）写实人物立绘"
+    },
     "diaochan": {
       "src": "assets/img/people/diaochan.webp",
       "alt": "貂蝉（无）写实人物立绘"
+    },
+    "zhenshi": {
+      "src": "assets/img/people/zhenshi.webp",
+      "alt": "甄氏（无）写实人物立绘"
+    },
+    "huaxiong": {
+      "src": "assets/img/people/huaxiong.webp",
+      "alt": "华雄（无）写实人物立绘"
+    },
+    "yanliang": {
+      "src": "assets/img/people/yanliang.webp",
+      "alt": "颜良（无）写实人物立绘"
+    },
+    "wenchou": {
+      "src": "assets/img/people/wenchou.webp",
+      "alt": "文丑（无）写实人物立绘"
+    },
+    "zhanghe": {
+      "src": "assets/img/people/zhanghe.webp",
+      "alt": "张郃（儁乂）写实人物立绘"
+    },
+    "xuhuang": {
+      "src": "assets/img/people/xuhuang.webp",
+      "alt": "徐晃（公明）写实人物立绘"
+    },
+    "dianwei": {
+      "src": "assets/img/people/dianwei.webp",
+      "alt": "典韦（无）写实人物立绘"
+    },
+    "chengong": {
+      "src": "assets/img/people/chengong.webp",
+      "alt": "陈宫（公台）写实人物立绘"
+    },
+    "jianggan": {
+      "src": "assets/img/people/jianggan.webp",
+      "alt": "蒋干（子翼）写实人物立绘"
+    },
+    "kanze": {
+      "src": "assets/img/people/kanze.webp",
+      "alt": "阚泽（德润）写实人物立绘"
+    },
+    "liuqi": {
+      "src": "assets/img/people/liuqi.webp",
+      "alt": "刘琦（无）写实人物立绘"
+    },
+    "dengai": {
+      "src": "assets/img/people/dengai.webp",
+      "alt": "邓艾（士载）写实人物立绘"
+    },
+    "zhonghui": {
+      "src": "assets/img/people/zhonghui.webp",
+      "alt": "钟会（士季）写实人物立绘"
+    },
+    "simayan": {
+      "src": "assets/img/people/simayan.webp",
+      "alt": "司马炎（安世）写实人物立绘"
+    },
+    "sunhao": {
+      "src": "assets/img/people/sunhao.webp",
+      "alt": "孙皓（元宗）写实人物立绘"
+    },
+    "zhangjiao": {
+      "src": "assets/img/people/zhangjiao.webp",
+      "alt": "张角（无）写实人物立绘"
+    },
+    "duyu": {
+      "src": "assets/img/people/duyu.webp",
+      "alt": "杜预（元凯）写实人物立绘"
+    },
+    "tianfeng": {
+      "src": "assets/img/people/tianfeng.webp",
+      "alt": "田丰（元皓）写实人物立绘"
+    },
+    "guanping": {
+      "src": "assets/img/people/guanping.webp",
+      "alt": "关平（无）写实人物立绘"
+    },
+    "guanxing": {
+      "src": "assets/img/people/guanxing.webp",
+      "alt": "关兴（安国）写实人物立绘"
+    },
+    "zhangbao": {
+      "src": "assets/img/people/zhangbao.webp",
+      "alt": "张苞（无）写实人物立绘"
+    },
+    "mizhu": {
+      "src": "assets/img/people/mizhu.webp",
+      "alt": "糜竺（子山）写实人物立绘"
+    },
+    "mifang": {
+      "src": "assets/img/people/mifang.webp",
+      "alt": "糜芳（子方）写实人物立绘"
+    },
+    "sunfuren": {
+      "src": "assets/img/people/sunfuren.webp",
+      "alt": "孙尚香（无）写实人物立绘"
+    },
+    "ganfuren": {
+      "src": "assets/img/people/ganfuren.webp",
+      "alt": "甘夫人（无）写实人物立绘"
+    },
+    "jianyong": {
+      "src": "assets/img/people/jianyong.webp",
+      "alt": "简雍（宪和）写实人物立绘"
+    },
+    "sunqian": {
+      "src": "assets/img/people/sunqian.webp",
+      "alt": "孙乾（公祐）写实人物立绘"
+    },
+    "liufeng": {
+      "src": "assets/img/people/liufeng.webp",
+      "alt": "刘封（无）写实人物立绘"
+    },
+    "wangping": {
+      "src": "assets/img/people/wangping.webp",
+      "alt": "王平（子均）写实人物立绘"
+    },
+    "liaohua": {
+      "src": "assets/img/people/liaohua.webp",
+      "alt": "廖化（元俭）写实人物立绘"
+    },
+    "mada": {
+      "src": "assets/img/people/mada.webp",
+      "alt": "马岱（无）写实人物立绘"
+    },
+    "yanyan": {
+      "src": "assets/img/people/yanyan.webp",
+      "alt": "严颜（无）写实人物立绘"
+    },
+    "jiangwan": {
+      "src": "assets/img/people/jiangwan.webp",
+      "alt": "蒋琬（公琰）写实人物立绘"
+    },
+    "feiyi": {
+      "src": "assets/img/people/feiyi.webp",
+      "alt": "费祎（文伟）写实人物立绘"
+    },
+    "dongyun": {
+      "src": "assets/img/people/dongyun.webp",
+      "alt": "董允（休昭）写实人物立绘"
+    },
+    "yangyi": {
+      "src": "assets/img/people/yangyi.webp",
+      "alt": "杨仪（威公）写实人物立绘"
+    },
+    "liyan": {
+      "src": "assets/img/people/liyan.webp",
+      "alt": "李严（正方）写实人物立绘"
+    },
+    "maliang": {
+      "src": "assets/img/people/maliang.webp",
+      "alt": "马良（季常）写实人物立绘"
+    },
+    "qiaozhou": {
+      "src": "assets/img/people/qiaozhou.webp",
+      "alt": "谯周（允南）写实人物立绘"
+    },
+    "zhugezhan": {
+      "src": "assets/img/people/zhugezhan.webp",
+      "alt": "诸葛瞻（思远）写实人物立绘"
+    },
+    "simahui": {
+      "src": "assets/img/people/simahui.webp",
+      "alt": "司马徽（德操）写实人物立绘"
+    },
+    "huangyueying": {
+      "src": "assets/img/people/huangyueying.webp",
+      "alt": "黄月英（无）写实人物立绘"
+    },
+    "zhoucang": {
+      "src": "assets/img/people/zhoucang.webp",
+      "alt": "周仓（无）写实人物立绘"
+    },
+    "guansuo": {
+      "src": "assets/img/people/guansuo.webp",
+      "alt": "关索（无）写实人物立绘"
+    },
+    "huangquan": {
+      "src": "assets/img/people/huangquan.webp",
+      "alt": "黄权（公衡）写实人物立绘"
+    },
+    "xiahouyuan": {
+      "src": "assets/img/people/xiahouyuan.webp",
+      "alt": "夏侯渊（妙才）写实人物立绘"
+    },
+    "caohong": {
+      "src": "assets/img/people/caohong.webp",
+      "alt": "曹洪（子廉）写实人物立绘"
+    },
+    "caozhen": {
+      "src": "assets/img/people/caozhen.webp",
+      "alt": "曹真（子丹）写实人物立绘"
+    },
+    "caoshuang": {
+      "src": "assets/img/people/caoshuang.webp",
+      "alt": "曹爽（昭伯）写实人物立绘"
+    },
+    "simashi": {
+      "src": "assets/img/people/simashi.webp",
+      "alt": "司马师（子元）写实人物立绘"
+    },
+    "simazhao": {
+      "src": "assets/img/people/simazhao.webp",
+      "alt": "司马昭（子上）写实人物立绘"
+    },
+    "caozhang": {
+      "src": "assets/img/people/caozhang.webp",
+      "alt": "曹彰（子文）写实人物立绘"
+    },
+    "haozhao": {
+      "src": "assets/img/people/haozhao.webp",
+      "alt": "郝昭（伯道）写实人物立绘"
+    },
+    "caimao": {
+      "src": "assets/img/people/caimao.webp",
+      "alt": "蔡瑁（德珪）写实人物立绘"
+    },
+    "yujin": {
+      "src": "assets/img/people/yujin.webp",
+      "alt": "于禁（文则）写实人物立绘"
+    },
+    "lidian": {
+      "src": "assets/img/people/lidian.webp",
+      "alt": "李典（曼成）写实人物立绘"
+    },
+    "yuejin": {
+      "src": "assets/img/people/yuejin.webp",
+      "alt": "乐进（文谦）写实人物立绘"
+    },
+    "xunyou": {
+      "src": "assets/img/people/xunyou.webp",
+      "alt": "荀攸（公达）写实人物立绘"
+    },
+    "pangde": {
+      "src": "assets/img/people/pangde.webp",
+      "alt": "庞德（令明）写实人物立绘"
+    },
+    "wanglang": {
+      "src": "assets/img/people/wanglang.webp",
+      "alt": "王朗（景兴）写实人物立绘"
+    },
+    "huaxin": {
+      "src": "assets/img/people/huaxin.webp",
+      "alt": "华歆（子鱼）写实人物立绘"
+    },
+    "chenqun": {
+      "src": "assets/img/people/chenqun.webp",
+      "alt": "陈群（长文）写实人物立绘"
+    },
+    "chengpu": {
+      "src": "assets/img/people/chengpu.webp",
+      "alt": "程普（德谋）写实人物立绘"
+    },
+    "handang": {
+      "src": "assets/img/people/handang.webp",
+      "alt": "韩当（义公）写实人物立绘"
+    },
+    "zhoutai": {
+      "src": "assets/img/people/zhoutai.webp",
+      "alt": "周泰（幼平）写实人物立绘"
+    },
+    "lingtong": {
+      "src": "assets/img/people/lingtong.webp",
+      "alt": "凌统（公绩）写实人物立绘"
+    },
+    "xusheng": {
+      "src": "assets/img/people/xusheng.webp",
+      "alt": "徐盛（文向）写实人物立绘"
+    },
+    "dingfeng": {
+      "src": "assets/img/people/dingfeng.webp",
+      "alt": "丁奉（承渊）写实人物立绘"
+    },
+    "guyong": {
+      "src": "assets/img/people/guyong.webp",
+      "alt": "顾雍（元叹）写实人物立绘"
+    },
+    "zhugeke": {
+      "src": "assets/img/people/zhugeke.webp",
+      "alt": "诸葛恪（元逊）写实人物立绘"
+    },
+    "lukang": {
+      "src": "assets/img/people/lukang.webp",
+      "alt": "陆抗（幼节）写实人物立绘"
+    },
+    "panzhang": {
+      "src": "assets/img/people/panzhang.webp",
+      "alt": "潘璋（文珪）写实人物立绘"
+    },
+    "zhuran": {
+      "src": "assets/img/people/zhuran.webp",
+      "alt": "朱然（义封）写实人物立绘"
+    },
+    "daqiao": {
+      "src": "assets/img/people/daqiao.webp",
+      "alt": "大乔（无）写实人物立绘"
+    },
+    "qiaoxiao": {
+      "src": "assets/img/people/qiaoxiao.webp",
+      "alt": "小乔（无）写实人物立绘"
+    },
+    "liuxie": {
+      "src": "assets/img/people/liuxie.webp",
+      "alt": "汉献帝刘协（伯和）写实人物立绘"
+    },
+    "dongcheng": {
+      "src": "assets/img/people/dongcheng.webp",
+      "alt": "董承（无）写实人物立绘"
+    },
+    "fuhou": {
+      "src": "assets/img/people/fuhou.webp",
+      "alt": "伏皇后（无）写实人物立绘"
+    },
+    "wangyun": {
+      "src": "assets/img/people/wangyun.webp",
+      "alt": "王允（子师）写实人物立绘"
+    },
+    "hejin": {
+      "src": "assets/img/people/hejin.webp",
+      "alt": "何进（遂高）写实人物立绘"
+    },
+    "lijue": {
+      "src": "assets/img/people/lijue.webp",
+      "alt": "李傕（稚然）写实人物立绘"
+    },
+    "guosi": {
+      "src": "assets/img/people/guosi.webp",
+      "alt": "郭汜（无）写实人物立绘"
+    },
+    "zhangxiu": {
+      "src": "assets/img/people/zhangxiu.webp",
+      "alt": "张绣（无）写实人物立绘"
+    },
+    "taoqian": {
+      "src": "assets/img/people/taoqian.webp",
+      "alt": "陶谦（恭祖）写实人物立绘"
+    },
+    "kongrong": {
+      "src": "assets/img/people/kongrong.webp",
+      "alt": "孔融（文举）写实人物立绘"
+    },
+    "gongsunzan": {
+      "src": "assets/img/people/gongsunzan.webp",
+      "alt": "公孙瓒（伯珪）写实人物立绘"
+    },
+    "shenpei": {
+      "src": "assets/img/people/shenpei.webp",
+      "alt": "审配（正南）写实人物立绘"
+    },
+    "jushou": {
+      "src": "assets/img/people/jushou.webp",
+      "alt": "沮授（公与）写实人物立绘"
+    },
+    "xuyou": {
+      "src": "assets/img/people/xuyou.webp",
+      "alt": "许攸（子远）写实人物立绘"
+    },
+    "gaoshun": {
+      "src": "assets/img/people/gaoshun.webp",
+      "alt": "高顺（无）写实人物立绘"
+    },
+    "huangzu": {
+      "src": "assets/img/people/huangzu.webp",
+      "alt": "黄祖（无）写实人物立绘"
+    },
+    "hansui": {
+      "src": "assets/img/people/hansui.webp",
+      "alt": "韩遂（文约）写实人物立绘"
+    },
+    "mateng": {
+      "src": "assets/img/people/mateng.webp",
+      "alt": "马腾（寿成）写实人物立绘"
+    },
+    "zhanglu": {
+      "src": "assets/img/people/zhanglu.webp",
+      "alt": "张鲁（公祺）写实人物立绘"
+    },
+    "huatuo": {
+      "src": "assets/img/people/huatuo.webp",
+      "alt": "华佗（元化）写实人物立绘"
+    },
+    "zuoci": {
+      "src": "assets/img/people/zuoci.webp",
+      "alt": "左慈（元放）写实人物立绘"
+    },
+    "yuji": {
+      "src": "assets/img/people/yuji.webp",
+      "alt": "于吉（无）写实人物立绘"
+    },
+    "yanghu": {
+      "src": "assets/img/people/yanghu.webp",
+      "alt": "羊祜（叔子）写实人物立绘"
+    },
+    "wangjun": {
+      "src": "assets/img/people/wangjun.webp",
+      "alt": "王濬（士治）写实人物立绘"
     }
   }
 }
