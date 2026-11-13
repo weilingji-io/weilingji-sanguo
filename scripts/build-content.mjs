@@ -58,7 +58,17 @@ const chapters = catalog.map((c) => {
 });
 const artMap = Object.fromEntries(chapters.filter((c) => c.art).map((c) => [String(c.no), c.art]));
 
+
 const people = master.people;
+
+/* 人物立绘：assets/img/people/{id}.webp 存在即登记，缺失回退程序化剪影 */
+const PEOPLE_DIR = path.join(root, 'assets/img/people');
+const portraitMap = Object.fromEntries(
+  people.filter((p) => fs.existsSync(path.join(PEOPLE_DIR, `${p.id}.webp`))).map((p) => [
+    p.id,
+    { src: `assets/img/people/${p.id}.webp`, alt: `${p.name}（${p.zi || ''}）写实人物立绘` },
+  ]),
+);
 const relations = master.relations;
 const events = world.events;
 const places = world.places;
@@ -131,7 +141,7 @@ const reviewed = chapters.filter((c) => c.review === '已校').length;
 if (reviewed < chapters.length) warnings.push(`${chapters.length - reviewed} 回导读待补，详情页会显示占位状态`);
 const artCount = chapters.filter((c) => c.art).length;
 if (artCount < chapters.length) warnings.push(`${chapters.length - artCount} 回插画缺失，将回退为程序化示意图`);
-warnings.push('插画为 AI 生成的水墨风格配图，属示意性质，非史料图像；人物均为写意剪影');
+warnings.push('插画为 AI 生成的水墨风格配图，属示意性质，非史料图像；人物立绘为 AI 生成的写实风格示意像，亦非史料肖像');
 warnings.push('地图底图为 AI 生成山水绘卷，仍不含行政边界与真实经纬');
 
 const relationBySource = { 正史: 0, 演义: 0, 传说: 0 };
@@ -166,6 +176,7 @@ const site = {
   sourceTypes: ['演义', '正史', '传说'],
   arcs: ARCS.map((a) => a.name),
   art: artMap,
+  portraits: portraitMap,
 };
 
 const searchIndex = [

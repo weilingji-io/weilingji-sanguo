@@ -5,7 +5,7 @@
     "subtitle": "读故事 · 识人物 · 看天下 · 问古人",
     "version": "0.1.0",
     "note": "站名为暂定名，可在 content/master.json 一处修改。",
-    "generatedAt": "2026-11-13T07:56:06.725Z"
+    "generatedAt": "2026-11-13T08:59:12.098Z"
   },
   "stats": {
     "chapters": 120,
@@ -9211,6 +9211,32 @@
     "120": {
       "src": "assets/img/art/ch120.webp",
       "alt": "第120回「荐杜预老将献新谋 降孙皓三分归一」水墨插画"
+    }
+  },
+  "portraits": {
+    "liubei": {
+      "src": "assets/img/people/liubei.webp",
+      "alt": "刘备（玄德）写实人物立绘"
+    },
+    "guanyu": {
+      "src": "assets/img/people/guanyu.webp",
+      "alt": "关羽（云长）写实人物立绘"
+    },
+    "zhangfei": {
+      "src": "assets/img/people/zhangfei.webp",
+      "alt": "张飞（翼德）写实人物立绘"
+    },
+    "zhugeliang": {
+      "src": "assets/img/people/zhugeliang.webp",
+      "alt": "诸葛亮（孔明）写实人物立绘"
+    },
+    "caocao": {
+      "src": "assets/img/people/caocao.webp",
+      "alt": "曹操（孟德）写实人物立绘"
+    },
+    "diaochan": {
+      "src": "assets/img/people/diaochan.webp",
+      "alt": "貂蝉（无）写实人物立绘"
     }
   }
 }

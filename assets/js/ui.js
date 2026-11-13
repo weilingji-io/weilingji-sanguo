@@ -94,8 +94,12 @@ export function illustration(seed = 1, opts = {}) {
 </svg><span class="illus-label">示意水墨图 · 待替换为正式插画</span>`;
 }
 
-/** 程序化人物剪影，避免直接使用他人作品的立绘 */
-export function portrait(seed = 1) {
+/** 人物立绘：优先 AI 生成的写实立绘（SITE.portraits），缺失回退程序化剪影 */
+export function portrait(seed = 1, personId = '') {
+  const art = personId && window.SITE?.portraits?.[personId];
+  if (art) {
+    return `<img class="portrait-img" src="${esc(art.src)}" alt="${esc(art.alt)}" loading="lazy" decoding="async">`;
+  }
   const r = rng(seed * 7 + 13);
   const robe = ['#5A4A38', '#4A5148', '#6B4A3A', '#43505A', '#705A40'][Math.floor(r() * 5)];
   const skin = '#D9BE96';

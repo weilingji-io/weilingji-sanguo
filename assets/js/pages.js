@@ -156,7 +156,7 @@ const event = {
     <h2 class="section-title">换一个人的位置，看这场战役 <small>同一件事，不同人当时知道的不一样</small></h2>
     <div class="viewpoint-grid">${e.viewpoints.map((v) => {
       const p = findPerson(v.personId);
-      return `<div class="viewpoint"><div class="portrait">${portrait(hashSeed(v.personId))}</div>
+      return `<div class="viewpoint"><div class="portrait">${portrait(hashSeed(v.personId), v.personId)}</div>
         <div class="viewpoint-body"><b>${esc(p?.name || v.personId)}</b>${p ? `<span class="muted" style="font-size:11px;margin-left:6px">${esc(p.faction)}</span>` : ''}
         <p>${esc(v.text)}</p>${personLink(v.personId)}</div></div>`;
     }).join('')}</div>
@@ -175,7 +175,7 @@ const people = {
   render() {
     const factions = [...new Set(S().people.map((p) => p.faction))];
     return `${chapterHead('人物馆', 3)}
-    <p class="eyebrow">把 1235 人的气势，换成 65 张读得清的卡片</p>
+    <p class="eyebrow">把 1235 个人名，换成 146 张读得清的卡片</p>
     <h1 class="display-title">把人名变成<span class="accent">一张可以转的图</span></h1>
     <p class="lead">${bigNumber(S().people.length, '位人物')} 每个人的阵营、关系、出处与首次出场回目都分开记录；关系没有依据的线，一条都不画。</p>
     <div class="filter-bar" id="people-filters">
@@ -194,8 +194,9 @@ const people = {
     const paint = () => {
       const list = S().people.filter((p) => faction === '全部' || p.faction === faction);
       grid.innerHTML = list.map((p) => `<a class="person-card" href="#/people/${p.id}">
-        <b>${esc(p.name)}</b><span class="zi">字 ${esc(p.zi)}</span>
-        <p>${esc(p.tagline)}</p><div class="tag-row">${sourceTag(p.sourceType)}<span class="tag tag--neutral">${esc(p.faction)}</span></div>
+        <div class="person-thumb">${portrait(hashSeed(p.id), p.id)}</div>
+        <div class="person-card-body"><b>${esc(p.name)}</b><span class="zi">字 ${esc(p.zi)}</span>
+        <p>${esc(p.tagline)}</p><div class="tag-row">${sourceTag(p.sourceType)}<span class="tag tag--neutral">${esc(p.faction)}</span></div></div>
       </a>`).join('');
     };
     bar.addEventListener('click', (e) => {
@@ -218,7 +219,7 @@ const person = {
     const periods = S().periods.filter((x) => x.personId === p.id);
     const first = findChapter(p.first);
     return `${chapterHead('人物馆 · 人物卡', 3)}
-    <div class="person-hero"><div class="portrait">${portrait(hashSeed(p.id))}</div>
+    <div class="person-hero"><div class="portrait">${portrait(hashSeed(p.id), p.id)}</div>
       <div><p class="eyebrow">${esc(p.faction)} · ${esc(p.life)}</p>
         <h1 class="display-title" style="margin-bottom:6px">${esc(p.name)}<span style="font-size:18px;color:var(--ink-3);margin-left:12px">字 ${esc(p.zi)}</span></h1>
         <p class="lead">${esc(p.tagline)}</p>
