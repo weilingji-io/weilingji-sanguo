@@ -230,7 +230,7 @@ const person = {
     <div class="section-title">关系 <small>${rels.length} 条 · 每条都标了出处</small></div>
     <div class="relation-list">${rels.map((r) => {
       const other = findPerson(r.from === p.id ? r.to : r.from);
-      return `<div class="relation-item">${sourceTag(r.sourceType)}<a href="#/people/${other.id}"><b>${esc(other.name)}</b></a>
+      return `<div class="relation-item"><a class="rel-avatar" href="#/people/${other.id}" title="${esc(other.name)}">${portrait(hashSeed(other.id), other.id)}</a>${sourceTag(r.sourceType)}<a href="#/people/${other.id}"><b>${esc(other.name)}</b></a>
         <span class="rel-type">${esc(r.type)}</span><span class="muted" style="font-size:11px">自 ${r.sinceYear} 年</span>
         <span class="rel-note">${esc(r.note)}</span></div>`;
     }).join('') || empty('暂无关系记录')}</div>
@@ -294,14 +294,15 @@ const star = {
         const p = findPerson(id);
         if (!p) return;
         const rels = relationList(id);
-        box.innerHTML = `<h3>${esc(p.name)} <span style="font-size:13px;color:#A9B9C4">字 ${esc(p.zi)} · ${esc(p.faction)}</span></h3>
+        box.innerHTML = `<div class="star-card"><div class="star-avatar">${portrait(hashSeed(p.id), p.id)}</div>
+          <div class="star-card-main"><h3>${esc(p.name)} <span style="font-size:13px;color:#A9B9C4">字 ${esc(p.zi)} · ${esc(p.faction)}</span></h3>
           <p>${esc(p.tagline)}　${esc(p.bio)}</p>
           <div class="tag-row">${sourceTag(p.sourceType)}<span class="tag tag--neutral">${rels.length} 条关系</span></div>
           <div style="margin-top:12px">${rels.slice(0, 8).map((r) => {
             const o = findPerson(r.from === id ? r.to : r.from);
             return `<span class="chip" style="margin:3px">${esc(o?.name || '')} · ${esc(r.type)} · ${esc(r.sourceType)}</span>`;
           }).join('')}</div>
-          <p style="margin-top:14px"><a class="btn btn--sm" href="#/people/${p.id}">查看人物卡 →</a></p>`;
+          <p style="margin-top:14px"><a class="btn btn--sm" href="#/people/${p.id}">查看人物卡 →</a></p></div></div>`;
       },
     });
     statsBar.addEventListener('click', (e) => {
@@ -478,12 +479,12 @@ const dialogue = {
     const paintChat = () => {
       chat.innerHTML = state.messages.length ? state.messages.map((m) => {
         if (m.role === 'user') return `<div class="chat-bubble user">${esc(m.text)}</div>`;
-        return `<div class="chat-bubble answer"><div class="speaker">${esc(m.speaker)} · ${m.year} 年 ${m.refused ? '· 未来事件已拦截' : ''}</div>
+        return `<div class="chat-row"><div class="chat-avatar">${portrait(hashSeed(state.personId), state.personId)}</div><div class="chat-bubble answer"><div class="speaker">${esc(m.speaker)} · ${m.year} 年 ${m.refused ? '· 未来事件已拦截' : ''}</div>
           <div>${esc(m.text)}</div>
           <details class="answer-detail"><summary>展开看依据 / 创作</summary>
             <p><b>依据</b></p><ul>${m.basis.map((x) => `<li>${esc(x)}</li>`).join('')}</ul>
             <p><b>创作</b></p><ul>${m.creation.map((x) => `<li>${esc(x)}</li>`).join('')}</ul>
-          </details></div>`;
+          </details></div></div>`;
       }).join('') : '<div class="chat-empty">从左边挑一个问题，看看这个时期的人物会怎么回答。</div>';
       chat.scrollTop = chat.scrollHeight;
     };
