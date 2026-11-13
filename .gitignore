@@ -147,3 +147,6 @@ vite.config.ts.timestamp-*
 
 # Turbo Repo
 .turbo
+
+# AI 插画原始 PNG（仅本地留档，不入库）
+assets/img/art/_source/

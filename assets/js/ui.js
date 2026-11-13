@@ -45,8 +45,12 @@ export function rng(seed) {
   return () => { a = (a * 9301 + 49297) % 233280; return a / 233280; };
 }
 
-/** 程序化水墨示意插画：确定性生成，不依赖任何外部图片 */
+/** 插画：优先使用 AI 生成的水墨插画（构建期登记在 SITE.art），缺失时回退程序化示意水墨 */
 export function illustration(seed = 1, opts = {}) {
+  const art = window.SITE?.art?.[String(seed)];
+  if (art) {
+    return `<img class="illus" src="${esc(art.src)}" alt="${esc(art.alt)}" ${opts.lazy ? 'loading="lazy" decoding="async"' : 'decoding="async"'}>`;
+  }
   const r = rng(seed);
   const warm = (seed % 3) !== 0;
   const sky1 = warm ? '#F0D9A8' : '#D9DCCD';

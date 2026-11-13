@@ -76,7 +76,7 @@ const chapters = {
     const paint = () => {
       const list = S().chapters.filter((c) => (arc === '全部' || c.arc === arc) && (!reviewedOnly || c.review === '已校'));
       grid.innerHTML = list.map((c) => `<a class="chapter-card" href="#/chapters/${c.id}">
-        ${illustration(c.no, { fire: c.no === 49 })}
+        ${illustration(c.no, { fire: c.no === 49, lazy: true })}
         <div class="cc-body"><span class="cc-no">第 ${c.no} 回</span>
         <h3 class="cc-title">${esc(c.title)}</h3>
         <div class="cc-meta"><span>${esc(c.arc)}</span><span class="${c.review === '已校' ? 'gold' : ''}">${c.review === '已校' ? '导读已校' : '导读待补'}</span></div></div>
@@ -106,7 +106,7 @@ const chapter = {
     const events = c.eventIds.map((id) => eventLink(id)).join('');
     const sources = c.sourceIds.map((id) => { const s = findSource(id); return s ? `<a class="chip" href="#/sources?focus=${s.id}">${esc(s.title)}</a>` : ''; }).join('');
     return `${chapterHead(`故事馆 · 第 ${c.no} 回`, 2)}
-    <div class="hero-illus">${illustration(c.no, { fire: c.no === 49 })}
+    <div class="hero-illus">${illustration(c.no, { fire: c.no === 49, lazy: true })}
       <div class="hero-illus-caption"><h1>第 ${c.no} 回</h1><p>${esc(c.title)}</p></div></div>
     <div style="display:flex;flex-wrap:wrap;gap:10px;align-items:center;margin:18px 0 26px">
       <span class="tag tag--neutral">${esc(c.era || c.eraHint)}</span>
@@ -653,7 +653,7 @@ const about = {
       <ul>
         <li>120 回回目名来自公版古籍目录，本站仅收录回目与自撰导读，不转载任何受版权保护的现代整理本全文。</li>
         <li>「读原文」外链指向第三方在线阅读站，链接随公版目录一并保存，可在 <code>content/catalog.json</code> 中替换。</li>
-        <li>史料只作短引并注明出处；插画为程序化生成的示意水墨图；人物立绘为 SVG 剪影，均未使用他人作品的素材。</li>
+        <li>史料只作短引并注明出处；插画为 AI 生成的水墨风格示意配图（人物为写意剪影，非史料图像）；地图底图为 AI 山水绘卷，均不含行政边界。</li>
         <li>地图为不含任何行政边界与真实经纬度的手绘示意绘卷，不接在线底图、不采集位置数据。</li>
       </ul>
       <h3>当前实现范围</h3>
@@ -661,7 +661,7 @@ const about = {
         <tr><td>120 回索引</td><td>${st.chapters} 回，全部可打开</td></tr>
         <tr><td>完整导读</td><td>${st.reviewedChapters} 回已校，其余显示「导读待补」占位</td></tr>
         <tr><td>人物与关系</td><td>${st.people} 人 / ${st.relations} 条关系，全部带出处</td></tr>
-        <tr><td>插画</td><td>程序化示意图，待替换为正式 AI 插画</td></tr>
+        <tr><td>插画</td><td>AI 水墨插画 120 张已上线；导读覆盖 27 回，其余回目导读待补</td></tr>
         <tr><td>对话台</td><td>按时期预置语料，未接入大模型</td></tr>
         <tr><td>典籍室</td><td>回目索引已建，史书卷目索引已建，原文待接入公版底本</td></tr>
       </table>

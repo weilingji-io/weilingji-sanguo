@@ -5,7 +5,7 @@
     "subtitle": "读故事 · 识人物 · 看天下 · 问古人",
     "version": "0.1.0",
     "note": "站名为暂定名，可在 content/master.json 一处修改。",
-    "generatedAt": "2026-11-13T05:46:33.568Z"
+    "generatedAt": "2026-11-13T07:56:06.725Z"
   },
   "stats": {
     "chapters": 120,
@@ -56,7 +56,11 @@
       ],
       "sourceType": "演义",
       "review": "已校",
-      "illustrationSeed": 1
+      "illustrationSeed": 1,
+      "art": {
+        "src": "assets/img/art/ch001.webp",
+        "alt": "第1回「宴桃园豪杰三结义 斩黄巾英雄首立功」水墨插画"
+      }
     },
     {
       "id": "002",
@@ -84,7 +88,11 @@
       ],
       "sourceType": "演义",
       "review": "已校",
-      "illustrationSeed": 2
+      "illustrationSeed": 2,
+      "art": {
+        "src": "assets/img/art/ch002.webp",
+        "alt": "第2回「张翼德怒鞭督邮 何国舅谋诛宦竖」水墨插画"
+      }
     },
     {
       "id": "003",
@@ -105,7 +113,11 @@
       "sourceIds": [],
       "sourceType": "演义",
       "review": "待校",
-      "illustrationSeed": 3
+      "illustrationSeed": 3,
+      "art": {
+        "src": "assets/img/art/ch003.webp",
+        "alt": "第3回「议温明董卓叱丁原 馈金珠李肃说吕布」水墨插画"
+      }
     },
     {
       "id": "004",
@@ -126,7 +138,11 @@
       "sourceIds": [],
       "sourceType": "演义",
       "review": "待校",
-      "illustrationSeed": 4
+      "illustrationSeed": 4,
+      "art": {
+        "src": "assets/img/art/ch004.webp",
+        "alt": "第4回「废汉帝陈留践位 谋董贼孟德献刀」水墨插画"
+      }
     },
     {
       "id": "005",
@@ -162,7 +178,11 @@
       ],
       "sourceType": "演义",
       "review": "已校",
-      "illustrationSeed": 5
+      "illustrationSeed": 5,
+      "art": {
+        "src": "assets/img/art/ch005.webp",
+        "alt": "第5回「发矫诏诸镇应曹公 破关兵三英战吕布」水墨插画"
+      }
     },
     {
       "id": "006",
@@ -183,7 +203,11 @@
       "sourceIds": [],
       "sourceType": "演义",
       "review": "待校",
-      "illustrationSeed": 6
+      "illustrationSeed": 6,
+      "art": {
+        "src": "assets/img/art/ch006.webp",
+        "alt": "第6回「焚金阙董卓行凶 匿玉玺孙坚背约」水墨插画"
+      }
     },
     {
       "id": "007",
@@ -204,7 +228,11 @@
       "sourceIds": [],
       "sourceType": "演义",
       "review": "待校",
-      "illustrationSeed": 7
+      "illustrationSeed": 7,
+      "art": {
+        "src": "assets/img/art/ch007.webp",
+        "alt": "第7回「袁绍磐河战公孙 孙坚跨江击刘表」水墨插画"
+      }
     },
     {
       "id": "008",
@@ -236,7 +264,11 @@
       ],
       "sourceType": "演义",
       "review": "已校",
-      "illustrationSeed": 8
+      "illustrationSeed": 8,
+      "art": {
+        "src": "assets/img/art/ch008.webp",
+        "alt": "第8回「王司徒巧使连环计 董太师大闹凤仪亭」水墨插画"
+      }
     },
     {
       "id": "009",
@@ -257,7 +289,11 @@
       "sourceIds": [],
       "sourceType": "演义",
       "review": "待校",
-      "illustrationSeed": 9
+      "illustrationSeed": 9,
+      "art": {
+        "src": "assets/img/art/ch009.webp",
+        "alt": "第9回「除暴凶吕布助司徒 犯长安李傕听贾诩」水墨插画"
+      }
     },
     {
       "id": "010",
@@ -278,7 +314,11 @@
       "sourceIds": [],
       "sourceType": "演义",
       "review": "待校",
-      "illustrationSeed": 10
+      "illustrationSeed": 10,
+      "art": {
+        "src": "assets/img/art/ch010.webp",
+        "alt": "第10回「勤王室马腾举义 报父仇曹操兴师」水墨插画"
+      }
     },
     {
       "id": "011",
@@ -299,7 +339,11 @@
       "sourceIds": [],
       "sourceType": "演义",
       "review": "待校",
-      "illustrationSeed": 11
+      "illustrationSeed": 11,
+      "art": {
+        "src": "assets/img/art/ch011.webp",
+        "alt": "第11回「刘皇叔北海救孔融 吕温侯濮阳破曹操」水墨插画"
+      }
     },
     {
       "id": "012",
@@ -329,7 +373,11 @@
       ],
       "sourceType": "演义",
       "review": "已校",
-      "illustrationSeed": 12
+      "illustrationSeed": 12,
+      "art": {
+        "src": "assets/img/art/ch012.webp",
+        "alt": "第12回「陶恭祖三让徐州 曹孟德大战吕布」水墨插画"
+      }
     },
     {
       "id": "013",
@@ -350,7 +398,11 @@
       "sourceIds": [],
       "sourceType": "演义",
       "review": "待校",
-      "illustrationSeed": 13
+      "illustrationSeed": 13,
+      "art": {
+        "src": "assets/img/art/ch013.webp",
+        "alt": "第13回「李傕郭汜大交兵 杨奉董承双救驾」水墨插画"
+      }
     },
     {
       "id": "014",
@@ -371,7 +423,11 @@
       "sourceIds": [],
       "sourceType": "演义",
       "review": "待校",
-      "illustrationSeed": 14
+      "illustrationSeed": 14,
+      "art": {
+        "src": "assets/img/art/ch014.webp",
+        "alt": "第14回「曹孟德移驾幸许都 吕奉先乘夜袭徐郡」水墨插画"
+      }
     },
     {
       "id": "015",
@@ -392,7 +448,11 @@
       "sourceIds": [],
       "sourceType": "演义",
       "review": "待校",
-      "illustrationSeed": 15
+      "illustrationSeed": 15,
+      "art": {
+        "src": "assets/img/art/ch015.webp",
+        "alt": "第15回「太史慈酣斗小霸王 孙伯符大战严白虎」水墨插画"
+      }
     },
     {
       "id": "016",
@@ -420,7 +480,11 @@
       ],
       "sourceType": "演义",
       "review": "已校",
-      "illustrationSeed": 16
+      "illustrationSeed": 16,
+      "art": {
+        "src": "assets/img/art/ch016.webp",
+        "alt": "第16回「吕奉先射戟辕门 曹孟德败师淯水」水墨插画"
+      }
     },
     {
       "id": "017",
@@ -441,7 +505,11 @@
       "sourceIds": [],
       "sourceType": "演义",
       "review": "待校",
-      "illustrationSeed": 17
+      "illustrationSeed": 17,
+      "art": {
+        "src": "assets/img/art/ch017.webp",
+        "alt": "第17回「袁公路大起七军 曹孟德会合三将」水墨插画"
+      }
     },
     {
       "id": "018",
@@ -462,7 +530,11 @@
       "sourceIds": [],
       "sourceType": "演义",
       "review": "待校",
-      "illustrationSeed": 18
+      "illustrationSeed": 18,
+      "art": {
+        "src": "assets/img/art/ch018.webp",
+        "alt": "第18回「贾文和料敌决胜 夏侯惇拨矢啖睛」水墨插画"
+      }
     },
     {
       "id": "019",
@@ -493,7 +565,11 @@
       ],
       "sourceType": "演义",
       "review": "已校",
-      "illustrationSeed": 19
+      "illustrationSeed": 19,
+      "art": {
+        "src": "assets/img/art/ch019.webp",
+        "alt": "第19回「下邳城曹操鏖兵 白门楼吕布殒命」水墨插画"
+      }
     },
     {
       "id": "020",
@@ -514,7 +590,11 @@
       "sourceIds": [],
       "sourceType": "演义",
       "review": "待校",
-      "illustrationSeed": 20
+      "illustrationSeed": 20,
+      "art": {
+        "src": "assets/img/art/ch020.webp",
+        "alt": "第20回「曹阿瞒许田打围 董国舅内阁受诏」水墨插画"
+      }
     },
     {
       "id": "021",
@@ -542,7 +622,11 @@
       ],
       "sourceType": "演义",
       "review": "已校",
-      "illustrationSeed": 21
+      "illustrationSeed": 21,
+      "art": {
+        "src": "assets/img/art/ch021.webp",
+        "alt": "第21回「曹操煮酒论英雄 关公赚城斩车胄」水墨插画"
+      }
     },
     {
       "id": "022",
@@ -563,7 +647,11 @@
       "sourceIds": [],
       "sourceType": "演义",
       "review": "待校",
-      "illustrationSeed": 22
+      "illustrationSeed": 22,
+      "art": {
+        "src": "assets/img/art/ch022.webp",
+        "alt": "第22回「袁曹各起马步三军 关张共擒王刘二将」水墨插画"
+      }
     },
     {
       "id": "023",
@@ -584,7 +672,11 @@
       "sourceIds": [],
       "sourceType": "演义",
       "review": "待校",
-      "illustrationSeed": 23
+      "illustrationSeed": 23,
+      "art": {
+        "src": "assets/img/art/ch023.webp",
+        "alt": "第23回「祢正平裸衣骂贼 吉太医下毒遭刑」水墨插画"
+      }
     },
     {
       "id": "024",
@@ -605,7 +697,11 @@
       "sourceIds": [],
       "sourceType": "演义",
       "review": "待校",
-      "illustrationSeed": 24
+      "illustrationSeed": 24,
+      "art": {
+        "src": "assets/img/art/ch024.webp",
+        "alt": "第24回「国贼行凶杀贵妃 皇叔败走投袁绍」水墨插画"
+      }
     },
     {
       "id": "025",
@@ -639,7 +735,11 @@
       ],
       "sourceType": "演义",
       "review": "已校",
-      "illustrationSeed": 25
+      "illustrationSeed": 25,
+      "art": {
+        "src": "assets/img/art/ch025.webp",
+        "alt": "第25回「屯土山关公约三事 救白马曹操解重围」水墨插画"
+      }
     },
     {
       "id": "026",
@@ -660,7 +760,11 @@
       "sourceIds": [],
       "sourceType": "演义",
       "review": "待校",
-      "illustrationSeed": 26
+      "illustrationSeed": 26,
+      "art": {
+        "src": "assets/img/art/ch026.webp",
+        "alt": "第26回「袁本初败兵折将 关云长挂印封金」水墨插画"
+      }
     },
     {
       "id": "027",
@@ -681,7 +785,11 @@
       "sourceIds": [],
       "sourceType": "演义",
       "review": "待校",
-      "illustrationSeed": 27
+      "illustrationSeed": 27,
+      "art": {
+        "src": "assets/img/art/ch027.webp",
+        "alt": "第27回「美髯公千里走单骑 汉寿侯五关斩六将」水墨插画"
+      }
     },
     {
       "id": "028",
@@ -702,7 +810,11 @@
       "sourceIds": [],
       "sourceType": "演义",
       "review": "待校",
-      "illustrationSeed": 28
+      "illustrationSeed": 28,
+      "art": {
+        "src": "assets/img/art/ch028.webp",
+        "alt": "第28回「斩蔡阳兄弟释疑 会古城主臣聚义」水墨插画"
+      }
     },
     {
       "id": "029",
@@ -723,7 +835,11 @@
       "sourceIds": [],
       "sourceType": "演义",
       "review": "待校",
-      "illustrationSeed": 29
+      "illustrationSeed": 29,
+      "art": {
+        "src": "assets/img/art/ch029.webp",
+        "alt": "第29回「小霸王怒斩于吉 碧眼儿坐领江东」水墨插画"
+      }
     },
     {
       "id": "030",
@@ -744,7 +860,11 @@
       "sourceIds": [],
       "sourceType": "演义",
       "review": "待校",
-      "illustrationSeed": 30
+      "illustrationSeed": 30,
+      "art": {
+        "src": "assets/img/art/ch030.webp",
+        "alt": "第30回「战官渡本初败绩 劫乌巢孟德烧粮」水墨插画"
+      }
     },
     {
       "id": "031",
@@ -765,7 +885,11 @@
       "sourceIds": [],
       "sourceType": "演义",
       "review": "待校",
-      "illustrationSeed": 31
+      "illustrationSeed": 31,
+      "art": {
+        "src": "assets/img/art/ch031.webp",
+        "alt": "第31回「曹操仓亭破本初 玄德荆州依刘表」水墨插画"
+      }
     },
     {
       "id": "032",
@@ -786,7 +910,11 @@
       "sourceIds": [],
       "sourceType": "演义",
       "review": "待校",
-      "illustrationSeed": 32
+      "illustrationSeed": 32,
+      "art": {
+        "src": "assets/img/art/ch032.webp",
+        "alt": "第32回「夺冀州袁尚争锋 决漳河许攸献计」水墨插画"
+      }
     },
     {
       "id": "033",
@@ -807,7 +935,11 @@
       "sourceIds": [],
       "sourceType": "演义",
       "review": "待校",
-      "illustrationSeed": 33
+      "illustrationSeed": 33,
+      "art": {
+        "src": "assets/img/art/ch033.webp",
+        "alt": "第33回「曹丕乘乱纳甄氏 郭嘉遗计定辽东」水墨插画"
+      }
     },
     {
       "id": "034",
@@ -828,7 +960,11 @@
       "sourceIds": [],
       "sourceType": "演义",
       "review": "待校",
-      "illustrationSeed": 34
+      "illustrationSeed": 34,
+      "art": {
+        "src": "assets/img/art/ch034.webp",
+        "alt": "第34回「蔡夫人隔屏听密语 刘皇叔跃马过檀溪」水墨插画"
+      }
     },
     {
       "id": "035",
@@ -849,7 +985,11 @@
       "sourceIds": [],
       "sourceType": "演义",
       "review": "待校",
-      "illustrationSeed": 35
+      "illustrationSeed": 35,
+      "art": {
+        "src": "assets/img/art/ch035.webp",
+        "alt": "第35回「玄德南漳逢隐沧 单福新野遇英主」水墨插画"
+      }
     },
     {
       "id": "036",
@@ -870,7 +1010,11 @@
       "sourceIds": [],
       "sourceType": "演义",
       "review": "待校",
-      "illustrationSeed": 36
+      "illustrationSeed": 36,
+      "art": {
+        "src": "assets/img/art/ch036.webp",
+        "alt": "第36回「玄德用计袭樊城 元直走马荐诸葛」水墨插画"
+      }
     },
     {
       "id": "037",
@@ -904,7 +1048,11 @@
       ],
       "sourceType": "演义",
       "review": "已校",
-      "illustrationSeed": 37
+      "illustrationSeed": 37,
+      "art": {
+        "src": "assets/img/art/ch037.webp",
+        "alt": "第37回「司马徽再荐名士 刘玄德三顾草庐」水墨插画"
+      }
     },
     {
       "id": "038",
@@ -939,7 +1087,11 @@
       ],
       "sourceType": "演义",
       "review": "已校",
-      "illustrationSeed": 38
+      "illustrationSeed": 38,
+      "art": {
+        "src": "assets/img/art/ch038.webp",
+        "alt": "第38回「定三分隆中决策 战长江孙氏报仇」水墨插画"
+      }
     },
     {
       "id": "039",
@@ -960,7 +1112,11 @@
       "sourceIds": [],
       "sourceType": "演义",
       "review": "待校",
-      "illustrationSeed": 39
+      "illustrationSeed": 39,
+      "art": {
+        "src": "assets/img/art/ch039.webp",
+        "alt": "第39回「荆州城公子三求计 博望坡军师初用兵」水墨插画"
+      }
     },
     {
       "id": "040",
@@ -981,7 +1137,11 @@
       "sourceIds": [],
       "sourceType": "演义",
       "review": "待校",
-      "illustrationSeed": 40
+      "illustrationSeed": 40,
+      "art": {
+        "src": "assets/img/art/ch040.webp",
+        "alt": "第40回「蔡夫人议献荆州 诸葛亮火烧新野」水墨插画"
+      }
     },
     {
       "id": "041",
@@ -1002,7 +1162,11 @@
       "sourceIds": [],
       "sourceType": "演义",
       "review": "待校",
-      "illustrationSeed": 41
+      "illustrationSeed": 41,
+      "art": {
+        "src": "assets/img/art/ch041.webp",
+        "alt": "第41回「刘玄德携民渡江 赵子龙单骑救主」水墨插画"
+      }
     },
     {
       "id": "042",
@@ -1023,7 +1187,11 @@
       "sourceIds": [],
       "sourceType": "演义",
       "review": "待校",
-      "illustrationSeed": 42
+      "illustrationSeed": 42,
+      "art": {
+        "src": "assets/img/art/ch042.webp",
+        "alt": "第42回「张翼德大闹长坂桥 刘豫州败走汉津口」水墨插画"
+      }
     },
     {
       "id": "043",
@@ -1059,7 +1227,11 @@
       ],
       "sourceType": "演义",
       "review": "已校",
-      "illustrationSeed": 43
+      "illustrationSeed": 43,
+      "art": {
+        "src": "assets/img/art/ch043.webp",
+        "alt": "第43回「诸葛亮舌战群儒 鲁子敬力排众议」水墨插画"
+      }
     },
     {
       "id": "044",
@@ -1093,7 +1265,11 @@
       ],
       "sourceType": "演义",
       "review": "已校",
-      "illustrationSeed": 44
+      "illustrationSeed": 44,
+      "art": {
+        "src": "assets/img/art/ch044.webp",
+        "alt": "第44回「孔明用智激周瑜 孙权决计破曹操」水墨插画"
+      }
     },
     {
       "id": "045",
@@ -1114,7 +1290,11 @@
       "sourceIds": [],
       "sourceType": "演义",
       "review": "待校",
-      "illustrationSeed": 45
+      "illustrationSeed": 45,
+      "art": {
+        "src": "assets/img/art/ch045.webp",
+        "alt": "第45回「三江口曹操折兵 群英会蒋干中计」水墨插画"
+      }
     },
     {
       "id": "046",
@@ -1150,7 +1330,11 @@
       ],
       "sourceType": "演义",
       "review": "已校",
-      "illustrationSeed": 46
+      "illustrationSeed": 46,
+      "art": {
+        "src": "assets/img/art/ch046.webp",
+        "alt": "第46回「用奇谋孔明借箭 献密计黄盖受刑」水墨插画"
+      }
     },
     {
       "id": "047",
@@ -1171,7 +1355,11 @@
       "sourceIds": [],
       "sourceType": "演义",
       "review": "待校",
-      "illustrationSeed": 47
+      "illustrationSeed": 47,
+      "art": {
+        "src": "assets/img/art/ch047.webp",
+        "alt": "第47回「阚泽密献诈降书 庞统巧授连环计」水墨插画"
+      }
     },
     {
       "id": "048",
@@ -1192,7 +1380,11 @@
       "sourceIds": [],
       "sourceType": "演义",
       "review": "待校",
-      "illustrationSeed": 48
+      "illustrationSeed": 48,
+      "art": {
+        "src": "assets/img/art/ch048.webp",
+        "alt": "第48回「宴长江曹操赋诗 锁战船北军用武」水墨插画"
+      }
     },
     {
       "id": "049",
@@ -1227,7 +1419,11 @@
       ],
       "sourceType": "演义",
       "review": "已校",
-      "illustrationSeed": 49
+      "illustrationSeed": 49,
+      "art": {
+        "src": "assets/img/art/ch049.webp",
+        "alt": "第49回「七星坛诸葛祭风 三江口周瑜纵火」水墨插画"
+      }
     },
     {
       "id": "050",
@@ -1260,7 +1456,11 @@
       ],
       "sourceType": "演义",
       "review": "已校",
-      "illustrationSeed": 50
+      "illustrationSeed": 50,
+      "art": {
+        "src": "assets/img/art/ch050.webp",
+        "alt": "第50回「诸葛亮智算华容 关云长义释曹操」水墨插画"
+      }
     },
     {
       "id": "051",
@@ -1281,7 +1481,11 @@
       "sourceIds": [],
       "sourceType": "演义",
       "review": "待校",
-      "illustrationSeed": 51
+      "illustrationSeed": 51,
+      "art": {
+        "src": "assets/img/art/ch051.webp",
+        "alt": "第51回「曹仁大战东吴兵 孔明一气周公瑾」水墨插画"
+      }
     },
     {
       "id": "052",
@@ -1302,7 +1506,11 @@
       "sourceIds": [],
       "sourceType": "演义",
       "review": "待校",
-      "illustrationSeed": 52
+      "illustrationSeed": 52,
+      "art": {
+        "src": "assets/img/art/ch052.webp",
+        "alt": "第52回「诸葛亮智辞鲁肃 赵子龙计取桂阳」水墨插画"
+      }
     },
     {
       "id": "053",
@@ -1330,7 +1538,11 @@
       ],
       "sourceType": "演义",
       "review": "已校",
-      "illustrationSeed": 53
+      "illustrationSeed": 53,
+      "art": {
+        "src": "assets/img/art/ch053.webp",
+        "alt": "第53回「关云长义释黄汉升 孙仲谋大战张文远」水墨插画"
+      }
     },
     {
       "id": "054",
@@ -1351,7 +1563,11 @@
       "sourceIds": [],
       "sourceType": "演义",
       "review": "待校",
-      "illustrationSeed": 54
+      "illustrationSeed": 54,
+      "art": {
+        "src": "assets/img/art/ch054.webp",
+        "alt": "第54回「吴国太佛寺看新郎 刘皇叔洞房续佳偶」水墨插画"
+      }
     },
     {
       "id": "055",
@@ -1372,7 +1588,11 @@
       "sourceIds": [],
       "sourceType": "演义",
       "review": "待校",
-      "illustrationSeed": 55
+      "illustrationSeed": 55,
+      "art": {
+        "src": "assets/img/art/ch055.webp",
+        "alt": "第55回「玄德智激孙夫人 孔明二气周公瑾」水墨插画"
+      }
     },
     {
       "id": "056",
@@ -1393,7 +1613,11 @@
       "sourceIds": [],
       "sourceType": "演义",
       "review": "待校",
-      "illustrationSeed": 56
+      "illustrationSeed": 56,
+      "art": {
+        "src": "assets/img/art/ch056.webp",
+        "alt": "第56回「曹操大宴铜雀台 孔明三气周公瑾」水墨插画"
+      }
     },
     {
       "id": "057",
@@ -1414,7 +1638,11 @@
       "sourceIds": [],
       "sourceType": "演义",
       "review": "待校",
-      "illustrationSeed": 57
+      "illustrationSeed": 57,
+      "art": {
+        "src": "assets/img/art/ch057.webp",
+        "alt": "第57回「柴桑口卧龙吊丧 耒阳县凤雏理事」水墨插画"
+      }
     },
     {
       "id": "058",
@@ -1435,7 +1663,11 @@
       "sourceIds": [],
       "sourceType": "演义",
       "review": "待校",
-      "illustrationSeed": 58
+      "illustrationSeed": 58,
+      "art": {
+        "src": "assets/img/art/ch058.webp",
+        "alt": "第58回「马孟起兴兵雪恨 曹阿瞒割须弃袍」水墨插画"
+      }
     },
     {
       "id": "059",
@@ -1456,7 +1688,11 @@
       "sourceIds": [],
       "sourceType": "演义",
       "review": "待校",
-      "illustrationSeed": 59
+      "illustrationSeed": 59,
+      "art": {
+        "src": "assets/img/art/ch059.webp",
+        "alt": "第59回「许诸裸衣斗马超 曹操抹书间韩遂」水墨插画"
+      }
     },
     {
       "id": "060",
@@ -1477,7 +1713,11 @@
       "sourceIds": [],
       "sourceType": "演义",
       "review": "待校",
-      "illustrationSeed": 60
+      "illustrationSeed": 60,
+      "art": {
+        "src": "assets/img/art/ch060.webp",
+        "alt": "第60回「张永年反难杨修 庞士元议取西蜀」水墨插画"
+      }
     },
     {
       "id": "061",
@@ -1498,7 +1738,11 @@
       "sourceIds": [],
       "sourceType": "演义",
       "review": "待校",
-      "illustrationSeed": 61
+      "illustrationSeed": 61,
+      "art": {
+        "src": "assets/img/art/ch061.webp",
+        "alt": "第61回「赵云截江夺阿斗 孙权遗书退老瞒」水墨插画"
+      }
     },
     {
       "id": "062",
@@ -1519,7 +1763,11 @@
       "sourceIds": [],
       "sourceType": "演义",
       "review": "待校",
-      "illustrationSeed": 62
+      "illustrationSeed": 62,
+      "art": {
+        "src": "assets/img/art/ch062.webp",
+        "alt": "第62回「取涪关杨高授首 攻雒城黄魏争功」水墨插画"
+      }
     },
     {
       "id": "063",
@@ -1540,7 +1788,11 @@
       "sourceIds": [],
       "sourceType": "演义",
       "review": "待校",
-      "illustrationSeed": 63
+      "illustrationSeed": 63,
+      "art": {
+        "src": "assets/img/art/ch063.webp",
+        "alt": "第63回「诸葛亮痛哭庞统 张翼德义释严颜」水墨插画"
+      }
     },
     {
       "id": "064",
@@ -1561,7 +1813,11 @@
       "sourceIds": [],
       "sourceType": "演义",
       "review": "待校",
-      "illustrationSeed": 64
+      "illustrationSeed": 64,
+      "art": {
+        "src": "assets/img/art/ch064.webp",
+        "alt": "第64回「孔明定计捉张任 杨阜借兵破马超」水墨插画"
+      }
     },
     {
       "id": "065",
@@ -1596,7 +1852,11 @@
       ],
       "sourceType": "演义",
       "review": "已校",
-      "illustrationSeed": 65
+      "illustrationSeed": 65,
+      "art": {
+        "src": "assets/img/art/ch065.webp",
+        "alt": "第65回「马超大战葭萌关 刘备自领益州牧」水墨插画"
+      }
     },
     {
       "id": "066",
@@ -1624,7 +1884,11 @@
       ],
       "sourceType": "演义",
       "review": "已校",
-      "illustrationSeed": 66
+      "illustrationSeed": 66,
+      "art": {
+        "src": "assets/img/art/ch066.webp",
+        "alt": "第66回「关云长单刀赴会 伏皇后为国捐生」水墨插画"
+      }
     },
     {
       "id": "067",
@@ -1645,7 +1909,11 @@
       "sourceIds": [],
       "sourceType": "演义",
       "review": "待校",
-      "illustrationSeed": 67
+      "illustrationSeed": 67,
+      "art": {
+        "src": "assets/img/art/ch067.webp",
+        "alt": "第67回「曹操平定汉中地 张辽威震逍遥津」水墨插画"
+      }
     },
     {
       "id": "068",
@@ -1675,7 +1943,11 @@
       ],
       "sourceType": "演义",
       "review": "已校",
-      "illustrationSeed": 68
+      "illustrationSeed": 68,
+      "art": {
+        "src": "assets/img/art/ch068.webp",
+        "alt": "第68回「甘宁百骑劫魏营 左慈掷杯戏曹操」水墨插画"
+      }
     },
     {
       "id": "069",
@@ -1696,7 +1968,11 @@
       "sourceIds": [],
       "sourceType": "演义",
       "review": "待校",
-      "illustrationSeed": 69
+      "illustrationSeed": 69,
+      "art": {
+        "src": "assets/img/art/ch069.webp",
+        "alt": "第69回「卜周易管辂知机 讨汉贼五臣死节」水墨插画"
+      }
     },
     {
       "id": "070",
@@ -1717,7 +1993,11 @@
       "sourceIds": [],
       "sourceType": "演义",
       "review": "待校",
-      "illustrationSeed": 70
+      "illustrationSeed": 70,
+      "art": {
+        "src": "assets/img/art/ch070.webp",
+        "alt": "第70回「猛张飞智取瓦口隘 老黄忠计夺天荡山」水墨插画"
+      }
     },
     {
       "id": "071",
@@ -1738,7 +2018,11 @@
       "sourceIds": [],
       "sourceType": "演义",
       "review": "待校",
-      "illustrationSeed": 71
+      "illustrationSeed": 71,
+      "art": {
+        "src": "assets/img/art/ch071.webp",
+        "alt": "第71回「占对山黄忠逸待劳 据汉水赵云寡胜众」水墨插画"
+      }
     },
     {
       "id": "072",
@@ -1759,7 +2043,11 @@
       "sourceIds": [],
       "sourceType": "演义",
       "review": "待校",
-      "illustrationSeed": 72
+      "illustrationSeed": 72,
+      "art": {
+        "src": "assets/img/art/ch072.webp",
+        "alt": "第72回「诸葛亮智取汉中 曹阿瞒兵退斜谷」水墨插画"
+      }
     },
     {
       "id": "073",
@@ -1780,7 +2068,11 @@
       "sourceIds": [],
       "sourceType": "演义",
       "review": "待校",
-      "illustrationSeed": 73
+      "illustrationSeed": 73,
+      "art": {
+        "src": "assets/img/art/ch073.webp",
+        "alt": "第73回「玄德进位汉中王 云长攻拔襄阳郡」水墨插画"
+      }
     },
     {
       "id": "074",
@@ -1810,7 +2102,11 @@
       ],
       "sourceType": "演义",
       "review": "已校",
-      "illustrationSeed": 74
+      "illustrationSeed": 74,
+      "art": {
+        "src": "assets/img/art/ch074.webp",
+        "alt": "第74回「庞令明抬榇决死战 关云长放水淹七军」水墨插画"
+      }
     },
     {
       "id": "075",
@@ -1831,7 +2127,11 @@
       "sourceIds": [],
       "sourceType": "演义",
       "review": "待校",
-      "illustrationSeed": 75
+      "illustrationSeed": 75,
+      "art": {
+        "src": "assets/img/art/ch075.webp",
+        "alt": "第75回「关云长刮骨疗毒 吕子明白衣渡江」水墨插画"
+      }
     },
     {
       "id": "076",
@@ -1862,7 +2162,11 @@
       ],
       "sourceType": "演义",
       "review": "已校",
-      "illustrationSeed": 76
+      "illustrationSeed": 76,
+      "art": {
+        "src": "assets/img/art/ch076.webp",
+        "alt": "第76回「徐公明大战沔水 关云长败走麦城」水墨插画"
+      }
     },
     {
       "id": "077",
@@ -1891,7 +2195,11 @@
       ],
       "sourceType": "演义",
       "review": "已校",
-      "illustrationSeed": 77
+      "illustrationSeed": 77,
+      "art": {
+        "src": "assets/img/art/ch077.webp",
+        "alt": "第77回「玉泉山关公显圣 洛阳城曹操感神」水墨插画"
+      }
     },
     {
       "id": "078",
@@ -1912,7 +2220,11 @@
       "sourceIds": [],
       "sourceType": "演义",
       "review": "待校",
-      "illustrationSeed": 78
+      "illustrationSeed": 78,
+      "art": {
+        "src": "assets/img/art/ch078.webp",
+        "alt": "第78回「治风疾神医身死 传遗命奸雄数终」水墨插画"
+      }
     },
     {
       "id": "079",
@@ -1933,7 +2245,11 @@
       "sourceIds": [],
       "sourceType": "演义",
       "review": "待校",
-      "illustrationSeed": 79
+      "illustrationSeed": 79,
+      "art": {
+        "src": "assets/img/art/ch079.webp",
+        "alt": "第79回「兄逼弟曹植赋诗 侄陷叔刘封伏法」水墨插画"
+      }
     },
     {
       "id": "080",
@@ -1954,7 +2270,11 @@
       "sourceIds": [],
       "sourceType": "演义",
       "review": "待校",
-      "illustrationSeed": 80
+      "illustrationSeed": 80,
+      "art": {
+        "src": "assets/img/art/ch080.webp",
+        "alt": "第80回「曹丕废帝篡炎刘 汉王正位续大统」水墨插画"
+      }
     },
     {
       "id": "081",
@@ -1975,7 +2295,11 @@
       "sourceIds": [],
       "sourceType": "演义",
       "review": "待校",
-      "illustrationSeed": 81
+      "illustrationSeed": 81,
+      "art": {
+        "src": "assets/img/art/ch081.webp",
+        "alt": "第81回「急兄仇张飞遇害 雪弟恨先主兴兵」水墨插画"
+      }
     },
     {
       "id": "082",
@@ -1996,7 +2320,11 @@
       "sourceIds": [],
       "sourceType": "演义",
       "review": "待校",
-      "illustrationSeed": 82
+      "illustrationSeed": 82,
+      "art": {
+        "src": "assets/img/art/ch082.webp",
+        "alt": "第82回「孙权降魏受九锡 先主征吴赏六军」水墨插画"
+      }
     },
     {
       "id": "083",
@@ -2017,7 +2345,11 @@
       "sourceIds": [],
       "sourceType": "演义",
       "review": "待校",
-      "illustrationSeed": 83
+      "illustrationSeed": 83,
+      "art": {
+        "src": "assets/img/art/ch083.webp",
+        "alt": "第83回「战猇亭先主得仇人 守江口书生拜大将」水墨插画"
+      }
     },
     {
       "id": "084",
@@ -2038,7 +2370,11 @@
       "sourceIds": [],
       "sourceType": "演义",
       "review": "待校",
-      "illustrationSeed": 84
+      "illustrationSeed": 84,
+      "art": {
+        "src": "assets/img/art/ch084.webp",
+        "alt": "第84回「陆逊营烧七百里 孔明巧布八阵图」水墨插画"
+      }
     },
     {
       "id": "085",
@@ -2071,7 +2407,11 @@
       ],
       "sourceType": "演义",
       "review": "已校",
-      "illustrationSeed": 85
+      "illustrationSeed": 85,
+      "art": {
+        "src": "assets/img/art/ch085.webp",
+        "alt": "第85回「刘先主遗诏托孤儿 诸葛亮安居平五路」水墨插画"
+      }
     },
     {
       "id": "086",
@@ -2092,7 +2432,11 @@
       "sourceIds": [],
       "sourceType": "演义",
       "review": "待校",
-      "illustrationSeed": 86
+      "illustrationSeed": 86,
+      "art": {
+        "src": "assets/img/art/ch086.webp",
+        "alt": "第86回「难张温秦宓逞天辩 破曹丕徐盛用火攻」水墨插画"
+      }
     },
     {
       "id": "087",
@@ -2120,7 +2464,11 @@
       ],
       "sourceType": "演义",
       "review": "已校",
-      "illustrationSeed": 87
+      "illustrationSeed": 87,
+      "art": {
+        "src": "assets/img/art/ch087.webp",
+        "alt": "第87回「征南寇丞相大兴师 抗天兵蛮王初受执」水墨插画"
+      }
     },
     {
       "id": "088",
@@ -2141,7 +2489,11 @@
       "sourceIds": [],
       "sourceType": "演义",
       "review": "待校",
-      "illustrationSeed": 88
+      "illustrationSeed": 88,
+      "art": {
+        "src": "assets/img/art/ch088.webp",
+        "alt": "第88回「渡泸水再缚番王 识诈降三擒孟获」水墨插画"
+      }
     },
     {
       "id": "089",
@@ -2162,7 +2514,11 @@
       "sourceIds": [],
       "sourceType": "演义",
       "review": "待校",
-      "illustrationSeed": 89
+      "illustrationSeed": 89,
+      "art": {
+        "src": "assets/img/art/ch089.webp",
+        "alt": "第89回「武乡侯四番用计 南蛮王五次遭擒」水墨插画"
+      }
     },
     {
       "id": "090",
@@ -2183,7 +2539,11 @@
       "sourceIds": [],
       "sourceType": "演义",
       "review": "待校",
-      "illustrationSeed": 90
+      "illustrationSeed": 90,
+      "art": {
+        "src": "assets/img/art/ch090.webp",
+        "alt": "第90回「驱巨兽六破蛮兵 烧藤甲七擒孟获」水墨插画"
+      }
     },
     {
       "id": "091",
@@ -2204,7 +2564,11 @@
       "sourceIds": [],
       "sourceType": "演义",
       "review": "待校",
-      "illustrationSeed": 91
+      "illustrationSeed": 91,
+      "art": {
+        "src": "assets/img/art/ch091.webp",
+        "alt": "第91回「祭泸水汉相班师 伐中原武侯上表」水墨插画"
+      }
     },
     {
       "id": "092",
@@ -2225,7 +2589,11 @@
       "sourceIds": [],
       "sourceType": "演义",
       "review": "待校",
-      "illustrationSeed": 92
+      "illustrationSeed": 92,
+      "art": {
+        "src": "assets/img/art/ch092.webp",
+        "alt": "第92回「赵子龙力斩五将 诸葛亮智取三城」水墨插画"
+      }
     },
     {
       "id": "093",
@@ -2246,7 +2614,11 @@
       "sourceIds": [],
       "sourceType": "演义",
       "review": "待校",
-      "illustrationSeed": 93
+      "illustrationSeed": 93,
+      "art": {
+        "src": "assets/img/art/ch093.webp",
+        "alt": "第93回「姜伯约归降孔明 武乡侯骂死王朗」水墨插画"
+      }
     },
     {
       "id": "094",
@@ -2267,7 +2639,11 @@
       "sourceIds": [],
       "sourceType": "演义",
       "review": "待校",
-      "illustrationSeed": 94
+      "illustrationSeed": 94,
+      "art": {
+        "src": "assets/img/art/ch094.webp",
+        "alt": "第94回「诸葛亮乘雪破羌兵 司马懿克日擒孟达」水墨插画"
+      }
     },
     {
       "id": "095",
@@ -2300,7 +2676,11 @@
       ],
       "sourceType": "演义",
       "review": "已校",
-      "illustrationSeed": 95
+      "illustrationSeed": 95,
+      "art": {
+        "src": "assets/img/art/ch095.webp",
+        "alt": "第95回「马谡拒谏失街亭 武侯弹琴退仲达」水墨插画"
+      }
     },
     {
       "id": "096",
@@ -2321,7 +2701,11 @@
       "sourceIds": [],
       "sourceType": "演义",
       "review": "待校",
-      "illustrationSeed": 96
+      "illustrationSeed": 96,
+      "art": {
+        "src": "assets/img/art/ch096.webp",
+        "alt": "第96回「孔明挥泪斩马谡 周鲂断发赚曹休」水墨插画"
+      }
     },
     {
       "id": "097",
@@ -2342,7 +2726,11 @@
       "sourceIds": [],
       "sourceType": "演义",
       "review": "待校",
-      "illustrationSeed": 97
+      "illustrationSeed": 97,
+      "art": {
+        "src": "assets/img/art/ch097.webp",
+        "alt": "第97回「讨魏国武侯再上表 破曹兵姜维诈献书」水墨插画"
+      }
     },
     {
       "id": "098",
@@ -2363,7 +2751,11 @@
       "sourceIds": [],
       "sourceType": "演义",
       "review": "待校",
-      "illustrationSeed": 98
+      "illustrationSeed": 98,
+      "art": {
+        "src": "assets/img/art/ch098.webp",
+        "alt": "第98回「追汉军王双受诛 袭陈仓武侯取胜」水墨插画"
+      }
     },
     {
       "id": "099",
@@ -2384,7 +2776,11 @@
       "sourceIds": [],
       "sourceType": "演义",
       "review": "待校",
-      "illustrationSeed": 99
+      "illustrationSeed": 99,
+      "art": {
+        "src": "assets/img/art/ch099.webp",
+        "alt": "第99回「诸葛亮大破魏兵 司马懿入寇西蜀」水墨插画"
+      }
     },
     {
       "id": "100",
@@ -2405,7 +2801,11 @@
       "sourceIds": [],
       "sourceType": "演义",
       "review": "待校",
-      "illustrationSeed": 100
+      "illustrationSeed": 100,
+      "art": {
+        "src": "assets/img/art/ch100.webp",
+        "alt": "第100回「汉兵劫寨破曹真 武侯斗阵辱仲达」水墨插画"
+      }
     },
     {
       "id": "101",
@@ -2426,7 +2826,11 @@
       "sourceIds": [],
       "sourceType": "演义",
       "review": "待校",
-      "illustrationSeed": 101
+      "illustrationSeed": 101,
+      "art": {
+        "src": "assets/img/art/ch101.webp",
+        "alt": "第101回「出陇上诸葛妆神 奔剑阁张郃中计」水墨插画"
+      }
     },
     {
       "id": "102",
@@ -2447,7 +2851,11 @@
       "sourceIds": [],
       "sourceType": "演义",
       "review": "待校",
-      "illustrationSeed": 102
+      "illustrationSeed": 102,
+      "art": {
+        "src": "assets/img/art/ch102.webp",
+        "alt": "第102回「司马懿占北原渭桥 诸葛亮造木牛流」水墨插画"
+      }
     },
     {
       "id": "103",
@@ -2468,7 +2876,11 @@
       "sourceIds": [],
       "sourceType": "演义",
       "review": "待校",
-      "illustrationSeed": 103
+      "illustrationSeed": 103,
+      "art": {
+        "src": "assets/img/art/ch103.webp",
+        "alt": "第103回「上方谷司马受困 五丈原诸葛禳星」水墨插画"
+      }
     },
     {
       "id": "104",
@@ -2489,7 +2901,11 @@
       "sourceIds": [],
       "sourceType": "演义",
       "review": "待校",
-      "illustrationSeed": 104
+      "illustrationSeed": 104,
+      "art": {
+        "src": "assets/img/art/ch104.webp",
+        "alt": "第104回「陨大星汉丞相归天 见木像魏都督丧」水墨插画"
+      }
     },
     {
       "id": "105",
@@ -2510,7 +2926,11 @@
       "sourceIds": [],
       "sourceType": "演义",
       "review": "待校",
-      "illustrationSeed": 105
+      "illustrationSeed": 105,
+      "art": {
+        "src": "assets/img/art/ch105.webp",
+        "alt": "第105回「武侯预伏锦囊计 魏主拆取承露盘」水墨插画"
+      }
     },
     {
       "id": "106",
@@ -2531,7 +2951,11 @@
       "sourceIds": [],
       "sourceType": "演义",
       "review": "待校",
-      "illustrationSeed": 106
+      "illustrationSeed": 106,
+      "art": {
+        "src": "assets/img/art/ch106.webp",
+        "alt": "第106回「公孙渊兵败死襄平 司马懿诈病赚曹」水墨插画"
+      }
     },
     {
       "id": "107",
@@ -2552,7 +2976,11 @@
       "sourceIds": [],
       "sourceType": "演义",
       "review": "待校",
-      "illustrationSeed": 107
+      "illustrationSeed": 107,
+      "art": {
+        "src": "assets/img/art/ch107.webp",
+        "alt": "第107回「魏主政归司马氏 姜维兵败牛头山」水墨插画"
+      }
     },
     {
       "id": "108",
@@ -2573,7 +3001,11 @@
       "sourceIds": [],
       "sourceType": "演义",
       "review": "待校",
-      "illustrationSeed": 108
+      "illustrationSeed": 108,
+      "art": {
+        "src": "assets/img/art/ch108.webp",
+        "alt": "第108回「丁奉雪中奋短兵 孙峻席间施密计」水墨插画"
+      }
     },
     {
       "id": "109",
@@ -2594,7 +3026,11 @@
       "sourceIds": [],
       "sourceType": "演义",
       "review": "待校",
-      "illustrationSeed": 109
+      "illustrationSeed": 109,
+      "art": {
+        "src": "assets/img/art/ch109.webp",
+        "alt": "第109回「困司马汉将奇谋 废曹芳魏家果报」水墨插画"
+      }
     },
     {
       "id": "110",
@@ -2615,7 +3051,11 @@
       "sourceIds": [],
       "sourceType": "演义",
       "review": "待校",
-      "illustrationSeed": 110
+      "illustrationSeed": 110,
+      "art": {
+        "src": "assets/img/art/ch110.webp",
+        "alt": "第110回「文鸯单骑退雄兵 姜维背水破大敌」水墨插画"
+      }
     },
     {
       "id": "111",
@@ -2636,7 +3076,11 @@
       "sourceIds": [],
       "sourceType": "演义",
       "review": "待校",
-      "illustrationSeed": 111
+      "illustrationSeed": 111,
+      "art": {
+        "src": "assets/img/art/ch111.webp",
+        "alt": "第111回「邓士载智败姜伯约 诸葛诞义讨司马昭」水墨插画"
+      }
     },
     {
       "id": "112",
@@ -2657,7 +3101,11 @@
       "sourceIds": [],
       "sourceType": "演义",
       "review": "待校",
-      "illustrationSeed": 112
+      "illustrationSeed": 112,
+      "art": {
+        "src": "assets/img/art/ch112.webp",
+        "alt": "第112回「救寿春于诠死节 取长城伯约鏖兵」水墨插画"
+      }
     },
     {
       "id": "113",
@@ -2678,7 +3126,11 @@
       "sourceIds": [],
       "sourceType": "演义",
       "review": "待校",
-      "illustrationSeed": 113
+      "illustrationSeed": 113,
+      "art": {
+        "src": "assets/img/art/ch113.webp",
+        "alt": "第113回「丁奉定计斩孙綝 姜维斗阵破邓艾」水墨插画"
+      }
     },
     {
       "id": "114",
@@ -2699,7 +3151,11 @@
       "sourceIds": [],
       "sourceType": "演义",
       "review": "待校",
-      "illustrationSeed": 114
+      "illustrationSeed": 114,
+      "art": {
+        "src": "assets/img/art/ch114.webp",
+        "alt": "第114回「曹髦驱车死南阙 姜维弃粮胜魏兵」水墨插画"
+      }
     },
     {
       "id": "115",
@@ -2720,7 +3176,11 @@
       "sourceIds": [],
       "sourceType": "演义",
       "review": "待校",
-      "illustrationSeed": 115
+      "illustrationSeed": 115,
+      "art": {
+        "src": "assets/img/art/ch115.webp",
+        "alt": "第115回「诏班师后主信谗 托屯田姜维避祸」水墨插画"
+      }
     },
     {
       "id": "116",
@@ -2741,7 +3201,11 @@
       "sourceIds": [],
       "sourceType": "演义",
       "review": "待校",
-      "illustrationSeed": 116
+      "illustrationSeed": 116,
+      "art": {
+        "src": "assets/img/art/ch116.webp",
+        "alt": "第116回「钟会分兵汉中道 武侯显圣定军山」水墨插画"
+      }
     },
     {
       "id": "117",
@@ -2762,7 +3226,11 @@
       "sourceIds": [],
       "sourceType": "演义",
       "review": "待校",
-      "illustrationSeed": 117
+      "illustrationSeed": 117,
+      "art": {
+        "src": "assets/img/art/ch117.webp",
+        "alt": "第117回「邓士载偷度阴平 诸葛瞻战死绵竹」水墨插画"
+      }
     },
     {
       "id": "118",
@@ -2783,7 +3251,11 @@
       "sourceIds": [],
       "sourceType": "演义",
       "review": "待校",
-      "illustrationSeed": 118
+      "illustrationSeed": 118,
+      "art": {
+        "src": "assets/img/art/ch118.webp",
+        "alt": "第118回「哭祖庙一王死孝 入西川二士争功」水墨插画"
+      }
     },
     {
       "id": "119",
@@ -2804,7 +3276,11 @@
       "sourceIds": [],
       "sourceType": "演义",
       "review": "待校",
-      "illustrationSeed": 119
+      "illustrationSeed": 119,
+      "art": {
+        "src": "assets/img/art/ch119.webp",
+        "alt": "第119回「假投降巧计成虚话 再受禅依样画」水墨插画"
+      }
     },
     {
       "id": "120",
@@ -2836,7 +3312,11 @@
       ],
       "sourceType": "演义",
       "review": "已校",
-      "illustrationSeed": 120
+      "illustrationSeed": 120,
+      "art": {
+        "src": "assets/img/art/ch120.webp",
+        "alt": "第120回「荐杜预老将献新谋 降孙皓三分归一」水墨插画"
+      }
     }
   ],
   "people": [
@@ -8250,5 +8730,487 @@
     "三分成形",
     "蜀汉北伐",
     "三国归晋"
-  ]
+  ],
+  "art": {
+    "1": {
+      "src": "assets/img/art/ch001.webp",
+      "alt": "第1回「宴桃园豪杰三结义 斩黄巾英雄首立功」水墨插画"
+    },
+    "2": {
+      "src": "assets/img/art/ch002.webp",
+      "alt": "第2回「张翼德怒鞭督邮 何国舅谋诛宦竖」水墨插画"
+    },
+    "3": {
+      "src": "assets/img/art/ch003.webp",
+      "alt": "第3回「议温明董卓叱丁原 馈金珠李肃说吕布」水墨插画"
+    },
+    "4": {
+      "src": "assets/img/art/ch004.webp",
+      "alt": "第4回「废汉帝陈留践位 谋董贼孟德献刀」水墨插画"
+    },
+    "5": {
+      "src": "assets/img/art/ch005.webp",
+      "alt": "第5回「发矫诏诸镇应曹公 破关兵三英战吕布」水墨插画"
+    },
+    "6": {
+      "src": "assets/img/art/ch006.webp",
+      "alt": "第6回「焚金阙董卓行凶 匿玉玺孙坚背约」水墨插画"
+    },
+    "7": {
+      "src": "assets/img/art/ch007.webp",
+      "alt": "第7回「袁绍磐河战公孙 孙坚跨江击刘表」水墨插画"
+    },
+    "8": {
+      "src": "assets/img/art/ch008.webp",
+      "alt": "第8回「王司徒巧使连环计 董太师大闹凤仪亭」水墨插画"
+    },
+    "9": {
+      "src": "assets/img/art/ch009.webp",
+      "alt": "第9回「除暴凶吕布助司徒 犯长安李傕听贾诩」水墨插画"
+    },
+    "10": {
+      "src": "assets/img/art/ch010.webp",
+      "alt": "第10回「勤王室马腾举义 报父仇曹操兴师」水墨插画"
+    },
+    "11": {
+      "src": "assets/img/art/ch011.webp",
+      "alt": "第11回「刘皇叔北海救孔融 吕温侯濮阳破曹操」水墨插画"
+    },
+    "12": {
+      "src": "assets/img/art/ch012.webp",
+      "alt": "第12回「陶恭祖三让徐州 曹孟德大战吕布」水墨插画"
+    },
+    "13": {
+      "src": "assets/img/art/ch013.webp",
+      "alt": "第13回「李傕郭汜大交兵 杨奉董承双救驾」水墨插画"
+    },
+    "14": {
+      "src": "assets/img/art/ch014.webp",
+      "alt": "第14回「曹孟德移驾幸许都 吕奉先乘夜袭徐郡」水墨插画"
+    },
+    "15": {
+      "src": "assets/img/art/ch015.webp",
+      "alt": "第15回「太史慈酣斗小霸王 孙伯符大战严白虎」水墨插画"
+    },
+    "16": {
+      "src": "assets/img/art/ch016.webp",
+      "alt": "第16回「吕奉先射戟辕门 曹孟德败师淯水」水墨插画"
+    },
+    "17": {
+      "src": "assets/img/art/ch017.webp",
+      "alt": "第17回「袁公路大起七军 曹孟德会合三将」水墨插画"
+    },
+    "18": {
+      "src": "assets/img/art/ch018.webp",
+      "alt": "第18回「贾文和料敌决胜 夏侯惇拨矢啖睛」水墨插画"
+    },
+    "19": {
+      "src": "assets/img/art/ch019.webp",
+      "alt": "第19回「下邳城曹操鏖兵 白门楼吕布殒命」水墨插画"
+    },
+    "20": {
+      "src": "assets/img/art/ch020.webp",
+      "alt": "第20回「曹阿瞒许田打围 董国舅内阁受诏」水墨插画"
+    },
+    "21": {
+      "src": "assets/img/art/ch021.webp",
+      "alt": "第21回「曹操煮酒论英雄 关公赚城斩车胄」水墨插画"
+    },
+    "22": {
+      "src": "assets/img/art/ch022.webp",
+      "alt": "第22回「袁曹各起马步三军 关张共擒王刘二将」水墨插画"
+    },
+    "23": {
+      "src": "assets/img/art/ch023.webp",
+      "alt": "第23回「祢正平裸衣骂贼 吉太医下毒遭刑」水墨插画"
+    },
+    "24": {
+      "src": "assets/img/art/ch024.webp",
+      "alt": "第24回「国贼行凶杀贵妃 皇叔败走投袁绍」水墨插画"
+    },
+    "25": {
+      "src": "assets/img/art/ch025.webp",
+      "alt": "第25回「屯土山关公约三事 救白马曹操解重围」水墨插画"
+    },
+    "26": {
+      "src": "assets/img/art/ch026.webp",
+      "alt": "第26回「袁本初败兵折将 关云长挂印封金」水墨插画"
+    },
+    "27": {
+      "src": "assets/img/art/ch027.webp",
+      "alt": "第27回「美髯公千里走单骑 汉寿侯五关斩六将」水墨插画"
+    },
+    "28": {
+      "src": "assets/img/art/ch028.webp",
+      "alt": "第28回「斩蔡阳兄弟释疑 会古城主臣聚义」水墨插画"
+    },
+    "29": {
+      "src": "assets/img/art/ch029.webp",
+      "alt": "第29回「小霸王怒斩于吉 碧眼儿坐领江东」水墨插画"
+    },
+    "30": {
+      "src": "assets/img/art/ch030.webp",
+      "alt": "第30回「战官渡本初败绩 劫乌巢孟德烧粮」水墨插画"
+    },
+    "31": {
+      "src": "assets/img/art/ch031.webp",
+      "alt": "第31回「曹操仓亭破本初 玄德荆州依刘表」水墨插画"
+    },
+    "32": {
+      "src": "assets/img/art/ch032.webp",
+      "alt": "第32回「夺冀州袁尚争锋 决漳河许攸献计」水墨插画"
+    },
+    "33": {
+      "src": "assets/img/art/ch033.webp",
+      "alt": "第33回「曹丕乘乱纳甄氏 郭嘉遗计定辽东」水墨插画"
+    },
+    "34": {
+      "src": "assets/img/art/ch034.webp",
+      "alt": "第34回「蔡夫人隔屏听密语 刘皇叔跃马过檀溪」水墨插画"
+    },
+    "35": {
+      "src": "assets/img/art/ch035.webp",
+      "alt": "第35回「玄德南漳逢隐沧 单福新野遇英主」水墨插画"
+    },
+    "36": {
+      "src": "assets/img/art/ch036.webp",
+      "alt": "第36回「玄德用计袭樊城 元直走马荐诸葛」水墨插画"
+    },
+    "37": {
+      "src": "assets/img/art/ch037.webp",
+      "alt": "第37回「司马徽再荐名士 刘玄德三顾草庐」水墨插画"
+    },
+    "38": {
+      "src": "assets/img/art/ch038.webp",
+      "alt": "第38回「定三分隆中决策 战长江孙氏报仇」水墨插画"
+    },
+    "39": {
+      "src": "assets/img/art/ch039.webp",
+      "alt": "第39回「荆州城公子三求计 博望坡军师初用兵」水墨插画"
+    },
+    "40": {
+      "src": "assets/img/art/ch040.webp",
+      "alt": "第40回「蔡夫人议献荆州 诸葛亮火烧新野」水墨插画"
+    },
+    "41": {
+      "src": "assets/img/art/ch041.webp",
+      "alt": "第41回「刘玄德携民渡江 赵子龙单骑救主」水墨插画"
+    },
+    "42": {
+      "src": "assets/img/art/ch042.webp",
+      "alt": "第42回「张翼德大闹长坂桥 刘豫州败走汉津口」水墨插画"
+    },
+    "43": {
+      "src": "assets/img/art/ch043.webp",
+      "alt": "第43回「诸葛亮舌战群儒 鲁子敬力排众议」水墨插画"
+    },
+    "44": {
+      "src": "assets/img/art/ch044.webp",
+      "alt": "第44回「孔明用智激周瑜 孙权决计破曹操」水墨插画"
+    },
+    "45": {
+      "src": "assets/img/art/ch045.webp",
+      "alt": "第45回「三江口曹操折兵 群英会蒋干中计」水墨插画"
+    },
+    "46": {
+      "src": "assets/img/art/ch046.webp",
+      "alt": "第46回「用奇谋孔明借箭 献密计黄盖受刑」水墨插画"
+    },
+    "47": {
+      "src": "assets/img/art/ch047.webp",
+      "alt": "第47回「阚泽密献诈降书 庞统巧授连环计」水墨插画"
+    },
+    "48": {
+      "src": "assets/img/art/ch048.webp",
+      "alt": "第48回「宴长江曹操赋诗 锁战船北军用武」水墨插画"
+    },
+    "49": {
+      "src": "assets/img/art/ch049.webp",
+      "alt": "第49回「七星坛诸葛祭风 三江口周瑜纵火」水墨插画"
+    },
+    "50": {
+      "src": "assets/img/art/ch050.webp",
+      "alt": "第50回「诸葛亮智算华容 关云长义释曹操」水墨插画"
+    },
+    "51": {
+      "src": "assets/img/art/ch051.webp",
+      "alt": "第51回「曹仁大战东吴兵 孔明一气周公瑾」水墨插画"
+    },
+    "52": {
+      "src": "assets/img/art/ch052.webp",
+      "alt": "第52回「诸葛亮智辞鲁肃 赵子龙计取桂阳」水墨插画"
+    },
+    "53": {
+      "src": "assets/img/art/ch053.webp",
+      "alt": "第53回「关云长义释黄汉升 孙仲谋大战张文远」水墨插画"
+    },
+    "54": {
+      "src": "assets/img/art/ch054.webp",
+      "alt": "第54回「吴国太佛寺看新郎 刘皇叔洞房续佳偶」水墨插画"
+    },
+    "55": {
+      "src": "assets/img/art/ch055.webp",
+      "alt": "第55回「玄德智激孙夫人 孔明二气周公瑾」水墨插画"
+    },
+    "56": {
+      "src": "assets/img/art/ch056.webp",
+      "alt": "第56回「曹操大宴铜雀台 孔明三气周公瑾」水墨插画"
+    },
+    "57": {
+      "src": "assets/img/art/ch057.webp",
+      "alt": "第57回「柴桑口卧龙吊丧 耒阳县凤雏理事」水墨插画"
+    },
+    "58": {
+      "src": "assets/img/art/ch058.webp",
+      "alt": "第58回「马孟起兴兵雪恨 曹阿瞒割须弃袍」水墨插画"
+    },
+    "59": {
+      "src": "assets/img/art/ch059.webp",
+      "alt": "第59回「许诸裸衣斗马超 曹操抹书间韩遂」水墨插画"
+    },
+    "60": {
+      "src": "assets/img/art/ch060.webp",
+      "alt": "第60回「张永年反难杨修 庞士元议取西蜀」水墨插画"
+    },
+    "61": {
+      "src": "assets/img/art/ch061.webp",
+      "alt": "第61回「赵云截江夺阿斗 孙权遗书退老瞒」水墨插画"
+    },
+    "62": {
+      "src": "assets/img/art/ch062.webp",
+      "alt": "第62回「取涪关杨高授首 攻雒城黄魏争功」水墨插画"
+    },
+    "63": {
+      "src": "assets/img/art/ch063.webp",
+      "alt": "第63回「诸葛亮痛哭庞统 张翼德义释严颜」水墨插画"
+    },
+    "64": {
+      "src": "assets/img/art/ch064.webp",
+      "alt": "第64回「孔明定计捉张任 杨阜借兵破马超」水墨插画"
+    },
+    "65": {
+      "src": "assets/img/art/ch065.webp",
+      "alt": "第65回「马超大战葭萌关 刘备自领益州牧」水墨插画"
+    },
+    "66": {
+      "src": "assets/img/art/ch066.webp",
+      "alt": "第66回「关云长单刀赴会 伏皇后为国捐生」水墨插画"
+    },
+    "67": {
+      "src": "assets/img/art/ch067.webp",
+      "alt": "第67回「曹操平定汉中地 张辽威震逍遥津」水墨插画"
+    },
+    "68": {
+      "src": "assets/img/art/ch068.webp",
+      "alt": "第68回「甘宁百骑劫魏营 左慈掷杯戏曹操」水墨插画"
+    },
+    "69": {
+      "src": "assets/img/art/ch069.webp",
+      "alt": "第69回「卜周易管辂知机 讨汉贼五臣死节」水墨插画"
+    },
+    "70": {
+      "src": "assets/img/art/ch070.webp",
+      "alt": "第70回「猛张飞智取瓦口隘 老黄忠计夺天荡山」水墨插画"
+    },
+    "71": {
+      "src": "assets/img/art/ch071.webp",
+      "alt": "第71回「占对山黄忠逸待劳 据汉水赵云寡胜众」水墨插画"
+    },
+    "72": {
+      "src": "assets/img/art/ch072.webp",
+      "alt": "第72回「诸葛亮智取汉中 曹阿瞒兵退斜谷」水墨插画"
+    },
+    "73": {
+      "src": "assets/img/art/ch073.webp",
+      "alt": "第73回「玄德进位汉中王 云长攻拔襄阳郡」水墨插画"
+    },
+    "74": {
+      "src": "assets/img/art/ch074.webp",
+      "alt": "第74回「庞令明抬榇决死战 关云长放水淹七军」水墨插画"
+    },
+    "75": {
+      "src": "assets/img/art/ch075.webp",
+      "alt": "第75回「关云长刮骨疗毒 吕子明白衣渡江」水墨插画"
+    },
+    "76": {
+      "src": "assets/img/art/ch076.webp",
+      "alt": "第76回「徐公明大战沔水 关云长败走麦城」水墨插画"
+    },
+    "77": {
+      "src": "assets/img/art/ch077.webp",
+      "alt": "第77回「玉泉山关公显圣 洛阳城曹操感神」水墨插画"
+    },
+    "78": {
+      "src": "assets/img/art/ch078.webp",
+      "alt": "第78回「治风疾神医身死 传遗命奸雄数终」水墨插画"
+    },
+    "79": {
+      "src": "assets/img/art/ch079.webp",
+      "alt": "第79回「兄逼弟曹植赋诗 侄陷叔刘封伏法」水墨插画"
+    },
+    "80": {
+      "src": "assets/img/art/ch080.webp",
+      "alt": "第80回「曹丕废帝篡炎刘 汉王正位续大统」水墨插画"
+    },
+    "81": {
+      "src": "assets/img/art/ch081.webp",
+      "alt": "第81回「急兄仇张飞遇害 雪弟恨先主兴兵」水墨插画"
+    },
+    "82": {
+      "src": "assets/img/art/ch082.webp",
+      "alt": "第82回「孙权降魏受九锡 先主征吴赏六军」水墨插画"
+    },
+    "83": {
+      "src": "assets/img/art/ch083.webp",
+      "alt": "第83回「战猇亭先主得仇人 守江口书生拜大将」水墨插画"
+    },
+    "84": {
+      "src": "assets/img/art/ch084.webp",
+      "alt": "第84回「陆逊营烧七百里 孔明巧布八阵图」水墨插画"
+    },
+    "85": {
+      "src": "assets/img/art/ch085.webp",
+      "alt": "第85回「刘先主遗诏托孤儿 诸葛亮安居平五路」水墨插画"
+    },
+    "86": {
+      "src": "assets/img/art/ch086.webp",
+      "alt": "第86回「难张温秦宓逞天辩 破曹丕徐盛用火攻」水墨插画"
+    },
+    "87": {
+      "src": "assets/img/art/ch087.webp",
+      "alt": "第87回「征南寇丞相大兴师 抗天兵蛮王初受执」水墨插画"
+    },
+    "88": {
+      "src": "assets/img/art/ch088.webp",
+      "alt": "第88回「渡泸水再缚番王 识诈降三擒孟获」水墨插画"
+    },
+    "89": {
+      "src": "assets/img/art/ch089.webp",
+      "alt": "第89回「武乡侯四番用计 南蛮王五次遭擒」水墨插画"
+    },
+    "90": {
+      "src": "assets/img/art/ch090.webp",
+      "alt": "第90回「驱巨兽六破蛮兵 烧藤甲七擒孟获」水墨插画"
+    },
+    "91": {
+      "src": "assets/img/art/ch091.webp",
+      "alt": "第91回「祭泸水汉相班师 伐中原武侯上表」水墨插画"
+    },
+    "92": {
+      "src": "assets/img/art/ch092.webp",
+      "alt": "第92回「赵子龙力斩五将 诸葛亮智取三城」水墨插画"
+    },
+    "93": {
+      "src": "assets/img/art/ch093.webp",
+      "alt": "第93回「姜伯约归降孔明 武乡侯骂死王朗」水墨插画"
+    },
+    "94": {
+      "src": "assets/img/art/ch094.webp",
+      "alt": "第94回「诸葛亮乘雪破羌兵 司马懿克日擒孟达」水墨插画"
+    },
+    "95": {
+      "src": "assets/img/art/ch095.webp",
+      "alt": "第95回「马谡拒谏失街亭 武侯弹琴退仲达」水墨插画"
+    },
+    "96": {
+      "src": "assets/img/art/ch096.webp",
+      "alt": "第96回「孔明挥泪斩马谡 周鲂断发赚曹休」水墨插画"
+    },
+    "97": {
+      "src": "assets/img/art/ch097.webp",
+      "alt": "第97回「讨魏国武侯再上表 破曹兵姜维诈献书」水墨插画"
+    },
+    "98": {
+      "src": "assets/img/art/ch098.webp",
+      "alt": "第98回「追汉军王双受诛 袭陈仓武侯取胜」水墨插画"
+    },
+    "99": {
+      "src": "assets/img/art/ch099.webp",
+      "alt": "第99回「诸葛亮大破魏兵 司马懿入寇西蜀」水墨插画"
+    },
+    "100": {
+      "src": "assets/img/art/ch100.webp",
+      "alt": "第100回「汉兵劫寨破曹真 武侯斗阵辱仲达」水墨插画"
+    },
+    "101": {
+      "src": "assets/img/art/ch101.webp",
+      "alt": "第101回「出陇上诸葛妆神 奔剑阁张郃中计」水墨插画"
+    },
+    "102": {
+      "src": "assets/img/art/ch102.webp",
+      "alt": "第102回「司马懿占北原渭桥 诸葛亮造木牛流」水墨插画"
+    },
+    "103": {
+      "src": "assets/img/art/ch103.webp",
+      "alt": "第103回「上方谷司马受困 五丈原诸葛禳星」水墨插画"
+    },
+    "104": {
+      "src": "assets/img/art/ch104.webp",
+      "alt": "第104回「陨大星汉丞相归天 见木像魏都督丧」水墨插画"
+    },
+    "105": {
+      "src": "assets/img/art/ch105.webp",
+      "alt": "第105回「武侯预伏锦囊计 魏主拆取承露盘」水墨插画"
+    },
+    "106": {
+      "src": "assets/img/art/ch106.webp",
+      "alt": "第106回「公孙渊兵败死襄平 司马懿诈病赚曹」水墨插画"
+    },
+    "107": {
+      "src": "assets/img/art/ch107.webp",
+      "alt": "第107回「魏主政归司马氏 姜维兵败牛头山」水墨插画"
+    },
+    "108": {
+      "src": "assets/img/art/ch108.webp",
+      "alt": "第108回「丁奉雪中奋短兵 孙峻席间施密计」水墨插画"
+    },
+    "109": {
+      "src": "assets/img/art/ch109.webp",
+      "alt": "第109回「困司马汉将奇谋 废曹芳魏家果报」水墨插画"
+    },
+    "110": {
+      "src": "assets/img/art/ch110.webp",
+      "alt": "第110回「文鸯单骑退雄兵 姜维背水破大敌」水墨插画"
+    },
+    "111": {
+      "src": "assets/img/art/ch111.webp",
+      "alt": "第111回「邓士载智败姜伯约 诸葛诞义讨司马昭」水墨插画"
+    },
+    "112": {
+      "src": "assets/img/art/ch112.webp",
+      "alt": "第112回「救寿春于诠死节 取长城伯约鏖兵」水墨插画"
+    },
+    "113": {
+      "src": "assets/img/art/ch113.webp",
+      "alt": "第113回「丁奉定计斩孙綝 姜维斗阵破邓艾」水墨插画"
+    },
+    "114": {
+      "src": "assets/img/art/ch114.webp",
+      "alt": "第114回「曹髦驱车死南阙 姜维弃粮胜魏兵」水墨插画"
+    },
+    "115": {
+      "src": "assets/img/art/ch115.webp",
+      "alt": "第115回「诏班师后主信谗 托屯田姜维避祸」水墨插画"
+    },
+    "116": {
+      "src": "assets/img/art/ch116.webp",
+      "alt": "第116回「钟会分兵汉中道 武侯显圣定军山」水墨插画"
+    },
+    "117": {
+      "src": "assets/img/art/ch117.webp",
+      "alt": "第117回「邓士载偷度阴平 诸葛瞻战死绵竹」水墨插画"
+    },
+    "118": {
+      "src": "assets/img/art/ch118.webp",
+      "alt": "第118回「哭祖庙一王死孝 入西川二士争功」水墨插画"
+    },
+    "119": {
+      "src": "assets/img/art/ch119.webp",
+      "alt": "第119回「假投降巧计成虚话 再受禅依样画」水墨插画"
+    },
+    "120": {
+      "src": "assets/img/art/ch120.webp",
+      "alt": "第120回「荐杜预老将献新谋 降孙皓三分归一」水墨插画"
+    }
+  }
 }

@@ -23,6 +23,13 @@ const ARCS = [
 ];
 const arcOf = (no) => ARCS.find((a) => no >= a.from && no <= a.to);
 
+const ART_DIR = path.join(root, 'assets/img/art');
+const artOf = (no, title) => {
+  const f = `ch${String(no).padStart(3, '0')}.webp`;
+  if (!fs.existsSync(path.join(ART_DIR, f))) return null;
+  return { src: `assets/img/art/${f}`, alt: `第${no}回「${title}」水墨插画` };
+};
+
 const chapters = catalog.map((c) => {
   const arc = arcOf(c.no);
   const g = master.guides[c.id];
@@ -46,8 +53,10 @@ const chapters = catalog.map((c) => {
     sourceType: '演义',
     review: g ? '已校' : '待校',
     illustrationSeed: c.no,
+    art: artOf(c.no, c.title),
   };
 });
+const artMap = Object.fromEntries(chapters.filter((c) => c.art).map((c) => [String(c.no), c.art]));
 
 const people = master.people;
 const relations = master.relations;
@@ -120,8 +129,10 @@ for (const q of questions) {
 
 const reviewed = chapters.filter((c) => c.review === '已校').length;
 if (reviewed < chapters.length) warnings.push(`${chapters.length - reviewed} 回导读待补，详情页会显示占位状态`);
-warnings.push('插画为程序化生成的示意水墨图，尚未替换为正式 AI 插画');
-warnings.push('地图为不含任何行政边界的手绘示意绘卷，未接入在线底图');
+const artCount = chapters.filter((c) => c.art).length;
+if (artCount < chapters.length) warnings.push(`${chapters.length - artCount} 回插画缺失，将回退为程序化示意图`);
+warnings.push('插画为 AI 生成的水墨风格配图，属示意性质，非史料图像；人物均为写意剪影');
+warnings.push('地图底图为 AI 生成山水绘卷，仍不含行政边界与真实经纬');
 
 const relationBySource = { 正史: 0, 演义: 0, 传说: 0 };
 for (const r of relations) relationBySource[r.sourceType]++;
@@ -154,6 +165,7 @@ const site = {
   questions,
   sourceTypes: ['演义', '正史', '传说'],
   arcs: ARCS.map((a) => a.name),
+  art: artMap,
 };
 
 const searchIndex = [
