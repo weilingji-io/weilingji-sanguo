@@ -1,0 +1,11 @@
+{
+  "users": {
+    "adminck": {
+      "algo": "pbkdf2_sha256",
+      "iterations": 120000,
+      "salt": "98c5ce6fb8a10e3e3a9ea033d846391f",
+      "hash": "038595a6f29d72926d008f460c268f234dacbdf51203f52613816ecb9aa4f395",
+      "role": "superadmin"
+    }
+  }
+}

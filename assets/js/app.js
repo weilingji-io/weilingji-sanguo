@@ -74,6 +74,23 @@ function renderRoute() {
   if (ctx.anchor) {
     requestAnimationFrame(() => document.getElementById(ctx.anchor)?.scrollIntoView({ block: 'start' }));
   }
+  trackPage(ctx);
+}
+
+/* 访问统计：上报页面浏览到 sgadmin 后台（本地开发不上报，失败静默） */
+const TRACK_ENDPOINT = 'https://sgadmin.weilingji.com/api/track';
+function trackPage(ctx) {
+  try {
+    if (['localhost', '127.0.0.1', '0.0.0.0'].includes(location.hostname)) return;
+    let sid = localStorage.getItem('sg_sid');
+    if (!sid) {
+      sid = (crypto.randomUUID ? crypto.randomUUID() : 'u' + Date.now() + Math.random().toString(36).slice(2)).replace(/-/g, '');
+      localStorage.setItem('sg_sid', sid);
+    }
+    const payload = JSON.stringify({ path: ctx.path + (ctx.query.toString() ? '?' + ctx.query : ''), title: document.title, sid });
+    // 用 text/plain 免去 CORS 预检
+    fetch(TRACK_ENDPOINT, { method: 'POST', body: payload, headers: { 'Content-Type': 'text/plain;charset=UTF-8' }, keepalive: true, mode: 'cors' }).catch(() => {});
+  } catch { /* 统计失败不影响站点 */ }
 }
 
 async function boot() {

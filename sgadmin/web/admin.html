@@ -1,0 +1,250 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="robots" content="noindex, nofollow">
+<title>访问统计 · 三国寻踪后台</title>
+<style>
+  :root {
+    --paper: #F5EFDF; --card: #FDFAF1; --ink: #2E2620; --ink-2: #5A5044; --ink-3: #8A7E6E;
+    --line: #DDD2B8; --red: #9E2B25; --red-soft: #F3E1D2; --gold: #B98A2F; --green: #4A6B4F;
+    --serif: "Songti SC", "STSong", "SimSun", serif;
+    --sans: -apple-system, "PingFang SC", "Microsoft YaHei", sans-serif;
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { font-family: var(--sans); background: var(--paper); color: var(--ink); min-height: 100vh;
+         background-image: radial-gradient(rgba(90,70,40,.04) 1px, transparent 1px); background-size: 22px 22px; }
+  .shell { max-width: 1080px; margin: 0 auto; padding: 28px 20px 60px; }
+
+  .topbar { display: flex; align-items: center; justify-content: space-between; gap: 12px; margin-bottom: 24px; flex-wrap: wrap; }
+  .brand { font-family: var(--serif); font-size: 22px; }
+  .brand small { color: var(--ink-3); font-size: 12px; margin-left: 8px; font-family: var(--sans); }
+  .btn { display: inline-block; border: 1px solid var(--line); background: var(--card); color: var(--ink);
+         padding: 7px 16px; border-radius: 6px; cursor: pointer; font-size: 13px; transition: .15s; text-decoration: none; }
+  .btn:hover { border-color: var(--red); color: var(--red); }
+  .btn--sm { padding: 4px 10px; font-size: 12px; }
+  .btn--active { background: var(--red); color: #FFF; border-color: var(--red); }
+
+  /* 登录 */
+  .login-wrap { max-width: 360px; margin: 12vh auto 0; }
+  .login-card { background: var(--card); border: 1px solid var(--line); border-radius: 10px; padding: 30px 28px;
+                box-shadow: 0 8px 24px rgba(60,45,20,.08); }
+  .login-card h1 { font-family: var(--serif); font-size: 22px; margin-bottom: 4px; }
+  .login-card .sub { font-size: 12px; color: var(--ink-3); margin-bottom: 20px; }
+  .field { margin-bottom: 14px; }
+  .field label { display: block; font-size: 12px; color: var(--ink-2); margin-bottom: 5px; }
+  .field input { width: 100%; padding: 9px 12px; border: 1px solid var(--line); border-radius: 6px;
+                 font-size: 14px; background: #FFF; color: var(--ink); }
+  .field input:focus { outline: none; border-color: var(--gold); }
+  .login-btn { width: 100%; padding: 10px; border: 0; border-radius: 6px; background: var(--red); color: #FFF;
+               font-size: 15px; cursor: pointer; margin-top: 6px; }
+  .login-btn:hover { filter: brightness(1.1); }
+  .err { color: var(--red); font-size: 12px; margin-top: 10px; min-height: 16px; }
+
+  /* 看板 */
+  .stat-row { display: grid; grid-template-columns: repeat(4, 1fr); gap: 12px; margin-bottom: 20px; }
+  .stat { background: var(--card); border: 1px solid var(--line); border-radius: 10px; padding: 16px 18px; }
+  .stat b { display: block; font-family: var(--serif); font-size: 30px; line-height: 1.1; }
+  .stat span { font-size: 12px; color: var(--ink-3); }
+  .stat .delta { font-size: 11px; margin-left: 6px; }
+
+  .panel { background: var(--card); border: 1px solid var(--line); border-radius: 10px; padding: 18px 20px; margin-bottom: 18px; }
+  .panel h3 { font-family: var(--serif); font-size: 17px; margin-bottom: 12px; }
+  .panel h3 small { font-family: var(--sans); font-weight: normal; font-size: 11px; color: var(--ink-3); margin-left: 8px; }
+
+  table { width: 100%; border-collapse: collapse; font-size: 13px; }
+  th { text-align: left; font-weight: normal; font-size: 11px; color: var(--ink-3); padding: 6px 8px; border-bottom: 1px solid var(--line); }
+  td { padding: 8px; border-bottom: 1px solid rgba(221,210,184,.45); vertical-align: top; }
+  tr:last-child td { border-bottom: 0; }
+  .num { font-variant-numeric: tabular-nums; }
+  .path-link { color: var(--ink); text-decoration: none; border-bottom: 1px dotted var(--line); }
+  .path-link:hover { color: var(--red); border-color: var(--red); }
+  .bar-row { display: flex; align-items: center; gap: 10px; margin-bottom: 7px; font-size: 12px; }
+  .bar-label { width: 76px; text-align: right; color: var(--ink-2); flex-shrink: 0; }
+  .bar-track { flex: 1; height: 16px; background: rgba(221,210,184,.35); border-radius: 3px; overflow: hidden; }
+  .bar-fill { height: 100%; background: linear-gradient(90deg, var(--red), #C05A3E); border-radius: 3px; }
+  .bar-val { width: 60px; color: var(--ink-3); flex-shrink: 0; }
+
+  .chart-box { overflow-x: auto; }
+  .cats { display: flex; flex-wrap: wrap; gap: 8px; }
+  .cat-chip { display: inline-flex; align-items: baseline; gap: 6px; border: 1px solid var(--line); border-radius: 14px;
+              padding: 4px 12px; font-size: 12px; background: #FFF; }
+  .cat-chip b { color: var(--red); }
+
+  .toolbar { display: flex; gap: 8px; align-items: center; flex-wrap: wrap; }
+  .muted { color: var(--ink-3); font-size: 12px; }
+  .empty { color: var(--ink-3); font-size: 13px; padding: 24px 0; text-align: center; }
+
+  @media (max-width: 720px) {
+    .shell { padding: 18px 14px 50px; }
+    .stat-row { grid-template-columns: repeat(2, 1fr); }
+    .stat b { font-size: 24px; }
+    td, th { padding: 6px 5px; font-size: 12px; }
+    .bar-label { width: 58px; }
+    .login-wrap { margin-top: 8vh; padding: 0 14px; }
+  }
+</style>
+</head>
+<body>
+<div class="shell" id="app"></div>
+
+<script>
+'use strict';
+const $ = (s, el) => (el || document).querySelector(s);
+const esc = (s) => String(s ?? '').replace(/[&<>"']/g, (c) => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+const state = { user: null, days: 30, stats: null };
+
+async function api(path, opts) {
+  const r = await fetch(path, Object.assign({ credentials: 'same-origin' }, opts));
+  let data = {};
+  try { data = await r.json(); } catch {}
+  if (r.status === 401) { state.user = null; render(); throw new Error(data.error || '未登录'); }
+  if (!r.ok) throw new Error(data.error || ('HTTP ' + r.status));
+  return data;
+}
+
+/* ---------- 登录视图 ---------- */
+function renderLogin(errMsg) {
+  $('#app').innerHTML = `
+  <div class="login-wrap">
+    <div class="login-card">
+      <h1>三国寻踪 · 访问统计</h1>
+      <p class="sub">sanguo.weilingji.com 浏览记录后台</p>
+      <form id="login-form">
+        <div class="field"><label>账号</label><input id="f-user" autocomplete="username" required></div>
+        <div class="field"><label>密码</label><input id="f-pass" type="password" autocomplete="current-password" required></div>
+        <button class="login-btn" type="submit">登 录</button>
+        <p class="err" id="login-err">${esc(errMsg || '')}</p>
+      </form>
+    </div>
+  </div>`;
+  $('#login-form').addEventListener('submit', async (e) => {
+    e.preventDefault();
+    try {
+      const data = await api('/api/login', {
+        method: 'POST', headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ username: $('#f-user').value.trim(), password: $('#f-pass').value }),
+      });
+      state.user = data.user;
+      await load();
+    } catch (err) { $('#login-err').textContent = err.message; }
+  });
+}
+
+/* ---------- 看板 ---------- */
+function fmtNum(n) { return Number(n || 0).toLocaleString('zh-CN'); }
+
+function chartSVG(daily) {
+  const W = 900, H = 180, PAD = 26;
+  const max = Math.max(1, ...daily.map((d) => d.pv));
+  const bw = Math.max(3, (W - PAD * 2) / daily.length - 4);
+  const x = (i) => PAD + i * ((W - PAD * 2) / daily.length);
+  const y = (v) => H - 26 - (v / max) * (H - 56);
+  const bars = daily.map((d, i) => {
+    const h = Math.max(d.pv > 0 ? 2 : 0, (H - 26) - y(d.pv));
+    return `<rect x="${x(i) + 2}" y="${y(d.pv)}" width="${bw}" height="${h}" rx="2" fill="#9E2B25" opacity="${d.pv ? .85 : .2}"><title>${d.day} · ${d.pv} 次浏览 · ${d.uv} 访客</title></rect>`;
+  }).join('');
+  const labels = daily.map((d, i) => (daily.length <= 10 || i % Math.ceil(daily.length / 10) === 0)
+    ? `<text x="${x(i) + 2 + bw / 2}" y="${H - 8}" font-size="9" fill="#8A7E6E" text-anchor="middle">${d.day.slice(5)}</text>` : '').join('');
+  const grid = [0, .5, 1].map((t) => `<line x1="${PAD}" x2="${W - PAD}" y1="${y(max * t)}" y2="${y(max * t)}" stroke="#DDD2B8" stroke-dasharray="3 4"/><text x="${PAD - 6}" y="${y(max * t) + 3}" font-size="9" fill="#8A7E6E" text-anchor="end">${Math.round(max * t)}</text>`).join('');
+  return `<svg viewBox="0 0 ${W} ${H}" style="width:100%;height:auto;display:block" xmlns="http://www.w3.org/2000/svg">${grid}${bars}${labels}</svg>`;
+}
+
+function barList(rows) {
+  const max = Math.max(1, ...rows.map((r) => r.pv));
+  return rows.map((r) => `<div class="bar-row">
+    <span class="bar-label">${esc(r.label)}</span>
+    <div class="bar-track"><div class="bar-fill" style="width:${(r.pv / max * 100).toFixed(1)}%"></div></div>
+    <span class="bar-val num">${fmtNum(r.pv)}</span>
+  </div>`).join('');
+}
+
+function renderDash() {
+  const s = state.stats;
+  const yesterday = s.daily[s.daily.length - 2];
+  const todayPv = s.today_pv, yPv = yesterday ? yesterday.pv : 0;
+  const diff = todayPv - yPv;
+  const top = s.top_paths;
+  $('#app').innerHTML = `
+    <div class="topbar">
+      <div class="brand">三国寻踪 · 访问统计<small>${esc(s.today)} · 管理员 ${esc(state.user)}</small></div>
+      <div class="toolbar">
+        ${[7, 30, 90].map((d) => `<button class="btn btn--sm ${state.days === d ? 'btn--active' : ''}" data-days="${d}">${d} 天</button>`).join('')}
+        <button class="btn btn--sm" id="refresh">刷新</button>
+        <button class="btn btn--sm" id="logout">退出</button>
+      </div>
+    </div>
+
+    <div class="stat-row">
+      <div class="stat"><b class="num">${fmtNum(s.total_pv)}</b><span>总浏览量</span></div>
+      <div class="stat"><b class="num">${fmtNum(s.total_uv)}</b><span>总访客数</span></div>
+      <div class="stat"><b class="num">${fmtNum(s.today_pv)}<span class="delta" style="color:${diff >= 0 ? '#4A6B4F' : '#9E2B25'}">${diff >= 0 ? '▲' : '▼'} ${Math.abs(diff)}</span></b><span>今日浏览（较昨日）</span></div>
+      <div class="stat"><b class="num">${fmtNum(s.today_uv)}</b><span>今日访客</span></div>
+    </div>
+
+    <div class="panel">
+      <h3>浏览趋势<small>近 ${state.days} 天 · 悬停查看当日明细</small></h3>
+      <div class="chart-box">${chartSVG(s.daily)}</div>
+    </div>
+
+    <div class="panel">
+      <h3>栏目分布<small>近 ${state.days} 天</small></h3>
+      <div class="cats">${s.categories.length
+        ? s.categories.map((c) => `<span class="cat-chip">${esc(c.label)}<b>${fmtNum(c.pv)}</b></span>`).join('')
+        : '<span class="muted">暂无数据</span>'}</div>
+    </div>
+
+    <div class="panel">
+      <h3>热门页面<small>近 ${state.days} 天 · 按浏览量排序</small></h3>
+      ${top.length ? `<table><thead><tr><th style="width:46px">#</th><th>页面</th><th style="width:90px">栏目</th><th style="width:90px">浏览量</th></tr></thead>
+      <tbody>${top.map((t, i) => `<tr>
+        <td class="num muted">${i + 1}</td>
+        <td><a class="path-link" href="https://sanguo.weilingji.com/#${esc(t.path.replace(/^\//, ''))}" target="_blank" rel="noopener">${esc(t.path)}</a></td>
+        <td class="muted">${esc(t.label)}</td>
+        <td class="num"><b>${fmtNum(t.pv)}</b></td></tr>`).join('')}</tbody></table>` : '<div class="empty">还没有浏览记录</div>'}
+    </div>
+
+    <div class="panel">
+      <h3>最近访问<small>最近 50 条</small></h3>
+      ${s.recent.length ? `<div style="overflow-x:auto"><table><thead><tr><th style="width:140px">时间</th><th>页面</th><th style="width:70px">访客</th></tr></thead>
+      <tbody>${s.recent.map((r) => `<tr>
+        <td class="num muted">${esc(new Date(r.ts * 1000).toLocaleString('zh-CN', { hour12: false }))}</td>
+        <td><span class="path-link" style="cursor:default">${esc(r.path)}</span>${r.title ? ` <span class="muted" style="font-size:11px">${esc(r.title.slice(0, 20))}</span>` : ''}</td>
+        <td class="muted num">${esc((r.sid || '').slice(0, 8))}</td></tr>`).join('')}</tbody></table></div>` : '<div class="empty">还没有浏览记录</div>'}
+    </div>`;
+
+  document.querySelectorAll('[data-days]').forEach((b) => b.addEventListener('click', async () => {
+    state.days = Number(b.dataset.days); await load();
+  }));
+  $('#refresh').addEventListener('click', () => load());
+  $('#logout').addEventListener('click', async () => { try { await api('/api/logout', { method: 'POST' }); } catch {} state.user = null; render(); });
+}
+
+async function load() {
+  try {
+    const data = await api('/api/stats?days=' + state.days);
+    state.stats = data.stats;
+    renderDash();
+  } catch (err) {
+    if (state.user) $('#app').insertAdjacentHTML('afterbegin', `<p class="err">${esc(err.message)}</p>`);
+  }
+}
+
+function render() {
+  if (state.user && state.stats) return renderDash();
+  if (state.user) return load();
+  renderLogin();
+}
+
+/* 启动：先探测会话 */
+(async () => {
+  try { const d = await api('/api/stats?days=' + state.days); state.user = d.user; state.stats = d.stats; renderDash(); }
+  catch { renderLogin(); }
+})();
+
+/* 每 5 分钟自动刷新 */
+setInterval(() => { if (state.user) load(); }, 5 * 60 * 1000);
+</script>
+</body>
+</html>

@@ -1,0 +1,21 @@
+[Unit]
+Description=Sanguo Admin Analytics (sgadmin.weilingji.com)
+After=network.target
+
+[Service]
+Type=simple
+User=ubuntu
+WorkingDirectory=/opt/weiling-sgadmin
+ExecStart=/usr/bin/python3 /opt/weiling-sgadmin/server.py
+Restart=always
+RestartSec=3
+Environment=PORT=8083
+Environment=HOST=127.0.0.1
+# 加固
+NoNewPrivileges=true
+PrivateTmp=true
+ProtectSystem=full
+ReadWritePaths=/opt/weiling-sgadmin/data
+
+[Install]
+WantedBy=multi-user.target

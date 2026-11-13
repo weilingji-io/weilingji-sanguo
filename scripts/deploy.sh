@@ -21,4 +21,4 @@ rsync -az data/ "$SERVER:$REMOTE_DIR/data/"
 echo "[3/3] 校验线上..."
 sleep 1
 code=$(curl -s -o /dev/null -w "%{http_code}" https://sanguo.weilingji.com/data/site.json)
-[ "$code" = "200" ] && echo "部署完成：https://sanguo.weilingji.com （site.json $code）" || { echo "校验失败：site.json HTTP $code"; exit 1; }
+[ "${code}" = "200" ] && echo "部署完成：https://sanguo.weilingji.com （site.json ${code}）" || { echo "校验失败：site.json HTTP ${code}"; exit 1; }
