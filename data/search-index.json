@@ -1,0 +1,2618 @@
+[
+  {
+    "type": "chapter",
+    "id": "001",
+    "title": "第1回 宴桃园豪杰三结义 斩黄巾英雄首立功",
+    "sub": "群雄起事",
+    "href": "#/chapters/001",
+    "keywords": "宴桃园豪杰三结义 斩黄巾英雄首立功 群雄起事 黄巾起事，刘关张桃园结义，从涿郡起兵。"
+  },
+  {
+    "type": "chapter",
+    "id": "002",
+    "title": "第2回 张翼德怒鞭督邮 何国舅谋诛宦竖",
+    "sub": "群雄起事",
+    "href": "#/chapters/002",
+    "keywords": "张翼德怒鞭督邮 何国舅谋诛宦竖 群雄起事 怒鞭督邮，弃官亡命。"
+  },
+  {
+    "type": "chapter",
+    "id": "003",
+    "title": "第3回 议温明董卓叱丁原 馈金珠李肃说吕布",
+    "sub": "群雄起事",
+    "href": "#/chapters/003",
+    "keywords": "议温明董卓叱丁原 馈金珠李肃说吕布 群雄起事 议温明董卓叱丁原 馈金珠李肃说吕布"
+  },
+  {
+    "type": "chapter",
+    "id": "004",
+    "title": "第4回 废汉帝陈留践位 谋董贼孟德献刀",
+    "sub": "群雄起事",
+    "href": "#/chapters/004",
+    "keywords": "废汉帝陈留践位 谋董贼孟德献刀 群雄起事 废汉帝陈留践位 谋董贼孟德献刀"
+  },
+  {
+    "type": "chapter",
+    "id": "005",
+    "title": "第5回 发矫诏诸镇应曹公 破关兵三英战吕布",
+    "sub": "群雄起事",
+    "href": "#/chapters/005",
+    "keywords": "发矫诏诸镇应曹公 破关兵三英战吕布 群雄起事 关东联军讨董，虎牢关前三英战吕布。"
+  },
+  {
+    "type": "chapter",
+    "id": "006",
+    "title": "第6回 焚金阙董卓行凶 匿玉玺孙坚背约",
+    "sub": "群雄起事",
+    "href": "#/chapters/006",
+    "keywords": "焚金阙董卓行凶 匿玉玺孙坚背约 群雄起事 焚金阙董卓行凶 匿玉玺孙坚背约"
+  },
+  {
+    "type": "chapter",
+    "id": "007",
+    "title": "第7回 袁绍磐河战公孙 孙坚跨江击刘表",
+    "sub": "群雄起事",
+    "href": "#/chapters/007",
+    "keywords": "袁绍磐河战公孙 孙坚跨江击刘表 群雄起事 袁绍磐河战公孙 孙坚跨江击刘表"
+  },
+  {
+    "type": "chapter",
+    "id": "008",
+    "title": "第8回 王司徒巧使连环计 董太师大闹凤仪亭",
+    "sub": "群雄起事",
+    "href": "#/chapters/008",
+    "keywords": "王司徒巧使连环计 董太师大闹凤仪亭 群雄起事 王允连环计，董卓殒命长安。"
+  },
+  {
+    "type": "chapter",
+    "id": "009",
+    "title": "第9回 除暴凶吕布助司徒 犯长安李傕听贾诩",
+    "sub": "群雄起事",
+    "href": "#/chapters/009",
+    "keywords": "除暴凶吕布助司徒 犯长安李傕听贾诩 群雄起事 除暴凶吕布助司徒 犯长安李傕听贾诩"
+  },
+  {
+    "type": "chapter",
+    "id": "010",
+    "title": "第10回 勤王室马腾举义 报父仇曹操兴师",
+    "sub": "群雄起事",
+    "href": "#/chapters/010",
+    "keywords": "勤王室马腾举义 报父仇曹操兴师 群雄起事 勤王室马腾举义 报父仇曹操兴师"
+  },
+  {
+    "type": "chapter",
+    "id": "011",
+    "title": "第11回 刘皇叔北海救孔融 吕温侯濮阳破曹操",
+    "sub": "群雄起事",
+    "href": "#/chapters/011",
+    "keywords": "刘皇叔北海救孔融 吕温侯濮阳破曹操 群雄起事 刘皇叔北海救孔融 吕温侯濮阳破曹操"
+  },
+  {
+    "type": "chapter",
+    "id": "012",
+    "title": "第12回 陶恭祖三让徐州 曹孟德大战吕布",
+    "sub": "群雄起事",
+    "href": "#/chapters/012",
+    "keywords": "陶恭祖三让徐州 曹孟德大战吕布 群雄起事 陶谦临终，三让徐州于刘备。"
+  },
+  {
+    "type": "chapter",
+    "id": "013",
+    "title": "第13回 李傕郭汜大交兵 杨奉董承双救驾",
+    "sub": "群雄起事",
+    "href": "#/chapters/013",
+    "keywords": "李傕郭汜大交兵 杨奉董承双救驾 群雄起事 李傕郭汜大交兵 杨奉董承双救驾"
+  },
+  {
+    "type": "chapter",
+    "id": "014",
+    "title": "第14回 曹孟德移驾幸许都 吕奉先乘夜袭徐郡",
+    "sub": "群雄起事",
+    "href": "#/chapters/014",
+    "keywords": "曹孟德移驾幸许都 吕奉先乘夜袭徐郡 群雄起事 曹孟德移驾幸许都 吕奉先乘夜袭徐郡"
+  },
+  {
+    "type": "chapter",
+    "id": "015",
+    "title": "第15回 太史慈酣斗小霸王 孙伯符大战严白虎",
+    "sub": "群雄起事",
+    "href": "#/chapters/015",
+    "keywords": "太史慈酣斗小霸王 孙伯符大战严白虎 群雄起事 太史慈酣斗小霸王 孙伯符大战严白虎"
+  },
+  {
+    "type": "chapter",
+    "id": "016",
+    "title": "第16回 吕奉先射戟辕门 曹孟德败师淯水",
+    "sub": "群雄起事",
+    "href": "#/chapters/016",
+    "keywords": "吕奉先射戟辕门 曹孟德败师淯水 群雄起事 辕门射戟，吕布为刘备解围。"
+  },
+  {
+    "type": "chapter",
+    "id": "017",
+    "title": "第17回 袁公路大起七军 曹孟德会合三将",
+    "sub": "群雄起事",
+    "href": "#/chapters/017",
+    "keywords": "袁公路大起七军 曹孟德会合三将 群雄起事 袁公路大起七军 曹孟德会合三将"
+  },
+  {
+    "type": "chapter",
+    "id": "018",
+    "title": "第18回 贾文和料敌决胜 夏侯惇拨矢啖睛",
+    "sub": "群雄起事",
+    "href": "#/chapters/018",
+    "keywords": "贾文和料敌决胜 夏侯惇拨矢啖睛 群雄起事 贾文和料敌决胜 夏侯惇拨矢啖睛"
+  },
+  {
+    "type": "chapter",
+    "id": "019",
+    "title": "第19回 下邳城曹操鏖兵 白门楼吕布殒命",
+    "sub": "群雄起事",
+    "href": "#/chapters/019",
+    "keywords": "下邳城曹操鏖兵 白门楼吕布殒命 群雄起事 白门楼上，吕布殒命。"
+  },
+  {
+    "type": "chapter",
+    "id": "020",
+    "title": "第20回 曹阿瞒许田打围 董国舅内阁受诏",
+    "sub": "群雄起事",
+    "href": "#/chapters/020",
+    "keywords": "曹阿瞒许田打围 董国舅内阁受诏 群雄起事 曹阿瞒许田打围 董国舅内阁受诏"
+  },
+  {
+    "type": "chapter",
+    "id": "021",
+    "title": "第21回 曹操煮酒论英雄 关公赚城斩车胄",
+    "sub": "北方混战",
+    "href": "#/chapters/021",
+    "keywords": "曹操煮酒论英雄 关公赚城斩车胄 北方混战 青梅煮酒，论天下英雄。"
+  },
+  {
+    "type": "chapter",
+    "id": "022",
+    "title": "第22回 袁曹各起马步三军 关张共擒王刘二将",
+    "sub": "北方混战",
+    "href": "#/chapters/022",
+    "keywords": "袁曹各起马步三军 关张共擒王刘二将 北方混战 袁曹各起马步三军 关张共擒王刘二将"
+  },
+  {
+    "type": "chapter",
+    "id": "023",
+    "title": "第23回 祢正平裸衣骂贼 吉太医下毒遭刑",
+    "sub": "北方混战",
+    "href": "#/chapters/023",
+    "keywords": "祢正平裸衣骂贼 吉太医下毒遭刑 北方混战 祢正平裸衣骂贼 吉太医下毒遭刑"
+  },
+  {
+    "type": "chapter",
+    "id": "024",
+    "title": "第24回 国贼行凶杀贵妃 皇叔败走投袁绍",
+    "sub": "北方混战",
+    "href": "#/chapters/024",
+    "keywords": "国贼行凶杀贵妃 皇叔败走投袁绍 北方混战 国贼行凶杀贵妃 皇叔败走投袁绍"
+  },
+  {
+    "type": "chapter",
+    "id": "025",
+    "title": "第25回 屯土山关公约三事 救白马曹操解重围",
+    "sub": "北方混战",
+    "href": "#/chapters/025",
+    "keywords": "屯土山关公约三事 救白马曹操解重围 北方混战 白马坡前，关羽斩颜良。"
+  },
+  {
+    "type": "chapter",
+    "id": "026",
+    "title": "第26回 袁本初败兵折将 关云长挂印封金",
+    "sub": "北方混战",
+    "href": "#/chapters/026",
+    "keywords": "袁本初败兵折将 关云长挂印封金 北方混战 袁本初败兵折将 关云长挂印封金"
+  },
+  {
+    "type": "chapter",
+    "id": "027",
+    "title": "第27回 美髯公千里走单骑 汉寿侯五关斩六将",
+    "sub": "北方混战",
+    "href": "#/chapters/027",
+    "keywords": "美髯公千里走单骑 汉寿侯五关斩六将 北方混战 美髯公千里走单骑 汉寿侯五关斩六将"
+  },
+  {
+    "type": "chapter",
+    "id": "028",
+    "title": "第28回 斩蔡阳兄弟释疑 会古城主臣聚义",
+    "sub": "北方混战",
+    "href": "#/chapters/028",
+    "keywords": "斩蔡阳兄弟释疑 会古城主臣聚义 北方混战 斩蔡阳兄弟释疑 会古城主臣聚义"
+  },
+  {
+    "type": "chapter",
+    "id": "029",
+    "title": "第29回 小霸王怒斩于吉 碧眼儿坐领江东",
+    "sub": "北方混战",
+    "href": "#/chapters/029",
+    "keywords": "小霸王怒斩于吉 碧眼儿坐领江东 北方混战 小霸王怒斩于吉 碧眼儿坐领江东"
+  },
+  {
+    "type": "chapter",
+    "id": "030",
+    "title": "第30回 战官渡本初败绩 劫乌巢孟德烧粮",
+    "sub": "北方混战",
+    "href": "#/chapters/030",
+    "keywords": "战官渡本初败绩 劫乌巢孟德烧粮 北方混战 战官渡本初败绩 劫乌巢孟德烧粮"
+  },
+  {
+    "type": "chapter",
+    "id": "031",
+    "title": "第31回 曹操仓亭破本初 玄德荆州依刘表",
+    "sub": "北方混战",
+    "href": "#/chapters/031",
+    "keywords": "曹操仓亭破本初 玄德荆州依刘表 北方混战 曹操仓亭破本初 玄德荆州依刘表"
+  },
+  {
+    "type": "chapter",
+    "id": "032",
+    "title": "第32回 夺冀州袁尚争锋 决漳河许攸献计",
+    "sub": "北方混战",
+    "href": "#/chapters/032",
+    "keywords": "夺冀州袁尚争锋 决漳河许攸献计 北方混战 夺冀州袁尚争锋 决漳河许攸献计"
+  },
+  {
+    "type": "chapter",
+    "id": "033",
+    "title": "第33回 曹丕乘乱纳甄氏 郭嘉遗计定辽东",
+    "sub": "北方混战",
+    "href": "#/chapters/033",
+    "keywords": "曹丕乘乱纳甄氏 郭嘉遗计定辽东 北方混战 曹丕乘乱纳甄氏 郭嘉遗计定辽东"
+  },
+  {
+    "type": "chapter",
+    "id": "034",
+    "title": "第34回 蔡夫人隔屏听密语 刘皇叔跃马过檀溪",
+    "sub": "北方混战",
+    "href": "#/chapters/034",
+    "keywords": "蔡夫人隔屏听密语 刘皇叔跃马过檀溪 北方混战 蔡夫人隔屏听密语 刘皇叔跃马过檀溪"
+  },
+  {
+    "type": "chapter",
+    "id": "035",
+    "title": "第35回 玄德南漳逢隐沧 单福新野遇英主",
+    "sub": "北方混战",
+    "href": "#/chapters/035",
+    "keywords": "玄德南漳逢隐沧 单福新野遇英主 北方混战 玄德南漳逢隐沧 单福新野遇英主"
+  },
+  {
+    "type": "chapter",
+    "id": "036",
+    "title": "第36回 玄德用计袭樊城 元直走马荐诸葛",
+    "sub": "北方混战",
+    "href": "#/chapters/036",
+    "keywords": "玄德用计袭樊城 元直走马荐诸葛 北方混战 玄德用计袭樊城 元直走马荐诸葛"
+  },
+  {
+    "type": "chapter",
+    "id": "037",
+    "title": "第37回 司马徽再荐名士 刘玄德三顾草庐",
+    "sub": "北方混战",
+    "href": "#/chapters/037",
+    "keywords": "司马徽再荐名士 刘玄德三顾草庐 北方混战 刘玄德三顾草庐，隆中初见诸葛亮。"
+  },
+  {
+    "type": "chapter",
+    "id": "038",
+    "title": "第38回 定三分隆中决策 战长江孙氏报仇",
+    "sub": "北方混战",
+    "href": "#/chapters/038",
+    "keywords": "定三分隆中决策 战长江孙氏报仇 北方混战 隆中对策定三分，孙权报仇攻江夏。"
+  },
+  {
+    "type": "chapter",
+    "id": "039",
+    "title": "第39回 荆州城公子三求计 博望坡军师初用兵",
+    "sub": "北方混战",
+    "href": "#/chapters/039",
+    "keywords": "荆州城公子三求计 博望坡军师初用兵 北方混战 荆州城公子三求计 博望坡军师初用兵"
+  },
+  {
+    "type": "chapter",
+    "id": "040",
+    "title": "第40回 蔡夫人议献荆州 诸葛亮火烧新野",
+    "sub": "北方混战",
+    "href": "#/chapters/040",
+    "keywords": "蔡夫人议献荆州 诸葛亮火烧新野 北方混战 蔡夫人议献荆州 诸葛亮火烧新野"
+  },
+  {
+    "type": "chapter",
+    "id": "041",
+    "title": "第41回 刘玄德携民渡江 赵子龙单骑救主",
+    "sub": "赤壁前后",
+    "href": "#/chapters/041",
+    "keywords": "刘玄德携民渡江 赵子龙单骑救主 赤壁前后 刘玄德携民渡江 赵子龙单骑救主"
+  },
+  {
+    "type": "chapter",
+    "id": "042",
+    "title": "第42回 张翼德大闹长坂桥 刘豫州败走汉津口",
+    "sub": "赤壁前后",
+    "href": "#/chapters/042",
+    "keywords": "张翼德大闹长坂桥 刘豫州败走汉津口 赤壁前后 张翼德大闹长坂桥 刘豫州败走汉津口"
+  },
+  {
+    "type": "chapter",
+    "id": "043",
+    "title": "第43回 诸葛亮舌战群儒 鲁子敬力排众议",
+    "sub": "赤壁前后",
+    "href": "#/chapters/043",
+    "keywords": "诸葛亮舌战群儒 鲁子敬力排众议 赤壁前后 诸葛亮舌战群儒，鲁肃力排众议。"
+  },
+  {
+    "type": "chapter",
+    "id": "044",
+    "title": "第44回 孔明用智激周瑜 孙权决计破曹操",
+    "sub": "赤壁前后",
+    "href": "#/chapters/044",
+    "keywords": "孔明用智激周瑜 孙权决计破曹操 赤壁前后 孔明激周瑜，孙权决计破曹操。"
+  },
+  {
+    "type": "chapter",
+    "id": "045",
+    "title": "第45回 三江口曹操折兵 群英会蒋干中计",
+    "sub": "赤壁前后",
+    "href": "#/chapters/045",
+    "keywords": "三江口曹操折兵 群英会蒋干中计 赤壁前后 三江口曹操折兵 群英会蒋干中计"
+  },
+  {
+    "type": "chapter",
+    "id": "046",
+    "title": "第46回 用奇谋孔明借箭 献密计黄盖受刑",
+    "sub": "赤壁前后",
+    "href": "#/chapters/046",
+    "keywords": "用奇谋孔明借箭 献密计黄盖受刑 赤壁前后 草船借箭，黄盖受刑，连环计成。"
+  },
+  {
+    "type": "chapter",
+    "id": "047",
+    "title": "第47回 阚泽密献诈降书 庞统巧授连环计",
+    "sub": "赤壁前后",
+    "href": "#/chapters/047",
+    "keywords": "阚泽密献诈降书 庞统巧授连环计 赤壁前后 阚泽密献诈降书 庞统巧授连环计"
+  },
+  {
+    "type": "chapter",
+    "id": "048",
+    "title": "第48回 宴长江曹操赋诗 锁战船北军用武",
+    "sub": "赤壁前后",
+    "href": "#/chapters/048",
+    "keywords": "宴长江曹操赋诗 锁战船北军用武 赤壁前后 宴长江曹操赋诗 锁战船北军用武"
+  },
+  {
+    "type": "chapter",
+    "id": "049",
+    "title": "第49回 七星坛诸葛祭风 三江口周瑜纵火",
+    "sub": "赤壁前后",
+    "href": "#/chapters/049",
+    "keywords": "七星坛诸葛祭风 三江口周瑜纵火 赤壁前后 七星坛祭风，三江口周瑜纵火。"
+  },
+  {
+    "type": "chapter",
+    "id": "050",
+    "title": "第50回 诸葛亮智算华容 关云长义释曹操",
+    "sub": "赤壁前后",
+    "href": "#/chapters/050",
+    "keywords": "诸葛亮智算华容 关云长义释曹操 赤壁前后 诸葛亮智算华容，关云长义释曹操。"
+  },
+  {
+    "type": "chapter",
+    "id": "051",
+    "title": "第51回 曹仁大战东吴兵 孔明一气周公瑾",
+    "sub": "赤壁前后",
+    "href": "#/chapters/051",
+    "keywords": "曹仁大战东吴兵 孔明一气周公瑾 赤壁前后 曹仁大战东吴兵 孔明一气周公瑾"
+  },
+  {
+    "type": "chapter",
+    "id": "052",
+    "title": "第52回 诸葛亮智辞鲁肃 赵子龙计取桂阳",
+    "sub": "赤壁前后",
+    "href": "#/chapters/052",
+    "keywords": "诸葛亮智辞鲁肃 赵子龙计取桂阳 赤壁前后 诸葛亮智辞鲁肃 赵子龙计取桂阳"
+  },
+  {
+    "type": "chapter",
+    "id": "053",
+    "title": "第53回 关云长义释黄汉升 孙仲谋大战张文远",
+    "sub": "赤壁前后",
+    "href": "#/chapters/053",
+    "keywords": "关云长义释黄汉升 孙仲谋大战张文远 赤壁前后 关云长义释黄忠。"
+  },
+  {
+    "type": "chapter",
+    "id": "054",
+    "title": "第54回 吴国太佛寺看新郎 刘皇叔洞房续佳偶",
+    "sub": "赤壁前后",
+    "href": "#/chapters/054",
+    "keywords": "吴国太佛寺看新郎 刘皇叔洞房续佳偶 赤壁前后 吴国太佛寺看新郎 刘皇叔洞房续佳偶"
+  },
+  {
+    "type": "chapter",
+    "id": "055",
+    "title": "第55回 玄德智激孙夫人 孔明二气周公瑾",
+    "sub": "赤壁前后",
+    "href": "#/chapters/055",
+    "keywords": "玄德智激孙夫人 孔明二气周公瑾 赤壁前后 玄德智激孙夫人 孔明二气周公瑾"
+  },
+  {
+    "type": "chapter",
+    "id": "056",
+    "title": "第56回 曹操大宴铜雀台 孔明三气周公瑾",
+    "sub": "赤壁前后",
+    "href": "#/chapters/056",
+    "keywords": "曹操大宴铜雀台 孔明三气周公瑾 赤壁前后 曹操大宴铜雀台 孔明三气周公瑾"
+  },
+  {
+    "type": "chapter",
+    "id": "057",
+    "title": "第57回 柴桑口卧龙吊丧 耒阳县凤雏理事",
+    "sub": "赤壁前后",
+    "href": "#/chapters/057",
+    "keywords": "柴桑口卧龙吊丧 耒阳县凤雏理事 赤壁前后 柴桑口卧龙吊丧 耒阳县凤雏理事"
+  },
+  {
+    "type": "chapter",
+    "id": "058",
+    "title": "第58回 马孟起兴兵雪恨 曹阿瞒割须弃袍",
+    "sub": "赤壁前后",
+    "href": "#/chapters/058",
+    "keywords": "马孟起兴兵雪恨 曹阿瞒割须弃袍 赤壁前后 马孟起兴兵雪恨 曹阿瞒割须弃袍"
+  },
+  {
+    "type": "chapter",
+    "id": "059",
+    "title": "第59回 许诸裸衣斗马超 曹操抹书间韩遂",
+    "sub": "赤壁前后",
+    "href": "#/chapters/059",
+    "keywords": "许诸裸衣斗马超 曹操抹书间韩遂 赤壁前后 许诸裸衣斗马超 曹操抹书间韩遂"
+  },
+  {
+    "type": "chapter",
+    "id": "060",
+    "title": "第60回 张永年反难杨修 庞士元议取西蜀",
+    "sub": "赤壁前后",
+    "href": "#/chapters/060",
+    "keywords": "张永年反难杨修 庞士元议取西蜀 赤壁前后 张永年反难杨修 庞士元议取西蜀"
+  },
+  {
+    "type": "chapter",
+    "id": "061",
+    "title": "第61回 赵云截江夺阿斗 孙权遗书退老瞒",
+    "sub": "三分成形",
+    "href": "#/chapters/061",
+    "keywords": "赵云截江夺阿斗 孙权遗书退老瞒 三分成形 赵云截江夺阿斗 孙权遗书退老瞒"
+  },
+  {
+    "type": "chapter",
+    "id": "062",
+    "title": "第62回 取涪关杨高授首 攻雒城黄魏争功",
+    "sub": "三分成形",
+    "href": "#/chapters/062",
+    "keywords": "取涪关杨高授首 攻雒城黄魏争功 三分成形 取涪关杨高授首 攻雒城黄魏争功"
+  },
+  {
+    "type": "chapter",
+    "id": "063",
+    "title": "第63回 诸葛亮痛哭庞统 张翼德义释严颜",
+    "sub": "三分成形",
+    "href": "#/chapters/063",
+    "keywords": "诸葛亮痛哭庞统 张翼德义释严颜 三分成形 诸葛亮痛哭庞统 张翼德义释严颜"
+  },
+  {
+    "type": "chapter",
+    "id": "064",
+    "title": "第64回 孔明定计捉张任 杨阜借兵破马超",
+    "sub": "三分成形",
+    "href": "#/chapters/064",
+    "keywords": "孔明定计捉张任 杨阜借兵破马超 三分成形 孔明定计捉张任 杨阜借兵破马超"
+  },
+  {
+    "type": "chapter",
+    "id": "065",
+    "title": "第65回 马超大战葭萌关 刘备自领益州牧",
+    "sub": "三分成形",
+    "href": "#/chapters/065",
+    "keywords": "马超大战葭萌关 刘备自领益州牧 三分成形 马超大战葭萌关，刘备自领益州牧。"
+  },
+  {
+    "type": "chapter",
+    "id": "066",
+    "title": "第66回 关云长单刀赴会 伏皇后为国捐生",
+    "sub": "三分成形",
+    "href": "#/chapters/066",
+    "keywords": "关云长单刀赴会 伏皇后为国捐生 三分成形 单刀赴会，关羽鲁肃湘水对峙。"
+  },
+  {
+    "type": "chapter",
+    "id": "067",
+    "title": "第67回 曹操平定汉中地 张辽威震逍遥津",
+    "sub": "三分成形",
+    "href": "#/chapters/067",
+    "keywords": "曹操平定汉中地 张辽威震逍遥津 三分成形 曹操平定汉中地 张辽威震逍遥津"
+  },
+  {
+    "type": "chapter",
+    "id": "068",
+    "title": "第68回 甘宁百骑劫魏营 左慈掷杯戏曹操",
+    "sub": "三分成形",
+    "href": "#/chapters/068",
+    "keywords": "甘宁百骑劫魏营 左慈掷杯戏曹操 三分成形 甘宁百骑劫魏营。"
+  },
+  {
+    "type": "chapter",
+    "id": "069",
+    "title": "第69回 卜周易管辂知机 讨汉贼五臣死节",
+    "sub": "三分成形",
+    "href": "#/chapters/069",
+    "keywords": "卜周易管辂知机 讨汉贼五臣死节 三分成形 卜周易管辂知机 讨汉贼五臣死节"
+  },
+  {
+    "type": "chapter",
+    "id": "070",
+    "title": "第70回 猛张飞智取瓦口隘 老黄忠计夺天荡山",
+    "sub": "三分成形",
+    "href": "#/chapters/070",
+    "keywords": "猛张飞智取瓦口隘 老黄忠计夺天荡山 三分成形 猛张飞智取瓦口隘 老黄忠计夺天荡山"
+  },
+  {
+    "type": "chapter",
+    "id": "071",
+    "title": "第71回 占对山黄忠逸待劳 据汉水赵云寡胜众",
+    "sub": "三分成形",
+    "href": "#/chapters/071",
+    "keywords": "占对山黄忠逸待劳 据汉水赵云寡胜众 三分成形 占对山黄忠逸待劳 据汉水赵云寡胜众"
+  },
+  {
+    "type": "chapter",
+    "id": "072",
+    "title": "第72回 诸葛亮智取汉中 曹阿瞒兵退斜谷",
+    "sub": "三分成形",
+    "href": "#/chapters/072",
+    "keywords": "诸葛亮智取汉中 曹阿瞒兵退斜谷 三分成形 诸葛亮智取汉中 曹阿瞒兵退斜谷"
+  },
+  {
+    "type": "chapter",
+    "id": "073",
+    "title": "第73回 玄德进位汉中王 云长攻拔襄阳郡",
+    "sub": "三分成形",
+    "href": "#/chapters/073",
+    "keywords": "玄德进位汉中王 云长攻拔襄阳郡 三分成形 玄德进位汉中王 云长攻拔襄阳郡"
+  },
+  {
+    "type": "chapter",
+    "id": "074",
+    "title": "第74回 庞令明抬榇决死战 关云长放水淹七军",
+    "sub": "三分成形",
+    "href": "#/chapters/074",
+    "keywords": "庞令明抬榇决死战 关云长放水淹七军 三分成形 庞德抬榇决死，关羽水淹七军。"
+  },
+  {
+    "type": "chapter",
+    "id": "075",
+    "title": "第75回 关云长刮骨疗毒 吕子明白衣渡江",
+    "sub": "三分成形",
+    "href": "#/chapters/075",
+    "keywords": "关云长刮骨疗毒 吕子明白衣渡江 三分成形 关云长刮骨疗毒 吕子明白衣渡江"
+  },
+  {
+    "type": "chapter",
+    "id": "076",
+    "title": "第76回 徐公明大战沔水 关云长败走麦城",
+    "sub": "三分成形",
+    "href": "#/chapters/076",
+    "keywords": "徐公明大战沔水 关云长败走麦城 三分成形 徐晃解樊城之围，关羽败走麦城。"
+  },
+  {
+    "type": "chapter",
+    "id": "077",
+    "title": "第77回 玉泉山关公显圣 洛阳城曹操感神",
+    "sub": "三分成形",
+    "href": "#/chapters/077",
+    "keywords": "玉泉山关公显圣 洛阳城曹操感神 三分成形 临沮星陨，玉泉显圣。"
+  },
+  {
+    "type": "chapter",
+    "id": "078",
+    "title": "第78回 治风疾神医身死 传遗命奸雄数终",
+    "sub": "三分成形",
+    "href": "#/chapters/078",
+    "keywords": "治风疾神医身死 传遗命奸雄数终 三分成形 治风疾神医身死 传遗命奸雄数终"
+  },
+  {
+    "type": "chapter",
+    "id": "079",
+    "title": "第79回 兄逼弟曹植赋诗 侄陷叔刘封伏法",
+    "sub": "三分成形",
+    "href": "#/chapters/079",
+    "keywords": "兄逼弟曹植赋诗 侄陷叔刘封伏法 三分成形 兄逼弟曹植赋诗 侄陷叔刘封伏法"
+  },
+  {
+    "type": "chapter",
+    "id": "080",
+    "title": "第80回 曹丕废帝篡炎刘 汉王正位续大统",
+    "sub": "三分成形",
+    "href": "#/chapters/080",
+    "keywords": "曹丕废帝篡炎刘 汉王正位续大统 三分成形 曹丕废帝篡炎刘 汉王正位续大统"
+  },
+  {
+    "type": "chapter",
+    "id": "081",
+    "title": "第81回 急兄仇张飞遇害 雪弟恨先主兴兵",
+    "sub": "蜀汉北伐",
+    "href": "#/chapters/081",
+    "keywords": "急兄仇张飞遇害 雪弟恨先主兴兵 蜀汉北伐 急兄仇张飞遇害 雪弟恨先主兴兵"
+  },
+  {
+    "type": "chapter",
+    "id": "082",
+    "title": "第82回 孙权降魏受九锡 先主征吴赏六军",
+    "sub": "蜀汉北伐",
+    "href": "#/chapters/082",
+    "keywords": "孙权降魏受九锡 先主征吴赏六军 蜀汉北伐 孙权降魏受九锡 先主征吴赏六军"
+  },
+  {
+    "type": "chapter",
+    "id": "083",
+    "title": "第83回 战猇亭先主得仇人 守江口书生拜大将",
+    "sub": "蜀汉北伐",
+    "href": "#/chapters/083",
+    "keywords": "战猇亭先主得仇人 守江口书生拜大将 蜀汉北伐 战猇亭先主得仇人 守江口书生拜大将"
+  },
+  {
+    "type": "chapter",
+    "id": "084",
+    "title": "第84回 陆逊营烧七百里 孔明巧布八阵图",
+    "sub": "蜀汉北伐",
+    "href": "#/chapters/084",
+    "keywords": "陆逊营烧七百里 孔明巧布八阵图 蜀汉北伐 陆逊营烧七百里 孔明巧布八阵图"
+  },
+  {
+    "type": "chapter",
+    "id": "085",
+    "title": "第85回 刘先主遗诏托孤儿 诸葛亮安居平五路",
+    "sub": "蜀汉北伐",
+    "href": "#/chapters/085",
+    "keywords": "刘先主遗诏托孤儿 诸葛亮安居平五路 蜀汉北伐 白帝城托孤，诸葛亮安居平五路。"
+  },
+  {
+    "type": "chapter",
+    "id": "086",
+    "title": "第86回 难张温秦宓逞天辩 破曹丕徐盛用火攻",
+    "sub": "蜀汉北伐",
+    "href": "#/chapters/086",
+    "keywords": "难张温秦宓逞天辩 破曹丕徐盛用火攻 蜀汉北伐 难张温秦宓逞天辩 破曹丕徐盛用火攻"
+  },
+  {
+    "type": "chapter",
+    "id": "087",
+    "title": "第87回 征南寇丞相大兴师 抗天兵蛮王初受执",
+    "sub": "蜀汉北伐",
+    "href": "#/chapters/087",
+    "keywords": "征南寇丞相大兴师 抗天兵蛮王初受执 蜀汉北伐 征南中，七擒七纵孟获。"
+  },
+  {
+    "type": "chapter",
+    "id": "088",
+    "title": "第88回 渡泸水再缚番王 识诈降三擒孟获",
+    "sub": "蜀汉北伐",
+    "href": "#/chapters/088",
+    "keywords": "渡泸水再缚番王 识诈降三擒孟获 蜀汉北伐 渡泸水再缚番王 识诈降三擒孟获"
+  },
+  {
+    "type": "chapter",
+    "id": "089",
+    "title": "第89回 武乡侯四番用计 南蛮王五次遭擒",
+    "sub": "蜀汉北伐",
+    "href": "#/chapters/089",
+    "keywords": "武乡侯四番用计 南蛮王五次遭擒 蜀汉北伐 武乡侯四番用计 南蛮王五次遭擒"
+  },
+  {
+    "type": "chapter",
+    "id": "090",
+    "title": "第90回 驱巨兽六破蛮兵 烧藤甲七擒孟获",
+    "sub": "蜀汉北伐",
+    "href": "#/chapters/090",
+    "keywords": "驱巨兽六破蛮兵 烧藤甲七擒孟获 蜀汉北伐 驱巨兽六破蛮兵 烧藤甲七擒孟获"
+  },
+  {
+    "type": "chapter",
+    "id": "091",
+    "title": "第91回 祭泸水汉相班师 伐中原武侯上表",
+    "sub": "蜀汉北伐",
+    "href": "#/chapters/091",
+    "keywords": "祭泸水汉相班师 伐中原武侯上表 蜀汉北伐 祭泸水汉相班师 伐中原武侯上表"
+  },
+  {
+    "type": "chapter",
+    "id": "092",
+    "title": "第92回 赵子龙力斩五将 诸葛亮智取三城",
+    "sub": "蜀汉北伐",
+    "href": "#/chapters/092",
+    "keywords": "赵子龙力斩五将 诸葛亮智取三城 蜀汉北伐 赵子龙力斩五将 诸葛亮智取三城"
+  },
+  {
+    "type": "chapter",
+    "id": "093",
+    "title": "第93回 姜伯约归降孔明 武乡侯骂死王朗",
+    "sub": "蜀汉北伐",
+    "href": "#/chapters/093",
+    "keywords": "姜伯约归降孔明 武乡侯骂死王朗 蜀汉北伐 姜伯约归降孔明 武乡侯骂死王朗"
+  },
+  {
+    "type": "chapter",
+    "id": "094",
+    "title": "第94回 诸葛亮乘雪破羌兵 司马懿克日擒孟达",
+    "sub": "蜀汉北伐",
+    "href": "#/chapters/094",
+    "keywords": "诸葛亮乘雪破羌兵 司马懿克日擒孟达 蜀汉北伐 诸葛亮乘雪破羌兵 司马懿克日擒孟达"
+  },
+  {
+    "type": "chapter",
+    "id": "095",
+    "title": "第95回 马谡拒谏失街亭 武侯弹琴退仲达",
+    "sub": "蜀汉北伐",
+    "href": "#/chapters/095",
+    "keywords": "马谡拒谏失街亭 武侯弹琴退仲达 蜀汉北伐 马谡失街亭，空城计退仲达。"
+  },
+  {
+    "type": "chapter",
+    "id": "096",
+    "title": "第96回 孔明挥泪斩马谡 周鲂断发赚曹休",
+    "sub": "蜀汉北伐",
+    "href": "#/chapters/096",
+    "keywords": "孔明挥泪斩马谡 周鲂断发赚曹休 蜀汉北伐 孔明挥泪斩马谡 周鲂断发赚曹休"
+  },
+  {
+    "type": "chapter",
+    "id": "097",
+    "title": "第97回 讨魏国武侯再上表 破曹兵姜维诈献书",
+    "sub": "蜀汉北伐",
+    "href": "#/chapters/097",
+    "keywords": "讨魏国武侯再上表 破曹兵姜维诈献书 蜀汉北伐 讨魏国武侯再上表 破曹兵姜维诈献书"
+  },
+  {
+    "type": "chapter",
+    "id": "098",
+    "title": "第98回 追汉军王双受诛 袭陈仓武侯取胜",
+    "sub": "蜀汉北伐",
+    "href": "#/chapters/098",
+    "keywords": "追汉军王双受诛 袭陈仓武侯取胜 蜀汉北伐 追汉军王双受诛 袭陈仓武侯取胜"
+  },
+  {
+    "type": "chapter",
+    "id": "099",
+    "title": "第99回 诸葛亮大破魏兵 司马懿入寇西蜀",
+    "sub": "蜀汉北伐",
+    "href": "#/chapters/099",
+    "keywords": "诸葛亮大破魏兵 司马懿入寇西蜀 蜀汉北伐 诸葛亮大破魏兵 司马懿入寇西蜀"
+  },
+  {
+    "type": "chapter",
+    "id": "100",
+    "title": "第100回 汉兵劫寨破曹真 武侯斗阵辱仲达",
+    "sub": "蜀汉北伐",
+    "href": "#/chapters/100",
+    "keywords": "汉兵劫寨破曹真 武侯斗阵辱仲达 蜀汉北伐 汉兵劫寨破曹真 武侯斗阵辱仲达"
+  },
+  {
+    "type": "chapter",
+    "id": "101",
+    "title": "第101回 出陇上诸葛妆神 奔剑阁张郃中计",
+    "sub": "三国归晋",
+    "href": "#/chapters/101",
+    "keywords": "出陇上诸葛妆神 奔剑阁张郃中计 三国归晋 出陇上诸葛妆神 奔剑阁张郃中计"
+  },
+  {
+    "type": "chapter",
+    "id": "102",
+    "title": "第102回 司马懿占北原渭桥 诸葛亮造木牛流",
+    "sub": "三国归晋",
+    "href": "#/chapters/102",
+    "keywords": "司马懿占北原渭桥 诸葛亮造木牛流 三国归晋 司马懿占北原渭桥 诸葛亮造木牛流"
+  },
+  {
+    "type": "chapter",
+    "id": "103",
+    "title": "第103回 上方谷司马受困 五丈原诸葛禳星",
+    "sub": "三国归晋",
+    "href": "#/chapters/103",
+    "keywords": "上方谷司马受困 五丈原诸葛禳星 三国归晋 上方谷司马受困 五丈原诸葛禳星"
+  },
+  {
+    "type": "chapter",
+    "id": "104",
+    "title": "第104回 陨大星汉丞相归天 见木像魏都督丧",
+    "sub": "三国归晋",
+    "href": "#/chapters/104",
+    "keywords": "陨大星汉丞相归天 见木像魏都督丧 三国归晋 陨大星汉丞相归天 见木像魏都督丧"
+  },
+  {
+    "type": "chapter",
+    "id": "105",
+    "title": "第105回 武侯预伏锦囊计 魏主拆取承露盘",
+    "sub": "三国归晋",
+    "href": "#/chapters/105",
+    "keywords": "武侯预伏锦囊计 魏主拆取承露盘 三国归晋 武侯预伏锦囊计 魏主拆取承露盘"
+  },
+  {
+    "type": "chapter",
+    "id": "106",
+    "title": "第106回 公孙渊兵败死襄平 司马懿诈病赚曹",
+    "sub": "三国归晋",
+    "href": "#/chapters/106",
+    "keywords": "公孙渊兵败死襄平 司马懿诈病赚曹 三国归晋 公孙渊兵败死襄平 司马懿诈病赚曹"
+  },
+  {
+    "type": "chapter",
+    "id": "107",
+    "title": "第107回 魏主政归司马氏 姜维兵败牛头山",
+    "sub": "三国归晋",
+    "href": "#/chapters/107",
+    "keywords": "魏主政归司马氏 姜维兵败牛头山 三国归晋 魏主政归司马氏 姜维兵败牛头山"
+  },
+  {
+    "type": "chapter",
+    "id": "108",
+    "title": "第108回 丁奉雪中奋短兵 孙峻席间施密计",
+    "sub": "三国归晋",
+    "href": "#/chapters/108",
+    "keywords": "丁奉雪中奋短兵 孙峻席间施密计 三国归晋 丁奉雪中奋短兵 孙峻席间施密计"
+  },
+  {
+    "type": "chapter",
+    "id": "109",
+    "title": "第109回 困司马汉将奇谋 废曹芳魏家果报",
+    "sub": "三国归晋",
+    "href": "#/chapters/109",
+    "keywords": "困司马汉将奇谋 废曹芳魏家果报 三国归晋 困司马汉将奇谋 废曹芳魏家果报"
+  },
+  {
+    "type": "chapter",
+    "id": "110",
+    "title": "第110回 文鸯单骑退雄兵 姜维背水破大敌",
+    "sub": "三国归晋",
+    "href": "#/chapters/110",
+    "keywords": "文鸯单骑退雄兵 姜维背水破大敌 三国归晋 文鸯单骑退雄兵 姜维背水破大敌"
+  },
+  {
+    "type": "chapter",
+    "id": "111",
+    "title": "第111回 邓士载智败姜伯约 诸葛诞义讨司马昭",
+    "sub": "三国归晋",
+    "href": "#/chapters/111",
+    "keywords": "邓士载智败姜伯约 诸葛诞义讨司马昭 三国归晋 邓士载智败姜伯约 诸葛诞义讨司马昭"
+  },
+  {
+    "type": "chapter",
+    "id": "112",
+    "title": "第112回 救寿春于诠死节 取长城伯约鏖兵",
+    "sub": "三国归晋",
+    "href": "#/chapters/112",
+    "keywords": "救寿春于诠死节 取长城伯约鏖兵 三国归晋 救寿春于诠死节 取长城伯约鏖兵"
+  },
+  {
+    "type": "chapter",
+    "id": "113",
+    "title": "第113回 丁奉定计斩孙綝 姜维斗阵破邓艾",
+    "sub": "三国归晋",
+    "href": "#/chapters/113",
+    "keywords": "丁奉定计斩孙綝 姜维斗阵破邓艾 三国归晋 丁奉定计斩孙綝 姜维斗阵破邓艾"
+  },
+  {
+    "type": "chapter",
+    "id": "114",
+    "title": "第114回 曹髦驱车死南阙 姜维弃粮胜魏兵",
+    "sub": "三国归晋",
+    "href": "#/chapters/114",
+    "keywords": "曹髦驱车死南阙 姜维弃粮胜魏兵 三国归晋 曹髦驱车死南阙 姜维弃粮胜魏兵"
+  },
+  {
+    "type": "chapter",
+    "id": "115",
+    "title": "第115回 诏班师后主信谗 托屯田姜维避祸",
+    "sub": "三国归晋",
+    "href": "#/chapters/115",
+    "keywords": "诏班师后主信谗 托屯田姜维避祸 三国归晋 诏班师后主信谗 托屯田姜维避祸"
+  },
+  {
+    "type": "chapter",
+    "id": "116",
+    "title": "第116回 钟会分兵汉中道 武侯显圣定军山",
+    "sub": "三国归晋",
+    "href": "#/chapters/116",
+    "keywords": "钟会分兵汉中道 武侯显圣定军山 三国归晋 钟会分兵汉中道 武侯显圣定军山"
+  },
+  {
+    "type": "chapter",
+    "id": "117",
+    "title": "第117回 邓士载偷度阴平 诸葛瞻战死绵竹",
+    "sub": "三国归晋",
+    "href": "#/chapters/117",
+    "keywords": "邓士载偷度阴平 诸葛瞻战死绵竹 三国归晋 邓士载偷度阴平 诸葛瞻战死绵竹"
+  },
+  {
+    "type": "chapter",
+    "id": "118",
+    "title": "第118回 哭祖庙一王死孝 入西川二士争功",
+    "sub": "三国归晋",
+    "href": "#/chapters/118",
+    "keywords": "哭祖庙一王死孝 入西川二士争功 三国归晋 哭祖庙一王死孝 入西川二士争功"
+  },
+  {
+    "type": "chapter",
+    "id": "119",
+    "title": "第119回 假投降巧计成虚话 再受禅依样画",
+    "sub": "三国归晋",
+    "href": "#/chapters/119",
+    "keywords": "假投降巧计成虚话 再受禅依样画 三国归晋 假投降巧计成虚话 再受禅依样画"
+  },
+  {
+    "type": "chapter",
+    "id": "120",
+    "title": "第120回 荐杜预老将献新谋 降孙皓三分归一",
+    "sub": "三国归晋",
+    "href": "#/chapters/120",
+    "keywords": "荐杜预老将献新谋 降孙皓三分归一 三国归晋 荐杜预老将献新谋，降孙皓三分归一。"
+  },
+  {
+    "type": "person",
+    "id": "liubei",
+    "title": "刘备",
+    "sub": "蜀汉开国之君，以人和立身",
+    "href": "#/people/liubei",
+    "keywords": "刘备 玄德 蜀汉 蜀汉开国之君，以人和立身"
+  },
+  {
+    "type": "person",
+    "id": "guanyu",
+    "title": "关羽",
+    "sub": "刘备最早的追随者，后镇守荆州",
+    "href": "#/people/guanyu",
+    "keywords": "关羽 云长 蜀汉 刘备最早的追随者，后镇守荆州"
+  },
+  {
+    "type": "person",
+    "id": "zhangfei",
+    "title": "张飞",
+    "sub": "与关羽并称万人敌",
+    "href": "#/people/zhangfei",
+    "keywords": "张飞 翼德 蜀汉 与关羽并称万人敌"
+  },
+  {
+    "type": "person",
+    "id": "zhugeliang",
+    "title": "诸葛亮",
+    "sub": "隆中对策的提出者，蜀汉执政者",
+    "href": "#/people/zhugeliang",
+    "keywords": "诸葛亮 孔明 蜀汉 隆中对策的提出者，蜀汉执政者"
+  },
+  {
+    "type": "person",
+    "id": "zhaoyun",
+    "title": "赵云",
+    "sub": "长坂护主，蜀汉宿将",
+    "href": "#/people/zhaoyun",
+    "keywords": "赵云 子龙 蜀汉 长坂护主，蜀汉宿将"
+  },
+  {
+    "type": "person",
+    "id": "caocao",
+    "title": "曹操",
+    "sub": "迎天子都许，统一北方",
+    "href": "#/people/caocao",
+    "keywords": "曹操 孟德 曹魏 迎天子都许，统一北方"
+  },
+  {
+    "type": "person",
+    "id": "caopi",
+    "title": "曹丕",
+    "sub": "代汉称帝，魏文帝",
+    "href": "#/people/caopi",
+    "keywords": "曹丕 子桓 曹魏 代汉称帝，魏文帝"
+  },
+  {
+    "type": "person",
+    "id": "simayi",
+    "title": "司马懿",
+    "sub": "抗蜀北伐，魏国后期的执政者",
+    "href": "#/people/simayi",
+    "keywords": "司马懿 仲达 曹魏 抗蜀北伐，魏国后期的执政者"
+  },
+  {
+    "type": "person",
+    "id": "sunquan",
+    "title": "孙权",
+    "sub": "据江东，决计赤壁抗曹",
+    "href": "#/people/sunquan",
+    "keywords": "孙权 仲谋 孙吴 据江东，决计赤壁抗曹"
+  },
+  {
+    "type": "person",
+    "id": "zhouyu",
+    "title": "周瑜",
+    "sub": "赤壁之战的江东主将",
+    "href": "#/people/zhouyu",
+    "keywords": "周瑜 公瑾 孙吴 赤壁之战的江东主将"
+  },
+  {
+    "type": "person",
+    "id": "lusu",
+    "title": "鲁肃",
+    "sub": "主张联刘抗曹的江东谋臣",
+    "href": "#/people/lusu",
+    "keywords": "鲁肃 子敬 孙吴 主张联刘抗曹的江东谋臣"
+  },
+  {
+    "type": "person",
+    "id": "lvmeng",
+    "title": "吕蒙",
+    "sub": "白衣渡江取荆州",
+    "href": "#/people/lvmeng",
+    "keywords": "吕蒙 子明 孙吴 白衣渡江取荆州"
+  },
+  {
+    "type": "person",
+    "id": "luxun",
+    "title": "陆逊",
+    "sub": "夷陵火攻破蜀军",
+    "href": "#/people/luxun",
+    "keywords": "陆逊 伯言 孙吴 夷陵火攻破蜀军"
+  },
+  {
+    "type": "person",
+    "id": "sunce",
+    "title": "孙策",
+    "sub": "奠基江东的小霸王",
+    "href": "#/people/sunce",
+    "keywords": "孙策 伯符 孙吴 奠基江东的小霸王"
+  },
+  {
+    "type": "person",
+    "id": "sunjian",
+    "title": "孙坚",
+    "sub": "讨董先锋，孙氏之基",
+    "href": "#/people/sunjian",
+    "keywords": "孙坚 文台 群雄 讨董先锋，孙氏之基"
+  },
+  {
+    "type": "person",
+    "id": "xunyu",
+    "title": "荀彧",
+    "sub": "曹操前期最重要的谋臣",
+    "href": "#/people/xunyu",
+    "keywords": "荀彧 文若 曹魏 曹操前期最重要的谋臣"
+  },
+  {
+    "type": "person",
+    "id": "guojia",
+    "title": "郭嘉",
+    "sub": "曹操麾下的奇谋之士",
+    "href": "#/people/guojia",
+    "keywords": "郭嘉 奉孝 曹魏 曹操麾下的奇谋之士"
+  },
+  {
+    "type": "person",
+    "id": "jiaxu",
+    "title": "贾诩",
+    "sub": "历经数主而善终的谋士",
+    "href": "#/people/jiaxu",
+    "keywords": "贾诩 文和 曹魏 历经数主而善终的谋士"
+  },
+  {
+    "type": "person",
+    "id": "chengyu",
+    "title": "程昱",
+    "sub": "曹操早期股肱，守城有方",
+    "href": "#/people/chengyu",
+    "keywords": "程昱 仲德 曹魏 曹操早期股肱，守城有方"
+  },
+  {
+    "type": "person",
+    "id": "zhangliao",
+    "title": "张辽",
+    "sub": "逍遥津以少击众",
+    "href": "#/people/zhangliao",
+    "keywords": "张辽 文远 曹魏 逍遥津以少击众"
+  },
+  {
+    "type": "person",
+    "id": "xuchu",
+    "title": "许褚",
+    "sub": "曹操近卫猛将",
+    "href": "#/people/xuchu",
+    "keywords": "许褚 仲康 曹魏 曹操近卫猛将"
+  },
+  {
+    "type": "person",
+    "id": "xiahoudun",
+    "title": "夏侯惇",
+    "sub": "曹氏宗亲宿将",
+    "href": "#/people/xiahoudun",
+    "keywords": "夏侯惇 元让 曹魏 曹氏宗亲宿将"
+  },
+  {
+    "type": "person",
+    "id": "caoren",
+    "title": "曹仁",
+    "sub": "善守的曹氏宗将",
+    "href": "#/people/caoren",
+    "keywords": "曹仁 子孝 曹魏 善守的曹氏宗将"
+  },
+  {
+    "type": "person",
+    "id": "caozhi",
+    "title": "曹植",
+    "sub": "建安文采与世子之争",
+    "href": "#/people/caozhi",
+    "keywords": "曹植 子建 曹魏 建安文采与世子之争"
+  },
+  {
+    "type": "person",
+    "id": "pangtong",
+    "title": "庞统",
+    "sub": "与诸葛亮齐名的蜀中谋士",
+    "href": "#/people/pangtong",
+    "keywords": "庞统 士元 蜀汉 与诸葛亮齐名的蜀中谋士"
+  },
+  {
+    "type": "person",
+    "id": "fazheng",
+    "title": "法正",
+    "sub": "取益州、定汉中的谋主",
+    "href": "#/people/fazheng",
+    "keywords": "法正 孝直 蜀汉 取益州、定汉中的谋主"
+  },
+  {
+    "type": "person",
+    "id": "huangzhong",
+    "title": "黄忠",
+    "sub": "定军山斩夏侯渊",
+    "href": "#/people/huangzhong",
+    "keywords": "黄忠 汉升 蜀汉 定军山斩夏侯渊"
+  },
+  {
+    "type": "person",
+    "id": "machao",
+    "title": "马超",
+    "sub": "西凉骁将，后归蜀汉",
+    "href": "#/people/machao",
+    "keywords": "马超 孟起 蜀汉 西凉骁将，后归蜀汉"
+  },
+  {
+    "type": "person",
+    "id": "weiyan",
+    "title": "魏延",
+    "sub": "蜀汉北伐前锋",
+    "href": "#/people/weiyan",
+    "keywords": "魏延 文长 蜀汉 蜀汉北伐前锋"
+  },
+  {
+    "type": "person",
+    "id": "jiangwei",
+    "title": "姜维",
+    "sub": "继承北伐的蜀汉后期主将",
+    "href": "#/people/jiangwei",
+    "keywords": "姜维 伯约 蜀汉 继承北伐的蜀汉后期主将"
+  },
+  {
+    "type": "person",
+    "id": "huanggai",
+    "title": "黄盖",
+    "sub": "赤壁火攻的实施者",
+    "href": "#/people/huanggai",
+    "keywords": "黄盖 公覆 孙吴 赤壁火攻的实施者"
+  },
+  {
+    "type": "person",
+    "id": "ganning",
+    "title": "甘宁",
+    "sub": "江东悍将，百骑劫营",
+    "href": "#/people/ganning",
+    "keywords": "甘宁 兴霸 孙吴 江东悍将，百骑劫营"
+  },
+  {
+    "type": "person",
+    "id": "taishici",
+    "title": "太史慈",
+    "sub": "信义著称的江东将",
+    "href": "#/people/taishici",
+    "keywords": "太史慈 子义 孙吴 信义著称的江东将"
+  },
+  {
+    "type": "person",
+    "id": "zhangzhao",
+    "title": "张昭",
+    "sub": "江东文臣之首，赤壁主和",
+    "href": "#/people/zhangzhao",
+    "keywords": "张昭 子布 孙吴 江东文臣之首，赤壁主和"
+  },
+  {
+    "type": "person",
+    "id": "zhugejin",
+    "title": "诸葛瑾",
+    "sub": "诸葛亮之兄，仕于江东",
+    "href": "#/people/zhugejin",
+    "keywords": "诸葛瑾 子瑜 孙吴 诸葛亮之兄，仕于江东"
+  },
+  {
+    "type": "person",
+    "id": "xushu",
+    "title": "徐庶",
+    "sub": "荐诸葛亮于刘备",
+    "href": "#/people/xushu",
+    "keywords": "徐庶 元直 蜀汉 荐诸葛亮于刘备"
+  },
+  {
+    "type": "person",
+    "id": "lvbu",
+    "title": "吕布",
+    "sub": "反复易主的天下骁将",
+    "href": "#/people/lvbu",
+    "keywords": "吕布 奉先 群雄 反复易主的天下骁将"
+  },
+  {
+    "type": "person",
+    "id": "yuanshao",
+    "title": "袁绍",
+    "sub": "河北霸主，官渡败于曹操",
+    "href": "#/people/yuanshao",
+    "keywords": "袁绍 本初 群雄 河北霸主，官渡败于曹操"
+  },
+  {
+    "type": "person",
+    "id": "yuanshu",
+    "title": "袁术",
+    "sub": "最先称帝而最先败亡",
+    "href": "#/people/yuanshu",
+    "keywords": "袁术 公路 群雄 最先称帝而最先败亡"
+  },
+  {
+    "type": "person",
+    "id": "dongzhuo",
+    "title": "董卓",
+    "sub": "入洛阳掌权，迁都长安",
+    "href": "#/people/dongzhuo",
+    "keywords": "董卓 仲颖 群雄 入洛阳掌权，迁都长安"
+  },
+  {
+    "type": "person",
+    "id": "liubiao",
+    "title": "刘表",
+    "sub": "据荆州，坐观天下",
+    "href": "#/people/liubiao",
+    "keywords": "刘表 景升 群雄 据荆州，坐观天下"
+  },
+  {
+    "type": "person",
+    "id": "liuzhang",
+    "title": "刘璋",
+    "sub": "益州旧主",
+    "href": "#/people/liuzhang",
+    "keywords": "刘璋 季玉 群雄 益州旧主"
+  },
+  {
+    "type": "person",
+    "id": "liushan",
+    "title": "刘禅",
+    "sub": "蜀汉后主",
+    "href": "#/people/liushan",
+    "keywords": "刘禅 公嗣 蜀汉 蜀汉后主"
+  },
+  {
+    "type": "person",
+    "id": "masu",
+    "title": "马谡",
+    "sub": "街亭失守",
+    "href": "#/people/masu",
+    "keywords": "马谡 幼常 蜀汉 街亭失守"
+  },
+  {
+    "type": "person",
+    "id": "mengda",
+    "title": "孟达",
+    "sub": "反复于蜀魏之间",
+    "href": "#/people/mengda",
+    "keywords": "孟达 子度 蜀汉 反复于蜀魏之间"
+  },
+  {
+    "type": "person",
+    "id": "menghuo",
+    "title": "孟获",
+    "sub": "南中首领，七擒七纵见裴注",
+    "href": "#/people/menghuo",
+    "keywords": "孟获 无 群雄 南中首领，七擒七纵见裴注"
+  },
+  {
+    "type": "person",
+    "id": "diaochan",
+    "title": "貂蝉",
+    "sub": "连环美人计中的虚构人物",
+    "href": "#/people/diaochan",
+    "keywords": "貂蝉 无 群雄 连环美人计中的虚构人物"
+  },
+  {
+    "type": "person",
+    "id": "zhenshi",
+    "title": "甄氏",
+    "sub": "魏文帝皇后",
+    "href": "#/people/zhenshi",
+    "keywords": "甄氏 无 曹魏 魏文帝皇后"
+  },
+  {
+    "type": "person",
+    "id": "huaxiong",
+    "title": "华雄",
+    "sub": "汜水关前被斩的都督",
+    "href": "#/people/huaxiong",
+    "keywords": "华雄 无 群雄 汜水关前被斩的都督"
+  },
+  {
+    "type": "person",
+    "id": "yanliang",
+    "title": "颜良",
+    "sub": "袁绍河北名将",
+    "href": "#/people/yanliang",
+    "keywords": "颜良 无 群雄 袁绍河北名将"
+  },
+  {
+    "type": "person",
+    "id": "wenchou",
+    "title": "文丑",
+    "sub": "袁绍麾下与颜良并称",
+    "href": "#/people/wenchou",
+    "keywords": "文丑 无 群雄 袁绍麾下与颜良并称"
+  },
+  {
+    "type": "person",
+    "id": "zhanghe",
+    "title": "张郃",
+    "sub": "由袁归曹，街亭破马谡",
+    "href": "#/people/zhanghe",
+    "keywords": "张郃 儁乂 曹魏 由袁归曹，街亭破马谡"
+  },
+  {
+    "type": "person",
+    "id": "xuhuang",
+    "title": "徐晃",
+    "sub": "樊城破关羽围",
+    "href": "#/people/xuhuang",
+    "keywords": "徐晃 公明 曹魏 樊城破关羽围"
+  },
+  {
+    "type": "person",
+    "id": "dianwei",
+    "title": "典韦",
+    "sub": "宛城护主战死",
+    "href": "#/people/dianwei",
+    "keywords": "典韦 无 曹魏 宛城护主战死"
+  },
+  {
+    "type": "person",
+    "id": "chengong",
+    "title": "陈宫",
+    "sub": "先随曹操，后事吕布",
+    "href": "#/people/chengong",
+    "keywords": "陈宫 公台 群雄 先随曹操，后事吕布"
+  },
+  {
+    "type": "person",
+    "id": "jianggan",
+    "title": "蒋干",
+    "sub": "群英会中过江说客",
+    "href": "#/people/jianggan",
+    "keywords": "蒋干 子翼 曹魏 群英会中过江说客"
+  },
+  {
+    "type": "person",
+    "id": "kanze",
+    "title": "阚泽",
+    "sub": "献诈降书的江东文臣",
+    "href": "#/people/kanze",
+    "keywords": "阚泽 德润 孙吴 献诈降书的江东文臣"
+  },
+  {
+    "type": "person",
+    "id": "liuqi",
+    "title": "刘琦",
+    "sub": "刘表长子，据夏口",
+    "href": "#/people/liuqi",
+    "keywords": "刘琦 无 群雄 刘表长子，据夏口"
+  },
+  {
+    "type": "person",
+    "id": "dengai",
+    "title": "邓艾",
+    "sub": "偷度阴平灭蜀",
+    "href": "#/people/dengai",
+    "keywords": "邓艾 士载 曹魏 偷度阴平灭蜀"
+  },
+  {
+    "type": "person",
+    "id": "zhonghui",
+    "title": "钟会",
+    "sub": "灭蜀后谋自立而败",
+    "href": "#/people/zhonghui",
+    "keywords": "钟会 士季 曹魏 灭蜀后谋自立而败"
+  },
+  {
+    "type": "person",
+    "id": "simayan",
+    "title": "司马炎",
+    "sub": "代魏建晋，灭吴一统",
+    "href": "#/people/simayan",
+    "keywords": "司马炎 安世 西晋 代魏建晋，灭吴一统"
+  },
+  {
+    "type": "person",
+    "id": "sunhao",
+    "title": "孙皓",
+    "sub": "吴末帝，降晋",
+    "href": "#/people/sunhao",
+    "keywords": "孙皓 元宗 孙吴 吴末帝，降晋"
+  },
+  {
+    "type": "person",
+    "id": "zhangjiao",
+    "title": "张角",
+    "sub": "太平道首领，黄巾起事",
+    "href": "#/people/zhangjiao",
+    "keywords": "张角 无 群雄 太平道首领，黄巾起事"
+  },
+  {
+    "type": "person",
+    "id": "duyu",
+    "title": "杜预",
+    "sub": "灭吴之役的晋军主帅",
+    "href": "#/people/duyu",
+    "keywords": "杜预 元凯 西晋 灭吴之役的晋军主帅"
+  },
+  {
+    "type": "person",
+    "id": "tianfeng",
+    "title": "田丰",
+    "sub": "官渡前直谏被囚的河北谋士",
+    "href": "#/people/tianfeng",
+    "keywords": "田丰 元皓 群雄 官渡前直谏被囚的河北谋士"
+  },
+  {
+    "type": "person",
+    "id": "guanping",
+    "title": "关平",
+    "sub": "关羽之子，随父镇荆州",
+    "href": "#/people/guanping",
+    "keywords": "关平 无 蜀汉 关羽之子，随父镇荆州"
+  },
+  {
+    "type": "person",
+    "id": "guanxing",
+    "title": "关兴",
+    "sub": "关羽之子，演义中的蜀汉后起之将",
+    "href": "#/people/guanxing",
+    "keywords": "关兴 安国 蜀汉 关羽之子，演义中的蜀汉后起之将"
+  },
+  {
+    "type": "person",
+    "id": "zhangbao",
+    "title": "张苞",
+    "sub": "张飞之子，演义中与关兴结为兄弟",
+    "href": "#/people/zhangbao",
+    "keywords": "张苞 无 蜀汉 张飞之子，演义中与关兴结为兄弟"
+  },
+  {
+    "type": "person",
+    "id": "mizhu",
+    "title": "糜竺",
+    "sub": "徐州富商，刘备最早的资助者",
+    "href": "#/people/mizhu",
+    "keywords": "糜竺 子山 蜀汉 徐州富商，刘备最早的资助者"
+  },
+  {
+    "type": "person",
+    "id": "mifang",
+    "title": "糜芳",
+    "sub": "南郡守将，吕蒙袭荆州时降吴",
+    "href": "#/people/mifang",
+    "keywords": "糜芳 子方 蜀汉 南郡守将，吕蒙袭荆州时降吴"
+  },
+  {
+    "type": "person",
+    "id": "sunfuren",
+    "title": "孙尚香",
+    "sub": "孙权之妹，嫁刘备的联姻",
+    "href": "#/people/sunfuren",
+    "keywords": "孙尚香 无 孙吴 孙权之妹，嫁刘备的联姻"
+  },
+  {
+    "type": "person",
+    "id": "ganfuren",
+    "title": "甘夫人",
+    "sub": "刘备夫人，阿斗生母",
+    "href": "#/people/ganfuren",
+    "keywords": "甘夫人 无 蜀汉 刘备夫人，阿斗生母"
+  },
+  {
+    "type": "person",
+    "id": "jianyong",
+    "title": "简雍",
+    "sub": "刘备布衣之交，谈笑间的说客",
+    "href": "#/people/jianyong",
+    "keywords": "简雍 宪和 蜀汉 刘备布衣之交，谈笑间的说客"
+  },
+  {
+    "type": "person",
+    "id": "sunqian",
+    "title": "孙乾",
+    "sub": "刘备的早期使臣",
+    "href": "#/people/sunqian",
+    "keywords": "孙乾 公祐 蜀汉 刘备的早期使臣"
+  },
+  {
+    "type": "person",
+    "id": "liufeng",
+    "title": "刘封",
+    "sub": "刘备义子，赐死于上庸之败后",
+    "href": "#/people/liufeng",
+    "keywords": "刘封 无 蜀汉 刘备义子，赐死于上庸之败后"
+  },
+  {
+    "type": "person",
+    "id": "wangping",
+    "title": "王平",
+    "sub": "街亭独谏马谡，后都督汉中",
+    "href": "#/people/wangping",
+    "keywords": "王平 子均 蜀汉 街亭独谏马谡，后都督汉中"
+  },
+  {
+    "type": "person",
+    "id": "liaohua",
+    "title": "廖化",
+    "sub": "蜀汉的活年表，见证兴亡全程",
+    "href": "#/people/liaohua",
+    "keywords": "廖化 元俭 蜀汉 蜀汉的活年表，见证兴亡全程"
+  },
+  {
+    "type": "person",
+    "id": "mada",
+    "title": "马岱",
+    "sub": "马超从弟，演义中奉遗计斩魏延",
+    "href": "#/people/mada",
+    "keywords": "马岱 无 蜀汉 马超从弟，演义中奉遗计斩魏延"
+  },
+  {
+    "type": "person",
+    "id": "yanyan",
+    "title": "严颜",
+    "sub": "巴郡老将，义不屈膝",
+    "href": "#/people/yanyan",
+    "keywords": "严颜 无 蜀汉 巴郡老将，义不屈膝"
+  },
+  {
+    "type": "person",
+    "id": "jiangwan",
+    "title": "蒋琬",
+    "sub": "诸葛亮身后第一任执政",
+    "href": "#/people/jiangwan",
+    "keywords": "蒋琬 公琰 蜀汉 诸葛亮身后第一任执政"
+  },
+  {
+    "type": "person",
+    "id": "feiyi",
+    "title": "费祎",
+    "sub": "与蒋琬相继执政的蜀相",
+    "href": "#/people/feiyi",
+    "keywords": "费祎 文伟 蜀汉 与蒋琬相继执政的蜀相"
+  },
+  {
+    "type": "person",
+    "id": "dongyun",
+    "title": "董允",
+    "sub": "抑制黄皓的蜀中侍中",
+    "href": "#/people/dongyun",
+    "keywords": "董允 休昭 蜀汉 抑制黄皓的蜀中侍中"
+  },
+  {
+    "type": "person",
+    "id": "yangyi",
+    "title": "杨仪",
+    "sub": "诸葛亮身后的撤军主谋",
+    "href": "#/people/yangyi",
+    "keywords": "杨仪 威公 蜀汉 诸葛亮身后的撤军主谋"
+  },
+  {
+    "type": "person",
+    "id": "liyan",
+    "title": "李严",
+    "sub": "与诸葛亮同受遗诏的托孤之臣",
+    "href": "#/people/liyan",
+    "keywords": "李严 正方 蜀汉 与诸葛亮同受遗诏的托孤之臣"
+  },
+  {
+    "type": "person",
+    "id": "maliang",
+    "title": "马良",
+    "sub": "白眉最良的蜀汉侍中",
+    "href": "#/people/maliang",
+    "keywords": "马良 季常 蜀汉 白眉最良的蜀汉侍中"
+  },
+  {
+    "type": "person",
+    "id": "qiaozhou",
+    "title": "谯周",
+    "sub": "劝刘禅降魏的蜀中学者",
+    "href": "#/people/qiaozhou",
+    "keywords": "谯周 允南 蜀汉 劝刘禅降魏的蜀中学者"
+  },
+  {
+    "type": "person",
+    "id": "zhugezhan",
+    "title": "诸葛瞻",
+    "sub": "诸葛亮之子，殉于绵竹",
+    "href": "#/people/zhugezhan",
+    "keywords": "诸葛瞻 思远 蜀汉 诸葛亮之子，殉于绵竹"
+  },
+  {
+    "type": "person",
+    "id": "simahui",
+    "title": "司马徽",
+    "sub": "水镜先生，「卧龙凤雏」的品评人",
+    "href": "#/people/simahui",
+    "keywords": "司马徽 德操 群雄 水镜先生，「卧龙凤雏」的品评人"
+  },
+  {
+    "type": "person",
+    "id": "huangyueying",
+    "title": "黄月英",
+    "sub": "诸葛亮之妻，名不见正史",
+    "href": "#/people/huangyueying",
+    "keywords": "黄月英 无 蜀汉 诸葛亮之妻，名不见正史"
+  },
+  {
+    "type": "person",
+    "id": "zhoucang",
+    "title": "周仓",
+    "sub": "关羽的扛刀人，正史无此人",
+    "href": "#/people/zhoucang",
+    "keywords": "周仓 无 蜀汉 关羽的扛刀人，正史无此人"
+  },
+  {
+    "type": "person",
+    "id": "guansuo",
+    "title": "关索",
+    "sub": "民间故事中的关羽第三子",
+    "href": "#/people/guansuo",
+    "keywords": "关索 无 蜀汉 民间故事中的关羽第三子"
+  },
+  {
+    "type": "person",
+    "id": "huangquan",
+    "title": "黄权",
+    "sub": "夷陵后降魏的蜀臣",
+    "href": "#/people/huangquan",
+    "keywords": "黄权 公衡 蜀汉 夷陵后降魏的蜀臣"
+  },
+  {
+    "type": "person",
+    "id": "xiahouyuan",
+    "title": "夏侯渊",
+    "sub": "虎步关右的曹氏名将，殁于定军山",
+    "href": "#/people/xiahouyuan",
+    "keywords": "夏侯渊 妙才 曹魏 虎步关右的曹氏名将，殁于定军山"
+  },
+  {
+    "type": "person",
+    "id": "caohong",
+    "title": "曹洪",
+    "sub": "荥阳让马救曹操的宗亲",
+    "href": "#/people/caohong",
+    "keywords": "曹洪 子廉 曹魏 荥阳让马救曹操的宗亲"
+  },
+  {
+    "type": "person",
+    "id": "caozhen",
+    "title": "曹真",
+    "sub": "受遗诏辅政的曹氏重臣",
+    "href": "#/people/caozhen",
+    "keywords": "曹真 子丹 曹魏 受遗诏辅政的曹氏重臣"
+  },
+  {
+    "type": "person",
+    "id": "caoshuang",
+    "title": "曹爽",
+    "sub": "高平陵之变中败亡的辅政宗室",
+    "href": "#/people/caoshuang",
+    "keywords": "曹爽 昭伯 曹魏 高平陵之变中败亡的辅政宗室"
+  },
+  {
+    "type": "person",
+    "id": "simashi",
+    "title": "司马师",
+    "sub": "继司马懿掌魏政，废立皇帝",
+    "href": "#/people/simashi",
+    "keywords": "司马师 子元 曹魏 继司马懿掌魏政，废立皇帝"
+  },
+  {
+    "type": "person",
+    "id": "simazhao",
+    "title": "司马昭",
+    "sub": "「司马昭之心」的魏晋过渡者",
+    "href": "#/people/simazhao",
+    "keywords": "司马昭 子上 曹魏 「司马昭之心」的魏晋过渡者"
+  },
+  {
+    "type": "person",
+    "id": "caozhang",
+    "title": "曹彰",
+    "sub": "曹操口中的黄须儿",
+    "href": "#/people/caozhang",
+    "keywords": "曹彰 子文 曹魏 曹操口中的黄须儿"
+  },
+  {
+    "type": "person",
+    "id": "haozhao",
+    "title": "郝昭",
+    "sub": "陈仓城挡住诸葛亮二伐",
+    "href": "#/people/haozhao",
+    "keywords": "郝昭 伯道 曹魏 陈仓城挡住诸葛亮二伐"
+  },
+  {
+    "type": "person",
+    "id": "caimao",
+    "title": "蔡瑁",
+    "sub": "荆州降曹的水军都督",
+    "href": "#/people/caimao",
+    "keywords": "蔡瑁 德珪 曹魏 荆州降曹的水军都督"
+  },
+  {
+    "type": "person",
+    "id": "yujin",
+    "title": "于禁",
+    "sub": "樊城之败降关羽的曹军宿将",
+    "href": "#/people/yujin",
+    "keywords": "于禁 文则 曹魏 樊城之败降关羽的曹军宿将"
+  },
+  {
+    "type": "person",
+    "id": "lidian",
+    "title": "李典",
+    "sub": "好学问的曹营儒将",
+    "href": "#/people/lidian",
+    "keywords": "李典 曼成 曹魏 好学问的曹营儒将"
+  },
+  {
+    "type": "person",
+    "id": "yuejin",
+    "title": "乐进",
+    "sub": "先登陷阵的曹军先锋",
+    "href": "#/people/yuejin",
+    "keywords": "乐进 文谦 曹魏 先登陷阵的曹军先锋"
+  },
+  {
+    "type": "person",
+    "id": "xunyou",
+    "title": "荀攸",
+    "sub": "曹操军师，十二奇策的谋划者",
+    "href": "#/people/xunyou",
+    "keywords": "荀攸 公达 曹魏 曹操军师，十二奇策的谋划者"
+  },
+  {
+    "type": "person",
+    "id": "pangde",
+    "title": "庞德",
+    "sub": "抬榇决死战的樊城悍将",
+    "href": "#/people/pangde",
+    "keywords": "庞德 令明 曹魏 抬榇决死战的樊城悍将"
+  },
+  {
+    "type": "person",
+    "id": "wanglang",
+    "title": "王朗",
+    "sub": "被诸葛亮骂死于阵前的老臣（演义）",
+    "href": "#/people/wanglang",
+    "keywords": "王朗 景兴 曹魏 被诸葛亮骂死于阵前的老臣（演义）"
+  },
+  {
+    "type": "person",
+    "id": "huaxin",
+    "title": "华歆",
+    "sub": "演义中收捕伏后的魏国司徒",
+    "href": "#/people/huaxin",
+    "keywords": "华歆 子鱼 曹魏 演义中收捕伏后的魏国司徒"
+  },
+  {
+    "type": "person",
+    "id": "chenqun",
+    "title": "陈群",
+    "sub": "创九品中正制的魏臣",
+    "href": "#/people/chenqun",
+    "keywords": "陈群 长文 曹魏 创九品中正制的魏臣"
+  },
+  {
+    "type": "person",
+    "id": "chengpu",
+    "title": "程普",
+    "sub": "历仕孙氏三世的虎臣之首",
+    "href": "#/people/chengpu",
+    "keywords": "程普 德谋 孙吴 历仕孙氏三世的虎臣之首"
+  },
+  {
+    "type": "person",
+    "id": "handang",
+    "title": "韩当",
+    "sub": "三世老将，历仕孙氏",
+    "href": "#/people/handang",
+    "keywords": "韩当 义公 孙吴 三世老将，历仕孙氏"
+  },
+  {
+    "type": "person",
+    "id": "zhoutai",
+    "title": "周泰",
+    "sub": "浑身伤疤的孙权护卫",
+    "href": "#/people/zhoutai",
+    "keywords": "周泰 幼平 孙吴 浑身伤疤的孙权护卫"
+  },
+  {
+    "type": "person",
+    "id": "lingtong",
+    "title": "凌统",
+    "sub": "与甘宁有杀父之仇的江东少将",
+    "href": "#/people/lingtong",
+    "keywords": "凌统 公绩 孙吴 与甘宁有杀父之仇的江东少将"
+  },
+  {
+    "type": "person",
+    "id": "xusheng",
+    "title": "徐盛",
+    "sub": "以疑城退曹丕的江防名将",
+    "href": "#/people/xusheng",
+    "keywords": "徐盛 文向 孙吴 以疑城退曹丕的江防名将"
+  },
+  {
+    "type": "person",
+    "id": "dingfeng",
+    "title": "丁奉",
+    "sub": "雪中奋短兵的老将",
+    "href": "#/people/dingfeng",
+    "keywords": "丁奉 承渊 孙吴 雪中奋短兵的老将"
+  },
+  {
+    "type": "person",
+    "id": "guyong",
+    "title": "顾雍",
+    "sub": "寡言持重的吴国丞相",
+    "href": "#/people/guyong",
+    "keywords": "顾雍 元叹 孙吴 寡言持重的吴国丞相"
+  },
+  {
+    "type": "person",
+    "id": "zhugeke",
+    "title": "诸葛恪",
+    "sub": "聪明外露的诸葛氏权臣",
+    "href": "#/people/zhugeke",
+    "keywords": "诸葛恪 元逊 孙吴 聪明外露的诸葛氏权臣"
+  },
+  {
+    "type": "person",
+    "id": "lukang",
+    "title": "陆抗",
+    "sub": "吴国最后的名将，与羊祜对峙",
+    "href": "#/people/lukang",
+    "keywords": "陆抗 幼节 孙吴 吴国最后的名将，与羊祜对峙"
+  },
+  {
+    "type": "person",
+    "id": "panzhang",
+    "title": "潘璋",
+    "sub": "断关羽退路的麦城功臣",
+    "href": "#/people/panzhang",
+    "keywords": "潘璋 文珪 孙吴 断关羽退路的麦城功臣"
+  },
+  {
+    "type": "person",
+    "id": "zhuran",
+    "title": "朱然",
+    "sub": "守住江陵的吴将",
+    "href": "#/people/zhuran",
+    "keywords": "朱然 义封 孙吴 守住江陵的吴将"
+  },
+  {
+    "type": "person",
+    "id": "daqiao",
+    "title": "大乔",
+    "sub": "孙策之妻，桥公长女",
+    "href": "#/people/daqiao",
+    "keywords": "大乔 无 孙吴 孙策之妻，桥公长女"
+  },
+  {
+    "type": "person",
+    "id": "qiaoxiao",
+    "title": "小乔",
+    "sub": "周瑜之妻，铜雀台赋中的名字",
+    "href": "#/people/qiaoxiao",
+    "keywords": "小乔 无 孙吴 周瑜之妻，铜雀台赋中的名字"
+  },
+  {
+    "type": "person",
+    "id": "liuxie",
+    "title": "汉献帝刘协",
+    "sub": "禅位曹魏的末代汉帝",
+    "href": "#/people/liuxie",
+    "keywords": "汉献帝刘协 伯和 汉室 禅位曹魏的末代汉帝"
+  },
+  {
+    "type": "person",
+    "id": "dongcheng",
+    "title": "董承",
+    "sub": "衣带诏的主角",
+    "href": "#/people/dongcheng",
+    "keywords": "董承 无 汉室 衣带诏的主角"
+  },
+  {
+    "type": "person",
+    "id": "fuhou",
+    "title": "伏皇后",
+    "sub": "谋曹事泄的献帝皇后",
+    "href": "#/people/fuhou",
+    "keywords": "伏皇后 无 汉室 谋曹事泄的献帝皇后"
+  },
+  {
+    "type": "person",
+    "id": "wangyun",
+    "title": "王允",
+    "sub": "连环计的策划者，诛董的汉司徒",
+    "href": "#/people/wangyun",
+    "keywords": "王允 子师 群雄 连环计的策划者，诛董的汉司徒"
+  },
+  {
+    "type": "person",
+    "id": "hejin",
+    "title": "何进",
+    "sub": "召外兵入京的东汉大将军",
+    "href": "#/people/hejin",
+    "keywords": "何进 遂高 群雄 召外兵入京的东汉大将军"
+  },
+  {
+    "type": "person",
+    "id": "lijue",
+    "title": "李傕",
+    "sub": "董卓余部，乱长安",
+    "href": "#/people/lijue",
+    "keywords": "李傕 稚然 群雄 董卓余部，乱长安"
+  },
+  {
+    "type": "person",
+    "id": "guosi",
+    "title": "郭汜",
+    "sub": "与李傕相攻的董卓旧部",
+    "href": "#/people/guosi",
+    "keywords": "郭汜 无 群雄 与李傕相攻的董卓旧部"
+  },
+  {
+    "type": "person",
+    "id": "zhangxiu",
+    "title": "张绣",
+    "sub": "宛城再降再叛的北地枪王（演义）",
+    "href": "#/people/zhangxiu",
+    "keywords": "张绣 无 群雄 宛城再降再叛的北地枪王（演义）"
+  },
+  {
+    "type": "person",
+    "id": "taoqian",
+    "title": "陶谦",
+    "sub": "三让徐州的徐州牧",
+    "href": "#/people/taoqian",
+    "keywords": "陶谦 恭祖 群雄 三让徐州的徐州牧"
+  },
+  {
+    "type": "person",
+    "id": "kongrong",
+    "title": "孔融",
+    "sub": "让梨的孔融，被曹操所杀",
+    "href": "#/people/kongrong",
+    "keywords": "孔融 文举 群雄 让梨的孔融，被曹操所杀"
+  },
+  {
+    "type": "person",
+    "id": "gongsunzan",
+    "title": "公孙瓒",
+    "sub": "白马将军，据幽州",
+    "href": "#/people/gongsunzan",
+    "keywords": "公孙瓒 伯珪 群雄 白马将军，据幽州"
+  },
+  {
+    "type": "person",
+    "id": "shenpei",
+    "title": "审配",
+    "sub": "死守邺城的袁氏忠臣",
+    "href": "#/people/shenpei",
+    "keywords": "审配 正南 群雄 死守邺城的袁氏忠臣"
+  },
+  {
+    "type": "person",
+    "id": "jushou",
+    "title": "沮授",
+    "sub": "被缚仍献策的袁绍谋主",
+    "href": "#/people/jushou",
+    "keywords": "沮授 公与 群雄 被缚仍献策的袁绍谋主"
+  },
+  {
+    "type": "person",
+    "id": "xuyou",
+    "title": "许攸",
+    "sub": "夜投曹营献乌巢之策",
+    "href": "#/people/xuyou",
+    "keywords": "许攸 子远 群雄 夜投曹营献乌巢之策"
+  },
+  {
+    "type": "person",
+    "id": "gaoshun",
+    "title": "高顺",
+    "sub": "统陷阵营的吕布麾下第一将",
+    "href": "#/people/gaoshun",
+    "keywords": "高顺 无 群雄 统陷阵营的吕布麾下第一将"
+  },
+  {
+    "type": "person",
+    "id": "huangzu",
+    "title": "黄祖",
+    "sub": "射杀孙坚的江夏太守",
+    "href": "#/people/huangzu",
+    "keywords": "黄祖 无 群雄 射杀孙坚的江夏太守"
+  },
+  {
+    "type": "person",
+    "id": "hansui",
+    "title": "韩遂",
+    "sub": "与马超联军抗曹的西凉老将",
+    "href": "#/people/hansui",
+    "keywords": "韩遂 文约 群雄 与马超联军抗曹的西凉老将"
+  },
+  {
+    "type": "person",
+    "id": "mateng",
+    "title": "马腾",
+    "sub": "衣带诏署名的西凉诸侯",
+    "href": "#/people/mateng",
+    "keywords": "马腾 寿成 群雄 衣带诏署名的西凉诸侯"
+  },
+  {
+    "type": "person",
+    "id": "zhanglu",
+    "title": "张鲁",
+    "sub": "以五斗米道治汉中三十年",
+    "href": "#/people/zhanglu",
+    "keywords": "张鲁 公祺 群雄 以五斗米道治汉中三十年"
+  },
+  {
+    "type": "person",
+    "id": "huatuo",
+    "title": "华佗",
+    "sub": "刮骨疗毒的神医（演义）",
+    "href": "#/people/huatuo",
+    "keywords": "华佗 元化 群雄 刮骨疗毒的神医（演义）"
+  },
+  {
+    "type": "person",
+    "id": "zuoci",
+    "title": "左慈",
+    "sub": "掷杯戏曹操的方士",
+    "href": "#/people/zuoci",
+    "keywords": "左慈 元放 群雄 掷杯戏曹操的方士"
+  },
+  {
+    "type": "person",
+    "id": "yuji",
+    "title": "于吉",
+    "sub": "被孙策所斩的琅琊道士",
+    "href": "#/people/yuji",
+    "keywords": "于吉 无 群雄 被孙策所斩的琅琊道士"
+  },
+  {
+    "type": "person",
+    "id": "yanghu",
+    "title": "羊祜",
+    "sub": "与陆抗边境相安的晋国都督",
+    "href": "#/people/yanghu",
+    "keywords": "羊祜 叔子 西晋 与陆抗边境相安的晋国都督"
+  },
+  {
+    "type": "person",
+    "id": "wangjun",
+    "title": "王濬",
+    "sub": "楼船下益州的灭吴水军统帅",
+    "href": "#/people/wangjun",
+    "keywords": "王濬 士治 西晋 楼船下益州的灭吴水军统帅"
+  },
+  {
+    "type": "event",
+    "id": "huangjin",
+    "title": "黄巾起事",
+    "sub": "太平道聚众起事，州郡募兵，群雄由此登场。",
+    "href": "#/events/huangjin",
+    "keywords": "黄巾起事 中平元年 太平道聚众起事，州郡募兵，群雄由此登场。"
+  },
+  {
+    "type": "event",
+    "id": "taodong",
+    "title": "关东联军讨董",
+    "sub": "诸侯会盟讨董，迁都长安，联盟随即瓦解。",
+    "href": "#/events/taodong",
+    "keywords": "关东联军讨董 初平元年 诸侯会盟讨董，迁都长安，联盟随即瓦解。"
+  },
+  {
+    "type": "event",
+    "id": "guandu",
+    "title": "官渡之战",
+    "sub": "曹操以少击众，烧毁乌巢粮草，河北格局逆转。",
+    "href": "#/events/guandu",
+    "keywords": "官渡之战 建安五年 曹操以少击众，烧毁乌巢粮草，河北格局逆转。"
+  },
+  {
+    "type": "event",
+    "id": "sangu",
+    "title": "三顾茅庐 · 隆中对",
+    "sub": "刘备三访隆中，得到一份跨有荆益的天下规划。",
+    "href": "#/events/sangu",
+    "keywords": "三顾茅庐 · 隆中对 建安十二年 刘备三访隆中，得到一份跨有荆益的天下规划。"
+  },
+  {
+    "type": "event",
+    "id": "chibi",
+    "title": "赤壁之战",
+    "sub": "孙刘联军于长江中游以火攻破曹，三分之势由此成形。",
+    "href": "#/events/chibi",
+    "keywords": "赤壁之战 建安十三年 孙刘联军于长江中游以火攻破曹，三分之势由此成形。"
+  },
+  {
+    "type": "event",
+    "id": "yizhou",
+    "title": "刘备定益州",
+    "sub": "刘备入蜀收定益州，隆中对的「跨有荆益」落地。",
+    "href": "#/events/yizhou",
+    "keywords": "刘备定益州 建安十九年 刘备入蜀收定益州，隆中对的「跨有荆益」落地。"
+  },
+  {
+    "type": "event",
+    "id": "tuogu",
+    "title": "白帝城托孤",
+    "sub": "夷陵败后刘备托孤，诸葛亮独撑蜀汉全局。",
+    "href": "#/events/tuogu",
+    "keywords": "白帝城托孤 章武三年 夷陵败后刘备托孤，诸葛亮独撑蜀汉全局。"
+  },
+  {
+    "type": "event",
+    "id": "beifa",
+    "title": "诸葛亮北伐",
+    "sub": "五次北出秦岭，街亭失守，最终卒于五丈原。",
+    "href": "#/events/beifa",
+    "keywords": "诸葛亮北伐 建兴六年至十二年 五次北出秦岭，街亭失守，最终卒于五丈原。"
+  },
+  {
+    "type": "event",
+    "id": "guijin",
+    "title": "三国归晋",
+    "sub": "蜀亡、魏禅、吴降，近百年的分裂收束。",
+    "href": "#/events/guijin",
+    "keywords": "三国归晋 景耀六年至太康元年 蜀亡、魏禅、吴降，近百年的分裂收束。"
+  },
+  {
+    "type": "place",
+    "id": "zhuozhou",
+    "title": "涿郡",
+    "sub": "约今河北涿州一带",
+    "href": "#/map?place=zhuozhou",
+    "keywords": "涿郡 约今河北涿州一带"
+  },
+  {
+    "type": "place",
+    "id": "luoyang",
+    "title": "洛阳",
+    "sub": "约今河南洛阳一带",
+    "href": "#/map?place=luoyang",
+    "keywords": "洛阳 约今河南洛阳一带"
+  },
+  {
+    "type": "place",
+    "id": "changan",
+    "title": "长安",
+    "sub": "约今陕西西安一带",
+    "href": "#/map?place=changan",
+    "keywords": "长安 约今陕西西安一带"
+  },
+  {
+    "type": "place",
+    "id": "xuchang",
+    "title": "许都",
+    "sub": "约今河南许昌一带",
+    "href": "#/map?place=xuchang",
+    "keywords": "许都 约今河南许昌一带"
+  },
+  {
+    "type": "place",
+    "id": "ye",
+    "title": "邺城",
+    "sub": "约今河北临漳一带",
+    "href": "#/map?place=ye",
+    "keywords": "邺城 约今河北临漳一带"
+  },
+  {
+    "type": "place",
+    "id": "guandu",
+    "title": "官渡",
+    "sub": "约今河南中牟一带",
+    "href": "#/map?place=guandu",
+    "keywords": "官渡 约今河南中牟一带"
+  },
+  {
+    "type": "place",
+    "id": "baima",
+    "title": "白马",
+    "sub": "约今河南滑县一带",
+    "href": "#/map?place=baima",
+    "keywords": "白马 约今河南滑县一带"
+  },
+  {
+    "type": "place",
+    "id": "xiapi",
+    "title": "下邳",
+    "sub": "约今江苏睢宁一带",
+    "href": "#/map?place=xiapi",
+    "keywords": "下邳 约今江苏睢宁一带"
+  },
+  {
+    "type": "place",
+    "id": "xinye",
+    "title": "新野",
+    "sub": "约今河南新野一带",
+    "href": "#/map?place=xinye",
+    "keywords": "新野 约今河南新野一带"
+  },
+  {
+    "type": "place",
+    "id": "longzhong",
+    "title": "隆中",
+    "sub": "约今湖北襄阳一带",
+    "href": "#/map?place=longzhong",
+    "keywords": "隆中 约今湖北襄阳一带"
+  },
+  {
+    "type": "place",
+    "id": "jingzhou",
+    "title": "荆州",
+    "sub": "约今湖北一带",
+    "href": "#/map?place=jingzhou",
+    "keywords": "荆州 约今湖北一带"
+  },
+  {
+    "type": "place",
+    "id": "jiangling",
+    "title": "江陵",
+    "sub": "约今湖北荆州一带",
+    "href": "#/map?place=jiangling",
+    "keywords": "江陵 约今湖北荆州一带"
+  },
+  {
+    "type": "place",
+    "id": "xiakou",
+    "title": "夏口",
+    "sub": "约今湖北武汉一带",
+    "href": "#/map?place=xiakou",
+    "keywords": "夏口 约今湖北武汉一带"
+  },
+  {
+    "type": "place",
+    "id": "chibi",
+    "title": "赤壁",
+    "sub": "约今湖北赤壁一带",
+    "href": "#/map?place=chibi",
+    "keywords": "赤壁 约今湖北赤壁一带"
+  },
+  {
+    "type": "place",
+    "id": "wulin",
+    "title": "乌林",
+    "sub": "约今湖北洪湖一带",
+    "href": "#/map?place=wulin",
+    "keywords": "乌林 约今湖北洪湖一带"
+  },
+  {
+    "type": "place",
+    "id": "huarong",
+    "title": "华容道",
+    "sub": "约今湖北监利一带",
+    "href": "#/map?place=huarong",
+    "keywords": "华容道 约今湖北监利一带"
+  },
+  {
+    "type": "place",
+    "id": "chengdu",
+    "title": "成都",
+    "sub": "约今四川成都一带",
+    "href": "#/map?place=chengdu",
+    "keywords": "成都 约今四川成都一带"
+  },
+  {
+    "type": "place",
+    "id": "hanzhong",
+    "title": "汉中",
+    "sub": "约今陕西汉中一带",
+    "href": "#/map?place=hanzhong",
+    "keywords": "汉中 约今陕西汉中一带"
+  },
+  {
+    "type": "place",
+    "id": "nanzheng",
+    "title": "南郑",
+    "sub": "约今陕西汉中一带",
+    "href": "#/map?place=nanzheng",
+    "keywords": "南郑 约今陕西汉中一带"
+  },
+  {
+    "type": "place",
+    "id": "jieting",
+    "title": "街亭",
+    "sub": "约今甘肃秦安一带",
+    "href": "#/map?place=jieting",
+    "keywords": "街亭 约今甘肃秦安一带"
+  },
+  {
+    "type": "place",
+    "id": "wuzhangyuan",
+    "title": "五丈原",
+    "sub": "约今陕西岐山一带",
+    "href": "#/map?place=wuzhangyuan",
+    "keywords": "五丈原 约今陕西岐山一带"
+  },
+  {
+    "type": "place",
+    "id": "jianye",
+    "title": "建业",
+    "sub": "约今江苏南京一带",
+    "href": "#/map?place=jianye",
+    "keywords": "建业 约今江苏南京一带"
+  },
+  {
+    "type": "source",
+    "id": "src-taoyuan",
+    "title": "桃园结义",
+    "sub": "《三国演义》第一回",
+    "href": "#/sources?focus=src-taoyuan",
+    "keywords": "桃园结义 《三国演义》第一回 正史仅载三人「恩若兄弟」，并无结义誓词与桃园场面。 演义"
+  },
+  {
+    "type": "source",
+    "id": "src-sanying",
+    "title": "三英战吕布",
+    "sub": "《三国演义》第五回",
+    "href": "#/sources?focus=src-sanying",
+    "keywords": "三英战吕布 《三国演义》第五回 虎牢关前的这场单挑出自小说；正史中讨董战事另有脉络。 演义"
+  },
+  {
+    "type": "source",
+    "id": "src-sangu",
+    "title": "三顾茅庐",
+    "sub": "《三国志·诸葛亮传》",
+    "href": "#/sources?focus=src-sangu",
+    "keywords": "三顾茅庐 《三国志·诸葛亮传》 诸葛亮《出师表》亦自述「三顾臣于草庐之中」，两处可互证。 正史"
+  },
+  {
+    "type": "source",
+    "id": "src-longzhong",
+    "title": "隆中对",
+    "sub": "《三国志·诸葛亮传》",
+    "href": "#/sources?focus=src-longzhong",
+    "keywords": "隆中对 《三国志·诸葛亮传》 这是全书后半部局势的蓝图，也是判断「后来有没有走偏」的基准。 正史"
+  },
+  {
+    "type": "source",
+    "id": "src-shezhan",
+    "title": "舌战群儒",
+    "sub": "《三国演义》第四十三回",
+    "href": "#/sources?focus=src-shezhan",
+    "keywords": "舌战群儒 《三国演义》第四十三回 正史只载诸葛亮使吴、孙权决计抗曹，未载朝堂辩难。 演义"
+  },
+  {
+    "type": "source",
+    "id": "src-jizhouyu",
+    "title": "智激周瑜",
+    "sub": "《三国演义》第四十四回",
+    "href": "#/sources?focus=src-jizhouyu",
+    "keywords": "智激周瑜 《三国演义》第四十四回 小说为加强戏剧性所设；周瑜主战本于形势判断。 演义"
+  },
+  {
+    "type": "source",
+    "id": "src-caochuan",
+    "title": "草船借箭",
+    "sub": "《三国演义》第四十六回",
+    "href": "#/sources?focus=src-caochuan",
+    "keywords": "草船借箭 《三国演义》第四十六回 正史无此事；《三国志·吴主传》裴注载孙权濡须受箭，情节相近而主角不同。 演义"
+  },
+  {
+    "type": "source",
+    "id": "src-kugurou",
+    "title": "苦肉计",
+    "sub": "《三国演义》第四十六回",
+    "href": "#/sources?focus=src-kugurou",
+    "keywords": "苦肉计 《三国演义》第四十六回 正史载黄盖诈降与火攻，未载当众受刑。 演义"
+  },
+  {
+    "type": "source",
+    "id": "src-jiefeng",
+    "title": "七星坛借东风",
+    "sub": "《三国演义》第四十九回",
+    "href": "#/sources?focus=src-jiefeng",
+    "keywords": "七星坛借东风 《三国演义》第四十九回 祭风为虚构；建安十三年冬季偶有东南风，见于火攻记载的背景。小说、正史、传说须分开看。 传说"
+  },
+  {
+    "type": "source",
+    "id": "src-huogong",
+    "title": "赤壁火攻",
+    "sub": "《三国志·周瑜传》",
+    "href": "#/sources?focus=src-huogong",
+    "keywords": "赤壁火攻 《三国志·周瑜传》 火攻、诈降与曹军疫病均有史料依据，主将为周瑜。 正史"
+  },
+  {
+    "type": "source",
+    "id": "src-huarong",
+    "title": "义释曹操",
+    "sub": "《三国演义》第五十回",
+    "href": "#/sources?focus=src-huarong",
+    "keywords": "义释曹操 《三国演义》第五十回 正史有曹操经华容道撤退、道遇泥泞的记载，无关羽放行一节。 演义"
+  },
+  {
+    "type": "source",
+    "id": "src-yizhou",
+    "title": "刘备定益州",
+    "sub": "《三国志·先主传》",
+    "href": "#/sources?focus=src-yizhou",
+    "keywords": "刘备定益州 《三国志·先主传》 「跨有荆益」由此落地，也埋下两线难以相顾的隐患。 正史"
+  },
+  {
+    "type": "source",
+    "id": "src-tuogu",
+    "title": "白帝托孤",
+    "sub": "《三国志·诸葛亮传》",
+    "href": "#/sources?focus=src-tuogu",
+    "keywords": "白帝托孤 《三国志·诸葛亮传》 章武三年，刘备病笃于永安宫，托孤于诸葛亮。 正史"
+  },
+  {
+    "type": "source",
+    "id": "src-guiyi",
+    "title": "三国归晋",
+    "sub": "《晋书·王濬传》",
+    "href": "#/sources?focus=src-guiyi",
+    "keywords": "三国归晋 《晋书·王濬传》 太康元年吴亡，全书结于「合久必分，分久必合」。 正史"
+  },
+  {
+    "type": "source",
+    "id": "src-qiqin",
+    "title": "七擒孟获",
+    "sub": "裴松之注引《汉晋春秋》",
+    "href": "#/sources?focus=src-qiqin",
+    "keywords": "七擒孟获 裴松之注引《汉晋春秋》 见于裴注所引，并非《三国志》陈寿正文，宜标为「后世记载／传说层」。 传说"
+  },
+  {
+    "type": "source",
+    "id": "src-diaochan",
+    "title": "貂蝉与连环计",
+    "sub": "《三国演义》第八回、后世戏曲",
+    "href": "#/sources?focus=src-diaochan",
+    "keywords": "貂蝉与连环计 《三国演义》第八回、后世戏曲 正史无貂蝉其人，仅载董卓侍婢与吕布私通之事。 传说"
+  },
+  {
+    "type": "source",
+    "id": "src-huaxiong",
+    "title": "温酒斩华雄",
+    "sub": "《三国演义》第五回",
+    "href": "#/sources?focus=src-huaxiong",
+    "keywords": "温酒斩华雄 《三国演义》第五回 正史中华雄为孙坚所斩，小说移作关羽立名之战。 演义"
+  },
+  {
+    "type": "source",
+    "id": "src-kongcheng",
+    "title": "空城计",
+    "sub": "《三国演义》第九十五回",
+    "href": "#/sources?focus=src-kongcheng",
+    "keywords": "空城计 《三国演义》第九十五回 正史无此事，且与司马懿当时所在不合；属典型的小说层内容。 演义"
+  },
+  {
+    "type": "source",
+    "id": "src-bian",
+    "title": "怒鞭督邮",
+    "sub": "《三国演义》第二回",
+    "href": "#/sources?focus=src-bian",
+    "keywords": "怒鞭督邮 《三国演义》第二回 正史里缚督邮、杖二百的是刘备本人，见《先主传》注引《典略》；演义把火爆让给了张飞。 演义"
+  },
+  {
+    "type": "source",
+    "id": "src-rangzhou",
+    "title": "陶谦让徐州",
+    "sub": "《三国志·先主传》",
+    "href": "#/sources?focus=src-rangzhou",
+    "keywords": "陶谦让徐州 《三国志·先主传》 「三让」的反复是小说节奏，让州之意见于正史。 正史"
+  },
+  {
+    "type": "source",
+    "id": "src-sheji",
+    "title": "辕门射戟",
+    "sub": "《三国演义》第十六回",
+    "href": "#/sources?focus=src-sheji",
+    "keywords": "辕门射戟 《三国演义》第十六回 射戟解斗亦见《吕布传》，营门立戟的场面为演义敷演。 演义"
+  },
+  {
+    "type": "source",
+    "id": "src-baimen",
+    "title": "白门楼",
+    "sub": "《三国志·吕布传》",
+    "href": "#/sources?focus=src-baimen",
+    "keywords": "白门楼 《三国志·吕布传》 曹操杀吕布的判断依据；演义中刘备一句提醒定其死。 正史"
+  },
+  {
+    "type": "source",
+    "id": "src-yingxiong",
+    "title": "煮酒论英雄",
+    "sub": "《三国演义》第二十一回",
+    "href": "#/sources?focus=src-yingxiong",
+    "keywords": "煮酒论英雄 《三国演义》第二十一回 「唯使君与操耳」语出《先主传》，青梅煮酒的场面为演义敷演。 演义"
+  },
+  {
+    "type": "source",
+    "id": "src-cima",
+    "title": "白马刺颜良",
+    "sub": "《三国志·关羽传》",
+    "href": "#/sources?focus=src-cima",
+    "keywords": "白马刺颜良 《三国志·关羽传》 万军斩将是正史明载的战绩。 正史"
+  },
+  {
+    "type": "source",
+    "id": "src-yishi",
+    "title": "义释黄忠",
+    "sub": "《三国演义》第五十三回",
+    "href": "#/sources?focus=src-yishi",
+    "keywords": "义释黄忠 《三国演义》第五十三回 长沙之争为演义创作；正史载黄忠随太守韩玄同降，并无大战。 演义"
+  },
+  {
+    "type": "source",
+    "id": "src-danyi",
+    "title": "单刀赴会",
+    "sub": "《三国演义》第六十六回",
+    "href": "#/sources?focus=src-danyi",
+    "keywords": "单刀赴会 《三国演义》第六十六回 正史亦有单刀会，见《鲁肃传》，双方各带单刀，义正辞严者是鲁肃。 演义"
+  },
+  {
+    "type": "source",
+    "id": "src-baiqi",
+    "title": "百骑劫营",
+    "sub": "《三国演义》第六十八回",
+    "href": "#/sources?focus=src-baiqi",
+    "keywords": "百骑劫营 《三国演义》第六十八回 百骑劫营为演义敷演；甘宁胆略见于《甘宁传》。 演义"
+  },
+  {
+    "type": "source",
+    "id": "src-qijun",
+    "title": "水淹七军",
+    "sub": "《三国志·关羽传》",
+    "href": "#/sources?focus=src-qijun",
+    "keywords": "水淹七军 《三国志·关羽传》 水淹依赖天时；「威震华夏」由此而来。 正史"
+  },
+  {
+    "type": "source",
+    "id": "src-maicheng",
+    "title": "败走麦城",
+    "sub": "《三国志·吕蒙传》",
+    "href": "#/sources?focus=src-maicheng",
+    "keywords": "败走麦城 《三国志·吕蒙传》 白衣渡江后荆州易手，关羽于临沮遇难。 正史"
+  },
+  {
+    "type": "source",
+    "id": "src-yuquan",
+    "title": "玉泉山显圣",
+    "sub": "《三国演义》第七十七回、民间信仰",
+    "href": "#/sources?focus=src-yuquan",
+    "keywords": "玉泉山显圣 《三国演义》第七十七回、民间信仰 显圣属演义与民间信仰层；正史止于临沮之难。 传说"
+  }
+]

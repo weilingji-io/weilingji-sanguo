@@ -1,0 +1,1661 @@
+{
+  "places": [
+    {
+      "id": "zhuozhou",
+      "name": "涿郡",
+      "modern": "约今河北涿州一带",
+      "x": 63,
+      "y": 22,
+      "kind": "城邑"
+    },
+    {
+      "id": "luoyang",
+      "name": "洛阳",
+      "modern": "约今河南洛阳一带",
+      "x": 48,
+      "y": 36,
+      "kind": "都城"
+    },
+    {
+      "id": "changan",
+      "name": "长安",
+      "modern": "约今陕西西安一带",
+      "x": 36,
+      "y": 38,
+      "kind": "都城"
+    },
+    {
+      "id": "xuchang",
+      "name": "许都",
+      "modern": "约今河南许昌一带",
+      "x": 55,
+      "y": 43,
+      "kind": "都城"
+    },
+    {
+      "id": "ye",
+      "name": "邺城",
+      "modern": "约今河北临漳一带",
+      "x": 59,
+      "y": 27,
+      "kind": "都城"
+    },
+    {
+      "id": "guandu",
+      "name": "官渡",
+      "modern": "约今河南中牟一带",
+      "x": 56,
+      "y": 37,
+      "kind": "战场"
+    },
+    {
+      "id": "baima",
+      "name": "白马",
+      "modern": "约今河南滑县一带",
+      "x": 59,
+      "y": 34,
+      "kind": "战场"
+    },
+    {
+      "id": "xiapi",
+      "name": "下邳",
+      "modern": "约今江苏睢宁一带",
+      "x": 69,
+      "y": 47,
+      "kind": "城邑"
+    },
+    {
+      "id": "xinye",
+      "name": "新野",
+      "modern": "约今河南新野一带",
+      "x": 51,
+      "y": 55,
+      "kind": "城邑"
+    },
+    {
+      "id": "longzhong",
+      "name": "隆中",
+      "modern": "约今湖北襄阳一带",
+      "x": 47,
+      "y": 58,
+      "kind": "隐居地"
+    },
+    {
+      "id": "jingzhou",
+      "name": "荆州",
+      "modern": "约今湖北一带",
+      "x": 54,
+      "y": 63,
+      "kind": "州郡"
+    },
+    {
+      "id": "jiangling",
+      "name": "江陵",
+      "modern": "约今湖北荆州一带",
+      "x": 54,
+      "y": 66,
+      "kind": "城邑"
+    },
+    {
+      "id": "xiakou",
+      "name": "夏口",
+      "modern": "约今湖北武汉一带",
+      "x": 62,
+      "y": 65,
+      "kind": "城邑"
+    },
+    {
+      "id": "chibi",
+      "name": "赤壁",
+      "modern": "约今湖北赤壁一带",
+      "x": 60,
+      "y": 71,
+      "kind": "战场"
+    },
+    {
+      "id": "wulin",
+      "name": "乌林",
+      "modern": "约今湖北洪湖一带",
+      "x": 58,
+      "y": 69,
+      "kind": "战场"
+    },
+    {
+      "id": "huarong",
+      "name": "华容道",
+      "modern": "约今湖北监利一带",
+      "x": 56,
+      "y": 72,
+      "kind": "道路"
+    },
+    {
+      "id": "chengdu",
+      "name": "成都",
+      "modern": "约今四川成都一带",
+      "x": 27,
+      "y": 66,
+      "kind": "都城"
+    },
+    {
+      "id": "hanzhong",
+      "name": "汉中",
+      "modern": "约今陕西汉中一带",
+      "x": 35,
+      "y": 51,
+      "kind": "州郡"
+    },
+    {
+      "id": "nanzheng",
+      "name": "南郑",
+      "modern": "约今陕西汉中一带",
+      "x": 34,
+      "y": 52,
+      "kind": "城邑"
+    },
+    {
+      "id": "jieting",
+      "name": "街亭",
+      "modern": "约今甘肃秦安一带",
+      "x": 29,
+      "y": 41,
+      "kind": "战场"
+    },
+    {
+      "id": "wuzhangyuan",
+      "name": "五丈原",
+      "modern": "约今陕西岐山一带",
+      "x": 33,
+      "y": 43,
+      "kind": "战场"
+    },
+    {
+      "id": "jianye",
+      "name": "建业",
+      "modern": "约今江苏南京一带",
+      "x": 73,
+      "y": 59,
+      "kind": "都城"
+    }
+  ],
+  "events": [
+    {
+      "id": "huangjin",
+      "name": "黄巾起事",
+      "fromYear": 184,
+      "toYear": 184,
+      "era": "中平元年",
+      "placeIds": [
+        "luoyang",
+        "ye",
+        "zhuozhou"
+      ],
+      "chapterIds": [
+        "001"
+      ],
+      "summary": "太平道聚众起事，州郡募兵，群雄由此登场。",
+      "phases": {
+        "cause": "宦官外戚相争、连年灾疫，民心思变。",
+        "process": "张角兄弟以太平道聚众，八州并起；朝廷募义兵镇压。",
+        "result": "张角病死，主力溃散，但地方募兵与豪强武装从此坐大。"
+      },
+      "viewpoints": [
+        {
+          "personId": "liubei",
+          "text": "我等在涿郡募兵，所恃者唯人和与一纸汉室名分。"
+        },
+        {
+          "personId": "zhangjiao",
+          "text": "苍天已死，黄天当立；只是这一年之后，天下再无太平。"
+        }
+      ]
+    },
+    {
+      "id": "taodong",
+      "name": "关东联军讨董",
+      "fromYear": 190,
+      "toYear": 190,
+      "era": "初平元年",
+      "placeIds": [
+        "luoyang",
+        "changan"
+      ],
+      "chapterIds": [
+        "005"
+      ],
+      "summary": "诸侯会盟讨董，迁都长安，联盟随即瓦解。",
+      "phases": {
+        "cause": "董卓入洛阳废立、专擅朝政。",
+        "process": "曹操发矫诏，关东诸郡会盟；董卓焚洛阳，迁都长安。",
+        "result": "盟军各怀异心，各自引兵归，转为群雄割据。"
+      },
+      "viewpoints": [
+        {
+          "personId": "caocao",
+          "text": "诸君迟疑不进，我只好独自西向；此后不再指望盟约。"
+        },
+        {
+          "personId": "yuanshao",
+          "text": "盟主之名好听，可谁先出兵，谁先耗掉自己的兵。"
+        }
+      ]
+    },
+    {
+      "id": "guandu",
+      "name": "官渡之战",
+      "fromYear": 200,
+      "toYear": 200,
+      "era": "建安五年",
+      "placeIds": [
+        "guandu",
+        "baima",
+        "ye",
+        "xuchang"
+      ],
+      "chapterIds": [
+        "030"
+      ],
+      "summary": "曹操以少击众，烧毁乌巢粮草，河北格局逆转。",
+      "phases": {
+        "cause": "袁绍据四州南下，曹操迎天子都许，双方必有一战。",
+        "process": "相持官渡数月，曹操夜袭乌巢，焚袁军粮草。",
+        "result": "袁绍大败，两年后病死；曹操逐步平定河北。"
+      },
+      "viewpoints": [
+        {
+          "personId": "caocao",
+          "text": "粮草一断，兵多也无用；我所赌的，是他不敢分兵救乌巢。"
+        },
+        {
+          "personId": "yuanshao",
+          "text": "田丰劝我缓攻，我不听；后来才知慢一年，赢面会大得多。"
+        }
+      ]
+    },
+    {
+      "id": "sangu",
+      "name": "三顾茅庐 · 隆中对",
+      "fromYear": 207,
+      "toYear": 207,
+      "era": "建安十二年",
+      "placeIds": [
+        "xinye",
+        "longzhong"
+      ],
+      "chapterIds": [
+        "037",
+        "038"
+      ],
+      "summary": "刘备三访隆中，得到一份跨有荆益的天下规划。",
+      "phases": {
+        "cause": "刘备寄居荆州，屡失根据地，急需一条明确路线。",
+        "process": "司马徽、徐庶荐诸葛亮，刘备凡三往乃见。",
+        "result": "隆中对定下先荆后益、两路北伐的方略。"
+      },
+      "viewpoints": [
+        {
+          "personId": "liubei",
+          "text": "我缺的不是勇气，是一张能走十年的地图。"
+        },
+        {
+          "personId": "zhugeliang",
+          "text": "隆中不过二十七岁的一席话；前提是要有人肯等三次。"
+        }
+      ]
+    },
+    {
+      "id": "chibi",
+      "name": "赤壁之战",
+      "fromYear": 208,
+      "toYear": 208,
+      "era": "建安十三年",
+      "placeIds": [
+        "jingzhou",
+        "xiakou",
+        "chibi",
+        "wulin",
+        "huarong",
+        "jiangling"
+      ],
+      "chapterIds": [
+        "043",
+        "044",
+        "046",
+        "049",
+        "050"
+      ],
+      "summary": "孙刘联军于长江中游以火攻破曹，三分之势由此成形。",
+      "phases": {
+        "cause": "曹操南下得荆州，顺江东进；孙权在战和之间，刘备退守夏口。",
+        "process": "诸葛亮使吴、周瑜统兵；黄盖火船乘东南风突入曹军水寨，战船连锁难以散开。",
+        "result": "曹军北撤，孙权稳据江东，刘备趁势取荆南，天下三分的雏形出现。"
+      },
+      "viewpoints": [
+        {
+          "personId": "caocao",
+          "text": "北方之兵不习水战，疫病又起；把船锁在一起本是稳军心，却成了最大的破绽。"
+        },
+        {
+          "personId": "zhouyu",
+          "text": "我算的不是东风，是曹军的水战短板、粮道与疫病；火只是最后一步。"
+        },
+        {
+          "personId": "liubei",
+          "text": "此战之后我才有立足之地；此前的二十年，一直在借别人的屋檐。"
+        },
+        {
+          "personId": "zhugeliang",
+          "text": "我此行只做了一件事：让江东相信，抵抗比归附更划算。"
+        }
+      ],
+      "highlight": true
+    },
+    {
+      "id": "yizhou",
+      "name": "刘备定益州",
+      "fromYear": 212,
+      "toYear": 214,
+      "era": "建安十九年",
+      "placeIds": [
+        "chengdu",
+        "hanzhong",
+        "jingzhou"
+      ],
+      "chapterIds": [
+        "065"
+      ],
+      "summary": "刘备入蜀收定益州，隆中对的「跨有荆益」落地。",
+      "phases": {
+        "cause": "刘璋邀刘备入蜀御张鲁，双方终至兵戎相见。",
+        "process": "诸葛亮、张飞溯江入蜀，刘备围成都，刘璋出降。",
+        "result": "刘备自领益州牧，同时守荆州与益州的长线也就此成形。"
+      },
+      "viewpoints": [
+        {
+          "personId": "liubei",
+          "text": "有了益州，才有资格谈天下；可荆州与益州之间，隔着太远的路。"
+        },
+        {
+          "personId": "zhugeliang",
+          "text": "两路出兵的前提是两路都稳，这条线后来成了最脆弱的一环。"
+        }
+      ]
+    },
+    {
+      "id": "tuogu",
+      "name": "白帝城托孤",
+      "fromYear": 223,
+      "toYear": 223,
+      "era": "章武三年",
+      "placeIds": [
+        "chengdu",
+        "jingzhou"
+      ],
+      "chapterIds": [
+        "085"
+      ],
+      "summary": "夷陵败后刘备托孤，诸葛亮独撑蜀汉全局。",
+      "phases": {
+        "cause": "夷陵大败，刘备退驻永安，病势日重。",
+        "process": "召诸葛亮托孤，嘱以嗣子与国事。",
+        "result": "刘禅即位，诸葛亮开府治事，重新修复与吴的联盟。"
+      },
+      "viewpoints": [
+        {
+          "personId": "liubei",
+          "text": "我把话说得那样重，是因为除了他，再无人能接住这局面。"
+        },
+        {
+          "personId": "zhugeliang",
+          "text": "草庐里我讲十年规划，如今要一个人把往后十一年都扛下来。"
+        }
+      ]
+    },
+    {
+      "id": "beifa",
+      "name": "诸葛亮北伐",
+      "fromYear": 228,
+      "toYear": 234,
+      "era": "建兴六年至十二年",
+      "placeIds": [
+        "hanzhong",
+        "jieting",
+        "wuzhangyuan"
+      ],
+      "chapterIds": [
+        "095",
+        "104"
+      ],
+      "summary": "五次北出秦岭，街亭失守，最终卒于五丈原。",
+      "phases": {
+        "cause": "蜀汉以一州之力抗中原，若不北出，强弱只会更悬。",
+        "process": "一出祁山，马谡失街亭；此后数出，粮运不继，与司马懿对峙渭南。",
+        "result": "建兴十二年卒于五丈原，蜀汉转入守势。"
+      },
+      "viewpoints": [
+        {
+          "personId": "zhugeliang",
+          "text": "粮道比谋略更难；每一次退兵，都不是因为算错，而是因为运不到。"
+        },
+        {
+          "personId": "simayi",
+          "text": "我只需守住不出，等他的粮尽。"
+        }
+      ]
+    },
+    {
+      "id": "guijin",
+      "name": "三国归晋",
+      "fromYear": 263,
+      "toYear": 280,
+      "era": "景耀六年至太康元年",
+      "placeIds": [
+        "chengdu",
+        "luoyang",
+        "jianye"
+      ],
+      "chapterIds": [
+        "119",
+        "120"
+      ],
+      "summary": "蜀亡、魏禅、吴降，近百年的分裂收束。",
+      "phases": {
+        "cause": "魏国国力远胜，蜀吴相继内耗。",
+        "process": "邓艾入成都，司马炎代魏建晋，王濬楼船顺江东下。",
+        "result": "孙皓出降，三分归一。"
+      },
+      "viewpoints": [
+        {
+          "personId": "simayan",
+          "text": "天下大势，合久必分，分久必合；我不过站在最后一段上。"
+        },
+        {
+          "personId": "sunhao",
+          "text": "江险仍在，只是守江的人已经不齐了。"
+        }
+      ]
+    }
+  ],
+  "timeline": [
+    {
+      "year": 184,
+      "era": "中平元年",
+      "title": "黄巾起事",
+      "eventId": "huangjin",
+      "placeIds": [
+        "luoyang",
+        "ye"
+      ]
+    },
+    {
+      "year": 189,
+      "era": "中平六年",
+      "title": "董卓入洛阳，废少帝",
+      "eventId": "taodong",
+      "placeIds": [
+        "luoyang"
+      ]
+    },
+    {
+      "year": 190,
+      "era": "初平元年",
+      "title": "关东联军讨董，迁都长安",
+      "eventId": "taodong",
+      "placeIds": [
+        "luoyang",
+        "changan"
+      ]
+    },
+    {
+      "year": 191,
+      "era": "初平二年",
+      "title": "孙坚破董卓，袁绍据冀州",
+      "placeIds": [
+        "luoyang",
+        "ye"
+      ]
+    },
+    {
+      "year": 192,
+      "era": "初平三年",
+      "title": "王允诛董卓",
+      "placeIds": [
+        "changan"
+      ]
+    },
+    {
+      "year": 194,
+      "era": "兴平元年",
+      "title": "孙策渡江，吕布入兖州",
+      "placeIds": [
+        "jianye",
+        "xuchang"
+      ]
+    },
+    {
+      "year": 196,
+      "era": "建安元年",
+      "title": "曹操迎天子都许",
+      "placeIds": [
+        "xuchang",
+        "luoyang"
+      ]
+    },
+    {
+      "year": 197,
+      "era": "建安二年",
+      "title": "袁术称帝，宛城之败",
+      "placeIds": [
+        "xuchang"
+      ]
+    },
+    {
+      "year": 198,
+      "era": "建安三年",
+      "title": "白门楼擒吕布",
+      "placeIds": [
+        "xiapi"
+      ]
+    },
+    {
+      "year": 199,
+      "era": "建安四年",
+      "title": "刘备离许都，据徐州",
+      "placeIds": [
+        "xuchang",
+        "xiapi"
+      ]
+    },
+    {
+      "year": 200,
+      "era": "建安五年",
+      "title": "官渡之战，孙策遇刺",
+      "eventId": "guandu",
+      "placeIds": [
+        "guandu",
+        "baima",
+        "ye"
+      ]
+    },
+    {
+      "year": 201,
+      "era": "建安六年",
+      "title": "刘备奔荆州，屯新野",
+      "placeIds": [
+        "xinye",
+        "jingzhou"
+      ]
+    },
+    {
+      "year": 202,
+      "era": "建安七年",
+      "title": "袁绍卒，诸子相争",
+      "placeIds": [
+        "ye"
+      ]
+    },
+    {
+      "year": 204,
+      "era": "建安九年",
+      "title": "曹操克邺城",
+      "placeIds": [
+        "ye"
+      ]
+    },
+    {
+      "year": 207,
+      "era": "建安十二年",
+      "title": "三顾茅庐，隆中对",
+      "eventId": "sangu",
+      "placeIds": [
+        "longzhong",
+        "xinye"
+      ]
+    },
+    {
+      "year": 208,
+      "era": "建安十三年",
+      "title": "赤壁之战",
+      "eventId": "chibi",
+      "placeIds": [
+        "chibi",
+        "wulin",
+        "huarong"
+      ]
+    },
+    {
+      "year": 209,
+      "era": "建安十四年",
+      "title": "周瑜取江陵，刘备据荆南",
+      "placeIds": [
+        "jiangling",
+        "jingzhou"
+      ]
+    },
+    {
+      "year": 210,
+      "era": "建安十五年",
+      "title": "周瑜卒，鲁肃领其众",
+      "placeIds": [
+        "jianye"
+      ]
+    },
+    {
+      "year": 211,
+      "era": "建安十六年",
+      "title": "潼关之战，刘备入蜀",
+      "eventId": "yizhou",
+      "placeIds": [
+        "changan",
+        "chengdu"
+      ]
+    },
+    {
+      "year": 212,
+      "era": "建安十七年",
+      "title": "孙权徙治建业，刘备与刘璋决裂",
+      "placeIds": [
+        "jianye",
+        "chengdu"
+      ]
+    },
+    {
+      "year": 214,
+      "era": "建安十九年",
+      "title": "刘备定益州",
+      "eventId": "yizhou",
+      "placeIds": [
+        "chengdu"
+      ]
+    },
+    {
+      "year": 215,
+      "era": "建安二十年",
+      "title": "张辽逍遥津，单刀会",
+      "placeIds": [
+        "jianye",
+        "jingzhou"
+      ]
+    },
+    {
+      "year": 217,
+      "era": "建安二十二年",
+      "title": "汉中之战起，鲁肃卒",
+      "placeIds": [
+        "hanzhong"
+      ]
+    },
+    {
+      "year": 219,
+      "era": "建安二十四年",
+      "title": "刘备称汉中王，关羽败亡",
+      "placeIds": [
+        "hanzhong",
+        "jingzhou",
+        "jiangling"
+      ]
+    },
+    {
+      "year": 220,
+      "era": "延康元年",
+      "title": "曹操卒，曹丕代汉称帝",
+      "placeIds": [
+        "luoyang",
+        "ye"
+      ]
+    },
+    {
+      "year": 221,
+      "era": "章武元年",
+      "title": "刘备称帝，伐吴",
+      "placeIds": [
+        "chengdu"
+      ]
+    },
+    {
+      "year": 222,
+      "era": "章武二年",
+      "title": "夷陵之战，陆逊火攻",
+      "placeIds": [
+        "jingzhou",
+        "jiangling"
+      ]
+    },
+    {
+      "year": 223,
+      "era": "章武三年",
+      "title": "白帝托孤",
+      "eventId": "tuogu",
+      "placeIds": [
+        "chengdu"
+      ]
+    },
+    {
+      "year": 225,
+      "era": "建兴三年",
+      "title": "南中平定，七擒孟获见裴注",
+      "placeIds": [
+        "chengdu"
+      ]
+    },
+    {
+      "year": 227,
+      "era": "建兴五年",
+      "title": "出师表，进驻汉中",
+      "placeIds": [
+        "hanzhong"
+      ]
+    },
+    {
+      "year": 228,
+      "era": "建兴六年",
+      "title": "第一次北伐，街亭失守",
+      "eventId": "beifa",
+      "placeIds": [
+        "jieting",
+        "hanzhong"
+      ]
+    },
+    {
+      "year": 229,
+      "era": "黄龙元年",
+      "title": "孙权称帝，迁都建业",
+      "placeIds": [
+        "jianye"
+      ]
+    },
+    {
+      "year": 231,
+      "era": "建兴九年",
+      "title": "第四次北伐，木牛流马",
+      "placeIds": [
+        "hanzhong",
+        "wuzhangyuan"
+      ]
+    },
+    {
+      "year": 234,
+      "era": "建兴十二年",
+      "title": "诸葛亮卒于五丈原",
+      "eventId": "beifa",
+      "placeIds": [
+        "wuzhangyuan"
+      ]
+    },
+    {
+      "year": 249,
+      "era": "嘉平元年",
+      "title": "高平陵之变，司马氏掌魏政",
+      "placeIds": [
+        "luoyang"
+      ]
+    },
+    {
+      "year": 263,
+      "era": "景耀六年",
+      "title": "邓艾入成都，蜀汉亡",
+      "eventId": "guijin",
+      "placeIds": [
+        "chengdu"
+      ]
+    },
+    {
+      "year": 265,
+      "era": "咸熙二年",
+      "title": "司马炎代魏建晋",
+      "eventId": "guijin",
+      "placeIds": [
+        "luoyang"
+      ]
+    },
+    {
+      "year": 280,
+      "era": "太康元年",
+      "title": "孙皓出降，三国归晋",
+      "eventId": "guijin",
+      "placeIds": [
+        "jianye",
+        "luoyang"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "src-taoyuan",
+      "type": "演义",
+      "title": "桃园结义",
+      "ref": "《三国演义》第一回",
+      "quote": "不求同年同月同日生，只愿同年同月同日死。",
+      "note": "正史仅载三人「恩若兄弟」，并无结义誓词与桃园场面。",
+      "chapters": [
+        "001"
+      ],
+      "tags": [
+        "第1回"
+      ]
+    },
+    {
+      "id": "src-sanying",
+      "type": "演义",
+      "title": "三英战吕布",
+      "ref": "《三国演义》第五回",
+      "quote": "三人围绕吕布，转灯儿般厮杀。",
+      "note": "虎牢关前的这场单挑出自小说；正史中讨董战事另有脉络。",
+      "chapters": [
+        "005"
+      ],
+      "tags": [
+        "第5回"
+      ]
+    },
+    {
+      "id": "src-sangu",
+      "type": "正史",
+      "title": "三顾茅庐",
+      "ref": "《三国志·诸葛亮传》",
+      "quote": "凡三往，乃见。",
+      "note": "诸葛亮《出师表》亦自述「三顾臣于草庐之中」，两处可互证。",
+      "chapters": [
+        "037"
+      ],
+      "tags": [
+        "诸葛亮传",
+        "出师表"
+      ]
+    },
+    {
+      "id": "src-longzhong",
+      "type": "正史",
+      "title": "隆中对",
+      "ref": "《三国志·诸葛亮传》",
+      "quote": "跨有荆益，保其岩阻，西和诸戎，南抚夷越。",
+      "note": "这是全书后半部局势的蓝图，也是判断「后来有没有走偏」的基准。",
+      "chapters": [
+        "038"
+      ],
+      "tags": [
+        "诸葛亮传"
+      ]
+    },
+    {
+      "id": "src-shezhan",
+      "type": "演义",
+      "title": "舌战群儒",
+      "ref": "《三国演义》第四十三回",
+      "quote": "（诸葛亮）一一应答，众皆失色。",
+      "note": "正史只载诸葛亮使吴、孙权决计抗曹，未载朝堂辩难。",
+      "chapters": [
+        "043"
+      ],
+      "tags": [
+        "第43回"
+      ]
+    },
+    {
+      "id": "src-jizhouyu",
+      "type": "演义",
+      "title": "智激周瑜",
+      "ref": "《三国演义》第四十四回",
+      "quote": "（孔明）诵曹植《铜雀台赋》以激之。",
+      "note": "小说为加强戏剧性所设；周瑜主战本于形势判断。",
+      "chapters": [
+        "044"
+      ],
+      "tags": [
+        "第44回"
+      ]
+    },
+    {
+      "id": "src-caochuan",
+      "type": "演义",
+      "title": "草船借箭",
+      "ref": "《三国演义》第四十六回",
+      "quote": "（孔明）命将草船拽回，箭已满矣。",
+      "note": "正史无此事；《三国志·吴主传》裴注载孙权濡须受箭，情节相近而主角不同。",
+      "chapters": [
+        "046"
+      ],
+      "tags": [
+        "第46回"
+      ]
+    },
+    {
+      "id": "src-kugurou",
+      "type": "演义",
+      "title": "苦肉计",
+      "ref": "《三国演义》第四十六回",
+      "quote": "（黄盖）愿受责打，以取曹操之信。",
+      "note": "正史载黄盖诈降与火攻，未载当众受刑。",
+      "chapters": [
+        "046"
+      ],
+      "tags": [
+        "第46回"
+      ]
+    },
+    {
+      "id": "src-jiefeng",
+      "type": "传说",
+      "title": "七星坛借东风",
+      "ref": "《三国演义》第四十九回",
+      "quote": "（孔明）披发仗剑，踏罡步斗。",
+      "note": "祭风为虚构；建安十三年冬季偶有东南风，见于火攻记载的背景。小说、正史、传说须分开看。",
+      "chapters": [
+        "049"
+      ],
+      "tags": [
+        "第49回",
+        "戏曲"
+      ]
+    },
+    {
+      "id": "src-huogong",
+      "type": "正史",
+      "title": "赤壁火攻",
+      "ref": "《三国志·周瑜传》",
+      "quote": "乃取蒙冲斗舰数十艘，实以薪草，膏油灌其中，裹以帷幕。",
+      "note": "火攻、诈降与曹军疫病均有史料依据，主将为周瑜。",
+      "chapters": [
+        "049"
+      ],
+      "tags": [
+        "周瑜传",
+        "裴注"
+      ]
+    },
+    {
+      "id": "src-huarong",
+      "type": "演义",
+      "title": "义释曹操",
+      "ref": "《三国演义》第五十回",
+      "quote": "（云长）长叹一声，勒回马头，放曹操过去。",
+      "note": "正史有曹操经华容道撤退、道遇泥泞的记载，无关羽放行一节。",
+      "chapters": [
+        "050"
+      ],
+      "tags": [
+        "第50回"
+      ]
+    },
+    {
+      "id": "src-yizhou",
+      "type": "正史",
+      "title": "刘备定益州",
+      "ref": "《三国志·先主传》",
+      "quote": "（建安十九年）璋出降，先主领益州牧。",
+      "note": "「跨有荆益」由此落地，也埋下两线难以相顾的隐患。",
+      "chapters": [
+        "065"
+      ],
+      "tags": [
+        "先主传"
+      ]
+    },
+    {
+      "id": "src-tuogu",
+      "type": "正史",
+      "title": "白帝托孤",
+      "ref": "《三国志·诸葛亮传》",
+      "quote": "君才十倍曹丕，必能安国，终定大事。",
+      "note": "章武三年，刘备病笃于永安宫，托孤于诸葛亮。",
+      "chapters": [
+        "085"
+      ],
+      "tags": [
+        "诸葛亮传"
+      ]
+    },
+    {
+      "id": "src-guiyi",
+      "type": "正史",
+      "title": "三国归晋",
+      "ref": "《晋书·王濬传》",
+      "quote": "王濬楼船下益州，金陵王气黯然收。",
+      "note": "太康元年吴亡，全书结于「合久必分，分久必合」。",
+      "chapters": [
+        "120"
+      ],
+      "tags": [
+        "晋书",
+        "第120回"
+      ]
+    },
+    {
+      "id": "src-qiqin",
+      "type": "传说",
+      "title": "七擒孟获",
+      "ref": "裴松之注引《汉晋春秋》",
+      "quote": "（亮）七纵七禽，而亮犹遣获。",
+      "note": "见于裴注所引，并非《三国志》陈寿正文，宜标为「后世记载／传说层」。",
+      "chapters": [
+        "087",
+        "090"
+      ],
+      "tags": [
+        "第87-90回",
+        "裴注"
+      ]
+    },
+    {
+      "id": "src-diaochan",
+      "type": "传说",
+      "title": "貂蝉与连环计",
+      "ref": "《三国演义》第八回、后世戏曲",
+      "quote": "（王允）以连环计离间董卓吕布。",
+      "note": "正史无貂蝉其人，仅载董卓侍婢与吕布私通之事。",
+      "chapters": [
+        "008"
+      ],
+      "tags": [
+        "第8回",
+        "戏曲"
+      ]
+    },
+    {
+      "id": "src-huaxiong",
+      "type": "演义",
+      "title": "温酒斩华雄",
+      "ref": "《三国演义》第五回",
+      "quote": "（关公）提华雄之头，掷于地上，其酒尚温。",
+      "note": "正史中华雄为孙坚所斩，小说移作关羽立名之战。",
+      "chapters": [
+        "005"
+      ],
+      "tags": [
+        "第5回"
+      ]
+    },
+    {
+      "id": "src-kongcheng",
+      "type": "演义",
+      "title": "空城计",
+      "ref": "《三国演义》第九十五回",
+      "quote": "（孔明）焚香操琴，司马懿疑有伏兵而退。",
+      "note": "正史无此事，且与司马懿当时所在不合；属典型的小说层内容。",
+      "chapters": [
+        "095"
+      ],
+      "tags": [
+        "第95回"
+      ]
+    },
+    {
+      "id": "src-bian",
+      "type": "演义",
+      "title": "怒鞭督邮",
+      "ref": "《三国演义》第二回",
+      "quote": "（张飞）就柳条上用力鞭打，一连打折了柳条十数枝。",
+      "note": "正史里缚督邮、杖二百的是刘备本人，见《先主传》注引《典略》；演义把火爆让给了张飞。",
+      "chapters": [
+        "002"
+      ],
+      "tags": [
+        "第2回"
+      ]
+    },
+    {
+      "id": "src-rangzhou",
+      "type": "正史",
+      "title": "陶谦让徐州",
+      "ref": "《三国志·先主传》",
+      "quote": "非刘玄德不能安此州也。",
+      "note": "「三让」的反复是小说节奏，让州之意见于正史。",
+      "chapters": [
+        "012"
+      ],
+      "tags": [
+        "先主传"
+      ]
+    },
+    {
+      "id": "src-sheji",
+      "type": "演义",
+      "title": "辕门射戟",
+      "ref": "《三国演义》第十六回",
+      "quote": "（吕布）弓弦响处，箭正中画戟小枝。",
+      "note": "射戟解斗亦见《吕布传》，营门立戟的场面为演义敷演。",
+      "chapters": [
+        "016"
+      ],
+      "tags": [
+        "第16回"
+      ]
+    },
+    {
+      "id": "src-baimen",
+      "type": "正史",
+      "title": "白门楼",
+      "ref": "《三国志·吕布传》",
+      "quote": "布虽骁猛，然无谋而多猜忌，不能制御其党。",
+      "note": "曹操杀吕布的判断依据；演义中刘备一句提醒定其死。",
+      "chapters": [
+        "019"
+      ],
+      "tags": [
+        "吕布传"
+      ]
+    },
+    {
+      "id": "src-yingxiong",
+      "type": "演义",
+      "title": "煮酒论英雄",
+      "ref": "《三国演义》第二十一回",
+      "quote": "今天下英雄，惟使君与操耳！",
+      "note": "「唯使君与操耳」语出《先主传》，青梅煮酒的场面为演义敷演。",
+      "chapters": [
+        "021"
+      ],
+      "tags": [
+        "第21回",
+        "先主传"
+      ]
+    },
+    {
+      "id": "src-cima",
+      "type": "正史",
+      "title": "白马刺颜良",
+      "ref": "《三国志·关羽传》",
+      "quote": "羽望见良麾盖，策马刺良于万众之中，斩其首还。",
+      "note": "万军斩将是正史明载的战绩。",
+      "chapters": [
+        "025"
+      ],
+      "tags": [
+        "关羽传"
+      ]
+    },
+    {
+      "id": "src-yishi",
+      "type": "演义",
+      "title": "义释黄忠",
+      "ref": "《三国演义》第五十三回",
+      "quote": "（黄忠）射一箭，正中云长盔缨根。",
+      "note": "长沙之争为演义创作；正史载黄忠随太守韩玄同降，并无大战。",
+      "chapters": [
+        "053"
+      ],
+      "tags": [
+        "第53回"
+      ]
+    },
+    {
+      "id": "src-danyi",
+      "type": "演义",
+      "title": "单刀赴会",
+      "ref": "《三国演义》第六十六回",
+      "quote": "（关羽）挽鲁肃之手曰：今日之会，饮酒而已。",
+      "note": "正史亦有单刀会，见《鲁肃传》，双方各带单刀，义正辞严者是鲁肃。",
+      "chapters": [
+        "066"
+      ],
+      "tags": [
+        "第66回",
+        "鲁肃传"
+      ]
+    },
+    {
+      "id": "src-baiqi",
+      "type": "演义",
+      "title": "百骑劫营",
+      "ref": "《三国演义》第六十八回",
+      "quote": "（甘宁）选精壮百人，尽插白鹅翎于盔上为号。",
+      "note": "百骑劫营为演义敷演；甘宁胆略见于《甘宁传》。",
+      "chapters": [
+        "068"
+      ],
+      "tags": [
+        "第68回"
+      ]
+    },
+    {
+      "id": "src-qijun",
+      "type": "正史",
+      "title": "水淹七军",
+      "ref": "《三国志·关羽传》",
+      "quote": "秋，大霖雨，汉水泛溢，禁所督七军皆没。",
+      "note": "水淹依赖天时；「威震华夏」由此而来。",
+      "chapters": [
+        "074"
+      ],
+      "tags": [
+        "关羽传"
+      ]
+    },
+    {
+      "id": "src-maicheng",
+      "type": "正史",
+      "title": "败走麦城",
+      "ref": "《三国志·吕蒙传》",
+      "quote": "羽自知孤穷，走保麦城。",
+      "note": "白衣渡江后荆州易手，关羽于临沮遇难。",
+      "chapters": [
+        "076",
+        "077"
+      ],
+      "tags": [
+        "吕蒙传"
+      ]
+    },
+    {
+      "id": "src-yuquan",
+      "type": "传说",
+      "title": "玉泉山显圣",
+      "ref": "《三国演义》第七十七回、民间信仰",
+      "quote": "（关公）在玉泉山顶大呼曰：还我头来！",
+      "note": "显圣属演义与民间信仰层；正史止于临沮之难。",
+      "chapters": [
+        "077"
+      ],
+      "tags": [
+        "第77回",
+        "关帝信仰"
+      ]
+    }
+  ],
+  "periods": [
+    {
+      "personId": "zhugeliang",
+      "label": "隆中时期",
+      "year": 207,
+      "era": "建安十二年",
+      "summary": "躬耕陇亩，尚未出仕；已知荆益形势，未知赤壁及其后诸事。",
+      "events": [
+        {
+          "year": 207,
+          "label": "隆中对"
+        }
+      ]
+    },
+    {
+      "personId": "zhugeliang",
+      "label": "荆州时期",
+      "year": 208,
+      "era": "建安十三年",
+      "summary": "出使江东，促成孙刘联盟；赤壁之战胜负此刻已知。",
+      "events": [
+        {
+          "year": 208,
+          "label": "赤壁之战"
+        }
+      ]
+    },
+    {
+      "personId": "zhugeliang",
+      "label": "蜀中时期",
+      "year": 214,
+      "era": "建安十九年",
+      "summary": "入蜀佐刘备定益州，开始处理两线难顾的局面。",
+      "events": [
+        {
+          "year": 214,
+          "label": "定益州"
+        },
+        {
+          "year": 223,
+          "label": "白帝托孤"
+        }
+      ]
+    },
+    {
+      "personId": "zhugeliang",
+      "label": "北伐时期",
+      "year": 228,
+      "era": "建兴六年",
+      "summary": "五次北出秦岭，与司马懿对峙，卒于五丈原。",
+      "events": [
+        {
+          "year": 228,
+          "label": "街亭之失"
+        },
+        {
+          "year": 234,
+          "label": "五丈原"
+        }
+      ]
+    },
+    {
+      "personId": "caocao",
+      "label": "讨董时期",
+      "year": 190,
+      "era": "初平元年",
+      "summary": "关东联军迟疑不进，此后不再倚仗盟约。",
+      "events": [
+        {
+          "year": 190,
+          "label": "讨董"
+        }
+      ]
+    },
+    {
+      "personId": "caocao",
+      "label": "迎天子时期",
+      "year": 196,
+      "era": "建安元年",
+      "summary": "迎献帝都许，挟天子以令诸侯，据兖豫。",
+      "events": [
+        {
+          "year": 196,
+          "label": "都许"
+        }
+      ]
+    },
+    {
+      "personId": "caocao",
+      "label": "官渡时期",
+      "year": 200,
+      "era": "建安五年",
+      "summary": "夜袭乌巢，败袁绍，逐步平定河北。",
+      "events": [
+        {
+          "year": 200,
+          "label": "官渡之战"
+        }
+      ]
+    },
+    {
+      "personId": "caocao",
+      "label": "赤壁时期",
+      "year": 208,
+      "era": "建安十三年",
+      "summary": "南下得荆州，顺江东进，于乌林遇火攻败退。",
+      "events": [
+        {
+          "year": 208,
+          "label": "赤壁之战"
+        }
+      ]
+    },
+    {
+      "personId": "zhouyu",
+      "label": "江东时期",
+      "year": 200,
+      "era": "建安五年",
+      "summary": "与孙策总角之好，辅孙权稳江东。",
+      "events": [
+        {
+          "year": 200,
+          "label": "辅孙权"
+        }
+      ]
+    },
+    {
+      "personId": "zhouyu",
+      "label": "赤壁时期",
+      "year": 208,
+      "era": "建安十三年",
+      "summary": "力主抗曹，统兵破曹于赤壁。",
+      "events": [
+        {
+          "year": 208,
+          "label": "赤壁之战"
+        }
+      ]
+    },
+    {
+      "personId": "liubei",
+      "label": "起兵时期",
+      "year": 184,
+      "era": "中平元年",
+      "summary": "涿郡募兵，无地盘、无兵，只有人和与汉室名分。",
+      "events": [
+        {
+          "year": 184,
+          "label": "起兵"
+        }
+      ]
+    },
+    {
+      "personId": "liubei",
+      "label": "荆州时期",
+      "year": 201,
+      "era": "建安六年",
+      "summary": "依刘表屯新野，寻访能定天下的人。",
+      "events": [
+        {
+          "year": 207,
+          "label": "三顾茅庐"
+        }
+      ]
+    },
+    {
+      "personId": "liubei",
+      "label": "赤壁时期",
+      "year": 208,
+      "era": "建安十三年",
+      "summary": "退守夏口，联吴抗曹，战后据荆南。",
+      "events": [
+        {
+          "year": 208,
+          "label": "赤壁之战"
+        }
+      ]
+    },
+    {
+      "personId": "liubei",
+      "label": "益州时期",
+      "year": 214,
+      "era": "建安十九年",
+      "summary": "定益州，跨有荆益，后称汉中王、称帝。",
+      "events": [
+        {
+          "year": 214,
+          "label": "定益州"
+        },
+        {
+          "year": 221,
+          "label": "称帝"
+        }
+      ]
+    },
+    {
+      "personId": "simayi",
+      "label": "入仕时期",
+      "year": 208,
+      "era": "建安十三年",
+      "summary": "初入曹氏幕府，尚未独当一面。",
+      "events": [
+        {
+          "year": 208,
+          "label": "辟为文学掾"
+        }
+      ]
+    },
+    {
+      "personId": "simayi",
+      "label": "抗蜀时期",
+      "year": 228,
+      "era": "建兴六年",
+      "summary": "西拒诸葛亮北伐，以坚守待粮尽。",
+      "events": [
+        {
+          "year": 228,
+          "label": "街亭"
+        },
+        {
+          "year": 234,
+          "label": "五丈原"
+        }
+      ]
+    },
+    {
+      "personId": "guanyu",
+      "label": "荆州时期",
+      "year": 219,
+      "era": "建安二十四年",
+      "summary": "北伐襄樊，威震华夏；此刻尚不知后方已换旗。",
+      "events": [
+        {
+          "year": 219,
+          "label": "水淹七军"
+        },
+        {
+          "year": 219,
+          "label": "走麦城"
+        }
+      ]
+    },
+    {
+      "personId": "jiangwei",
+      "label": "北伐后期",
+      "year": 253,
+      "era": "延熙十六年",
+      "summary": "费祎之后始得专兵，频年北出，国力渐耗。",
+      "events": [
+        {
+          "year": 253,
+          "label": "主持北伐"
+        }
+      ]
+    },
+    {
+      "personId": "liushan",
+      "label": "后主时期",
+      "year": 263,
+      "era": "景耀六年",
+      "summary": "邓艾已过阴平，此刻只知剑阁未失。",
+      "events": [
+        {
+          "year": 263,
+          "label": "邓艾入蜀"
+        }
+      ]
+    }
+  ],
+  "dialogueQuestions": [
+    {
+      "id": "q-chibi",
+      "text": "赤壁之战，最后谁赢了？",
+      "year": 208,
+      "eventId": "chibi",
+      "answers": {
+        "default": "孙刘联军据江拒曹，火攻之后曹军北撤。",
+        "zhugeliang": "江东肯战，曹军又疫病缠身，火攻才有机会；胜负不在一阵之风。",
+        "zhouyu": "曹军不习水战、粮道又长，我算的是这些，不是天数。",
+        "caocao": "船锁在一起本为稳住北兵，却给了对方一把火。"
+      },
+      "basis": [
+        "《三国志·周瑜传》火攻、诈降与疫病记载",
+        "建安十三年（208）纪年"
+      ],
+      "creation": [
+        "回答措辞为本站改写，非史料原文"
+      ]
+    },
+    {
+      "id": "q-longzhong",
+      "text": "隆中对里，我该怎么取天下？",
+      "year": 207,
+      "eventId": "sangu",
+      "answers": {
+        "default": "先取荆州为家，再取益州为基，西和诸戎、南抚夷越，待天下有变两路出兵。",
+        "zhugeliang": "此策的前提是荆益俱在、孙刘不破；缺一条，两路就只剩一路。",
+        "liubei": "我缺的不是勇气，是一张能走十年的地图。"
+      },
+      "basis": [
+        "《三国志·诸葛亮传》隆中对原文"
+      ],
+      "creation": [
+        "「能走十年的地图」为本站白话改写"
+      ]
+    },
+    {
+      "id": "q-dongfeng",
+      "text": "听说有人能借来东南风？",
+      "year": 208,
+      "eventId": "chibi",
+      "answers": {
+        "default": "祭风是小说写法；史书只记火攻与当时的风势，未记设坛借风。",
+        "zhugeliang": "风自天时，非人力可借；我能做的是把船与火的时机算准。"
+      },
+      "basis": [
+        "《三国演义》第四十九回（小说层）",
+        "《三国志·周瑜传》火攻记载（正史层）"
+      ],
+      "creation": [
+        "人物口吻为本站创作"
+      ]
+    },
+    {
+      "id": "q-jieting",
+      "text": "街亭该派谁去守？",
+      "year": 228,
+      "eventId": "beifa",
+      "answers": {
+        "default": "此为军机，须据当时可用之将与地形而定；史载马谡违令失守。",
+        "zhugeliang": "用人的错在我，不在街亭的地势。"
+      },
+      "basis": [
+        "《三国志·马谡传》及诸葛亮本传"
+      ],
+      "creation": [
+        "「用人的错在我」为本站拟写"
+      ]
+    },
+    {
+      "id": "q-huarong",
+      "text": "华容道该不该放曹操？",
+      "year": 208,
+      "eventId": "chibi",
+      "answers": {
+        "default": "「义释曹操」出自小说；正史只载曹操经华容道遇泥泞撤退。",
+        "guanyu": "旧日之恩我已报过，此后阵前再不相让。"
+      },
+      "basis": [
+        "《三国演义》第五十回（小说层）",
+        "《三国志·武帝纪》裴注华容道记载"
+      ],
+      "creation": [
+        "关羽答语为本站创作"
+      ]
+    },
+    {
+      "id": "q-beifa",
+      "text": "北伐能不能成功？",
+      "year": 228,
+      "eventId": "beifa",
+      "answers": {
+        "default": "此刻只能说：粮道与国力是最大的限制，成败尚未可知。",
+        "zhugeliang": "我不敢言必成，只知若不北出，强弱只会更悬。"
+      },
+      "basis": [
+        "《三国志·诸葛亮传》",
+        "建兴六年（228）第一次北伐"
+      ],
+      "creation": [
+        "回答为本站拟写，不含后世结局"
+      ]
+    },
+    {
+      "id": "q-wuzhang",
+      "text": "五丈原之后，蜀汉会怎样？",
+      "year": 234,
+      "eventId": "beifa",
+      "answers": {
+        "default": "此刻我只知军中粮尽、身力不支，身后之事不可断言。",
+        "zhugeliang": "身后之事，非我所知，亦非我所能安排周全。"
+      },
+      "basis": [
+        "《三国志·诸葛亮传》建兴十二年"
+      ],
+      "creation": [
+        "回答为本站拟写，刻意不泄露 234 年后的史事"
+      ]
+    },
+    {
+      "id": "q-taoyuan",
+      "text": "当年桃园结义，可曾想到今日？",
+      "year": 184,
+      "eventId": "huangjin",
+      "answers": {
+        "default": "结义是小说写法；正史只说三人恩若兄弟。此时天下初乱，谁也看不到后来。",
+        "liubei": "今日只求募得义兵，他年之事，不敢预想。"
+      },
+      "basis": [
+        "《三国演义》第一回（小说层）",
+        "《三国志·关羽传》「恩若兄弟」"
+      ],
+      "creation": [
+        "刘备答语为本站创作"
+      ]
+    }
+  ]
+}

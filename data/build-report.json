@@ -1,0 +1,26 @@
+{
+  "stats": {
+    "chapters": 120,
+    "reviewedChapters": 27,
+    "people": 146,
+    "relations": 139,
+    "relationBySource": {
+      "正史": 123,
+      "演义": 10,
+      "传说": 6
+    },
+    "events": 9,
+    "timeline": 38,
+    "places": 22,
+    "sources": 30,
+    "periods": 19,
+    "questions": 8
+  },
+  "warnings": [
+    "93 回导读待补，详情页会显示占位状态",
+    "插画为程序化生成的示意水墨图，尚未替换为正式 AI 插画",
+    "地图为不含任何行政边界的手绘示意绘卷，未接入在线底图"
+  ],
+  "errors": [],
+  "generatedAt": "2026-11-13T05:46:33.568Z"
+}

@@ -1,0 +1,8254 @@
+{
+  "meta": {
+    "name": "三国寻踪",
+    "slogan": "从一回故事，走到一个人、一片山河",
+    "subtitle": "读故事 · 识人物 · 看天下 · 问古人",
+    "version": "0.1.0",
+    "note": "站名为暂定名，可在 content/master.json 一处修改。",
+    "generatedAt": "2026-11-13T05:46:33.568Z"
+  },
+  "stats": {
+    "chapters": 120,
+    "reviewedChapters": 27,
+    "people": 146,
+    "relations": 139,
+    "relationBySource": {
+      "正史": 123,
+      "演义": 10,
+      "传说": 6
+    },
+    "events": 9,
+    "timeline": 38,
+    "places": 22,
+    "sources": 30,
+    "periods": 19,
+    "questions": 8
+  },
+  "chapters": [
+    {
+      "id": "001",
+      "no": 1,
+      "fullTitle": "第一回 宴桃园豪杰三结义 斩黄巾英雄首立功",
+      "title": "宴桃园豪杰三结义 斩黄巾英雄首立功",
+      "originUrl": "https://sanguo.5000yan.com/965.html",
+      "arc": "群雄起事",
+      "era": "中平元年",
+      "eraHint": "中平至初平年间",
+      "year": 184,
+      "summary": "黄巾起事，刘关张桃园结义，从涿郡起兵。",
+      "guide": "东汉末年，太平道首领张角以「苍天已死」为号，聚众起事，州郡震动。官府招募义兵，涿郡一个织席贩履的人与两个卖酒屠猪的汉子在桃园里结为兄弟，各立一誓，从此把三个人的命运绑在了一起。这一回是全书的第一扇门：天下为什么乱、谁趁乱起身、谁又最先站出来，都在这里交代。读的时候可以先记住一件事——刘备此时没有地盘、没有兵，只有人和一个汉室宗亲的名分。",
+      "question": "如果三个人没有结义，后面哪些事可能不会发生？",
+      "peopleIds": [
+        "liubei",
+        "guanyu",
+        "zhangfei",
+        "zhangjiao"
+      ],
+      "placeIds": [
+        "zhuozhou",
+        "luoyang"
+      ],
+      "eventIds": [
+        "huangjin"
+      ],
+      "sourceIds": [
+        "src-taoyuan"
+      ],
+      "sourceType": "演义",
+      "review": "已校",
+      "illustrationSeed": 1
+    },
+    {
+      "id": "002",
+      "no": 2,
+      "fullTitle": "第二回 张翼德怒鞭督邮 何国舅谋诛宦竖",
+      "title": "张翼德怒鞭督邮 何国舅谋诛宦竖",
+      "originUrl": "https://sanguo.5000yan.com/966.html",
+      "arc": "群雄起事",
+      "era": "中平元年",
+      "eraHint": "中平至初平年间",
+      "year": 184,
+      "summary": "怒鞭督邮，弃官亡命。",
+      "guide": "刘备讨黄巾有功，得了个安喜县尉的小官。督邮到县索贿不成，要弹劾他——演义里是张飞把督邮绑在马桩上柳条抽打，正史里干这件事的其实是刘备本人，打完还把官印挂在他脖子上走了。这一回最适合做「小说与正史分开看」的第一课：张飞背了几百年的火爆，原本是刘备自己的脾气。读完可以想想：弃官这件事，对刘备后来「不以一时官位论英雄」的路数有没有影响？",
+      "question": "正史里鞭督邮的到底是谁？",
+      "peopleIds": [
+        "liubei",
+        "zhangfei"
+      ],
+      "placeIds": [
+        "zhuozhou"
+      ],
+      "eventIds": [],
+      "sourceIds": [
+        "src-bian"
+      ],
+      "sourceType": "演义",
+      "review": "已校",
+      "illustrationSeed": 2
+    },
+    {
+      "id": "003",
+      "no": 3,
+      "fullTitle": "第三回 议温明董卓叱丁原 馈金珠李肃说吕布",
+      "title": "议温明董卓叱丁原 馈金珠李肃说吕布",
+      "originUrl": "https://sanguo.5000yan.com/967.html",
+      "arc": "群雄起事",
+      "era": "",
+      "eraHint": "中平至初平年间",
+      "year": null,
+      "summary": "议温明董卓叱丁原 馈金珠李肃说吕布",
+      "guide": "",
+      "question": "",
+      "peopleIds": [],
+      "placeIds": [],
+      "eventIds": [],
+      "sourceIds": [],
+      "sourceType": "演义",
+      "review": "待校",
+      "illustrationSeed": 3
+    },
+    {
+      "id": "004",
+      "no": 4,
+      "fullTitle": "第四回 废汉帝陈留践位 谋董贼孟德献刀",
+      "title": "废汉帝陈留践位 谋董贼孟德献刀",
+      "originUrl": "https://sanguo.5000yan.com/968.html",
+      "arc": "群雄起事",
+      "era": "",
+      "eraHint": "中平至初平年间",
+      "year": null,
+      "summary": "废汉帝陈留践位 谋董贼孟德献刀",
+      "guide": "",
+      "question": "",
+      "peopleIds": [],
+      "placeIds": [],
+      "eventIds": [],
+      "sourceIds": [],
+      "sourceType": "演义",
+      "review": "待校",
+      "illustrationSeed": 4
+    },
+    {
+      "id": "005",
+      "no": 5,
+      "fullTitle": "第五回 发矫诏诸镇应曹公 破关兵三英战吕布",
+      "title": "发矫诏诸镇应曹公 破关兵三英战吕布",
+      "originUrl": "https://sanguo.5000yan.com/969.html",
+      "arc": "群雄起事",
+      "era": "初平元年",
+      "eraHint": "中平至初平年间",
+      "year": 190,
+      "summary": "关东联军讨董，虎牢关前三英战吕布。",
+      "guide": "曹操发矫诏，十八路诸侯会盟讨董，却各怀心思，谁也不肯先出兵。董卓部将吕布守虎牢关，连败联军数将。轮到刘备、关羽、张飞三人上阵，才把吕布逼退。这一回好看在打斗，值得留意的是盟军的内部：名字很长，动作很少。读三国时「谁和谁一伙」常常比「谁打赢了」更重要，这一回就是最早的提醒。",
+      "question": "十八路诸侯为什么没能一起打进洛阳？",
+      "peopleIds": [
+        "caocao",
+        "lvbu",
+        "liubei",
+        "guanyu",
+        "zhangfei",
+        "yuanshao",
+        "dongzhuo"
+      ],
+      "placeIds": [
+        "luoyang",
+        "changan"
+      ],
+      "eventIds": [
+        "taodong"
+      ],
+      "sourceIds": [
+        "src-sanying"
+      ],
+      "sourceType": "演义",
+      "review": "已校",
+      "illustrationSeed": 5
+    },
+    {
+      "id": "006",
+      "no": 6,
+      "fullTitle": "第六回 焚金阙董卓行凶 匿玉玺孙坚背约",
+      "title": "焚金阙董卓行凶 匿玉玺孙坚背约",
+      "originUrl": "https://sanguo.5000yan.com/970.html",
+      "arc": "群雄起事",
+      "era": "",
+      "eraHint": "中平至初平年间",
+      "year": null,
+      "summary": "焚金阙董卓行凶 匿玉玺孙坚背约",
+      "guide": "",
+      "question": "",
+      "peopleIds": [],
+      "placeIds": [],
+      "eventIds": [],
+      "sourceIds": [],
+      "sourceType": "演义",
+      "review": "待校",
+      "illustrationSeed": 6
+    },
+    {
+      "id": "007",
+      "no": 7,
+      "fullTitle": "第七回 袁绍磐河战公孙 孙坚跨江击刘表",
+      "title": "袁绍磐河战公孙 孙坚跨江击刘表",
+      "originUrl": "https://sanguo.5000yan.com/971.html",
+      "arc": "群雄起事",
+      "era": "",
+      "eraHint": "中平至初平年间",
+      "year": null,
+      "summary": "袁绍磐河战公孙 孙坚跨江击刘表",
+      "guide": "",
+      "question": "",
+      "peopleIds": [],
+      "placeIds": [],
+      "eventIds": [],
+      "sourceIds": [],
+      "sourceType": "演义",
+      "review": "待校",
+      "illustrationSeed": 7
+    },
+    {
+      "id": "008",
+      "no": 8,
+      "fullTitle": "第八回 王司徒巧使连环计 董太师大闹凤仪亭",
+      "title": "王司徒巧使连环计 董太师大闹凤仪亭",
+      "originUrl": "https://sanguo.5000yan.com/972.html",
+      "arc": "群雄起事",
+      "era": "初平三年",
+      "eraHint": "中平至初平年间",
+      "year": 192,
+      "summary": "王允连环计，董卓殒命长安。",
+      "guide": "王允先把貂蝉许给吕布、又献给董卓，一条连环计让父子反目，凤仪亭一场之后吕布下手弑董。正史确有王允联吕布诛董卓，但貂蝉其人与连环计均为小说创作。读这一回可以留意「美人计」的成立条件：它其实不是靠美貌，而是靠董卓与吕布之间本就存在的裂痕。",
+      "question": "王允的计，成败押在哪两个人身上？",
+      "peopleIds": [
+        "wangyun",
+        "lvbu",
+        "dongzhuo",
+        "diaochan"
+      ],
+      "placeIds": [
+        "changan"
+      ],
+      "eventIds": [
+        "taodong"
+      ],
+      "sourceIds": [
+        "src-diaochan"
+      ],
+      "sourceType": "演义",
+      "review": "已校",
+      "illustrationSeed": 8
+    },
+    {
+      "id": "009",
+      "no": 9,
+      "fullTitle": "第九回 除暴凶吕布助司徒 犯长安李傕听贾诩",
+      "title": "除暴凶吕布助司徒 犯长安李傕听贾诩",
+      "originUrl": "https://sanguo.5000yan.com/973.html",
+      "arc": "群雄起事",
+      "era": "",
+      "eraHint": "中平至初平年间",
+      "year": null,
+      "summary": "除暴凶吕布助司徒 犯长安李傕听贾诩",
+      "guide": "",
+      "question": "",
+      "peopleIds": [],
+      "placeIds": [],
+      "eventIds": [],
+      "sourceIds": [],
+      "sourceType": "演义",
+      "review": "待校",
+      "illustrationSeed": 9
+    },
+    {
+      "id": "010",
+      "no": 10,
+      "fullTitle": "第十回 勤王室马腾举义 报父仇曹操兴师",
+      "title": "勤王室马腾举义 报父仇曹操兴师",
+      "originUrl": "https://sanguo.5000yan.com/974.html",
+      "arc": "群雄起事",
+      "era": "",
+      "eraHint": "中平至初平年间",
+      "year": null,
+      "summary": "勤王室马腾举义 报父仇曹操兴师",
+      "guide": "",
+      "question": "",
+      "peopleIds": [],
+      "placeIds": [],
+      "eventIds": [],
+      "sourceIds": [],
+      "sourceType": "演义",
+      "review": "待校",
+      "illustrationSeed": 10
+    },
+    {
+      "id": "011",
+      "no": 11,
+      "fullTitle": "第十一回 刘皇叔北海救孔融 吕温侯濮阳破曹操",
+      "title": "刘皇叔北海救孔融 吕温侯濮阳破曹操",
+      "originUrl": "https://sanguo.5000yan.com/975.html",
+      "arc": "群雄起事",
+      "era": "",
+      "eraHint": "中平至初平年间",
+      "year": null,
+      "summary": "刘皇叔北海救孔融 吕温侯濮阳破曹操",
+      "guide": "",
+      "question": "",
+      "peopleIds": [],
+      "placeIds": [],
+      "eventIds": [],
+      "sourceIds": [],
+      "sourceType": "演义",
+      "review": "待校",
+      "illustrationSeed": 11
+    },
+    {
+      "id": "012",
+      "no": 12,
+      "fullTitle": "第十二回 陶恭祖三让徐州 曹孟德大战吕布",
+      "title": "陶恭祖三让徐州 曹孟德大战吕布",
+      "originUrl": "https://sanguo.5000yan.com/976.html",
+      "arc": "群雄起事",
+      "era": "兴平元年",
+      "eraHint": "中平至初平年间",
+      "year": 194,
+      "summary": "陶谦临终，三让徐州于刘备。",
+      "guide": "曹操父曹嵩死于徐州境内，曹操引兵屠城复仇；陶谦求援于孔融、刘备。陶谦病笃，说「非刘玄德不能安此州」，徐州归了刘备。演义写足三让的推辞，正史里让州之意一句可证。这是刘备第一次有自己的地盘——读时值得留意他为什么一再推辞：徐州四战之地，接下它也等于接下与曹操的死结。",
+      "question": "陶谦为什么认定非刘备不可？",
+      "peopleIds": [
+        "taoqian",
+        "liubei",
+        "kongrong",
+        "mizhu"
+      ],
+      "placeIds": [
+        "xiapi"
+      ],
+      "eventIds": [],
+      "sourceIds": [
+        "src-rangzhou"
+      ],
+      "sourceType": "演义",
+      "review": "已校",
+      "illustrationSeed": 12
+    },
+    {
+      "id": "013",
+      "no": 13,
+      "fullTitle": "第十三回 李傕郭汜大交兵 杨奉董承双救驾",
+      "title": "李傕郭汜大交兵 杨奉董承双救驾",
+      "originUrl": "https://sanguo.5000yan.com/977.html",
+      "arc": "群雄起事",
+      "era": "",
+      "eraHint": "中平至初平年间",
+      "year": null,
+      "summary": "李傕郭汜大交兵 杨奉董承双救驾",
+      "guide": "",
+      "question": "",
+      "peopleIds": [],
+      "placeIds": [],
+      "eventIds": [],
+      "sourceIds": [],
+      "sourceType": "演义",
+      "review": "待校",
+      "illustrationSeed": 13
+    },
+    {
+      "id": "014",
+      "no": 14,
+      "fullTitle": "第十四回 曹孟德移驾幸许都 吕奉先乘夜袭徐郡",
+      "title": "曹孟德移驾幸许都 吕奉先乘夜袭徐郡",
+      "originUrl": "https://sanguo.5000yan.com/978.html",
+      "arc": "群雄起事",
+      "era": "",
+      "eraHint": "中平至初平年间",
+      "year": null,
+      "summary": "曹孟德移驾幸许都 吕奉先乘夜袭徐郡",
+      "guide": "",
+      "question": "",
+      "peopleIds": [],
+      "placeIds": [],
+      "eventIds": [],
+      "sourceIds": [],
+      "sourceType": "演义",
+      "review": "待校",
+      "illustrationSeed": 14
+    },
+    {
+      "id": "015",
+      "no": 15,
+      "fullTitle": "第十五回 太史慈酣斗小霸王 孙伯符大战严白虎",
+      "title": "太史慈酣斗小霸王 孙伯符大战严白虎",
+      "originUrl": "https://sanguo.5000yan.com/979.html",
+      "arc": "群雄起事",
+      "era": "",
+      "eraHint": "中平至初平年间",
+      "year": null,
+      "summary": "太史慈酣斗小霸王 孙伯符大战严白虎",
+      "guide": "",
+      "question": "",
+      "peopleIds": [],
+      "placeIds": [],
+      "eventIds": [],
+      "sourceIds": [],
+      "sourceType": "演义",
+      "review": "待校",
+      "illustrationSeed": 15
+    },
+    {
+      "id": "016",
+      "no": 16,
+      "fullTitle": "第十六回 吕奉先射戟辕门 曹孟德败师淯水",
+      "title": "吕奉先射戟辕门 曹孟德败师淯水",
+      "originUrl": "https://sanguo.5000yan.com/980.html",
+      "arc": "群雄起事",
+      "era": "建安元年",
+      "eraHint": "中平至初平年间",
+      "year": 196,
+      "summary": "辕门射戟，吕布为刘备解围。",
+      "guide": "袁术派纪灵攻刘备，吕布在辕门立一支戟，一箭射中小枝，逼双方罢兵。射戟解斗同样见于《吕布传》，不是小说独有。这一回看「调停」的分量：吕布救刘备不是出于义，而是算清了「唇亡齿寒」——刘备灭了，下一个就是他。",
+      "question": "吕布这一箭，救的是刘备还是他自己？",
+      "peopleIds": [
+        "lvbu",
+        "liubei"
+      ],
+      "placeIds": [
+        "xiapi"
+      ],
+      "eventIds": [],
+      "sourceIds": [
+        "src-sheji"
+      ],
+      "sourceType": "演义",
+      "review": "已校",
+      "illustrationSeed": 16
+    },
+    {
+      "id": "017",
+      "no": 17,
+      "fullTitle": "第十七回 袁公路大起七军 曹孟德会合三将",
+      "title": "袁公路大起七军 曹孟德会合三将",
+      "originUrl": "https://sanguo.5000yan.com/981.html",
+      "arc": "群雄起事",
+      "era": "",
+      "eraHint": "中平至初平年间",
+      "year": null,
+      "summary": "袁公路大起七军 曹孟德会合三将",
+      "guide": "",
+      "question": "",
+      "peopleIds": [],
+      "placeIds": [],
+      "eventIds": [],
+      "sourceIds": [],
+      "sourceType": "演义",
+      "review": "待校",
+      "illustrationSeed": 17
+    },
+    {
+      "id": "018",
+      "no": 18,
+      "fullTitle": "第十八回 贾文和料敌决胜 夏侯惇拨矢啖睛",
+      "title": "贾文和料敌决胜 夏侯惇拨矢啖睛",
+      "originUrl": "https://sanguo.5000yan.com/982.html",
+      "arc": "群雄起事",
+      "era": "",
+      "eraHint": "中平至初平年间",
+      "year": null,
+      "summary": "贾文和料敌决胜 夏侯惇拨矢啖睛",
+      "guide": "",
+      "question": "",
+      "peopleIds": [],
+      "placeIds": [],
+      "eventIds": [],
+      "sourceIds": [],
+      "sourceType": "演义",
+      "review": "待校",
+      "illustrationSeed": 18
+    },
+    {
+      "id": "019",
+      "no": 19,
+      "fullTitle": "第十九回 下邳城曹操鏖兵 白门楼吕布殒命",
+      "title": "下邳城曹操鏖兵 白门楼吕布殒命",
+      "originUrl": "https://sanguo.5000yan.com/983.html",
+      "arc": "群雄起事",
+      "era": "建安三年",
+      "eraHint": "中平至初平年间",
+      "year": 198,
+      "summary": "白门楼上，吕布殒命。",
+      "guide": "吕布败守下邳，城破被擒。白门楼上他提出归降助曹打天下，曹操回头问刘备，刘备一句「明公不见丁建阳、董卓之事乎」定了他的死。吕布帐下高顺一言不发，陈宫求刑。这一回的看点是「用人风险账」：反复易主的人在谁手里都是负资产。",
+      "question": "刘备为什么只提醒曹操想一想丁原和董卓？",
+      "peopleIds": [
+        "lvbu",
+        "caocao",
+        "liubei",
+        "chengong",
+        "gaoshun"
+      ],
+      "placeIds": [
+        "xiapi"
+      ],
+      "eventIds": [],
+      "sourceIds": [
+        "src-baimen"
+      ],
+      "sourceType": "演义",
+      "review": "已校",
+      "illustrationSeed": 19
+    },
+    {
+      "id": "020",
+      "no": 20,
+      "fullTitle": "第二十回 曹阿瞒许田打围 董国舅内阁受诏",
+      "title": "曹阿瞒许田打围 董国舅内阁受诏",
+      "originUrl": "https://sanguo.5000yan.com/984.html",
+      "arc": "群雄起事",
+      "era": "",
+      "eraHint": "中平至初平年间",
+      "year": null,
+      "summary": "曹阿瞒许田打围 董国舅内阁受诏",
+      "guide": "",
+      "question": "",
+      "peopleIds": [],
+      "placeIds": [],
+      "eventIds": [],
+      "sourceIds": [],
+      "sourceType": "演义",
+      "review": "待校",
+      "illustrationSeed": 20
+    },
+    {
+      "id": "021",
+      "no": 21,
+      "fullTitle": "第二十一回 曹操煮酒论英雄 关公赚城斩车胄",
+      "title": "曹操煮酒论英雄 关公赚城斩车胄",
+      "originUrl": "https://sanguo.5000yan.com/985.html",
+      "arc": "北方混战",
+      "era": "建安四年",
+      "eraHint": "建安初年",
+      "year": 199,
+      "summary": "青梅煮酒，论天下英雄。",
+      "guide": "刘备种菜韬晦，曹操请他青梅煮酒，把天下诸侯一个个数过去都算了「非英雄」，最后指着自己与刘备说：今天下英雄，唯使君与操耳。刘备吓得落箸，借雷声遮掩过去。这句话本身出自《先主传》，青梅煮酒的场面是演义敷演。这一回可以读「枭雄识枭雄」：曹操看人极准，也正因为准，刘备才必须装得不像。",
+      "question": "曹操说破了英雄，为什么反而放走了刘备？",
+      "peopleIds": [
+        "liubei",
+        "caocao"
+      ],
+      "placeIds": [
+        "xuchang"
+      ],
+      "eventIds": [],
+      "sourceIds": [
+        "src-yingxiong"
+      ],
+      "sourceType": "演义",
+      "review": "已校",
+      "illustrationSeed": 21
+    },
+    {
+      "id": "022",
+      "no": 22,
+      "fullTitle": "第二十二回 袁曹各起马步三军 关张共擒王刘二将",
+      "title": "袁曹各起马步三军 关张共擒王刘二将",
+      "originUrl": "https://sanguo.5000yan.com/986.html",
+      "arc": "北方混战",
+      "era": "",
+      "eraHint": "建安初年",
+      "year": null,
+      "summary": "袁曹各起马步三军 关张共擒王刘二将",
+      "guide": "",
+      "question": "",
+      "peopleIds": [],
+      "placeIds": [],
+      "eventIds": [],
+      "sourceIds": [],
+      "sourceType": "演义",
+      "review": "待校",
+      "illustrationSeed": 22
+    },
+    {
+      "id": "023",
+      "no": 23,
+      "fullTitle": "第二十三回 祢正平裸衣骂贼 吉太医下毒遭刑",
+      "title": "祢正平裸衣骂贼 吉太医下毒遭刑",
+      "originUrl": "https://sanguo.5000yan.com/987.html",
+      "arc": "北方混战",
+      "era": "",
+      "eraHint": "建安初年",
+      "year": null,
+      "summary": "祢正平裸衣骂贼 吉太医下毒遭刑",
+      "guide": "",
+      "question": "",
+      "peopleIds": [],
+      "placeIds": [],
+      "eventIds": [],
+      "sourceIds": [],
+      "sourceType": "演义",
+      "review": "待校",
+      "illustrationSeed": 23
+    },
+    {
+      "id": "024",
+      "no": 24,
+      "fullTitle": "第二十四回 国贼行凶杀贵妃 皇叔败走投袁绍",
+      "title": "国贼行凶杀贵妃 皇叔败走投袁绍",
+      "originUrl": "https://sanguo.5000yan.com/988.html",
+      "arc": "北方混战",
+      "era": "",
+      "eraHint": "建安初年",
+      "year": null,
+      "summary": "国贼行凶杀贵妃 皇叔败走投袁绍",
+      "guide": "",
+      "question": "",
+      "peopleIds": [],
+      "placeIds": [],
+      "eventIds": [],
+      "sourceIds": [],
+      "sourceType": "演义",
+      "review": "待校",
+      "illustrationSeed": 24
+    },
+    {
+      "id": "025",
+      "no": 25,
+      "fullTitle": "第二十五回 屯土山关公约三事 救白马曹操解重围",
+      "title": "屯土山关公约三事 救白马曹操解重围",
+      "originUrl": "https://sanguo.5000yan.com/989.html",
+      "arc": "北方混战",
+      "era": "建安五年",
+      "eraHint": "建安初年",
+      "year": 200,
+      "summary": "白马坡前，关羽斩颜良。",
+      "guide": "袁绍遣颜良攻白马，曹操以张辽、关羽为前锋。关羽望见颜良麾盖，策马刺之于万众之中，斩首而还——这一句出自《关羽传》正文，万军斩将是史书明载的战绩。演义又把之前华雄那笔账一并算给关羽，本站已分开标注。解白马之围是关羽报曹之后走人前的第一件功，义与恩的分寸都在这里。",
+      "question": "万军之中斩将，靠的是武艺还是战机？",
+      "peopleIds": [
+        "guanyu",
+        "caocao",
+        "yanliang",
+        "yuanshao",
+        "xunyou"
+      ],
+      "placeIds": [
+        "baima",
+        "guandu"
+      ],
+      "eventIds": [
+        "guandu"
+      ],
+      "sourceIds": [
+        "src-cima"
+      ],
+      "sourceType": "演义",
+      "review": "已校",
+      "illustrationSeed": 25
+    },
+    {
+      "id": "026",
+      "no": 26,
+      "fullTitle": "第二十六回 袁本初败兵折将 关云长挂印封金",
+      "title": "袁本初败兵折将 关云长挂印封金",
+      "originUrl": "https://sanguo.5000yan.com/990.html",
+      "arc": "北方混战",
+      "era": "",
+      "eraHint": "建安初年",
+      "year": null,
+      "summary": "袁本初败兵折将 关云长挂印封金",
+      "guide": "",
+      "question": "",
+      "peopleIds": [],
+      "placeIds": [],
+      "eventIds": [],
+      "sourceIds": [],
+      "sourceType": "演义",
+      "review": "待校",
+      "illustrationSeed": 26
+    },
+    {
+      "id": "027",
+      "no": 27,
+      "fullTitle": "第二十七回 美髯公千里走单骑 汉寿侯五关斩六将",
+      "title": "美髯公千里走单骑 汉寿侯五关斩六将",
+      "originUrl": "https://sanguo.5000yan.com/991.html",
+      "arc": "北方混战",
+      "era": "",
+      "eraHint": "建安初年",
+      "year": null,
+      "summary": "美髯公千里走单骑 汉寿侯五关斩六将",
+      "guide": "",
+      "question": "",
+      "peopleIds": [],
+      "placeIds": [],
+      "eventIds": [],
+      "sourceIds": [],
+      "sourceType": "演义",
+      "review": "待校",
+      "illustrationSeed": 27
+    },
+    {
+      "id": "028",
+      "no": 28,
+      "fullTitle": "第二十八回 斩蔡阳兄弟释疑 会古城主臣聚义",
+      "title": "斩蔡阳兄弟释疑 会古城主臣聚义",
+      "originUrl": "https://sanguo.5000yan.com/992.html",
+      "arc": "北方混战",
+      "era": "",
+      "eraHint": "建安初年",
+      "year": null,
+      "summary": "斩蔡阳兄弟释疑 会古城主臣聚义",
+      "guide": "",
+      "question": "",
+      "peopleIds": [],
+      "placeIds": [],
+      "eventIds": [],
+      "sourceIds": [],
+      "sourceType": "演义",
+      "review": "待校",
+      "illustrationSeed": 28
+    },
+    {
+      "id": "029",
+      "no": 29,
+      "fullTitle": "第二十九回 小霸王怒斩于吉 碧眼儿坐领江东",
+      "title": "小霸王怒斩于吉 碧眼儿坐领江东",
+      "originUrl": "https://sanguo.5000yan.com/993.html",
+      "arc": "北方混战",
+      "era": "",
+      "eraHint": "建安初年",
+      "year": null,
+      "summary": "小霸王怒斩于吉 碧眼儿坐领江东",
+      "guide": "",
+      "question": "",
+      "peopleIds": [],
+      "placeIds": [],
+      "eventIds": [],
+      "sourceIds": [],
+      "sourceType": "演义",
+      "review": "待校",
+      "illustrationSeed": 29
+    },
+    {
+      "id": "030",
+      "no": 30,
+      "fullTitle": "第三十回 战官渡本初败绩 劫乌巢孟德烧粮",
+      "title": "战官渡本初败绩 劫乌巢孟德烧粮",
+      "originUrl": "https://sanguo.5000yan.com/994.html",
+      "arc": "北方混战",
+      "era": "",
+      "eraHint": "建安初年",
+      "year": null,
+      "summary": "战官渡本初败绩 劫乌巢孟德烧粮",
+      "guide": "",
+      "question": "",
+      "peopleIds": [],
+      "placeIds": [],
+      "eventIds": [],
+      "sourceIds": [],
+      "sourceType": "演义",
+      "review": "待校",
+      "illustrationSeed": 30
+    },
+    {
+      "id": "031",
+      "no": 31,
+      "fullTitle": "第三十一回 曹操仓亭破本初 玄德荆州依刘表",
+      "title": "曹操仓亭破本初 玄德荆州依刘表",
+      "originUrl": "https://sanguo.5000yan.com/995.html",
+      "arc": "北方混战",
+      "era": "",
+      "eraHint": "建安初年",
+      "year": null,
+      "summary": "曹操仓亭破本初 玄德荆州依刘表",
+      "guide": "",
+      "question": "",
+      "peopleIds": [],
+      "placeIds": [],
+      "eventIds": [],
+      "sourceIds": [],
+      "sourceType": "演义",
+      "review": "待校",
+      "illustrationSeed": 31
+    },
+    {
+      "id": "032",
+      "no": 32,
+      "fullTitle": "第三十二回 夺冀州袁尚争锋 决漳河许攸献计",
+      "title": "夺冀州袁尚争锋 决漳河许攸献计",
+      "originUrl": "https://sanguo.5000yan.com/996.html",
+      "arc": "北方混战",
+      "era": "",
+      "eraHint": "建安初年",
+      "year": null,
+      "summary": "夺冀州袁尚争锋 决漳河许攸献计",
+      "guide": "",
+      "question": "",
+      "peopleIds": [],
+      "placeIds": [],
+      "eventIds": [],
+      "sourceIds": [],
+      "sourceType": "演义",
+      "review": "待校",
+      "illustrationSeed": 32
+    },
+    {
+      "id": "033",
+      "no": 33,
+      "fullTitle": "第三十三回 曹丕乘乱纳甄氏 郭嘉遗计定辽东",
+      "title": "曹丕乘乱纳甄氏 郭嘉遗计定辽东",
+      "originUrl": "https://sanguo.5000yan.com/997.html",
+      "arc": "北方混战",
+      "era": "",
+      "eraHint": "建安初年",
+      "year": null,
+      "summary": "曹丕乘乱纳甄氏 郭嘉遗计定辽东",
+      "guide": "",
+      "question": "",
+      "peopleIds": [],
+      "placeIds": [],
+      "eventIds": [],
+      "sourceIds": [],
+      "sourceType": "演义",
+      "review": "待校",
+      "illustrationSeed": 33
+    },
+    {
+      "id": "034",
+      "no": 34,
+      "fullTitle": "第三十四回 蔡夫人隔屏听密语 刘皇叔跃马过檀溪",
+      "title": "蔡夫人隔屏听密语 刘皇叔跃马过檀溪",
+      "originUrl": "https://sanguo.5000yan.com/998.html",
+      "arc": "北方混战",
+      "era": "",
+      "eraHint": "建安初年",
+      "year": null,
+      "summary": "蔡夫人隔屏听密语 刘皇叔跃马过檀溪",
+      "guide": "",
+      "question": "",
+      "peopleIds": [],
+      "placeIds": [],
+      "eventIds": [],
+      "sourceIds": [],
+      "sourceType": "演义",
+      "review": "待校",
+      "illustrationSeed": 34
+    },
+    {
+      "id": "035",
+      "no": 35,
+      "fullTitle": "第三十五回 玄德南漳逢隐沧 单福新野遇英主",
+      "title": "玄德南漳逢隐沧 单福新野遇英主",
+      "originUrl": "https://sanguo.5000yan.com/999.html",
+      "arc": "北方混战",
+      "era": "",
+      "eraHint": "建安初年",
+      "year": null,
+      "summary": "玄德南漳逢隐沧 单福新野遇英主",
+      "guide": "",
+      "question": "",
+      "peopleIds": [],
+      "placeIds": [],
+      "eventIds": [],
+      "sourceIds": [],
+      "sourceType": "演义",
+      "review": "待校",
+      "illustrationSeed": 35
+    },
+    {
+      "id": "036",
+      "no": 36,
+      "fullTitle": "第三十六回 玄德用计袭樊城 元直走马荐诸葛",
+      "title": "玄德用计袭樊城 元直走马荐诸葛",
+      "originUrl": "https://sanguo.5000yan.com/1000.html",
+      "arc": "北方混战",
+      "era": "",
+      "eraHint": "建安初年",
+      "year": null,
+      "summary": "玄德用计袭樊城 元直走马荐诸葛",
+      "guide": "",
+      "question": "",
+      "peopleIds": [],
+      "placeIds": [],
+      "eventIds": [],
+      "sourceIds": [],
+      "sourceType": "演义",
+      "review": "待校",
+      "illustrationSeed": 36
+    },
+    {
+      "id": "037",
+      "no": 37,
+      "fullTitle": "第三十七回 司马徽再荐名士 刘玄德三顾草庐",
+      "title": "司马徽再荐名士 刘玄德三顾草庐",
+      "originUrl": "https://sanguo.5000yan.com/1001.html",
+      "arc": "北方混战",
+      "era": "建安十二年",
+      "eraHint": "建安初年",
+      "year": 207,
+      "summary": "刘玄德三顾草庐，隆中初见诸葛亮。",
+      "guide": "刘备屯驻新野，经司马徽、徐庶两次推荐，三次亲自到隆中拜访一个二十七岁的读书人。前两次不见，第三次才得相见。这一回几乎没有战事，却常被视为全书的枢纽：一个屡屡寄人篱下的人，第一次得到一份完整的天下规划。读的时候留意「凡三往，乃见」这句——它同时写出了刘备的耐心和诸葛亮的分量。",
+      "question": "如果你是诸葛亮，会用什么标准决定要不要出山？",
+      "peopleIds": [
+        "liubei",
+        "zhugeliang",
+        "xushu",
+        "guanyu",
+        "zhangfei"
+      ],
+      "placeIds": [
+        "xinye",
+        "longzhong"
+      ],
+      "eventIds": [
+        "sangu"
+      ],
+      "sourceIds": [
+        "src-sangu"
+      ],
+      "sourceType": "演义",
+      "review": "已校",
+      "illustrationSeed": 37
+    },
+    {
+      "id": "038",
+      "no": 38,
+      "fullTitle": "第三十八回 定三分隆中决策 战长江孙氏报仇",
+      "title": "定三分隆中决策 战长江孙氏报仇",
+      "originUrl": "https://sanguo.5000yan.com/1002.html",
+      "arc": "北方混战",
+      "era": "建安十二年",
+      "eraHint": "建安初年",
+      "year": 207,
+      "summary": "隆中对策定三分，孙权报仇攻江夏。",
+      "guide": "诸葛亮在草庐里摊开一张天下图：曹操占天时、孙权据地利，刘备可取人和；先取荆州为家，再取益州为基，待天下有变，两路出兵。这就是「隆中对」。同一回里，孙权为报父仇攻打江夏，江东的势力线也第一次被清楚画出。这一回适合与地图对着看——把荆州、益州、江东三块位置记住，后面八十回的争夺就都有了坐标。",
+      "question": "隆中对里最关键的一个前提是什么？",
+      "peopleIds": [
+        "zhugeliang",
+        "liubei",
+        "sunquan",
+        "sunce"
+      ],
+      "placeIds": [
+        "jingzhou",
+        "chengdu",
+        "jianye",
+        "xiakou"
+      ],
+      "eventIds": [
+        "sangu"
+      ],
+      "sourceIds": [
+        "src-longzhong"
+      ],
+      "sourceType": "演义",
+      "review": "已校",
+      "illustrationSeed": 38
+    },
+    {
+      "id": "039",
+      "no": 39,
+      "fullTitle": "第三十九回 荆州城公子三求计 博望坡军师初用兵",
+      "title": "荆州城公子三求计 博望坡军师初用兵",
+      "originUrl": "https://sanguo.5000yan.com/1003.html",
+      "arc": "北方混战",
+      "era": "",
+      "eraHint": "建安初年",
+      "year": null,
+      "summary": "荆州城公子三求计 博望坡军师初用兵",
+      "guide": "",
+      "question": "",
+      "peopleIds": [],
+      "placeIds": [],
+      "eventIds": [],
+      "sourceIds": [],
+      "sourceType": "演义",
+      "review": "待校",
+      "illustrationSeed": 39
+    },
+    {
+      "id": "040",
+      "no": 40,
+      "fullTitle": "第四十回 蔡夫人议献荆州 诸葛亮火烧新野",
+      "title": "蔡夫人议献荆州 诸葛亮火烧新野",
+      "originUrl": "https://sanguo.5000yan.com/1004.html",
+      "arc": "北方混战",
+      "era": "",
+      "eraHint": "建安初年",
+      "year": null,
+      "summary": "蔡夫人议献荆州 诸葛亮火烧新野",
+      "guide": "",
+      "question": "",
+      "peopleIds": [],
+      "placeIds": [],
+      "eventIds": [],
+      "sourceIds": [],
+      "sourceType": "演义",
+      "review": "待校",
+      "illustrationSeed": 40
+    },
+    {
+      "id": "041",
+      "no": 41,
+      "fullTitle": "第四十一回 刘玄德携民渡江 赵子龙单骑救主",
+      "title": "刘玄德携民渡江 赵子龙单骑救主",
+      "originUrl": "https://sanguo.5000yan.com/1005.html",
+      "arc": "赤壁前后",
+      "era": "",
+      "eraHint": "建安十三年前后",
+      "year": null,
+      "summary": "刘玄德携民渡江 赵子龙单骑救主",
+      "guide": "",
+      "question": "",
+      "peopleIds": [],
+      "placeIds": [],
+      "eventIds": [],
+      "sourceIds": [],
+      "sourceType": "演义",
+      "review": "待校",
+      "illustrationSeed": 41
+    },
+    {
+      "id": "042",
+      "no": 42,
+      "fullTitle": "第四十二回 张翼德大闹长坂桥 刘豫州败走汉津口",
+      "title": "张翼德大闹长坂桥 刘豫州败走汉津口",
+      "originUrl": "https://sanguo.5000yan.com/1006.html",
+      "arc": "赤壁前后",
+      "era": "",
+      "eraHint": "建安十三年前后",
+      "year": null,
+      "summary": "张翼德大闹长坂桥 刘豫州败走汉津口",
+      "guide": "",
+      "question": "",
+      "peopleIds": [],
+      "placeIds": [],
+      "eventIds": [],
+      "sourceIds": [],
+      "sourceType": "演义",
+      "review": "待校",
+      "illustrationSeed": 42
+    },
+    {
+      "id": "043",
+      "no": 43,
+      "fullTitle": "第四十三回 诸葛亮舌战群儒 鲁子敬力排众议",
+      "title": "诸葛亮舌战群儒 鲁子敬力排众议",
+      "originUrl": "https://sanguo.5000yan.com/1007.html",
+      "arc": "赤壁前后",
+      "era": "建安十三年",
+      "eraHint": "建安十三年前后",
+      "year": 208,
+      "summary": "诸葛亮舌战群儒，鲁肃力排众议。",
+      "guide": "曹操南下，荆州望风而降，刘备退到夏口。江东朝堂上一片主和之声，诸葛亮随鲁肃过江，逐一应对张昭等人的诘问，孙权才下决心联刘抗曹。这一回的关键是「判断」而不是「口才」：同一份军情，主降者看见兵力差距，主战者看见长江与水战。读时可以试着把双方的理由各列三条。",
+      "question": "孙权决定开战，靠的是被说服，还是自己算清了账？",
+      "peopleIds": [
+        "zhugeliang",
+        "sunquan",
+        "lusu",
+        "zhangzhao",
+        "zhouyu",
+        "caocao"
+      ],
+      "placeIds": [
+        "xiakou",
+        "jianye",
+        "jingzhou"
+      ],
+      "eventIds": [
+        "chibi"
+      ],
+      "sourceIds": [
+        "src-shezhan"
+      ],
+      "sourceType": "演义",
+      "review": "已校",
+      "illustrationSeed": 43
+    },
+    {
+      "id": "044",
+      "no": 44,
+      "fullTitle": "第四十四回 孔明用智激周瑜 孙权决计破曹操",
+      "title": "孔明用智激周瑜 孙权决计破曹操",
+      "originUrl": "https://sanguo.5000yan.com/1008.html",
+      "arc": "赤壁前后",
+      "era": "建安十三年",
+      "eraHint": "建安十三年前后",
+      "year": 208,
+      "summary": "孔明激周瑜，孙权决计破曹操。",
+      "guide": "周瑜从鄱阳赶回，诸葛亮以铜雀台赋相激，周瑜当场请战；孙权拔刀砍断案角，定下抗曹大计。小说把这一段写得极有戏，正史里孙权的决心主要来自周瑜、鲁肃对形势的判断。这一回正好用来练习「小说与正史分开看」：情节可以共情，决策的依据要另查。",
+      "question": "小说为什么要给周瑜加一个「被激」的理由？",
+      "peopleIds": [
+        "zhouyu",
+        "zhugeliang",
+        "sunquan",
+        "lusu",
+        "caocao"
+      ],
+      "placeIds": [
+        "jianye",
+        "chibi"
+      ],
+      "eventIds": [
+        "chibi"
+      ],
+      "sourceIds": [
+        "src-jizhouyu"
+      ],
+      "sourceType": "演义",
+      "review": "已校",
+      "illustrationSeed": 44
+    },
+    {
+      "id": "045",
+      "no": 45,
+      "fullTitle": "第四十五回 三江口曹操折兵 群英会蒋干中计",
+      "title": "三江口曹操折兵 群英会蒋干中计",
+      "originUrl": "https://sanguo.5000yan.com/1009.html",
+      "arc": "赤壁前后",
+      "era": "",
+      "eraHint": "建安十三年前后",
+      "year": null,
+      "summary": "三江口曹操折兵 群英会蒋干中计",
+      "guide": "",
+      "question": "",
+      "peopleIds": [],
+      "placeIds": [],
+      "eventIds": [],
+      "sourceIds": [],
+      "sourceType": "演义",
+      "review": "待校",
+      "illustrationSeed": 45
+    },
+    {
+      "id": "046",
+      "no": 46,
+      "fullTitle": "第四十六回 用奇谋孔明借箭 献密计黄盖受刑",
+      "title": "用奇谋孔明借箭 献密计黄盖受刑",
+      "originUrl": "https://sanguo.5000yan.com/1010.html",
+      "arc": "赤壁前后",
+      "era": "建安十三年",
+      "eraHint": "建安十三年前后",
+      "year": 208,
+      "summary": "草船借箭，黄盖受刑，连环计成。",
+      "guide": "周瑜限诸葛亮三日造十万支箭，诸葛亮趁大雾以草船诱曹军放箭，满载而归；另一边黄盖挨了苦肉计，诈降书送进曹营，庞统又献连环计把曹军战船锁在一起。三件事其实都在铺同一个结果：让曹军的水战短板在东南风里被放大。「借箭」是小说名段，正史里并无此事，读时记得看来源标签。",
+      "question": "如果那天没有大雾，草船还能借到箭吗？",
+      "peopleIds": [
+        "zhugeliang",
+        "zhouyu",
+        "huanggai",
+        "caocao",
+        "pangtong",
+        "lusu"
+      ],
+      "placeIds": [
+        "chibi",
+        "wulin"
+      ],
+      "eventIds": [
+        "chibi"
+      ],
+      "sourceIds": [
+        "src-caochuan",
+        "src-kugurou"
+      ],
+      "sourceType": "演义",
+      "review": "已校",
+      "illustrationSeed": 46
+    },
+    {
+      "id": "047",
+      "no": 47,
+      "fullTitle": "第四十七回 阚泽密献诈降书 庞统巧授连环计",
+      "title": "阚泽密献诈降书 庞统巧授连环计",
+      "originUrl": "https://sanguo.5000yan.com/1011.html",
+      "arc": "赤壁前后",
+      "era": "",
+      "eraHint": "建安十三年前后",
+      "year": null,
+      "summary": "阚泽密献诈降书 庞统巧授连环计",
+      "guide": "",
+      "question": "",
+      "peopleIds": [],
+      "placeIds": [],
+      "eventIds": [],
+      "sourceIds": [],
+      "sourceType": "演义",
+      "review": "待校",
+      "illustrationSeed": 47
+    },
+    {
+      "id": "048",
+      "no": 48,
+      "fullTitle": "第四十八回 宴长江曹操赋诗 锁战船北军用武",
+      "title": "宴长江曹操赋诗 锁战船北军用武",
+      "originUrl": "https://sanguo.5000yan.com/1012.html",
+      "arc": "赤壁前后",
+      "era": "",
+      "eraHint": "建安十三年前后",
+      "year": null,
+      "summary": "宴长江曹操赋诗 锁战船北军用武",
+      "guide": "",
+      "question": "",
+      "peopleIds": [],
+      "placeIds": [],
+      "eventIds": [],
+      "sourceIds": [],
+      "sourceType": "演义",
+      "review": "待校",
+      "illustrationSeed": 48
+    },
+    {
+      "id": "049",
+      "no": 49,
+      "fullTitle": "第四十九回 七星坛诸葛祭风 三江口周瑜纵火",
+      "title": "七星坛诸葛祭风 三江口周瑜纵火",
+      "originUrl": "https://sanguo.5000yan.com/1013.html",
+      "arc": "赤壁前后",
+      "era": "建安十三年",
+      "eraHint": "建安十三年前后",
+      "year": 208,
+      "summary": "七星坛祭风，三江口周瑜纵火。",
+      "guide": "诸葛亮设七星坛「借」来东南风，黄盖的火船顺势冲入曹军水寨，锁在一起的战船无处可散，火借风势烧到岸上。这一回是全书最热闹的一幕，也是「演义写法」最浓的一幕——祭风是小说虚构，火攻与东南风则见于史书记载。把两者分开，反而更能看清周瑜的部署。",
+      "question": "火攻要成立，需要哪几件事同时发生？",
+      "peopleIds": [
+        "zhugeliang",
+        "zhouyu",
+        "huanggai",
+        "caocao",
+        "ganning"
+      ],
+      "placeIds": [
+        "chibi",
+        "wulin"
+      ],
+      "eventIds": [
+        "chibi"
+      ],
+      "sourceIds": [
+        "src-jiefeng",
+        "src-huogong"
+      ],
+      "sourceType": "演义",
+      "review": "已校",
+      "illustrationSeed": 49
+    },
+    {
+      "id": "050",
+      "no": 50,
+      "fullTitle": "第五十回 诸葛亮智算华容 关云长义释曹操",
+      "title": "诸葛亮智算华容 关云长义释曹操",
+      "originUrl": "https://sanguo.5000yan.com/1014.html",
+      "arc": "赤壁前后",
+      "era": "建安十三年",
+      "eraHint": "建安十三年前后",
+      "year": 208,
+      "summary": "诸葛亮智算华容，关云长义释曹操。",
+      "guide": "曹操败走华容道，三次大笑引出三路伏兵，最后撞上关羽。关羽念及旧日恩义，放他过去。正史里曹操确从华容道撤退，但并无关羽义释一节。这一回是理解「传说层」的好例子：它不为解释战局，而为写人物的义气。读到这里可以问一句——作者为什么宁愿让曹操活下来？",
+      "question": "放走曹操，对后面的天下格局意味着什么？",
+      "peopleIds": [
+        "caocao",
+        "guanyu",
+        "zhugeliang",
+        "zhangliao"
+      ],
+      "placeIds": [
+        "huarong",
+        "chibi"
+      ],
+      "eventIds": [
+        "chibi"
+      ],
+      "sourceIds": [
+        "src-huarong"
+      ],
+      "sourceType": "演义",
+      "review": "已校",
+      "illustrationSeed": 50
+    },
+    {
+      "id": "051",
+      "no": 51,
+      "fullTitle": "第五十一回 曹仁大战东吴兵 孔明一气周公瑾",
+      "title": "曹仁大战东吴兵 孔明一气周公瑾",
+      "originUrl": "https://sanguo.5000yan.com/1015.html",
+      "arc": "赤壁前后",
+      "era": "",
+      "eraHint": "建安十三年前后",
+      "year": null,
+      "summary": "曹仁大战东吴兵 孔明一气周公瑾",
+      "guide": "",
+      "question": "",
+      "peopleIds": [],
+      "placeIds": [],
+      "eventIds": [],
+      "sourceIds": [],
+      "sourceType": "演义",
+      "review": "待校",
+      "illustrationSeed": 51
+    },
+    {
+      "id": "052",
+      "no": 52,
+      "fullTitle": "第五十二回 诸葛亮智辞鲁肃 赵子龙计取桂阳",
+      "title": "诸葛亮智辞鲁肃 赵子龙计取桂阳",
+      "originUrl": "https://sanguo.5000yan.com/1016.html",
+      "arc": "赤壁前后",
+      "era": "",
+      "eraHint": "建安十三年前后",
+      "year": null,
+      "summary": "诸葛亮智辞鲁肃 赵子龙计取桂阳",
+      "guide": "",
+      "question": "",
+      "peopleIds": [],
+      "placeIds": [],
+      "eventIds": [],
+      "sourceIds": [],
+      "sourceType": "演义",
+      "review": "待校",
+      "illustrationSeed": 52
+    },
+    {
+      "id": "053",
+      "no": 53,
+      "fullTitle": "第五十三回 关云长义释黄汉升 孙仲谋大战张文远",
+      "title": "关云长义释黄汉升 孙仲谋大战张文远",
+      "originUrl": "https://sanguo.5000yan.com/1017.html",
+      "arc": "赤壁前后",
+      "era": "建安十四年",
+      "eraHint": "建安十三年前后",
+      "year": 209,
+      "summary": "关云长义释黄忠。",
+      "guide": "赤壁之后刘备取荆南，关羽战长沙遇上黄忠，两人惺惺相惜：关羽不杀落马之人，黄忠箭射盔缨还情。演义把这场不打不相识写得极有分寸。正史里黄忠随太守韩玄同降，并无大战。后文定军山斩夏侯渊的黄忠，正是在这里登场——旧将的余勇与新主的用人，是这回的暗线。",
+      "question": "义释黄忠的「义」，和义释曹操的「义」一样吗？",
+      "peopleIds": [
+        "guanyu",
+        "huangzhong"
+      ],
+      "placeIds": [
+        "jingzhou"
+      ],
+      "eventIds": [],
+      "sourceIds": [
+        "src-yishi"
+      ],
+      "sourceType": "演义",
+      "review": "已校",
+      "illustrationSeed": 53
+    },
+    {
+      "id": "054",
+      "no": 54,
+      "fullTitle": "第五十四回 吴国太佛寺看新郎 刘皇叔洞房续佳偶",
+      "title": "吴国太佛寺看新郎 刘皇叔洞房续佳偶",
+      "originUrl": "https://sanguo.5000yan.com/1018.html",
+      "arc": "赤壁前后",
+      "era": "",
+      "eraHint": "建安十三年前后",
+      "year": null,
+      "summary": "吴国太佛寺看新郎 刘皇叔洞房续佳偶",
+      "guide": "",
+      "question": "",
+      "peopleIds": [],
+      "placeIds": [],
+      "eventIds": [],
+      "sourceIds": [],
+      "sourceType": "演义",
+      "review": "待校",
+      "illustrationSeed": 54
+    },
+    {
+      "id": "055",
+      "no": 55,
+      "fullTitle": "第五十五回 玄德智激孙夫人 孔明二气周公瑾",
+      "title": "玄德智激孙夫人 孔明二气周公瑾",
+      "originUrl": "https://sanguo.5000yan.com/1019.html",
+      "arc": "赤壁前后",
+      "era": "",
+      "eraHint": "建安十三年前后",
+      "year": null,
+      "summary": "玄德智激孙夫人 孔明二气周公瑾",
+      "guide": "",
+      "question": "",
+      "peopleIds": [],
+      "placeIds": [],
+      "eventIds": [],
+      "sourceIds": [],
+      "sourceType": "演义",
+      "review": "待校",
+      "illustrationSeed": 55
+    },
+    {
+      "id": "056",
+      "no": 56,
+      "fullTitle": "第五十六回 曹操大宴铜雀台 孔明三气周公瑾",
+      "title": "曹操大宴铜雀台 孔明三气周公瑾",
+      "originUrl": "https://sanguo.5000yan.com/1020.html",
+      "arc": "赤壁前后",
+      "era": "",
+      "eraHint": "建安十三年前后",
+      "year": null,
+      "summary": "曹操大宴铜雀台 孔明三气周公瑾",
+      "guide": "",
+      "question": "",
+      "peopleIds": [],
+      "placeIds": [],
+      "eventIds": [],
+      "sourceIds": [],
+      "sourceType": "演义",
+      "review": "待校",
+      "illustrationSeed": 56
+    },
+    {
+      "id": "057",
+      "no": 57,
+      "fullTitle": "第五十七回 柴桑口卧龙吊丧 耒阳县凤雏理事",
+      "title": "柴桑口卧龙吊丧 耒阳县凤雏理事",
+      "originUrl": "https://sanguo.5000yan.com/1021.html",
+      "arc": "赤壁前后",
+      "era": "",
+      "eraHint": "建安十三年前后",
+      "year": null,
+      "summary": "柴桑口卧龙吊丧 耒阳县凤雏理事",
+      "guide": "",
+      "question": "",
+      "peopleIds": [],
+      "placeIds": [],
+      "eventIds": [],
+      "sourceIds": [],
+      "sourceType": "演义",
+      "review": "待校",
+      "illustrationSeed": 57
+    },
+    {
+      "id": "058",
+      "no": 58,
+      "fullTitle": "第五十八回 马孟起兴兵雪恨 曹阿瞒割须弃袍",
+      "title": "马孟起兴兵雪恨 曹阿瞒割须弃袍",
+      "originUrl": "https://sanguo.5000yan.com/1022.html",
+      "arc": "赤壁前后",
+      "era": "",
+      "eraHint": "建安十三年前后",
+      "year": null,
+      "summary": "马孟起兴兵雪恨 曹阿瞒割须弃袍",
+      "guide": "",
+      "question": "",
+      "peopleIds": [],
+      "placeIds": [],
+      "eventIds": [],
+      "sourceIds": [],
+      "sourceType": "演义",
+      "review": "待校",
+      "illustrationSeed": 58
+    },
+    {
+      "id": "059",
+      "no": 59,
+      "fullTitle": "第五十九回 许诸裸衣斗马超 曹操抹书间韩遂",
+      "title": "许诸裸衣斗马超 曹操抹书间韩遂",
+      "originUrl": "https://sanguo.5000yan.com/1023.html",
+      "arc": "赤壁前后",
+      "era": "",
+      "eraHint": "建安十三年前后",
+      "year": null,
+      "summary": "许诸裸衣斗马超 曹操抹书间韩遂",
+      "guide": "",
+      "question": "",
+      "peopleIds": [],
+      "placeIds": [],
+      "eventIds": [],
+      "sourceIds": [],
+      "sourceType": "演义",
+      "review": "待校",
+      "illustrationSeed": 59
+    },
+    {
+      "id": "060",
+      "no": 60,
+      "fullTitle": "第六十回 张永年反难杨修 庞士元议取西蜀",
+      "title": "张永年反难杨修 庞士元议取西蜀",
+      "originUrl": "https://sanguo.5000yan.com/1024.html",
+      "arc": "赤壁前后",
+      "era": "",
+      "eraHint": "建安十三年前后",
+      "year": null,
+      "summary": "张永年反难杨修 庞士元议取西蜀",
+      "guide": "",
+      "question": "",
+      "peopleIds": [],
+      "placeIds": [],
+      "eventIds": [],
+      "sourceIds": [],
+      "sourceType": "演义",
+      "review": "待校",
+      "illustrationSeed": 60
+    },
+    {
+      "id": "061",
+      "no": 61,
+      "fullTitle": "第六十一回 赵云截江夺阿斗 孙权遗书退老瞒",
+      "title": "赵云截江夺阿斗 孙权遗书退老瞒",
+      "originUrl": "https://sanguo.5000yan.com/1025.html",
+      "arc": "三分成形",
+      "era": "",
+      "eraHint": "建安后期",
+      "year": null,
+      "summary": "赵云截江夺阿斗 孙权遗书退老瞒",
+      "guide": "",
+      "question": "",
+      "peopleIds": [],
+      "placeIds": [],
+      "eventIds": [],
+      "sourceIds": [],
+      "sourceType": "演义",
+      "review": "待校",
+      "illustrationSeed": 61
+    },
+    {
+      "id": "062",
+      "no": 62,
+      "fullTitle": "第六十二回 取涪关杨高授首 攻雒城黄魏争功",
+      "title": "取涪关杨高授首 攻雒城黄魏争功",
+      "originUrl": "https://sanguo.5000yan.com/1026.html",
+      "arc": "三分成形",
+      "era": "",
+      "eraHint": "建安后期",
+      "year": null,
+      "summary": "取涪关杨高授首 攻雒城黄魏争功",
+      "guide": "",
+      "question": "",
+      "peopleIds": [],
+      "placeIds": [],
+      "eventIds": [],
+      "sourceIds": [],
+      "sourceType": "演义",
+      "review": "待校",
+      "illustrationSeed": 62
+    },
+    {
+      "id": "063",
+      "no": 63,
+      "fullTitle": "第六十三回 诸葛亮痛哭庞统 张翼德义释严颜",
+      "title": "诸葛亮痛哭庞统 张翼德义释严颜",
+      "originUrl": "https://sanguo.5000yan.com/1027.html",
+      "arc": "三分成形",
+      "era": "",
+      "eraHint": "建安后期",
+      "year": null,
+      "summary": "诸葛亮痛哭庞统 张翼德义释严颜",
+      "guide": "",
+      "question": "",
+      "peopleIds": [],
+      "placeIds": [],
+      "eventIds": [],
+      "sourceIds": [],
+      "sourceType": "演义",
+      "review": "待校",
+      "illustrationSeed": 63
+    },
+    {
+      "id": "064",
+      "no": 64,
+      "fullTitle": "第六十四回 孔明定计捉张任 杨阜借兵破马超",
+      "title": "孔明定计捉张任 杨阜借兵破马超",
+      "originUrl": "https://sanguo.5000yan.com/1028.html",
+      "arc": "三分成形",
+      "era": "",
+      "eraHint": "建安后期",
+      "year": null,
+      "summary": "孔明定计捉张任 杨阜借兵破马超",
+      "guide": "",
+      "question": "",
+      "peopleIds": [],
+      "placeIds": [],
+      "eventIds": [],
+      "sourceIds": [],
+      "sourceType": "演义",
+      "review": "待校",
+      "illustrationSeed": 64
+    },
+    {
+      "id": "065",
+      "no": 65,
+      "fullTitle": "第六十五回 马超大战葭萌关 刘备自领益州牧",
+      "title": "马超大战葭萌关 刘备自领益州牧",
+      "originUrl": "https://sanguo.5000yan.com/1029.html",
+      "arc": "三分成形",
+      "era": "建安十九年",
+      "eraHint": "建安后期",
+      "year": 214,
+      "summary": "马超大战葭萌关，刘备自领益州牧。",
+      "guide": "刘备入蜀多年，终于收定益州，马超来归，诸葛亮、法正各得其位。至此隆中对里的「跨有荆益」第一次真正落地。 地理上，从荆州到成都是一条漫长而脆弱的线，这条线后来会成为关羽败亡与夷陵之战的远因。读这一回建议切到地图，把荆州、汉中、成都三点连起来看。",
+      "question": "同时守住荆州和益州，难在哪里？",
+      "peopleIds": [
+        "liubei",
+        "machao",
+        "zhugeliang",
+        "fazheng",
+        "liuzhang"
+      ],
+      "placeIds": [
+        "chengdu",
+        "hanzhong",
+        "jingzhou"
+      ],
+      "eventIds": [
+        "yizhou"
+      ],
+      "sourceIds": [
+        "src-yizhou"
+      ],
+      "sourceType": "演义",
+      "review": "已校",
+      "illustrationSeed": 65
+    },
+    {
+      "id": "066",
+      "no": 66,
+      "fullTitle": "第六十六回 关云长单刀赴会 伏皇后为国捐生",
+      "title": "关云长单刀赴会 伏皇后为国捐生",
+      "originUrl": "https://sanguo.5000yan.com/1030.html",
+      "arc": "三分成形",
+      "era": "建安二十年",
+      "eraHint": "建安后期",
+      "year": 215,
+      "summary": "单刀赴会，关羽鲁肃湘水对峙。",
+      "guide": "孙刘争荆州三郡，鲁肃设宴请关羽过江，想当面讨地。关羽单刀赴会，谈笑间借醉挟鲁肃到江边而退。演义把胆气写给了关羽，正史的单刀会其实在《鲁肃传》——两边各带单刀赴会，鲁肃义正辞严，关羽无话可答。两个版本对着读，正好练「同一件事，立场换了主角」。",
+      "question": "鲁肃敢请，关羽敢来，各自倚仗的是什么？",
+      "peopleIds": [
+        "guanyu",
+        "lusu"
+      ],
+      "placeIds": [
+        "jingzhou"
+      ],
+      "eventIds": [],
+      "sourceIds": [
+        "src-danyi"
+      ],
+      "sourceType": "演义",
+      "review": "已校",
+      "illustrationSeed": 66
+    },
+    {
+      "id": "067",
+      "no": 67,
+      "fullTitle": "第六十七回 曹操平定汉中地 张辽威震逍遥津",
+      "title": "曹操平定汉中地 张辽威震逍遥津",
+      "originUrl": "https://sanguo.5000yan.com/1031.html",
+      "arc": "三分成形",
+      "era": "",
+      "eraHint": "建安后期",
+      "year": null,
+      "summary": "曹操平定汉中地 张辽威震逍遥津",
+      "guide": "",
+      "question": "",
+      "peopleIds": [],
+      "placeIds": [],
+      "eventIds": [],
+      "sourceIds": [],
+      "sourceType": "演义",
+      "review": "待校",
+      "illustrationSeed": 67
+    },
+    {
+      "id": "068",
+      "no": 68,
+      "fullTitle": "第六十八回 甘宁百骑劫魏营 左慈掷杯戏曹操",
+      "title": "甘宁百骑劫魏营 左慈掷杯戏曹操",
+      "originUrl": "https://sanguo.5000yan.com/1032.html",
+      "arc": "三分成形",
+      "era": "建安十八年",
+      "eraHint": "建安后期",
+      "year": 213,
+      "summary": "甘宁百骑劫魏营。",
+      "guide": "濡须口对峙，甘宁只带一百骑兵，头盔插白鹅翎夜袭曹营，斩敌而还，一人未折。孙权说「孟德有张辽，孤有兴霸，足相敌也」。百骑劫营为演义敷演，甘宁的胆略却见于本传「值数百人，即昼夜兼行击之」。这一回读「以胆破势」：兵力悬殊时，让对方夜里睡不安稳，本身就是一种战果。",
+      "question": "一百人去劫几万人的营，图的是什么？",
+      "peopleIds": [
+        "ganning",
+        "sunquan",
+        "caocao",
+        "lvmeng"
+      ],
+      "placeIds": [
+        "jianye"
+      ],
+      "eventIds": [],
+      "sourceIds": [
+        "src-baiqi"
+      ],
+      "sourceType": "演义",
+      "review": "已校",
+      "illustrationSeed": 68
+    },
+    {
+      "id": "069",
+      "no": 69,
+      "fullTitle": "第六十九回 卜周易管辂知机 讨汉贼五臣死节",
+      "title": "卜周易管辂知机 讨汉贼五臣死节",
+      "originUrl": "https://sanguo.5000yan.com/1033.html",
+      "arc": "三分成形",
+      "era": "",
+      "eraHint": "建安后期",
+      "year": null,
+      "summary": "卜周易管辂知机 讨汉贼五臣死节",
+      "guide": "",
+      "question": "",
+      "peopleIds": [],
+      "placeIds": [],
+      "eventIds": [],
+      "sourceIds": [],
+      "sourceType": "演义",
+      "review": "待校",
+      "illustrationSeed": 69
+    },
+    {
+      "id": "070",
+      "no": 70,
+      "fullTitle": "第七十回 猛张飞智取瓦口隘 老黄忠计夺天荡山",
+      "title": "猛张飞智取瓦口隘 老黄忠计夺天荡山",
+      "originUrl": "https://sanguo.5000yan.com/1034.html",
+      "arc": "三分成形",
+      "era": "",
+      "eraHint": "建安后期",
+      "year": null,
+      "summary": "猛张飞智取瓦口隘 老黄忠计夺天荡山",
+      "guide": "",
+      "question": "",
+      "peopleIds": [],
+      "placeIds": [],
+      "eventIds": [],
+      "sourceIds": [],
+      "sourceType": "演义",
+      "review": "待校",
+      "illustrationSeed": 70
+    },
+    {
+      "id": "071",
+      "no": 71,
+      "fullTitle": "第七十一回 占对山黄忠逸待劳 据汉水赵云寡胜众",
+      "title": "占对山黄忠逸待劳 据汉水赵云寡胜众",
+      "originUrl": "https://sanguo.5000yan.com/1035.html",
+      "arc": "三分成形",
+      "era": "",
+      "eraHint": "建安后期",
+      "year": null,
+      "summary": "占对山黄忠逸待劳 据汉水赵云寡胜众",
+      "guide": "",
+      "question": "",
+      "peopleIds": [],
+      "placeIds": [],
+      "eventIds": [],
+      "sourceIds": [],
+      "sourceType": "演义",
+      "review": "待校",
+      "illustrationSeed": 71
+    },
+    {
+      "id": "072",
+      "no": 72,
+      "fullTitle": "第七十二回 诸葛亮智取汉中 曹阿瞒兵退斜谷",
+      "title": "诸葛亮智取汉中 曹阿瞒兵退斜谷",
+      "originUrl": "https://sanguo.5000yan.com/1036.html",
+      "arc": "三分成形",
+      "era": "",
+      "eraHint": "建安后期",
+      "year": null,
+      "summary": "诸葛亮智取汉中 曹阿瞒兵退斜谷",
+      "guide": "",
+      "question": "",
+      "peopleIds": [],
+      "placeIds": [],
+      "eventIds": [],
+      "sourceIds": [],
+      "sourceType": "演义",
+      "review": "待校",
+      "illustrationSeed": 72
+    },
+    {
+      "id": "073",
+      "no": 73,
+      "fullTitle": "第七十三回 玄德进位汉中王 云长攻拔襄阳郡",
+      "title": "玄德进位汉中王 云长攻拔襄阳郡",
+      "originUrl": "https://sanguo.5000yan.com/1037.html",
+      "arc": "三分成形",
+      "era": "",
+      "eraHint": "建安后期",
+      "year": null,
+      "summary": "玄德进位汉中王 云长攻拔襄阳郡",
+      "guide": "",
+      "question": "",
+      "peopleIds": [],
+      "placeIds": [],
+      "eventIds": [],
+      "sourceIds": [],
+      "sourceType": "演义",
+      "review": "待校",
+      "illustrationSeed": 73
+    },
+    {
+      "id": "074",
+      "no": 74,
+      "fullTitle": "第七十四回 庞令明抬榇决死战 关云长放水淹七军",
+      "title": "庞令明抬榇决死战 关云长放水淹七军",
+      "originUrl": "https://sanguo.5000yan.com/1038.html",
+      "arc": "三分成形",
+      "era": "建安二十四年",
+      "eraHint": "建安后期",
+      "year": 219,
+      "summary": "庞德抬榇决死，关羽水淹七军。",
+      "guide": "樊城之围，庞德抬着棺材上阵，与关羽大战百余合不分胜负；随后秋雨连绵，汉水泛溢，于禁七军尽没，庞德拒降被杀。「水淹七军」依赖天时，《关羽传》一句「汉水泛溢，禁所督七军皆没」是正史底本，此后才有「威震华夏」。读时注意于禁与庞德的对照：三十年宿将降了，新附之将却死节。",
+      "question": "庞德抬着棺材上阵，说明他算准了什么？",
+      "peopleIds": [
+        "guanyu",
+        "pangde",
+        "yujin",
+        "caocao"
+      ],
+      "placeIds": [
+        "jingzhou"
+      ],
+      "eventIds": [],
+      "sourceIds": [
+        "src-qijun"
+      ],
+      "sourceType": "演义",
+      "review": "已校",
+      "illustrationSeed": 74
+    },
+    {
+      "id": "075",
+      "no": 75,
+      "fullTitle": "第七十五回 关云长刮骨疗毒 吕子明白衣渡江",
+      "title": "关云长刮骨疗毒 吕子明白衣渡江",
+      "originUrl": "https://sanguo.5000yan.com/1039.html",
+      "arc": "三分成形",
+      "era": "",
+      "eraHint": "建安后期",
+      "year": null,
+      "summary": "关云长刮骨疗毒 吕子明白衣渡江",
+      "guide": "",
+      "question": "",
+      "peopleIds": [],
+      "placeIds": [],
+      "eventIds": [],
+      "sourceIds": [],
+      "sourceType": "演义",
+      "review": "待校",
+      "illustrationSeed": 75
+    },
+    {
+      "id": "076",
+      "no": 76,
+      "fullTitle": "第七十六回 徐公明大战沔水 关云长败走麦城",
+      "title": "徐公明大战沔水 关云长败走麦城",
+      "originUrl": "https://sanguo.5000yan.com/1040.html",
+      "arc": "三分成形",
+      "era": "建安二十四年",
+      "eraHint": "建安后期",
+      "year": 219,
+      "summary": "徐晃解樊城之围，关羽败走麦城。",
+      "guide": "白衣渡江之后，荆州后路已断：糜芳、傅士仁开城，吕蒙兵不血刃入江陵。徐晃又在正面击退关羽，两路夹击之下，关羽西走麦城。这一回没有一个「大场面」，却是全书最冷的转折——成势用了二十年，塌下来只用了一个月。读时可以数一数：此时能救关羽的几路人马，各自卡在哪里。",
+      "question": "荆州丢的时候，最能救关羽的人在哪里？",
+      "peopleIds": [
+        "guanyu",
+        "lvmeng",
+        "panzhang",
+        "mifang"
+      ],
+      "placeIds": [
+        "jingzhou",
+        "jiangling"
+      ],
+      "eventIds": [],
+      "sourceIds": [
+        "src-maicheng"
+      ],
+      "sourceType": "演义",
+      "review": "已校",
+      "illustrationSeed": 76
+    },
+    {
+      "id": "077",
+      "no": 77,
+      "fullTitle": "第七十七回 玉泉山关公显圣 洛阳城曹操感神",
+      "title": "玉泉山关公显圣 洛阳城曹操感神",
+      "originUrl": "https://sanguo.5000yan.com/1041.html",
+      "arc": "三分成形",
+      "era": "延康元年",
+      "eraHint": "建安后期",
+      "year": 220,
+      "summary": "临沮星陨，玉泉显圣。",
+      "guide": "关羽突围至临沮，与子关平同被擒杀。演义在这之后写了玉泉山显圣、月下索头，又让曹操以王侯之礼葬其身驱。显圣是演义与民间信仰层，正史止于「斩羽及子平于临沮」。把这两层分开读，恰恰能看到一件事：史书写完的是一个人的死，而千年香火写的是一个「义」字的活。",
+      "question": "为什么人们要让关羽「显圣」？",
+      "peopleIds": [
+        "guanyu",
+        "liubei",
+        "caocao"
+      ],
+      "placeIds": [
+        "jingzhou"
+      ],
+      "eventIds": [],
+      "sourceIds": [
+        "src-yuquan"
+      ],
+      "sourceType": "演义",
+      "review": "已校",
+      "illustrationSeed": 77
+    },
+    {
+      "id": "078",
+      "no": 78,
+      "fullTitle": "第七十八回 治风疾神医身死 传遗命奸雄数终",
+      "title": "治风疾神医身死 传遗命奸雄数终",
+      "originUrl": "https://sanguo.5000yan.com/1042.html",
+      "arc": "三分成形",
+      "era": "",
+      "eraHint": "建安后期",
+      "year": null,
+      "summary": "治风疾神医身死 传遗命奸雄数终",
+      "guide": "",
+      "question": "",
+      "peopleIds": [],
+      "placeIds": [],
+      "eventIds": [],
+      "sourceIds": [],
+      "sourceType": "演义",
+      "review": "待校",
+      "illustrationSeed": 78
+    },
+    {
+      "id": "079",
+      "no": 79,
+      "fullTitle": "第七十九回 兄逼弟曹植赋诗 侄陷叔刘封伏法",
+      "title": "兄逼弟曹植赋诗 侄陷叔刘封伏法",
+      "originUrl": "https://sanguo.5000yan.com/1043.html",
+      "arc": "三分成形",
+      "era": "",
+      "eraHint": "建安后期",
+      "year": null,
+      "summary": "兄逼弟曹植赋诗 侄陷叔刘封伏法",
+      "guide": "",
+      "question": "",
+      "peopleIds": [],
+      "placeIds": [],
+      "eventIds": [],
+      "sourceIds": [],
+      "sourceType": "演义",
+      "review": "待校",
+      "illustrationSeed": 79
+    },
+    {
+      "id": "080",
+      "no": 80,
+      "fullTitle": "第八十回 曹丕废帝篡炎刘 汉王正位续大统",
+      "title": "曹丕废帝篡炎刘 汉王正位续大统",
+      "originUrl": "https://sanguo.5000yan.com/1044.html",
+      "arc": "三分成形",
+      "era": "",
+      "eraHint": "建安后期",
+      "year": null,
+      "summary": "曹丕废帝篡炎刘 汉王正位续大统",
+      "guide": "",
+      "question": "",
+      "peopleIds": [],
+      "placeIds": [],
+      "eventIds": [],
+      "sourceIds": [],
+      "sourceType": "演义",
+      "review": "待校",
+      "illustrationSeed": 80
+    },
+    {
+      "id": "081",
+      "no": 81,
+      "fullTitle": "第八十一回 急兄仇张飞遇害 雪弟恨先主兴兵",
+      "title": "急兄仇张飞遇害 雪弟恨先主兴兵",
+      "originUrl": "https://sanguo.5000yan.com/1045.html",
+      "arc": "蜀汉北伐",
+      "era": "",
+      "eraHint": "章武至建兴年间",
+      "year": null,
+      "summary": "急兄仇张飞遇害 雪弟恨先主兴兵",
+      "guide": "",
+      "question": "",
+      "peopleIds": [],
+      "placeIds": [],
+      "eventIds": [],
+      "sourceIds": [],
+      "sourceType": "演义",
+      "review": "待校",
+      "illustrationSeed": 81
+    },
+    {
+      "id": "082",
+      "no": 82,
+      "fullTitle": "第八十二回 孙权降魏受九锡 先主征吴赏六军",
+      "title": "孙权降魏受九锡 先主征吴赏六军",
+      "originUrl": "https://sanguo.5000yan.com/1046.html",
+      "arc": "蜀汉北伐",
+      "era": "",
+      "eraHint": "章武至建兴年间",
+      "year": null,
+      "summary": "孙权降魏受九锡 先主征吴赏六军",
+      "guide": "",
+      "question": "",
+      "peopleIds": [],
+      "placeIds": [],
+      "eventIds": [],
+      "sourceIds": [],
+      "sourceType": "演义",
+      "review": "待校",
+      "illustrationSeed": 82
+    },
+    {
+      "id": "083",
+      "no": 83,
+      "fullTitle": "第八十三回 战猇亭先主得仇人 守江口书生拜大将",
+      "title": "战猇亭先主得仇人 守江口书生拜大将",
+      "originUrl": "https://sanguo.5000yan.com/1047.html",
+      "arc": "蜀汉北伐",
+      "era": "",
+      "eraHint": "章武至建兴年间",
+      "year": null,
+      "summary": "战猇亭先主得仇人 守江口书生拜大将",
+      "guide": "",
+      "question": "",
+      "peopleIds": [],
+      "placeIds": [],
+      "eventIds": [],
+      "sourceIds": [],
+      "sourceType": "演义",
+      "review": "待校",
+      "illustrationSeed": 83
+    },
+    {
+      "id": "084",
+      "no": 84,
+      "fullTitle": "第八十四回 陆逊营烧七百里 孔明巧布八阵图",
+      "title": "陆逊营烧七百里 孔明巧布八阵图",
+      "originUrl": "https://sanguo.5000yan.com/1048.html",
+      "arc": "蜀汉北伐",
+      "era": "",
+      "eraHint": "章武至建兴年间",
+      "year": null,
+      "summary": "陆逊营烧七百里 孔明巧布八阵图",
+      "guide": "",
+      "question": "",
+      "peopleIds": [],
+      "placeIds": [],
+      "eventIds": [],
+      "sourceIds": [],
+      "sourceType": "演义",
+      "review": "待校",
+      "illustrationSeed": 84
+    },
+    {
+      "id": "085",
+      "no": 85,
+      "fullTitle": "第八十五回 刘先主遗诏托孤儿 诸葛亮安居平五路",
+      "title": "刘先主遗诏托孤儿 诸葛亮安居平五路",
+      "originUrl": "https://sanguo.5000yan.com/1049.html",
+      "arc": "蜀汉北伐",
+      "era": "章武三年",
+      "eraHint": "章武至建兴年间",
+      "year": 223,
+      "summary": "白帝城托孤，诸葛亮安居平五路。",
+      "guide": "夷陵败后刘备退驻永安，病重召诸葛亮托孤，一句「若嗣子可辅，辅之」把蜀汉交了出去。随后魏国煽动五路兵马同时来攻，诸葛亮闭门不出，逐一化解。这一回与第三十七回遥相对应：草庐里的规划者，如今成了独自扛住全局的人。",
+      "question": "托孤时刘备为什么要把话说得那么重？",
+      "peopleIds": [
+        "liubei",
+        "zhugeliang",
+        "liushan",
+        "zhaoyun"
+      ],
+      "placeIds": [
+        "chengdu",
+        "jingzhou"
+      ],
+      "eventIds": [
+        "tuogu"
+      ],
+      "sourceIds": [
+        "src-tuogu"
+      ],
+      "sourceType": "演义",
+      "review": "已校",
+      "illustrationSeed": 85
+    },
+    {
+      "id": "086",
+      "no": 86,
+      "fullTitle": "第八十六回 难张温秦宓逞天辩 破曹丕徐盛用火攻",
+      "title": "难张温秦宓逞天辩 破曹丕徐盛用火攻",
+      "originUrl": "https://sanguo.5000yan.com/1050.html",
+      "arc": "蜀汉北伐",
+      "era": "",
+      "eraHint": "章武至建兴年间",
+      "year": null,
+      "summary": "难张温秦宓逞天辩 破曹丕徐盛用火攻",
+      "guide": "",
+      "question": "",
+      "peopleIds": [],
+      "placeIds": [],
+      "eventIds": [],
+      "sourceIds": [],
+      "sourceType": "演义",
+      "review": "待校",
+      "illustrationSeed": 86
+    },
+    {
+      "id": "087",
+      "no": 87,
+      "fullTitle": "第八十七回 征南寇丞相大兴师 抗天兵蛮王初受执",
+      "title": "征南寇丞相大兴师 抗天兵蛮王初受执",
+      "originUrl": "https://sanguo.5000yan.com/1051.html",
+      "arc": "蜀汉北伐",
+      "era": "建兴三年",
+      "eraHint": "章武至建兴年间",
+      "year": 225,
+      "summary": "征南中，七擒七纵孟获。",
+      "guide": "南中反，诸葛亮亲征，「七纵七禽」见于裴松之注引《汉晋春秋》，并非陈寿正文——本站把它标在「传说层」正是这个缘故。这一回的读法是「攻心」：换作杀降，南中只会平一时；放七次，买的其实是往后几十年的后方。蜀汉能安心北伐，前提在这回里。",
+      "question": "为什么要放七次？",
+      "peopleIds": [
+        "zhugeliang",
+        "menghuo"
+      ],
+      "placeIds": [
+        "chengdu"
+      ],
+      "eventIds": [],
+      "sourceIds": [
+        "src-qiqin"
+      ],
+      "sourceType": "演义",
+      "review": "已校",
+      "illustrationSeed": 87
+    },
+    {
+      "id": "088",
+      "no": 88,
+      "fullTitle": "第八十八回 渡泸水再缚番王 识诈降三擒孟获",
+      "title": "渡泸水再缚番王 识诈降三擒孟获",
+      "originUrl": "https://sanguo.5000yan.com/1052.html",
+      "arc": "蜀汉北伐",
+      "era": "",
+      "eraHint": "章武至建兴年间",
+      "year": null,
+      "summary": "渡泸水再缚番王 识诈降三擒孟获",
+      "guide": "",
+      "question": "",
+      "peopleIds": [],
+      "placeIds": [],
+      "eventIds": [],
+      "sourceIds": [],
+      "sourceType": "演义",
+      "review": "待校",
+      "illustrationSeed": 88
+    },
+    {
+      "id": "089",
+      "no": 89,
+      "fullTitle": "第八十九回 武乡侯四番用计 南蛮王五次遭擒",
+      "title": "武乡侯四番用计 南蛮王五次遭擒",
+      "originUrl": "https://sanguo.5000yan.com/1053.html",
+      "arc": "蜀汉北伐",
+      "era": "",
+      "eraHint": "章武至建兴年间",
+      "year": null,
+      "summary": "武乡侯四番用计 南蛮王五次遭擒",
+      "guide": "",
+      "question": "",
+      "peopleIds": [],
+      "placeIds": [],
+      "eventIds": [],
+      "sourceIds": [],
+      "sourceType": "演义",
+      "review": "待校",
+      "illustrationSeed": 89
+    },
+    {
+      "id": "090",
+      "no": 90,
+      "fullTitle": "第九十回 驱巨兽六破蛮兵 烧藤甲七擒孟获",
+      "title": "驱巨兽六破蛮兵 烧藤甲七擒孟获",
+      "originUrl": "https://sanguo.5000yan.com/1054.html",
+      "arc": "蜀汉北伐",
+      "era": "",
+      "eraHint": "章武至建兴年间",
+      "year": null,
+      "summary": "驱巨兽六破蛮兵 烧藤甲七擒孟获",
+      "guide": "",
+      "question": "",
+      "peopleIds": [],
+      "placeIds": [],
+      "eventIds": [],
+      "sourceIds": [],
+      "sourceType": "演义",
+      "review": "待校",
+      "illustrationSeed": 90
+    },
+    {
+      "id": "091",
+      "no": 91,
+      "fullTitle": "第九十一回 祭泸水汉相班师 伐中原武侯上表",
+      "title": "祭泸水汉相班师 伐中原武侯上表",
+      "originUrl": "https://sanguo.5000yan.com/1055.html",
+      "arc": "蜀汉北伐",
+      "era": "",
+      "eraHint": "章武至建兴年间",
+      "year": null,
+      "summary": "祭泸水汉相班师 伐中原武侯上表",
+      "guide": "",
+      "question": "",
+      "peopleIds": [],
+      "placeIds": [],
+      "eventIds": [],
+      "sourceIds": [],
+      "sourceType": "演义",
+      "review": "待校",
+      "illustrationSeed": 91
+    },
+    {
+      "id": "092",
+      "no": 92,
+      "fullTitle": "第九十二回 赵子龙力斩五将 诸葛亮智取三城",
+      "title": "赵子龙力斩五将 诸葛亮智取三城",
+      "originUrl": "https://sanguo.5000yan.com/1056.html",
+      "arc": "蜀汉北伐",
+      "era": "",
+      "eraHint": "章武至建兴年间",
+      "year": null,
+      "summary": "赵子龙力斩五将 诸葛亮智取三城",
+      "guide": "",
+      "question": "",
+      "peopleIds": [],
+      "placeIds": [],
+      "eventIds": [],
+      "sourceIds": [],
+      "sourceType": "演义",
+      "review": "待校",
+      "illustrationSeed": 92
+    },
+    {
+      "id": "093",
+      "no": 93,
+      "fullTitle": "第九十三回 姜伯约归降孔明 武乡侯骂死王朗",
+      "title": "姜伯约归降孔明 武乡侯骂死王朗",
+      "originUrl": "https://sanguo.5000yan.com/1057.html",
+      "arc": "蜀汉北伐",
+      "era": "",
+      "eraHint": "章武至建兴年间",
+      "year": null,
+      "summary": "姜伯约归降孔明 武乡侯骂死王朗",
+      "guide": "",
+      "question": "",
+      "peopleIds": [],
+      "placeIds": [],
+      "eventIds": [],
+      "sourceIds": [],
+      "sourceType": "演义",
+      "review": "待校",
+      "illustrationSeed": 93
+    },
+    {
+      "id": "094",
+      "no": 94,
+      "fullTitle": "第九十四回 诸葛亮乘雪破羌兵 司马懿克日擒孟达",
+      "title": "诸葛亮乘雪破羌兵 司马懿克日擒孟达",
+      "originUrl": "https://sanguo.5000yan.com/1058.html",
+      "arc": "蜀汉北伐",
+      "era": "",
+      "eraHint": "章武至建兴年间",
+      "year": null,
+      "summary": "诸葛亮乘雪破羌兵 司马懿克日擒孟达",
+      "guide": "",
+      "question": "",
+      "peopleIds": [],
+      "placeIds": [],
+      "eventIds": [],
+      "sourceIds": [],
+      "sourceType": "演义",
+      "review": "待校",
+      "illustrationSeed": 94
+    },
+    {
+      "id": "095",
+      "no": 95,
+      "fullTitle": "第九十五回 马谡拒谏失街亭 武侯弹琴退仲达",
+      "title": "马谡拒谏失街亭 武侯弹琴退仲达",
+      "originUrl": "https://sanguo.5000yan.com/1059.html",
+      "arc": "蜀汉北伐",
+      "era": "建兴六年",
+      "eraHint": "章武至建兴年间",
+      "year": 228,
+      "summary": "马谡失街亭，空城计退仲达。",
+      "guide": "一出祁山形势大好，诸葛亮却用了言过其实的马谡守街亭；舍水上山，被张郃断其汲道，全军溃退，王平独全其军。退军路上演义又添「弹琴退仲达」的空城计，正史无此事。这一回适合连着读两笔账：街亭之败，诸葛亮自贬三等；空城之智，是小说给败局挽回的体面。",
+      "question": "街亭之败，最先该追的是谁的责任？",
+      "peopleIds": [
+        "zhugeliang",
+        "masu",
+        "wangping",
+        "simayi"
+      ],
+      "placeIds": [
+        "jieting",
+        "hanzhong"
+      ],
+      "eventIds": [
+        "beifa"
+      ],
+      "sourceIds": [
+        "src-kongcheng"
+      ],
+      "sourceType": "演义",
+      "review": "已校",
+      "illustrationSeed": 95
+    },
+    {
+      "id": "096",
+      "no": 96,
+      "fullTitle": "第九十六回 孔明挥泪斩马谡 周鲂断发赚曹休",
+      "title": "孔明挥泪斩马谡 周鲂断发赚曹休",
+      "originUrl": "https://sanguo.5000yan.com/1060.html",
+      "arc": "蜀汉北伐",
+      "era": "",
+      "eraHint": "章武至建兴年间",
+      "year": null,
+      "summary": "孔明挥泪斩马谡 周鲂断发赚曹休",
+      "guide": "",
+      "question": "",
+      "peopleIds": [],
+      "placeIds": [],
+      "eventIds": [],
+      "sourceIds": [],
+      "sourceType": "演义",
+      "review": "待校",
+      "illustrationSeed": 96
+    },
+    {
+      "id": "097",
+      "no": 97,
+      "fullTitle": "第九十七回 讨魏国武侯再上表 破曹兵姜维诈献书",
+      "title": "讨魏国武侯再上表 破曹兵姜维诈献书",
+      "originUrl": "https://sanguo.5000yan.com/1061.html",
+      "arc": "蜀汉北伐",
+      "era": "",
+      "eraHint": "章武至建兴年间",
+      "year": null,
+      "summary": "讨魏国武侯再上表 破曹兵姜维诈献书",
+      "guide": "",
+      "question": "",
+      "peopleIds": [],
+      "placeIds": [],
+      "eventIds": [],
+      "sourceIds": [],
+      "sourceType": "演义",
+      "review": "待校",
+      "illustrationSeed": 97
+    },
+    {
+      "id": "098",
+      "no": 98,
+      "fullTitle": "第九十八回 追汉军王双受诛 袭陈仓武侯取胜",
+      "title": "追汉军王双受诛 袭陈仓武侯取胜",
+      "originUrl": "https://sanguo.5000yan.com/1062.html",
+      "arc": "蜀汉北伐",
+      "era": "",
+      "eraHint": "章武至建兴年间",
+      "year": null,
+      "summary": "追汉军王双受诛 袭陈仓武侯取胜",
+      "guide": "",
+      "question": "",
+      "peopleIds": [],
+      "placeIds": [],
+      "eventIds": [],
+      "sourceIds": [],
+      "sourceType": "演义",
+      "review": "待校",
+      "illustrationSeed": 98
+    },
+    {
+      "id": "099",
+      "no": 99,
+      "fullTitle": "第九十九回 诸葛亮大破魏兵 司马懿入寇西蜀",
+      "title": "诸葛亮大破魏兵 司马懿入寇西蜀",
+      "originUrl": "https://sanguo.5000yan.com/1063.html",
+      "arc": "蜀汉北伐",
+      "era": "",
+      "eraHint": "章武至建兴年间",
+      "year": null,
+      "summary": "诸葛亮大破魏兵 司马懿入寇西蜀",
+      "guide": "",
+      "question": "",
+      "peopleIds": [],
+      "placeIds": [],
+      "eventIds": [],
+      "sourceIds": [],
+      "sourceType": "演义",
+      "review": "待校",
+      "illustrationSeed": 99
+    },
+    {
+      "id": "100",
+      "no": 100,
+      "fullTitle": "第一百回 汉兵劫寨破曹真 武侯斗阵辱仲达",
+      "title": "汉兵劫寨破曹真 武侯斗阵辱仲达",
+      "originUrl": "https://sanguo.5000yan.com/1064.html",
+      "arc": "蜀汉北伐",
+      "era": "",
+      "eraHint": "章武至建兴年间",
+      "year": null,
+      "summary": "汉兵劫寨破曹真 武侯斗阵辱仲达",
+      "guide": "",
+      "question": "",
+      "peopleIds": [],
+      "placeIds": [],
+      "eventIds": [],
+      "sourceIds": [],
+      "sourceType": "演义",
+      "review": "待校",
+      "illustrationSeed": 100
+    },
+    {
+      "id": "101",
+      "no": 101,
+      "fullTitle": "第一百零一回 出陇上诸葛妆神 奔剑阁张郃中计",
+      "title": "出陇上诸葛妆神 奔剑阁张郃中计",
+      "originUrl": "https://sanguo.5000yan.com/1065.html",
+      "arc": "三国归晋",
+      "era": "",
+      "eraHint": "景耀至太康年间",
+      "year": null,
+      "summary": "出陇上诸葛妆神 奔剑阁张郃中计",
+      "guide": "",
+      "question": "",
+      "peopleIds": [],
+      "placeIds": [],
+      "eventIds": [],
+      "sourceIds": [],
+      "sourceType": "演义",
+      "review": "待校",
+      "illustrationSeed": 101
+    },
+    {
+      "id": "102",
+      "no": 102,
+      "fullTitle": "第一百零二回 司马懿占北原渭桥 诸葛亮造木牛流",
+      "title": "司马懿占北原渭桥 诸葛亮造木牛流",
+      "originUrl": "https://sanguo.5000yan.com/1066.html",
+      "arc": "三国归晋",
+      "era": "",
+      "eraHint": "景耀至太康年间",
+      "year": null,
+      "summary": "司马懿占北原渭桥 诸葛亮造木牛流",
+      "guide": "",
+      "question": "",
+      "peopleIds": [],
+      "placeIds": [],
+      "eventIds": [],
+      "sourceIds": [],
+      "sourceType": "演义",
+      "review": "待校",
+      "illustrationSeed": 102
+    },
+    {
+      "id": "103",
+      "no": 103,
+      "fullTitle": "第一百零三回 上方谷司马受困 五丈原诸葛禳星",
+      "title": "上方谷司马受困 五丈原诸葛禳星",
+      "originUrl": "https://sanguo.5000yan.com/1067.html",
+      "arc": "三国归晋",
+      "era": "",
+      "eraHint": "景耀至太康年间",
+      "year": null,
+      "summary": "上方谷司马受困 五丈原诸葛禳星",
+      "guide": "",
+      "question": "",
+      "peopleIds": [],
+      "placeIds": [],
+      "eventIds": [],
+      "sourceIds": [],
+      "sourceType": "演义",
+      "review": "待校",
+      "illustrationSeed": 103
+    },
+    {
+      "id": "104",
+      "no": 104,
+      "fullTitle": "第一百零四回 陨大星汉丞相归天 见木像魏都督丧",
+      "title": "陨大星汉丞相归天 见木像魏都督丧",
+      "originUrl": "https://sanguo.5000yan.com/1068.html",
+      "arc": "三国归晋",
+      "era": "",
+      "eraHint": "景耀至太康年间",
+      "year": null,
+      "summary": "陨大星汉丞相归天 见木像魏都督丧",
+      "guide": "",
+      "question": "",
+      "peopleIds": [],
+      "placeIds": [],
+      "eventIds": [],
+      "sourceIds": [],
+      "sourceType": "演义",
+      "review": "待校",
+      "illustrationSeed": 104
+    },
+    {
+      "id": "105",
+      "no": 105,
+      "fullTitle": "第一百零五回 武侯预伏锦囊计 魏主拆取承露盘",
+      "title": "武侯预伏锦囊计 魏主拆取承露盘",
+      "originUrl": "https://sanguo.5000yan.com/1069.html",
+      "arc": "三国归晋",
+      "era": "",
+      "eraHint": "景耀至太康年间",
+      "year": null,
+      "summary": "武侯预伏锦囊计 魏主拆取承露盘",
+      "guide": "",
+      "question": "",
+      "peopleIds": [],
+      "placeIds": [],
+      "eventIds": [],
+      "sourceIds": [],
+      "sourceType": "演义",
+      "review": "待校",
+      "illustrationSeed": 105
+    },
+    {
+      "id": "106",
+      "no": 106,
+      "fullTitle": "第一百零六回 公孙渊兵败死襄平 司马懿诈病赚曹",
+      "title": "公孙渊兵败死襄平 司马懿诈病赚曹",
+      "originUrl": "https://sanguo.5000yan.com/1070.html",
+      "arc": "三国归晋",
+      "era": "",
+      "eraHint": "景耀至太康年间",
+      "year": null,
+      "summary": "公孙渊兵败死襄平 司马懿诈病赚曹",
+      "guide": "",
+      "question": "",
+      "peopleIds": [],
+      "placeIds": [],
+      "eventIds": [],
+      "sourceIds": [],
+      "sourceType": "演义",
+      "review": "待校",
+      "illustrationSeed": 106
+    },
+    {
+      "id": "107",
+      "no": 107,
+      "fullTitle": "第一百零七回 魏主政归司马氏 姜维兵败牛头山",
+      "title": "魏主政归司马氏 姜维兵败牛头山",
+      "originUrl": "https://sanguo.5000yan.com/1071.html",
+      "arc": "三国归晋",
+      "era": "",
+      "eraHint": "景耀至太康年间",
+      "year": null,
+      "summary": "魏主政归司马氏 姜维兵败牛头山",
+      "guide": "",
+      "question": "",
+      "peopleIds": [],
+      "placeIds": [],
+      "eventIds": [],
+      "sourceIds": [],
+      "sourceType": "演义",
+      "review": "待校",
+      "illustrationSeed": 107
+    },
+    {
+      "id": "108",
+      "no": 108,
+      "fullTitle": "第一百零八回 丁奉雪中奋短兵 孙峻席间施密计",
+      "title": "丁奉雪中奋短兵 孙峻席间施密计",
+      "originUrl": "https://sanguo.5000yan.com/1072.html",
+      "arc": "三国归晋",
+      "era": "",
+      "eraHint": "景耀至太康年间",
+      "year": null,
+      "summary": "丁奉雪中奋短兵 孙峻席间施密计",
+      "guide": "",
+      "question": "",
+      "peopleIds": [],
+      "placeIds": [],
+      "eventIds": [],
+      "sourceIds": [],
+      "sourceType": "演义",
+      "review": "待校",
+      "illustrationSeed": 108
+    },
+    {
+      "id": "109",
+      "no": 109,
+      "fullTitle": "第一百零九回 困司马汉将奇谋 废曹芳魏家果报",
+      "title": "困司马汉将奇谋 废曹芳魏家果报",
+      "originUrl": "https://sanguo.5000yan.com/1073.html",
+      "arc": "三国归晋",
+      "era": "",
+      "eraHint": "景耀至太康年间",
+      "year": null,
+      "summary": "困司马汉将奇谋 废曹芳魏家果报",
+      "guide": "",
+      "question": "",
+      "peopleIds": [],
+      "placeIds": [],
+      "eventIds": [],
+      "sourceIds": [],
+      "sourceType": "演义",
+      "review": "待校",
+      "illustrationSeed": 109
+    },
+    {
+      "id": "110",
+      "no": 110,
+      "fullTitle": "第一百一十回 文鸯单骑退雄兵 姜维背水破大敌",
+      "title": "文鸯单骑退雄兵 姜维背水破大敌",
+      "originUrl": "https://sanguo.5000yan.com/1074.html",
+      "arc": "三国归晋",
+      "era": "",
+      "eraHint": "景耀至太康年间",
+      "year": null,
+      "summary": "文鸯单骑退雄兵 姜维背水破大敌",
+      "guide": "",
+      "question": "",
+      "peopleIds": [],
+      "placeIds": [],
+      "eventIds": [],
+      "sourceIds": [],
+      "sourceType": "演义",
+      "review": "待校",
+      "illustrationSeed": 110
+    },
+    {
+      "id": "111",
+      "no": 111,
+      "fullTitle": "第一百一十一回 邓士载智败姜伯约 诸葛诞义讨司马昭",
+      "title": "邓士载智败姜伯约 诸葛诞义讨司马昭",
+      "originUrl": "https://sanguo.5000yan.com/1075.html",
+      "arc": "三国归晋",
+      "era": "",
+      "eraHint": "景耀至太康年间",
+      "year": null,
+      "summary": "邓士载智败姜伯约 诸葛诞义讨司马昭",
+      "guide": "",
+      "question": "",
+      "peopleIds": [],
+      "placeIds": [],
+      "eventIds": [],
+      "sourceIds": [],
+      "sourceType": "演义",
+      "review": "待校",
+      "illustrationSeed": 111
+    },
+    {
+      "id": "112",
+      "no": 112,
+      "fullTitle": "第一百一十二回 救寿春于诠死节 取长城伯约鏖兵",
+      "title": "救寿春于诠死节 取长城伯约鏖兵",
+      "originUrl": "https://sanguo.5000yan.com/1076.html",
+      "arc": "三国归晋",
+      "era": "",
+      "eraHint": "景耀至太康年间",
+      "year": null,
+      "summary": "救寿春于诠死节 取长城伯约鏖兵",
+      "guide": "",
+      "question": "",
+      "peopleIds": [],
+      "placeIds": [],
+      "eventIds": [],
+      "sourceIds": [],
+      "sourceType": "演义",
+      "review": "待校",
+      "illustrationSeed": 112
+    },
+    {
+      "id": "113",
+      "no": 113,
+      "fullTitle": "第一百一十三回 丁奉定计斩孙綝 姜维斗阵破邓艾",
+      "title": "丁奉定计斩孙綝 姜维斗阵破邓艾",
+      "originUrl": "https://sanguo.5000yan.com/1077.html",
+      "arc": "三国归晋",
+      "era": "",
+      "eraHint": "景耀至太康年间",
+      "year": null,
+      "summary": "丁奉定计斩孙綝 姜维斗阵破邓艾",
+      "guide": "",
+      "question": "",
+      "peopleIds": [],
+      "placeIds": [],
+      "eventIds": [],
+      "sourceIds": [],
+      "sourceType": "演义",
+      "review": "待校",
+      "illustrationSeed": 113
+    },
+    {
+      "id": "114",
+      "no": 114,
+      "fullTitle": "第一百一十四回 曹髦驱车死南阙 姜维弃粮胜魏兵",
+      "title": "曹髦驱车死南阙 姜维弃粮胜魏兵",
+      "originUrl": "https://sanguo.5000yan.com/1078.html",
+      "arc": "三国归晋",
+      "era": "",
+      "eraHint": "景耀至太康年间",
+      "year": null,
+      "summary": "曹髦驱车死南阙 姜维弃粮胜魏兵",
+      "guide": "",
+      "question": "",
+      "peopleIds": [],
+      "placeIds": [],
+      "eventIds": [],
+      "sourceIds": [],
+      "sourceType": "演义",
+      "review": "待校",
+      "illustrationSeed": 114
+    },
+    {
+      "id": "115",
+      "no": 115,
+      "fullTitle": "第一百一十五回 诏班师后主信谗 托屯田姜维避祸",
+      "title": "诏班师后主信谗 托屯田姜维避祸",
+      "originUrl": "https://sanguo.5000yan.com/1079.html",
+      "arc": "三国归晋",
+      "era": "",
+      "eraHint": "景耀至太康年间",
+      "year": null,
+      "summary": "诏班师后主信谗 托屯田姜维避祸",
+      "guide": "",
+      "question": "",
+      "peopleIds": [],
+      "placeIds": [],
+      "eventIds": [],
+      "sourceIds": [],
+      "sourceType": "演义",
+      "review": "待校",
+      "illustrationSeed": 115
+    },
+    {
+      "id": "116",
+      "no": 116,
+      "fullTitle": "第一百一十六回 钟会分兵汉中道 武侯显圣定军山",
+      "title": "钟会分兵汉中道 武侯显圣定军山",
+      "originUrl": "https://sanguo.5000yan.com/1080.html",
+      "arc": "三国归晋",
+      "era": "",
+      "eraHint": "景耀至太康年间",
+      "year": null,
+      "summary": "钟会分兵汉中道 武侯显圣定军山",
+      "guide": "",
+      "question": "",
+      "peopleIds": [],
+      "placeIds": [],
+      "eventIds": [],
+      "sourceIds": [],
+      "sourceType": "演义",
+      "review": "待校",
+      "illustrationSeed": 116
+    },
+    {
+      "id": "117",
+      "no": 117,
+      "fullTitle": "第一百一十七回 邓士载偷度阴平 诸葛瞻战死绵竹",
+      "title": "邓士载偷度阴平 诸葛瞻战死绵竹",
+      "originUrl": "https://sanguo.5000yan.com/1081.html",
+      "arc": "三国归晋",
+      "era": "",
+      "eraHint": "景耀至太康年间",
+      "year": null,
+      "summary": "邓士载偷度阴平 诸葛瞻战死绵竹",
+      "guide": "",
+      "question": "",
+      "peopleIds": [],
+      "placeIds": [],
+      "eventIds": [],
+      "sourceIds": [],
+      "sourceType": "演义",
+      "review": "待校",
+      "illustrationSeed": 117
+    },
+    {
+      "id": "118",
+      "no": 118,
+      "fullTitle": "第一百一十八回 哭祖庙一王死孝 入西川二士争功",
+      "title": "哭祖庙一王死孝 入西川二士争功",
+      "originUrl": "https://sanguo.5000yan.com/1082.html",
+      "arc": "三国归晋",
+      "era": "",
+      "eraHint": "景耀至太康年间",
+      "year": null,
+      "summary": "哭祖庙一王死孝 入西川二士争功",
+      "guide": "",
+      "question": "",
+      "peopleIds": [],
+      "placeIds": [],
+      "eventIds": [],
+      "sourceIds": [],
+      "sourceType": "演义",
+      "review": "待校",
+      "illustrationSeed": 118
+    },
+    {
+      "id": "119",
+      "no": 119,
+      "fullTitle": "第一百一十九回 假投降巧计成虚话 再受禅依样画",
+      "title": "假投降巧计成虚话 再受禅依样画",
+      "originUrl": "https://sanguo.5000yan.com/1083.html",
+      "arc": "三国归晋",
+      "era": "",
+      "eraHint": "景耀至太康年间",
+      "year": null,
+      "summary": "假投降巧计成虚话 再受禅依样画",
+      "guide": "",
+      "question": "",
+      "peopleIds": [],
+      "placeIds": [],
+      "eventIds": [],
+      "sourceIds": [],
+      "sourceType": "演义",
+      "review": "待校",
+      "illustrationSeed": 119
+    },
+    {
+      "id": "120",
+      "no": 120,
+      "fullTitle": "第一百二十回 荐杜预老将献新谋 降孙皓三分归一",
+      "title": "荐杜预老将献新谋 降孙皓三分归一",
+      "originUrl": "https://sanguo.5000yan.com/1084.html",
+      "arc": "三国归晋",
+      "era": "太康元年",
+      "eraHint": "景耀至太康年间",
+      "year": 280,
+      "summary": "荐杜预老将献新谋，降孙皓三分归一。",
+      "guide": "晋军顺江而下，孙皓出降，自中平元年算起近百年的分裂收束在一回里。全书以「天下大势，合久必分，分久必合」作结。读到最后回望第一回会发现：那些当年在桃园里立誓的人，谁也没能看见这一天。这正是把 120 回连起来读，比单看一个故事更值得的地方。",
+      "question": "合久必分、分久必合，是规律还是作者的感叹？",
+      "peopleIds": [
+        "simayan",
+        "sunhao",
+        "duyu"
+      ],
+      "placeIds": [
+        "jianye",
+        "luoyang"
+      ],
+      "eventIds": [
+        "guijin"
+      ],
+      "sourceIds": [
+        "src-guiyi"
+      ],
+      "sourceType": "演义",
+      "review": "已校",
+      "illustrationSeed": 120
+    }
+  ],
+  "people": [
+    {
+      "id": "liubei",
+      "name": "刘备",
+      "zi": "玄德",
+      "life": "161–223",
+      "tagline": "蜀汉开国之君，以人和立身",
+      "faction": "蜀汉",
+      "since": 184,
+      "first": "001",
+      "bio": "涿郡起兵，半生辗转，赤壁后取荆益，章武元年称帝。",
+      "sourceType": "正史",
+      "review": "已校",
+      "weight": 5,
+      "footprints": [
+        "zhuozhou",
+        "xuchang",
+        "xiapi",
+        "xinye",
+        "jingzhou",
+        "jiangling",
+        "chengdu",
+        "hanzhong"
+      ]
+    },
+    {
+      "id": "guanyu",
+      "name": "关羽",
+      "zi": "云长",
+      "life": "?–220",
+      "tagline": "刘备最早的追随者，后镇守荆州",
+      "faction": "蜀汉",
+      "since": 184,
+      "first": "001",
+      "bio": "早年随刘备起兵，建安二十四年北伐襄樊，年末败亡。",
+      "sourceType": "正史",
+      "review": "已校",
+      "weight": 5,
+      "footprints": [
+        "zhuozhou",
+        "xuchang",
+        "xiapi",
+        "jingzhou",
+        "jiangling",
+        "huarong"
+      ]
+    },
+    {
+      "id": "zhangfei",
+      "name": "张飞",
+      "zi": "翼德",
+      "life": "?–221",
+      "tagline": "与关羽并称万人敌",
+      "faction": "蜀汉",
+      "since": 184,
+      "first": "001",
+      "bio": "长坂桥断后、入川取江州，章武元年遇害。",
+      "sourceType": "正史",
+      "review": "已校",
+      "weight": 4,
+      "footprints": [
+        "zhuozhou",
+        "xinye",
+        "jingzhou",
+        "chengdu"
+      ]
+    },
+    {
+      "id": "zhugeliang",
+      "name": "诸葛亮",
+      "zi": "孔明",
+      "life": "181–234",
+      "tagline": "隆中对策的提出者，蜀汉执政者",
+      "faction": "蜀汉",
+      "since": 207,
+      "first": "037",
+      "bio": "建安十二年出山，后任丞相，五次北伐，卒于五丈原。",
+      "sourceType": "正史",
+      "review": "已校",
+      "weight": 6,
+      "footprints": [
+        "longzhong",
+        "xinye",
+        "xiakou",
+        "chengdu",
+        "hanzhong",
+        "wuzhangyuan"
+      ]
+    },
+    {
+      "id": "zhaoyun",
+      "name": "赵云",
+      "zi": "子龙",
+      "life": "?–229",
+      "tagline": "长坂护主，蜀汉宿将",
+      "faction": "蜀汉",
+      "since": 191,
+      "first": "007",
+      "bio": "长坂坡护甘夫人与阿斗，后随刘备入蜀。",
+      "sourceType": "正史",
+      "review": "已校",
+      "weight": 4,
+      "footprints": [
+        "xinye",
+        "jingzhou",
+        "chengdu",
+        "hanzhong"
+      ]
+    },
+    {
+      "id": "caocao",
+      "name": "曹操",
+      "zi": "孟德",
+      "life": "155–220",
+      "tagline": "迎天子都许，统一北方",
+      "faction": "曹魏",
+      "since": 190,
+      "first": "001",
+      "bio": "讨董起家，迎献帝都许，官渡败袁绍，赤壁南征失利。",
+      "sourceType": "正史",
+      "review": "已校",
+      "weight": 6,
+      "footprints": [
+        "luoyang",
+        "xuchang",
+        "guandu",
+        "ye",
+        "xiapi",
+        "chibi",
+        "wulin",
+        "huarong",
+        "hanzhong"
+      ]
+    },
+    {
+      "id": "caopi",
+      "name": "曹丕",
+      "zi": "子桓",
+      "life": "187–226",
+      "tagline": "代汉称帝，魏文帝",
+      "faction": "曹魏",
+      "since": 220,
+      "first": "032",
+      "bio": "延康元年受禅称帝，改元黄初。",
+      "sourceType": "正史",
+      "review": "已校",
+      "weight": 3,
+      "footprints": [
+        "ye",
+        "luoyang"
+      ]
+    },
+    {
+      "id": "simayi",
+      "name": "司马懿",
+      "zi": "仲达",
+      "life": "179–251",
+      "tagline": "抗蜀北伐，魏国后期的执政者",
+      "faction": "曹魏",
+      "since": 208,
+      "first": "039",
+      "bio": "长期对峙诸葛亮，后平辽东、掌魏政。",
+      "sourceType": "正史",
+      "review": "已校",
+      "weight": 4,
+      "footprints": [
+        "luoyang",
+        "wuzhangyuan",
+        "jieting"
+      ]
+    },
+    {
+      "id": "sunquan",
+      "name": "孙权",
+      "zi": "仲谋",
+      "life": "182–252",
+      "tagline": "据江东，决计赤壁抗曹",
+      "faction": "孙吴",
+      "since": 200,
+      "first": "029",
+      "bio": "承父兄之业，联刘破曹，黄龙元年称帝。",
+      "sourceType": "正史",
+      "review": "已校",
+      "weight": 5,
+      "footprints": [
+        "jianye",
+        "xiakou",
+        "chibi",
+        "jingzhou",
+        "jiangling"
+      ]
+    },
+    {
+      "id": "zhouyu",
+      "name": "周瑜",
+      "zi": "公瑾",
+      "life": "175–210",
+      "tagline": "赤壁之战的江东主将",
+      "faction": "孙吴",
+      "since": 200,
+      "first": "044",
+      "bio": "建安十三年统兵破曹于赤壁，两年后病卒。",
+      "sourceType": "正史",
+      "review": "已校",
+      "weight": 5,
+      "footprints": [
+        "jianye",
+        "xiakou",
+        "chibi",
+        "jiangling"
+      ]
+    },
+    {
+      "id": "lusu",
+      "name": "鲁肃",
+      "zi": "子敬",
+      "life": "172–217",
+      "tagline": "主张联刘抗曹的江东谋臣",
+      "faction": "孙吴",
+      "since": 200,
+      "first": "042",
+      "bio": "力排众议促成孙刘联盟，后继周瑜领兵。",
+      "sourceType": "正史",
+      "review": "已校",
+      "weight": 4,
+      "footprints": [
+        "jianye",
+        "xiakou",
+        "jingzhou"
+      ]
+    },
+    {
+      "id": "lvmeng",
+      "name": "吕蒙",
+      "zi": "子明",
+      "life": "178–220",
+      "tagline": "白衣渡江取荆州",
+      "faction": "孙吴",
+      "since": 200,
+      "first": "038",
+      "bio": "建安二十四年袭取荆州，擒关羽。",
+      "sourceType": "正史",
+      "review": "已校",
+      "weight": 3,
+      "footprints": [
+        "jianye",
+        "jingzhou",
+        "jiangling"
+      ]
+    },
+    {
+      "id": "luxun",
+      "name": "陆逊",
+      "zi": "伯言",
+      "life": "183–245",
+      "tagline": "夷陵火攻破蜀军",
+      "faction": "孙吴",
+      "since": 222,
+      "first": "084",
+      "bio": "章武二年以火攻击破刘备连营。",
+      "sourceType": "正史",
+      "review": "已校",
+      "weight": 4,
+      "footprints": [
+        "jianye",
+        "jingzhou"
+      ]
+    },
+    {
+      "id": "sunce",
+      "name": "孙策",
+      "zi": "伯符",
+      "life": "175–200",
+      "tagline": "奠基江东的小霸王",
+      "faction": "孙吴",
+      "since": 194,
+      "first": "015",
+      "bio": "渡江平定江东诸郡，建安五年遇刺。",
+      "sourceType": "正史",
+      "review": "已校",
+      "weight": 3,
+      "footprints": [
+        "jianye"
+      ]
+    },
+    {
+      "id": "sunjian",
+      "name": "孙坚",
+      "zi": "文台",
+      "life": "155–191",
+      "tagline": "讨董先锋，孙氏之基",
+      "faction": "群雄",
+      "since": 184,
+      "first": "005",
+      "bio": "参与讨董，后攻荆州中伏身亡。",
+      "sourceType": "正史",
+      "review": "已校",
+      "weight": 3,
+      "footprints": [
+        "luoyang",
+        "jingzhou"
+      ]
+    },
+    {
+      "id": "xunyu",
+      "name": "荀彧",
+      "zi": "文若",
+      "life": "163–212",
+      "tagline": "曹操前期最重要的谋臣",
+      "faction": "曹魏",
+      "since": 191,
+      "first": "010",
+      "bio": "献策迎天子、定兖州，官渡时守许都。",
+      "sourceType": "正史",
+      "review": "已校",
+      "weight": 4,
+      "footprints": [
+        "xuchang",
+        "guandu"
+      ]
+    },
+    {
+      "id": "guojia",
+      "name": "郭嘉",
+      "zi": "奉孝",
+      "life": "170–207",
+      "tagline": "曹操麾下的奇谋之士",
+      "faction": "曹魏",
+      "since": 196,
+      "first": "011",
+      "bio": "料孙策、断袁绍，北征途中病卒。",
+      "sourceType": "正史",
+      "review": "已校",
+      "weight": 3,
+      "footprints": [
+        "xuchang",
+        "ye"
+      ]
+    },
+    {
+      "id": "jiaxu",
+      "name": "贾诩",
+      "zi": "文和",
+      "life": "147–223",
+      "tagline": "历经数主而善终的谋士",
+      "faction": "曹魏",
+      "since": 199,
+      "first": "009",
+      "bio": "先事董卓余部，后归曹操，参与离间马韩。",
+      "sourceType": "正史",
+      "review": "已校",
+      "weight": 3,
+      "footprints": [
+        "changan",
+        "xuchang"
+      ]
+    },
+    {
+      "id": "chengyu",
+      "name": "程昱",
+      "zi": "仲德",
+      "life": "141–220",
+      "tagline": "曹操早期股肱，守城有方",
+      "faction": "曹魏",
+      "since": 192,
+      "first": "011",
+      "bio": "兖州之乱中保住三城。",
+      "sourceType": "正史",
+      "review": "已校",
+      "weight": 2,
+      "footprints": [
+        "xuchang",
+        "guandu"
+      ]
+    },
+    {
+      "id": "zhangliao",
+      "name": "张辽",
+      "zi": "文远",
+      "life": "169–222",
+      "tagline": "逍遥津以少击众",
+      "faction": "曹魏",
+      "since": 198,
+      "first": "019",
+      "bio": "白门楼归曹，建安二十年守合肥破孙权。",
+      "sourceType": "正史",
+      "review": "已校",
+      "weight": 3,
+      "footprints": [
+        "xiapi",
+        "xuchang",
+        "jianye"
+      ]
+    },
+    {
+      "id": "xuchu",
+      "name": "许褚",
+      "zi": "仲康",
+      "life": "不详",
+      "tagline": "曹操近卫猛将",
+      "faction": "曹魏",
+      "since": 197,
+      "first": "014",
+      "bio": "潼关之战护曹操渡河。",
+      "sourceType": "正史",
+      "review": "已校",
+      "weight": 2,
+      "footprints": [
+        "xuchang"
+      ]
+    },
+    {
+      "id": "xiahoudun",
+      "name": "夏侯惇",
+      "zi": "元让",
+      "life": "?–220",
+      "tagline": "曹氏宗亲宿将",
+      "faction": "曹魏",
+      "since": 190,
+      "first": "005",
+      "bio": "从曹操起兵，长期镇守后方。",
+      "sourceType": "正史",
+      "review": "已校",
+      "weight": 2,
+      "footprints": [
+        "xuchang",
+        "ye"
+      ]
+    },
+    {
+      "id": "caoren",
+      "name": "曹仁",
+      "zi": "子孝",
+      "life": "168–223",
+      "tagline": "善守的曹氏宗将",
+      "faction": "曹魏",
+      "since": 190,
+      "first": "040",
+      "bio": "守江陵、拒周瑜，后镇襄樊。",
+      "sourceType": "正史",
+      "review": "已校",
+      "weight": 3,
+      "footprints": [
+        "jiangling",
+        "jingzhou"
+      ]
+    },
+    {
+      "id": "caozhi",
+      "name": "曹植",
+      "zi": "子建",
+      "life": "192–232",
+      "tagline": "建安文采与世子之争",
+      "faction": "曹魏",
+      "since": 210,
+      "first": "079",
+      "bio": "以文才见称，与曹丕争嗣失利。",
+      "sourceType": "正史",
+      "review": "已校",
+      "weight": 2,
+      "footprints": [
+        "ye",
+        "luoyang"
+      ]
+    },
+    {
+      "id": "pangtong",
+      "name": "庞统",
+      "zi": "士元",
+      "life": "179–214",
+      "tagline": "与诸葛亮齐名的蜀中谋士",
+      "faction": "蜀汉",
+      "since": 209,
+      "first": "047",
+      "bio": "献连环计（演义），入蜀途中殁于落凤坡。",
+      "sourceType": "正史",
+      "review": "已校",
+      "weight": 3,
+      "footprints": [
+        "jingzhou",
+        "chengdu"
+      ]
+    },
+    {
+      "id": "fazheng",
+      "name": "法正",
+      "zi": "孝直",
+      "life": "176–220",
+      "tagline": "取益州、定汉中的谋主",
+      "faction": "蜀汉",
+      "since": 211,
+      "first": "060",
+      "bio": "导刘备入蜀，汉中之战出奇谋。",
+      "sourceType": "正史",
+      "review": "已校",
+      "weight": 3,
+      "footprints": [
+        "chengdu",
+        "hanzhong"
+      ]
+    },
+    {
+      "id": "huangzhong",
+      "name": "黄忠",
+      "zi": "汉升",
+      "life": "?–220",
+      "tagline": "定军山斩夏侯渊",
+      "faction": "蜀汉",
+      "since": 209,
+      "first": "053",
+      "bio": "建安二十四年于定军山立功。",
+      "sourceType": "正史",
+      "review": "已校",
+      "weight": 3,
+      "footprints": [
+        "jingzhou",
+        "hanzhong"
+      ]
+    },
+    {
+      "id": "machao",
+      "name": "马超",
+      "zi": "孟起",
+      "life": "176–222",
+      "tagline": "西凉骁将，后归蜀汉",
+      "faction": "蜀汉",
+      "since": 214,
+      "first": "058",
+      "bio": "潼关抗曹，败后辗转归刘备。",
+      "sourceType": "正史",
+      "review": "已校",
+      "weight": 3,
+      "footprints": [
+        "changan",
+        "chengdu",
+        "hanzhong"
+      ]
+    },
+    {
+      "id": "weiyan",
+      "name": "魏延",
+      "zi": "文长",
+      "life": "?–234",
+      "tagline": "蜀汉北伐前锋",
+      "faction": "蜀汉",
+      "since": 211,
+      "first": "041",
+      "bio": "镇汉中多年，随诸葛亮北伐。",
+      "sourceType": "正史",
+      "review": "已校",
+      "weight": 2,
+      "footprints": [
+        "hanzhong",
+        "wuzhangyuan"
+      ]
+    },
+    {
+      "id": "jiangwei",
+      "name": "姜维",
+      "zi": "伯约",
+      "life": "202–264",
+      "tagline": "继承北伐的蜀汉后期主将",
+      "faction": "蜀汉",
+      "since": 228,
+      "first": "093",
+      "bio": "诸葛亮卒后多次北伐，蜀亡后殉难。",
+      "sourceType": "正史",
+      "review": "已校",
+      "weight": 3,
+      "footprints": [
+        "hanzhong",
+        "jieting",
+        "chengdu"
+      ]
+    },
+    {
+      "id": "huanggai",
+      "name": "黄盖",
+      "zi": "公覆",
+      "life": "不详",
+      "tagline": "赤壁火攻的实施者",
+      "faction": "孙吴",
+      "since": 190,
+      "first": "046",
+      "bio": "献苦肉计、率火船诈降（演义），火攻见正史。",
+      "sourceType": "正史",
+      "review": "已校",
+      "weight": 3,
+      "footprints": [
+        "chibi",
+        "wulin"
+      ]
+    },
+    {
+      "id": "ganning",
+      "name": "甘宁",
+      "zi": "兴霸",
+      "life": "?–220",
+      "tagline": "江东悍将，百骑劫营",
+      "faction": "孙吴",
+      "since": 208,
+      "first": "068",
+      "bio": "先依刘表、黄祖，后归孙权。",
+      "sourceType": "正史",
+      "review": "已校",
+      "weight": 2,
+      "footprints": [
+        "xiakou",
+        "jianye"
+      ]
+    },
+    {
+      "id": "taishici",
+      "name": "太史慈",
+      "zi": "子义",
+      "life": "166–206",
+      "tagline": "信义著称的江东将",
+      "faction": "孙吴",
+      "since": 195,
+      "first": "015",
+      "bio": "曾与孙策酣战，后归孙氏。",
+      "sourceType": "正史",
+      "review": "已校",
+      "weight": 2,
+      "footprints": [
+        "jianye"
+      ]
+    },
+    {
+      "id": "zhangzhao",
+      "name": "张昭",
+      "zi": "子布",
+      "life": "156–236",
+      "tagline": "江东文臣之首，赤壁主和",
+      "faction": "孙吴",
+      "since": 194,
+      "first": "029",
+      "bio": "孙策托孤之臣，赤壁前主张迎曹。",
+      "sourceType": "正史",
+      "review": "已校",
+      "weight": 2,
+      "footprints": [
+        "jianye"
+      ]
+    },
+    {
+      "id": "zhugejin",
+      "name": "诸葛瑾",
+      "zi": "子瑜",
+      "life": "174–241",
+      "tagline": "诸葛亮之兄，仕于江东",
+      "faction": "孙吴",
+      "since": 200,
+      "first": "043",
+      "bio": "常为孙刘之间通使。",
+      "sourceType": "正史",
+      "review": "已校",
+      "weight": 2,
+      "footprints": [
+        "jianye",
+        "jingzhou"
+      ]
+    },
+    {
+      "id": "xushu",
+      "name": "徐庶",
+      "zi": "元直",
+      "life": "不详",
+      "tagline": "荐诸葛亮于刘备",
+      "faction": "蜀汉",
+      "since": 207,
+      "first": "035",
+      "bio": "刘备早期谋士，后因母归曹（演义铺陈甚多）。",
+      "sourceType": "正史",
+      "review": "已校",
+      "weight": 2,
+      "footprints": [
+        "xinye",
+        "longzhong",
+        "xuchang"
+      ]
+    },
+    {
+      "id": "lvbu",
+      "name": "吕布",
+      "zi": "奉先",
+      "life": "?–199",
+      "tagline": "反复易主的天下骁将",
+      "faction": "群雄",
+      "since": 189,
+      "first": "005",
+      "bio": "虎牢关拒联军，后据徐州，白门楼被擒。",
+      "sourceType": "正史",
+      "review": "已校",
+      "weight": 4,
+      "footprints": [
+        "changan",
+        "luoyang",
+        "xiapi",
+        "xuchang"
+      ]
+    },
+    {
+      "id": "yuanshao",
+      "name": "袁绍",
+      "zi": "本初",
+      "life": "?–202",
+      "tagline": "河北霸主，官渡败于曹操",
+      "faction": "群雄",
+      "since": 190,
+      "first": "005",
+      "bio": "讨董盟主，据四州，建安五年败于官渡。",
+      "sourceType": "正史",
+      "review": "已校",
+      "weight": 4,
+      "footprints": [
+        "ye",
+        "guandu",
+        "luoyang"
+      ]
+    },
+    {
+      "id": "yuanshu",
+      "name": "袁术",
+      "zi": "公路",
+      "life": "?–199",
+      "tagline": "最先称帝而最先败亡",
+      "faction": "群雄",
+      "since": 190,
+      "first": "005",
+      "bio": "建安二年称帝于寿春，众叛亲离。",
+      "sourceType": "正史",
+      "review": "已校",
+      "weight": 2,
+      "footprints": [
+        "xuchang"
+      ]
+    },
+    {
+      "id": "dongzhuo",
+      "name": "董卓",
+      "zi": "仲颖",
+      "life": "?–192",
+      "tagline": "入洛阳掌权，迁都长安",
+      "faction": "群雄",
+      "since": 189,
+      "first": "003",
+      "bio": "废少帝、焚洛阳，后为王允吕布所诛。",
+      "sourceType": "正史",
+      "review": "已校",
+      "weight": 3,
+      "footprints": [
+        "luoyang",
+        "changan"
+      ]
+    },
+    {
+      "id": "liubiao",
+      "name": "刘表",
+      "zi": "景升",
+      "life": "142–208",
+      "tagline": "据荆州，坐观天下",
+      "faction": "群雄",
+      "since": 190,
+      "first": "006",
+      "bio": "单骑入荆州，晚年二子争嗣，曹操南下时病卒。",
+      "sourceType": "正史",
+      "review": "已校",
+      "weight": 3,
+      "footprints": [
+        "jingzhou",
+        "jiangling"
+      ]
+    },
+    {
+      "id": "liuzhang",
+      "name": "刘璋",
+      "zi": "季玉",
+      "life": "?–219",
+      "tagline": "益州旧主",
+      "faction": "群雄",
+      "since": 194,
+      "first": "059",
+      "bio": "继父据蜀，建安十九年降刘备。",
+      "sourceType": "正史",
+      "review": "已校",
+      "weight": 2,
+      "footprints": [
+        "chengdu"
+      ]
+    },
+    {
+      "id": "liushan",
+      "name": "刘禅",
+      "zi": "公嗣",
+      "life": "207–271",
+      "tagline": "蜀汉后主",
+      "faction": "蜀汉",
+      "since": 223,
+      "first": "085",
+      "bio": "章武三年即位，景耀六年降魏。",
+      "sourceType": "正史",
+      "review": "已校",
+      "weight": 2,
+      "footprints": [
+        "chengdu",
+        "luoyang"
+      ]
+    },
+    {
+      "id": "masu",
+      "name": "马谡",
+      "zi": "幼常",
+      "life": "190–228",
+      "tagline": "街亭失守",
+      "faction": "蜀汉",
+      "since": 214,
+      "first": "087",
+      "bio": "建兴六年违令失街亭，被斩。",
+      "sourceType": "正史",
+      "review": "已校",
+      "weight": 2,
+      "footprints": [
+        "jieting",
+        "hanzhong"
+      ]
+    },
+    {
+      "id": "mengda",
+      "name": "孟达",
+      "zi": "子度",
+      "life": "?–228",
+      "tagline": "反复于蜀魏之间",
+      "faction": "蜀汉",
+      "since": 211,
+      "first": "071",
+      "bio": "曾降魏，后谋归蜀，为司马懿所破。",
+      "sourceType": "正史",
+      "review": "已校",
+      "weight": 2,
+      "footprints": [
+        "hanzhong",
+        "xuchang"
+      ]
+    },
+    {
+      "id": "menghuo",
+      "name": "孟获",
+      "zi": "无",
+      "life": "不详",
+      "tagline": "南中首领，七擒七纵见裴注",
+      "faction": "群雄",
+      "since": 225,
+      "first": "087",
+      "bio": "南中豪帅，「七擒」出自裴松之注引《汉晋春秋》。",
+      "sourceType": "传说",
+      "review": "已校",
+      "weight": 2,
+      "footprints": [
+        "chengdu"
+      ]
+    },
+    {
+      "id": "diaochan",
+      "name": "貂蝉",
+      "zi": "无",
+      "life": "不详",
+      "tagline": "连环美人计中的虚构人物",
+      "faction": "群雄",
+      "since": 190,
+      "first": "008",
+      "bio": "小说人物，正史无此人；原型或为董卓侍婢。",
+      "sourceType": "传说",
+      "review": "已校",
+      "weight": 2,
+      "footprints": [
+        "changan",
+        "luoyang"
+      ]
+    },
+    {
+      "id": "zhenshi",
+      "name": "甄氏",
+      "zi": "无",
+      "life": "183–221",
+      "tagline": "魏文帝皇后",
+      "faction": "曹魏",
+      "since": 204,
+      "first": "033",
+      "bio": "邺城破后归曹丕，后世附会甚多。",
+      "sourceType": "正史",
+      "review": "已校",
+      "weight": 2,
+      "footprints": [
+        "ye"
+      ]
+    },
+    {
+      "id": "huaxiong",
+      "name": "华雄",
+      "zi": "无",
+      "life": "?–190",
+      "tagline": "汜水关前被斩的都督",
+      "faction": "群雄",
+      "since": 190,
+      "first": "005",
+      "bio": "正史为孙坚所斩，小说移作关羽温酒斩将。",
+      "sourceType": "演义",
+      "review": "已校",
+      "weight": 2,
+      "footprints": [
+        "luoyang"
+      ]
+    },
+    {
+      "id": "yanliang",
+      "name": "颜良",
+      "zi": "无",
+      "life": "?–200",
+      "tagline": "袁绍河北名将",
+      "faction": "群雄",
+      "since": 190,
+      "first": "025",
+      "bio": "白马之战为关羽所斩。",
+      "sourceType": "正史",
+      "review": "已校",
+      "weight": 2,
+      "footprints": [
+        "baima",
+        "guandu"
+      ]
+    },
+    {
+      "id": "wenchou",
+      "name": "文丑",
+      "zi": "无",
+      "life": "?–200",
+      "tagline": "袁绍麾下与颜良并称",
+      "faction": "群雄",
+      "since": 190,
+      "first": "026",
+      "bio": "延津之战败亡。",
+      "sourceType": "正史",
+      "review": "已校",
+      "weight": 2,
+      "footprints": [
+        "guandu"
+      ]
+    },
+    {
+      "id": "zhanghe",
+      "name": "张郃",
+      "zi": "儁乂",
+      "life": "?–231",
+      "tagline": "由袁归曹，街亭破马谡",
+      "faction": "曹魏",
+      "since": 200,
+      "first": "030",
+      "bio": "官渡归曹，建兴六年断街亭汲道。",
+      "sourceType": "正史",
+      "review": "已校",
+      "weight": 3,
+      "footprints": [
+        "guandu",
+        "jieting",
+        "hanzhong"
+      ]
+    },
+    {
+      "id": "xuhuang",
+      "name": "徐晃",
+      "zi": "公明",
+      "life": "?–227",
+      "tagline": "樊城破关羽围",
+      "faction": "曹魏",
+      "since": 196,
+      "first": "014",
+      "bio": "建安二十四年解樊城之围。",
+      "sourceType": "正史",
+      "review": "已校",
+      "weight": 2,
+      "footprints": [
+        "xuchang",
+        "jingzhou"
+      ]
+    },
+    {
+      "id": "dianwei",
+      "name": "典韦",
+      "zi": "无",
+      "life": "?–197",
+      "tagline": "宛城护主战死",
+      "faction": "曹魏",
+      "since": 194,
+      "first": "011",
+      "bio": "张绣叛袭时守门死战。",
+      "sourceType": "正史",
+      "review": "已校",
+      "weight": 2,
+      "footprints": [
+        "xuchang"
+      ]
+    },
+    {
+      "id": "chengong",
+      "name": "陈宫",
+      "zi": "公台",
+      "life": "?–199",
+      "tagline": "先随曹操，后事吕布",
+      "faction": "群雄",
+      "since": 190,
+      "first": "004",
+      "bio": "兖州迎曹又叛曹，白门楼同死。",
+      "sourceType": "正史",
+      "review": "已校",
+      "weight": 2,
+      "footprints": [
+        "xuchang",
+        "xiapi"
+      ]
+    },
+    {
+      "id": "jianggan",
+      "name": "蒋干",
+      "zi": "子翼",
+      "life": "不详",
+      "tagline": "群英会中过江说客",
+      "faction": "曹魏",
+      "since": 208,
+      "first": "045",
+      "bio": "小说里被周瑜借盗书除蔡瑁张允，正史另有其事。",
+      "sourceType": "演义",
+      "review": "已校",
+      "weight": 2,
+      "footprints": [
+        "chibi",
+        "jianye"
+      ]
+    },
+    {
+      "id": "kanze",
+      "name": "阚泽",
+      "zi": "德润",
+      "life": "?–243",
+      "tagline": "献诈降书的江东文臣",
+      "faction": "孙吴",
+      "since": 208,
+      "first": "047",
+      "bio": "为黄盖密献降书（演义）。",
+      "sourceType": "演义",
+      "review": "已校",
+      "weight": 2,
+      "footprints": [
+        "chibi"
+      ]
+    },
+    {
+      "id": "liuqi",
+      "name": "刘琦",
+      "zi": "无",
+      "life": "?–209",
+      "tagline": "刘表长子，据夏口",
+      "faction": "群雄",
+      "since": 208,
+      "first": "040",
+      "bio": "赤壁前与刘备合兵于夏口。",
+      "sourceType": "正史",
+      "review": "已校",
+      "weight": 2,
+      "footprints": [
+        "xiakou",
+        "jingzhou"
+      ]
+    },
+    {
+      "id": "dengai",
+      "name": "邓艾",
+      "zi": "士载",
+      "life": "197–264",
+      "tagline": "偷度阴平灭蜀",
+      "faction": "曹魏",
+      "since": 250,
+      "first": "116",
+      "bio": "景耀六年自阴平入成都。",
+      "sourceType": "正史",
+      "review": "已校",
+      "weight": 2,
+      "footprints": [
+        "chengdu",
+        "hanzhong"
+      ]
+    },
+    {
+      "id": "zhonghui",
+      "name": "钟会",
+      "zi": "士季",
+      "life": "225–264",
+      "tagline": "灭蜀后谋自立而败",
+      "faction": "曹魏",
+      "since": 263,
+      "first": "116",
+      "bio": "与邓艾分兵伐蜀，后乱中被杀。",
+      "sourceType": "正史",
+      "review": "已校",
+      "weight": 2,
+      "footprints": [
+        "chengdu",
+        "luoyang"
+      ]
+    },
+    {
+      "id": "simayan",
+      "name": "司马炎",
+      "zi": "安世",
+      "life": "236–290",
+      "tagline": "代魏建晋，灭吴一统",
+      "faction": "西晋",
+      "since": 265,
+      "first": "119",
+      "bio": "咸熙二年受禅，太康元年灭吴。",
+      "sourceType": "正史",
+      "review": "已校",
+      "weight": 3,
+      "footprints": [
+        "luoyang",
+        "jianye"
+      ]
+    },
+    {
+      "id": "sunhao",
+      "name": "孙皓",
+      "zi": "元宗",
+      "life": "242–284",
+      "tagline": "吴末帝，降晋",
+      "faction": "孙吴",
+      "since": 264,
+      "first": "120",
+      "bio": "太康元年出降，三国归晋。",
+      "sourceType": "正史",
+      "review": "已校",
+      "weight": 2,
+      "footprints": [
+        "jianye",
+        "luoyang"
+      ]
+    },
+    {
+      "id": "zhangjiao",
+      "name": "张角",
+      "zi": "无",
+      "life": "?–184",
+      "tagline": "太平道首领，黄巾起事",
+      "faction": "群雄",
+      "since": 184,
+      "first": "001",
+      "bio": "中平元年聚众起事，同年病死。",
+      "sourceType": "正史",
+      "review": "已校",
+      "weight": 3,
+      "footprints": [
+        "luoyang",
+        "ye"
+      ]
+    },
+    {
+      "id": "duyu",
+      "name": "杜预",
+      "zi": "元凯",
+      "life": "222–285",
+      "tagline": "灭吴之役的晋军主帅",
+      "faction": "西晋",
+      "since": 278,
+      "first": "120",
+      "bio": "太康元年自江陵顺江东下。",
+      "sourceType": "正史",
+      "review": "已校",
+      "weight": 2,
+      "footprints": [
+        "jiangling",
+        "jianye"
+      ]
+    },
+    {
+      "id": "tianfeng",
+      "name": "田丰",
+      "zi": "元皓",
+      "life": "?–200",
+      "tagline": "官渡前直谏被囚的河北谋士",
+      "faction": "群雄",
+      "since": 191,
+      "first": "022",
+      "bio": "劝袁绍缓攻曹操，不听，官渡后被杀。",
+      "sourceType": "正史",
+      "review": "已校",
+      "weight": 2,
+      "footprints": [
+        "ye",
+        "guandu"
+      ]
+    },
+    {
+      "id": "guanping",
+      "name": "关平",
+      "zi": "无",
+      "life": "?–220",
+      "tagline": "关羽之子，随父镇荆州",
+      "faction": "蜀汉",
+      "since": 200,
+      "first": "027",
+      "bio": "正史载关羽有子平，随镇荆州，与父同殁于临沮。",
+      "sourceType": "正史",
+      "review": "已校",
+      "weight": 2,
+      "footprints": [
+        "jingzhou",
+        "jiangling"
+      ]
+    },
+    {
+      "id": "guanxing",
+      "name": "关兴",
+      "zi": "安国",
+      "life": "?–?",
+      "tagline": "关羽之子，演义中的蜀汉后起之将",
+      "faction": "蜀汉",
+      "since": 220,
+      "first": "081",
+      "bio": "正史仅数笔且早卒；演义中与张苞并为伐吴先锋。",
+      "sourceType": "演义",
+      "review": "已校",
+      "weight": 2,
+      "footprints": [
+        "chengdu"
+      ]
+    },
+    {
+      "id": "zhangbao",
+      "name": "张苞",
+      "zi": "无",
+      "life": "?–?",
+      "tagline": "张飞之子，演义中与关兴结为兄弟",
+      "faction": "蜀汉",
+      "since": 221,
+      "first": "081",
+      "bio": "正史早卒；演义中为伐吴先锋，使父亲的家传蛇矛。",
+      "sourceType": "演义",
+      "review": "已校",
+      "weight": 2,
+      "footprints": [
+        "chengdu"
+      ]
+    },
+    {
+      "id": "mizhu",
+      "name": "糜竺",
+      "zi": "子山",
+      "life": "?–约220",
+      "tagline": "徐州富商，刘备最早的资助者",
+      "faction": "蜀汉",
+      "since": 194,
+      "first": "012",
+      "bio": "倾家财助刘备，妹为糜夫人，终身以宾友自处。",
+      "sourceType": "正史",
+      "review": "已校",
+      "weight": 2,
+      "footprints": [
+        "xiapi",
+        "xuchang",
+        "chengdu"
+      ]
+    },
+    {
+      "id": "mifang",
+      "name": "糜芳",
+      "zi": "子方",
+      "life": "?–?",
+      "tagline": "南郡守将，吕蒙袭荆州时降吴",
+      "faction": "蜀汉",
+      "since": 194,
+      "first": "012",
+      "bio": "开城降吴致关羽后路断绝，正史与演义同载其叛。",
+      "sourceType": "正史",
+      "review": "已校",
+      "weight": 2,
+      "footprints": [
+        "jingzhou",
+        "jiangling",
+        "jianye"
+      ]
+    },
+    {
+      "id": "sunfuren",
+      "name": "孙尚香",
+      "zi": "无",
+      "life": "?–?",
+      "tagline": "孙权之妹，嫁刘备的联姻",
+      "faction": "孙吴",
+      "since": 209,
+      "first": "054",
+      "bio": "正史称孙夫人，才捷刚猛；「孙尚香」之名出自后世戏曲。",
+      "sourceType": "正史",
+      "review": "已校",
+      "weight": 2,
+      "footprints": [
+        "jingzhou",
+        "jianye"
+      ]
+    },
+    {
+      "id": "ganfuren",
+      "name": "甘夫人",
+      "zi": "无",
+      "life": "?–?",
+      "tagline": "刘备夫人，阿斗生母",
+      "faction": "蜀汉",
+      "since": 200,
+      "first": "041",
+      "bio": "长坂之难中幸赖赵云保护，正史有其人。",
+      "sourceType": "正史",
+      "review": "已校",
+      "weight": 1,
+      "footprints": [
+        "xinye",
+        "jingzhou"
+      ]
+    },
+    {
+      "id": "jianyong",
+      "name": "简雍",
+      "zi": "宪和",
+      "life": "?–?",
+      "tagline": "刘备布衣之交，谈笑间的说客",
+      "faction": "蜀汉",
+      "since": 184,
+      "first": "065",
+      "bio": "与刘备有旧，入蜀后单车入城劝降刘璋。",
+      "sourceType": "正史",
+      "review": "已校",
+      "weight": 1,
+      "footprints": [
+        "chengdu"
+      ]
+    },
+    {
+      "id": "sunqian",
+      "name": "孙乾",
+      "zi": "公祐",
+      "life": "?–?",
+      "tagline": "刘备的早期使臣",
+      "faction": "蜀汉",
+      "since": 196,
+      "first": "011",
+      "bio": "徐州从事，随刘备周旋于诸侯之间。",
+      "sourceType": "正史",
+      "review": "已校",
+      "weight": 1,
+      "footprints": [
+        "xiapi",
+        "xuchang",
+        "ye"
+      ]
+    },
+    {
+      "id": "liufeng",
+      "name": "刘封",
+      "zi": "无",
+      "life": "?–220",
+      "tagline": "刘备义子，赐死于上庸之败后",
+      "faction": "蜀汉",
+      "since": 201,
+      "first": "036",
+      "bio": "刘备至荆州收为养子；不救关羽、逼反孟达，被赐死。",
+      "sourceType": "正史",
+      "review": "已校",
+      "weight": 2,
+      "footprints": [
+        "xinye",
+        "hanzhong"
+      ]
+    },
+    {
+      "id": "wangping",
+      "name": "王平",
+      "zi": "子均",
+      "life": "?–248",
+      "tagline": "街亭独谏马谡，后都督汉中",
+      "faction": "蜀汉",
+      "since": 219,
+      "first": "095",
+      "bio": "先为曹军属吏，汉中之役归刘备；街亭之败独全其军。",
+      "sourceType": "正史",
+      "review": "已校",
+      "weight": 2,
+      "footprints": [
+        "hanzhong",
+        "jieting"
+      ]
+    },
+    {
+      "id": "liaohua",
+      "name": "廖化",
+      "zi": "元俭",
+      "life": "?–264",
+      "tagline": "蜀汉的活年表，见证兴亡全程",
+      "faction": "蜀汉",
+      "since": 200,
+      "first": "027",
+      "bio": "曾为关羽主簿，蜀亡后忧愤而卒；「蜀中无大将」系后世俗语。",
+      "sourceType": "正史",
+      "review": "已校",
+      "weight": 2,
+      "footprints": [
+        "jingzhou",
+        "chengdu"
+      ]
+    },
+    {
+      "id": "mada",
+      "name": "马岱",
+      "zi": "无",
+      "life": "?–?",
+      "tagline": "马超从弟，演义中奉遗计斩魏延",
+      "faction": "蜀汉",
+      "since": 211,
+      "first": "058",
+      "bio": "随马超入蜀；演义写其斩魏延，正史亦有其人其事略异。",
+      "sourceType": "正史",
+      "review": "已校",
+      "weight": 1,
+      "footprints": [
+        "changan",
+        "hanzhong",
+        "chengdu"
+      ]
+    },
+    {
+      "id": "yanyan",
+      "name": "严颜",
+      "zi": "无",
+      "life": "?–?",
+      "tagline": "巴郡老将，义不屈膝",
+      "faction": "蜀汉",
+      "since": 213,
+      "first": "063",
+      "bio": "张飞义释严颜并引路入川，见于《张飞传》。",
+      "sourceType": "正史",
+      "review": "已校",
+      "weight": 1,
+      "footprints": [
+        "chengdu"
+      ]
+    },
+    {
+      "id": "jiangwan",
+      "name": "蒋琬",
+      "zi": "公琰",
+      "life": "?–246",
+      "tagline": "诸葛亮身后第一任执政",
+      "faction": "蜀汉",
+      "since": 214,
+      "first": "065",
+      "bio": "建兴十二年继掌蜀政，转攻为守，保全国力。",
+      "sourceType": "正史",
+      "review": "已校",
+      "weight": 3,
+      "footprints": [
+        "chengdu"
+      ]
+    },
+    {
+      "id": "feiyi",
+      "name": "费祎",
+      "zi": "文伟",
+      "life": "?–253",
+      "tagline": "与蒋琬相继执政的蜀相",
+      "faction": "蜀汉",
+      "since": 221,
+      "first": "086",
+      "bio": "延熙年间主政，节制姜维用兵；后被刺身亡。",
+      "sourceType": "正史",
+      "review": "已校",
+      "weight": 2,
+      "footprints": [
+        "chengdu",
+        "hanzhong"
+      ]
+    },
+    {
+      "id": "dongyun",
+      "name": "董允",
+      "zi": "休昭",
+      "life": "?–246",
+      "tagline": "抑制黄皓的蜀中侍中",
+      "faction": "蜀汉",
+      "since": 223,
+      "first": "091",
+      "bio": "与蒋琬、费祎并受诸葛亮称许，侍中多年。",
+      "sourceType": "正史",
+      "review": "已校",
+      "weight": 1,
+      "footprints": [
+        "chengdu"
+      ]
+    },
+    {
+      "id": "yangyi",
+      "name": "杨仪",
+      "zi": "威公",
+      "life": "?–235",
+      "tagline": "诸葛亮身后的撤军主谋",
+      "faction": "蜀汉",
+      "since": 211,
+      "first": "092",
+      "bio": "主持退军并斩魏延，后怨望获罪。",
+      "sourceType": "正史",
+      "review": "已校",
+      "weight": 1,
+      "footprints": [
+        "wuzhangyuan",
+        "chengdu"
+      ]
+    },
+    {
+      "id": "liyan",
+      "name": "李严",
+      "zi": "正方",
+      "life": "?–234",
+      "tagline": "与诸葛亮同受遗诏的托孤之臣",
+      "faction": "蜀汉",
+      "since": 208,
+      "first": "060",
+      "bio": "先事刘璋，降后与诸葛亮并受遗命；因误军粮废为民。",
+      "sourceType": "正史",
+      "review": "已校",
+      "weight": 2,
+      "footprints": [
+        "chengdu",
+        "hanzhong"
+      ]
+    },
+    {
+      "id": "maliang",
+      "name": "马良",
+      "zi": "季常",
+      "life": "187–222",
+      "tagline": "白眉最良的蜀汉侍中",
+      "faction": "蜀汉",
+      "since": 209,
+      "first": "052",
+      "bio": "兄弟五人并有才名，马谡之兄；夷陵之役殁于军中。",
+      "sourceType": "正史",
+      "review": "已校",
+      "weight": 2,
+      "footprints": [
+        "jingzhou",
+        "chengdu"
+      ]
+    },
+    {
+      "id": "qiaozhou",
+      "name": "谯周",
+      "zi": "允南",
+      "life": "201–270",
+      "tagline": "劝刘禅降魏的蜀中学者",
+      "faction": "蜀汉",
+      "since": 223,
+      "first": "107",
+      "bio": "《仇国论》主休兵；蜀亡前夕力主出降。",
+      "sourceType": "正史",
+      "review": "已校",
+      "weight": 1,
+      "footprints": [
+        "chengdu"
+      ]
+    },
+    {
+      "id": "zhugezhan",
+      "name": "诸葛瞻",
+      "zi": "思远",
+      "life": "227–263",
+      "tagline": "诸葛亮之子，殉于绵竹",
+      "faction": "蜀汉",
+      "since": 263,
+      "first": "116",
+      "bio": "尚书仆射，邓艾入蜀时战死于绵竹。",
+      "sourceType": "正史",
+      "review": "已校",
+      "weight": 2,
+      "footprints": [
+        "chengdu"
+      ]
+    },
+    {
+      "id": "simahui",
+      "name": "司马徽",
+      "zi": "德操",
+      "life": "?–208",
+      "tagline": "水镜先生，「卧龙凤雏」的品评人",
+      "faction": "群雄",
+      "since": 207,
+      "first": "035",
+      "bio": "善知人；「卧龙凤雏得一可安天下」的荐语出自演义。",
+      "sourceType": "正史",
+      "review": "已校",
+      "weight": 1,
+      "footprints": [
+        "jingzhou"
+      ]
+    },
+    {
+      "id": "huangyueying",
+      "name": "黄月英",
+      "zi": "无",
+      "life": "?–?",
+      "tagline": "诸葛亮之妻，名不见正史",
+      "faction": "蜀汉",
+      "since": 197,
+      "first": "",
+      "bio": "黄承彦之女，正史仅称黄氏；其名与机巧传说出自民间。",
+      "sourceType": "传说",
+      "review": "已校",
+      "weight": 1,
+      "footprints": [
+        "longzhong"
+      ]
+    },
+    {
+      "id": "zhoucang",
+      "name": "周仓",
+      "zi": "无",
+      "life": "?–219",
+      "tagline": "关羽的扛刀人，正史无此人",
+      "faction": "蜀汉",
+      "since": 200,
+      "first": "028",
+      "bio": "演义与关帝信仰中的重要形象，史书无载。",
+      "sourceType": "演义",
+      "review": "已校",
+      "weight": 1,
+      "footprints": [
+        "jingzhou"
+      ]
+    },
+    {
+      "id": "guansuo",
+      "name": "关索",
+      "zi": "无",
+      "life": "?–?",
+      "tagline": "民间故事中的关羽第三子",
+      "faction": "蜀汉",
+      "since": 225,
+      "first": "087",
+      "bio": "演义提及而语焉不详，民间「花关索传」敷演其事。",
+      "sourceType": "传说",
+      "review": "已校",
+      "weight": 1,
+      "footprints": [
+        "chengdu"
+      ]
+    },
+    {
+      "id": "huangquan",
+      "name": "黄权",
+      "zi": "公衡",
+      "life": "?–240",
+      "tagline": "夷陵后降魏的蜀臣",
+      "faction": "蜀汉",
+      "since": 214,
+      "first": "062",
+      "bio": "谏刘璋不听；夷陵后归魏，刘备曰「孤负黄权」。",
+      "sourceType": "正史",
+      "review": "已校",
+      "weight": 1,
+      "footprints": [
+        "chengdu",
+        "luoyang"
+      ]
+    },
+    {
+      "id": "xiahouyuan",
+      "name": "夏侯渊",
+      "zi": "妙才",
+      "life": "?–219",
+      "tagline": "虎步关右的曹氏名将，殁于定军山",
+      "faction": "曹魏",
+      "since": 190,
+      "first": "005",
+      "bio": "数定陇右，建安二十四年为黄忠所斩于定军山。",
+      "sourceType": "正史",
+      "review": "已校",
+      "weight": 3,
+      "footprints": [
+        "xuchang",
+        "guandu",
+        "hanzhong"
+      ]
+    },
+    {
+      "id": "caohong",
+      "name": "曹洪",
+      "zi": "子廉",
+      "life": "?–232",
+      "tagline": "荥阳让马救曹操的宗亲",
+      "faction": "曹魏",
+      "since": 190,
+      "first": "005",
+      "bio": "荥阳之战献马救主；后镇关中。",
+      "sourceType": "正史",
+      "review": "已校",
+      "weight": 1,
+      "footprints": [
+        "xuchang",
+        "guandu"
+      ]
+    },
+    {
+      "id": "caozhen",
+      "name": "曹真",
+      "zi": "子丹",
+      "life": "?–231",
+      "tagline": "受遗诏辅政的曹氏重臣",
+      "faction": "曹魏",
+      "since": 219,
+      "first": "096",
+      "bio": "曹丕临终托孤；西拒诸葛亮，卒于任。",
+      "sourceType": "正史",
+      "review": "已校",
+      "weight": 2,
+      "footprints": [
+        "luoyang",
+        "changan"
+      ]
+    },
+    {
+      "id": "caoshuang",
+      "name": "曹爽",
+      "zi": "昭伯",
+      "life": "?–249",
+      "tagline": "高平陵之变中败亡的辅政宗室",
+      "faction": "曹魏",
+      "since": 239,
+      "first": "106",
+      "bio": "骄奢失政，为司马懿所废杀。",
+      "sourceType": "正史",
+      "review": "已校",
+      "weight": 2,
+      "footprints": [
+        "luoyang"
+      ]
+    },
+    {
+      "id": "simashi",
+      "name": "司马师",
+      "zi": "子元",
+      "life": "208–255",
+      "tagline": "继司马懿掌魏政，废立皇帝",
+      "faction": "曹魏",
+      "since": 249,
+      "first": "109",
+      "bio": "平淮南之叛，废曹芳立曹髦。",
+      "sourceType": "正史",
+      "review": "已校",
+      "weight": 2,
+      "footprints": [
+        "luoyang"
+      ]
+    },
+    {
+      "id": "simazhao",
+      "name": "司马昭",
+      "zi": "子上",
+      "life": "211–265",
+      "tagline": "「司马昭之心」的魏晋过渡者",
+      "faction": "曹魏",
+      "since": 255,
+      "first": "111",
+      "bio": "弑曹髦后灭蜀；其子司马炎代魏建晋。",
+      "sourceType": "正史",
+      "review": "已校",
+      "weight": 3,
+      "footprints": [
+        "luoyang",
+        "chengdu"
+      ]
+    },
+    {
+      "id": "caozhang",
+      "name": "曹彰",
+      "zi": "子文",
+      "life": "?–223",
+      "tagline": "曹操口中的黄须儿",
+      "faction": "曹魏",
+      "since": 219,
+      "first": "072",
+      "bio": "汉中之役参战，黄须之名曹操所称。",
+      "sourceType": "正史",
+      "review": "已校",
+      "weight": 1,
+      "footprints": [
+        "hanzhong",
+        "ye"
+      ]
+    },
+    {
+      "id": "haozhao",
+      "name": "郝昭",
+      "zi": "伯道",
+      "life": "?–?",
+      "tagline": "陈仓城挡住诸葛亮二伐",
+      "faction": "曹魏",
+      "since": 228,
+      "first": "097",
+      "bio": "千余守卒拒诸葛亮数万之众，正史与演义同载。",
+      "sourceType": "正史",
+      "review": "已校",
+      "weight": 1,
+      "footprints": [
+        "changan"
+      ]
+    },
+    {
+      "id": "caimao",
+      "name": "蔡瑁",
+      "zi": "德珪",
+      "life": "?–?",
+      "tagline": "荆州降曹的水军都督",
+      "faction": "曹魏",
+      "since": 208,
+      "first": "034",
+      "bio": "刘表妻弟；演义中被周瑜反间所杀，正史不然。",
+      "sourceType": "演义",
+      "review": "已校",
+      "weight": 1,
+      "footprints": [
+        "jingzhou",
+        "chibi"
+      ]
+    },
+    {
+      "id": "yujin",
+      "name": "于禁",
+      "zi": "文则",
+      "life": "?–221",
+      "tagline": "樊城之败降关羽的曹军宿将",
+      "faction": "曹魏",
+      "since": 196,
+      "first": "010",
+      "bio": "三十年宿将，水淹七军后降关羽，晚节受辱。",
+      "sourceType": "正史",
+      "review": "已校",
+      "weight": 2,
+      "footprints": [
+        "xuchang",
+        "jingzhou",
+        "luoyang"
+      ]
+    },
+    {
+      "id": "lidian",
+      "name": "李典",
+      "zi": "曼成",
+      "life": "?–?",
+      "tagline": "好学问的曹营儒将",
+      "faction": "曹魏",
+      "since": 200,
+      "first": "025",
+      "bio": "与张辽同守合肥；博望识刘备伏兵。",
+      "sourceType": "正史",
+      "review": "已校",
+      "weight": 1,
+      "footprints": [
+        "xuchang",
+        "jianye"
+      ]
+    },
+    {
+      "id": "yuejin",
+      "name": "乐进",
+      "zi": "文谦",
+      "life": "?–218",
+      "tagline": "先登陷阵的曹军先锋",
+      "faction": "曹魏",
+      "since": 198,
+      "first": "011",
+      "bio": "从曹操起兵，每战先登；合肥之役同守。",
+      "sourceType": "正史",
+      "review": "已校",
+      "weight": 1,
+      "footprints": [
+        "guandu",
+        "jianye"
+      ]
+    },
+    {
+      "id": "xunyou",
+      "name": "荀攸",
+      "zi": "公达",
+      "life": "157–214",
+      "tagline": "曹操军师，十二奇策的谋划者",
+      "faction": "曹魏",
+      "since": 196,
+      "first": "022",
+      "bio": "官渡画策；正史中斩颜良之谋出于其策。",
+      "sourceType": "正史",
+      "review": "已校",
+      "weight": 2,
+      "footprints": [
+        "xuchang",
+        "guandu"
+      ]
+    },
+    {
+      "id": "pangde",
+      "name": "庞德",
+      "zi": "令明",
+      "life": "?–219",
+      "tagline": "抬榇决死战的樊城悍将",
+      "faction": "曹魏",
+      "since": 211,
+      "first": "074",
+      "bio": "马超旧部，归曹后守樊城，为关羽所擒杀。",
+      "sourceType": "正史",
+      "review": "已校",
+      "weight": 2,
+      "footprints": [
+        "jingzhou",
+        "xuchang"
+      ]
+    },
+    {
+      "id": "wanglang",
+      "name": "王朗",
+      "zi": "景兴",
+      "life": "?–228",
+      "tagline": "被诸葛亮骂死于阵前的老臣（演义）",
+      "faction": "曹魏",
+      "since": 190,
+      "first": "093",
+      "bio": "正史为经学重臣、位列三公；「骂死王朗」出自演义。",
+      "sourceType": "演义",
+      "review": "已校",
+      "weight": 1,
+      "footprints": [
+        "luoyang",
+        "changan"
+      ]
+    },
+    {
+      "id": "huaxin",
+      "name": "华歆",
+      "zi": "子鱼",
+      "life": "157–232",
+      "tagline": "演义中收捕伏后的魏国司徒",
+      "faction": "曹魏",
+      "since": 190,
+      "first": "066",
+      "bio": "正史名士、清素廉洁；演义形象偏负面。",
+      "sourceType": "正史",
+      "review": "已校",
+      "weight": 1,
+      "footprints": [
+        "xuchang",
+        "luoyang"
+      ]
+    },
+    {
+      "id": "chenqun",
+      "name": "陈群",
+      "zi": "长文",
+      "life": "?–237",
+      "tagline": "创九品中正制的魏臣",
+      "faction": "曹魏",
+      "since": 198,
+      "first": "022",
+      "bio": "历仕三朝，制九品官人之法。",
+      "sourceType": "正史",
+      "review": "已校",
+      "weight": 1,
+      "footprints": [
+        "ye",
+        "luoyang"
+      ]
+    },
+    {
+      "id": "chengpu",
+      "name": "程普",
+      "zi": "德谋",
+      "life": "?–210",
+      "tagline": "历仕孙氏三世的虎臣之首",
+      "faction": "孙吴",
+      "since": 184,
+      "first": "044",
+      "bio": "先随孙坚；赤壁与周瑜并为左右督。",
+      "sourceType": "正史",
+      "review": "已校",
+      "weight": 1,
+      "footprints": [
+        "chibi",
+        "jianye"
+      ]
+    },
+    {
+      "id": "handang",
+      "name": "韩当",
+      "zi": "义公",
+      "life": "?–226",
+      "tagline": "三世老将，历仕孙氏",
+      "faction": "孙吴",
+      "since": 191,
+      "first": "044",
+      "bio": "从孙坚征伐起，至夷陵犹在军中。",
+      "sourceType": "正史",
+      "review": "已校",
+      "weight": 1,
+      "footprints": [
+        "chibi"
+      ]
+    },
+    {
+      "id": "zhoutai",
+      "name": "周泰",
+      "zi": "幼平",
+      "life": "?–?",
+      "tagline": "浑身伤疤的孙权护卫",
+      "faction": "孙吴",
+      "since": 199,
+      "first": "068",
+      "bio": "濡须之战数入重围救孙权，孙权亲数其创。",
+      "sourceType": "正史",
+      "review": "已校",
+      "weight": 1,
+      "footprints": [
+        "jianye"
+      ]
+    },
+    {
+      "id": "lingtong",
+      "name": "凌统",
+      "zi": "公绩",
+      "life": "189–217",
+      "tagline": "与甘宁有杀父之仇的江东少将",
+      "faction": "孙吴",
+      "since": 208,
+      "first": "068",
+      "bio": "父凌操为甘宁所杀；后同殿为臣，国士之风。",
+      "sourceType": "正史",
+      "review": "已校",
+      "weight": 1,
+      "footprints": [
+        "jianye"
+      ]
+    },
+    {
+      "id": "xusheng",
+      "name": "徐盛",
+      "zi": "文向",
+      "life": "?–?",
+      "tagline": "以疑城退曹丕的江防名将",
+      "faction": "孙吴",
+      "since": 224,
+      "first": "085",
+      "bio": "建疑城之计退魏主；正史与演义皆有。",
+      "sourceType": "正史",
+      "review": "已校",
+      "weight": 1,
+      "footprints": [
+        "jianye"
+      ]
+    },
+    {
+      "id": "dingfeng",
+      "name": "丁奉",
+      "zi": "承渊",
+      "life": "?–271",
+      "tagline": "雪中奋短兵的老将",
+      "faction": "孙吴",
+      "since": 252,
+      "first": "108",
+      "bio": "东兴大破魏军；后设计诛孙綝。",
+      "sourceType": "正史",
+      "review": "已校",
+      "weight": 1,
+      "footprints": [
+        "jianye"
+      ]
+    },
+    {
+      "id": "guyong",
+      "name": "顾雍",
+      "zi": "元叹",
+      "life": "168–243",
+      "tagline": "寡言持重的吴国丞相",
+      "faction": "孙吴",
+      "since": 200,
+      "first": "086",
+      "bio": "为相十九年，举动得体。",
+      "sourceType": "正史",
+      "review": "已校",
+      "weight": 1,
+      "footprints": [
+        "jianye"
+      ]
+    },
+    {
+      "id": "zhugeke",
+      "name": "诸葛恪",
+      "zi": "元逊",
+      "life": "203–253",
+      "tagline": "聪明外露的诸葛氏权臣",
+      "faction": "孙吴",
+      "since": 243,
+      "first": "098",
+      "bio": "诸葛瑾之子；东兴之胜后骄愎，为孙峻所杀。",
+      "sourceType": "正史",
+      "review": "已校",
+      "weight": 2,
+      "footprints": [
+        "jianye"
+      ]
+    },
+    {
+      "id": "lukang",
+      "name": "陆抗",
+      "zi": "幼节",
+      "life": "226–274",
+      "tagline": "吴国最后的名将，与羊祜对峙",
+      "faction": "孙吴",
+      "since": 269,
+      "first": "118",
+      "bio": "西陵破步阐，与羊祜边境相安；卒后吴失长城。",
+      "sourceType": "正史",
+      "review": "已校",
+      "weight": 2,
+      "footprints": [
+        "jingzhou",
+        "jianye"
+      ]
+    },
+    {
+      "id": "panzhang",
+      "name": "潘璋",
+      "zi": "文珪",
+      "life": "?–234",
+      "tagline": "断关羽退路的麦城功臣",
+      "faction": "孙吴",
+      "since": 219,
+      "first": "077",
+      "bio": "与朱然截关羽退路；演义称其部下马忠擒羽。",
+      "sourceType": "正史",
+      "review": "已校",
+      "weight": 1,
+      "footprints": [
+        "jingzhou"
+      ]
+    },
+    {
+      "id": "zhuran",
+      "name": "朱然",
+      "zi": "义封",
+      "life": "182–249",
+      "tagline": "守住江陵的吴将",
+      "faction": "孙吴",
+      "since": 219,
+      "first": "076",
+      "bio": "与潘璋断关羽退路；后守江陵却魏军六月。",
+      "sourceType": "正史",
+      "review": "已校",
+      "weight": 1,
+      "footprints": [
+        "jiangling"
+      ]
+    },
+    {
+      "id": "daqiao",
+      "name": "大乔",
+      "zi": "无",
+      "life": "?–?",
+      "tagline": "孙策之妻，桥公长女",
+      "faction": "孙吴",
+      "since": 199,
+      "first": "044",
+      "bio": "《周瑜传》载桥公二女，大者为孙策所纳；名字写法为后世通行。",
+      "sourceType": "正史",
+      "review": "已校",
+      "weight": 1,
+      "footprints": [
+        "jianye"
+      ]
+    },
+    {
+      "id": "qiaoxiao",
+      "name": "小乔",
+      "zi": "无",
+      "life": "?–?",
+      "tagline": "周瑜之妻，铜雀台赋中的名字",
+      "faction": "孙吴",
+      "since": 199,
+      "first": "044",
+      "bio": "《周瑜传》载「瑜纳小桥」；「铜雀锁二乔」为后人敷演。",
+      "sourceType": "正史",
+      "review": "已校",
+      "weight": 1,
+      "footprints": [
+        "jianye"
+      ]
+    },
+    {
+      "id": "liuxie",
+      "name": "汉献帝刘协",
+      "zi": "伯和",
+      "life": "181–234",
+      "tagline": "禅位曹魏的末代汉帝",
+      "faction": "汉室",
+      "since": 189,
+      "first": "002",
+      "bio": "董卓所立；建安二十五年禅位于曹丕，封山阳公。",
+      "sourceType": "正史",
+      "review": "已校",
+      "weight": 2,
+      "footprints": [
+        "luoyang",
+        "changan",
+        "xuchang"
+      ]
+    },
+    {
+      "id": "dongcheng",
+      "name": "董承",
+      "zi": "无",
+      "life": "?–200",
+      "tagline": "衣带诏的主角",
+      "faction": "汉室",
+      "since": 199,
+      "first": "020",
+      "bio": "受献帝衣带诏谋曹，事泄族诛。",
+      "sourceType": "正史",
+      "review": "已校",
+      "weight": 1,
+      "footprints": [
+        "xuchang"
+      ]
+    },
+    {
+      "id": "fuhou",
+      "name": "伏皇后",
+      "zi": "无",
+      "life": "?–214",
+      "tagline": "谋曹事泄的献帝皇后",
+      "faction": "汉室",
+      "since": 200,
+      "first": "066",
+      "bio": "与父伏完谋曹事泄，为华歆收捕（演义正史均有）。",
+      "sourceType": "正史",
+      "review": "已校",
+      "weight": 1,
+      "footprints": [
+        "xuchang",
+        "luoyang"
+      ]
+    },
+    {
+      "id": "wangyun",
+      "name": "王允",
+      "zi": "子师",
+      "life": "137–192",
+      "tagline": "连环计的策划者，诛董的汉司徒",
+      "faction": "群雄",
+      "since": 190,
+      "first": "008",
+      "bio": "联合吕布诛董卓确有其事；连环计与貂蝉为演义敷演。",
+      "sourceType": "正史",
+      "review": "已校",
+      "weight": 2,
+      "footprints": [
+        "changan"
+      ]
+    },
+    {
+      "id": "hejin",
+      "name": "何进",
+      "zi": "遂高",
+      "life": "?–189",
+      "tagline": "召外兵入京的东汉大将军",
+      "faction": "群雄",
+      "since": 184,
+      "first": "001",
+      "bio": "谋诛宦官反被害，引董卓入京。",
+      "sourceType": "正史",
+      "review": "已校",
+      "weight": 2,
+      "footprints": [
+        "luoyang"
+      ]
+    },
+    {
+      "id": "lijue",
+      "name": "李傕",
+      "zi": "稚然",
+      "life": "?–198",
+      "tagline": "董卓余部，乱长安",
+      "faction": "群雄",
+      "since": 192,
+      "first": "009",
+      "bio": "王允死后与郭汜攻陷长安，挟持献帝。",
+      "sourceType": "正史",
+      "review": "已校",
+      "weight": 1,
+      "footprints": [
+        "changan"
+      ]
+    },
+    {
+      "id": "guosi",
+      "name": "郭汜",
+      "zi": "无",
+      "life": "?–197",
+      "tagline": "与李傕相攻的董卓旧部",
+      "faction": "群雄",
+      "since": 192,
+      "first": "009",
+      "bio": "乱长安后与李傕相攻，献帝东逃。",
+      "sourceType": "正史",
+      "review": "已校",
+      "weight": 1,
+      "footprints": [
+        "changan"
+      ]
+    },
+    {
+      "id": "zhangxiu",
+      "name": "张绣",
+      "zi": "无",
+      "life": "?–207",
+      "tagline": "宛城再降再叛的北地枪王（演义）",
+      "faction": "群雄",
+      "since": 197,
+      "first": "016",
+      "bio": "宛城之变杀典韦、曹昂；官渡前再降曹操。",
+      "sourceType": "正史",
+      "review": "已校",
+      "weight": 2,
+      "footprints": [
+        "xuchang",
+        "guandu"
+      ]
+    },
+    {
+      "id": "taoqian",
+      "name": "陶谦",
+      "zi": "恭祖",
+      "life": "132–194",
+      "tagline": "三让徐州的徐州牧",
+      "faction": "群雄",
+      "since": 190,
+      "first": "011",
+      "bio": "曹操父死于徐境引屠城；临终以州让刘备。",
+      "sourceType": "正史",
+      "review": "已校",
+      "weight": 2,
+      "footprints": [
+        "xiapi"
+      ]
+    },
+    {
+      "id": "kongrong",
+      "name": "孔融",
+      "zi": "文举",
+      "life": "153–208",
+      "tagline": "让梨的孔融，被曹操所杀",
+      "faction": "群雄",
+      "since": 190,
+      "first": "011",
+      "bio": "北海相，好士善文；建安年间为曹操所杀。",
+      "sourceType": "正史",
+      "review": "已校",
+      "weight": 2,
+      "footprints": [
+        "ye",
+        "xuchang"
+      ]
+    },
+    {
+      "id": "gongsunzan",
+      "name": "公孙瓒",
+      "zi": "伯珪",
+      "life": "?–199",
+      "tagline": "白马将军，据幽州",
+      "faction": "群雄",
+      "since": 191,
+      "first": "007",
+      "bio": "界桥败于袁绍，困守易京自焚。",
+      "sourceType": "正史",
+      "review": "已校",
+      "weight": 2,
+      "footprints": []
+    },
+    {
+      "id": "shenpei",
+      "name": "审配",
+      "zi": "正南",
+      "life": "?–204",
+      "tagline": "死守邺城的袁氏忠臣",
+      "faction": "群雄",
+      "since": 191,
+      "first": "030",
+      "bio": "邺城破时被擒，不屈而死。",
+      "sourceType": "正史",
+      "review": "已校",
+      "weight": 1,
+      "footprints": [
+        "ye",
+        "guandu"
+      ]
+    },
+    {
+      "id": "jushou",
+      "name": "沮授",
+      "zi": "公与",
+      "life": "?–200",
+      "tagline": "被缚仍献策的袁绍谋主",
+      "faction": "群雄",
+      "since": 191,
+      "first": "030",
+      "bio": "缓战之谏不听，官渡被擒殉主。",
+      "sourceType": "正史",
+      "review": "已校",
+      "weight": 2,
+      "footprints": [
+        "guandu",
+        "ye"
+      ]
+    },
+    {
+      "id": "xuyou",
+      "name": "许攸",
+      "zi": "子远",
+      "life": "?–204",
+      "tagline": "夜投曹营献乌巢之策",
+      "faction": "群雄",
+      "since": 200,
+      "first": "030",
+      "bio": "官渡夜奔曹操献袭乌巢计；后恃功被杀。",
+      "sourceType": "正史",
+      "review": "已校",
+      "weight": 2,
+      "footprints": [
+        "guandu",
+        "xuchang"
+      ]
+    },
+    {
+      "id": "gaoshun",
+      "name": "高顺",
+      "zi": "无",
+      "life": "?–198",
+      "tagline": "统陷阵营的吕布麾下第一将",
+      "faction": "群雄",
+      "since": 198,
+      "first": "018",
+      "bio": "每战必克，谏吕布不听；白门楼殉死。",
+      "sourceType": "正史",
+      "review": "已校",
+      "weight": 1,
+      "footprints": [
+        "xiapi"
+      ]
+    },
+    {
+      "id": "huangzu",
+      "name": "黄祖",
+      "zi": "无",
+      "life": "?–208",
+      "tagline": "射杀孙坚的江夏太守",
+      "faction": "群雄",
+      "since": 190,
+      "first": "007",
+      "bio": "其部下射杀孙坚；后为孙权所破。",
+      "sourceType": "正史",
+      "review": "已校",
+      "weight": 1,
+      "footprints": [
+        "xiakou"
+      ]
+    },
+    {
+      "id": "hansui",
+      "name": "韩遂",
+      "zi": "文约",
+      "life": "?–215",
+      "tagline": "与马超联军抗曹的西凉老将",
+      "faction": "群雄",
+      "since": 211,
+      "first": "058",
+      "bio": "曹操离间之计使其与马超相疑，兵败。",
+      "sourceType": "正史",
+      "review": "已校",
+      "weight": 1,
+      "footprints": [
+        "changan"
+      ]
+    },
+    {
+      "id": "mateng",
+      "name": "马腾",
+      "zi": "寿成",
+      "life": "?–211",
+      "tagline": "衣带诏署名的西凉诸侯",
+      "faction": "群雄",
+      "since": 200,
+      "first": "020",
+      "bio": "演义中为黄奎事泄所害；正史为曹操所召杀于邺。",
+      "sourceType": "正史",
+      "review": "已校",
+      "weight": 1,
+      "footprints": [
+        "ye",
+        "changan"
+      ]
+    },
+    {
+      "id": "zhanglu",
+      "name": "张鲁",
+      "zi": "公祺",
+      "life": "?–216",
+      "tagline": "以五斗米道治汉中三十年",
+      "faction": "群雄",
+      "since": 200,
+      "first": "059",
+      "bio": "政教合一流民自归；降曹后封阆中侯。",
+      "sourceType": "正史",
+      "review": "已校",
+      "weight": 2,
+      "footprints": [
+        "hanzhong"
+      ]
+    },
+    {
+      "id": "huatuo",
+      "name": "华佗",
+      "zi": "元化",
+      "life": "?–208",
+      "tagline": "刮骨疗毒的神医（演义）",
+      "faction": "群雄",
+      "since": 208,
+      "first": "075",
+      "bio": "正史确有其人，为曹操所杀；刮骨疗毒年代有出入。",
+      "sourceType": "正史",
+      "review": "已校",
+      "weight": 2,
+      "footprints": [
+        "xuchang",
+        "jingzhou"
+      ]
+    },
+    {
+      "id": "zuoci",
+      "name": "左慈",
+      "zi": "元放",
+      "life": "?–?",
+      "tagline": "掷杯戏曹操的方士",
+      "faction": "群雄",
+      "since": 208,
+      "first": "068",
+      "bio": "《后汉书》有传；掷杯戏曹为演义敷演。",
+      "sourceType": "传说",
+      "review": "已校",
+      "weight": 1,
+      "footprints": [
+        "xuchang",
+        "ye"
+      ]
+    },
+    {
+      "id": "yuji",
+      "name": "于吉",
+      "zi": "无",
+      "life": "?–?",
+      "tagline": "被孙策所斩的琅琊道士",
+      "faction": "群雄",
+      "since": 199,
+      "first": "029",
+      "bio": "演义中小霸王怒斩于吉；正史无载。",
+      "sourceType": "传说",
+      "review": "已校",
+      "weight": 1,
+      "footprints": [
+        "jianye"
+      ]
+    },
+    {
+      "id": "yanghu",
+      "name": "羊祜",
+      "zi": "叔子",
+      "life": "221–278",
+      "tagline": "与陆抗边境相安的晋国都督",
+      "faction": "西晋",
+      "since": 269,
+      "first": "118",
+      "bio": "镇襄阳，遗策灭吴；与陆抗互通使节。",
+      "sourceType": "正史",
+      "review": "已校",
+      "weight": 2,
+      "footprints": [
+        "jingzhou",
+        "luoyang"
+      ]
+    },
+    {
+      "id": "wangjun",
+      "name": "王濬",
+      "zi": "士治",
+      "life": "206–286",
+      "tagline": "楼船下益州的灭吴水军统帅",
+      "faction": "西晋",
+      "since": 280,
+      "first": "120",
+      "bio": "太康元年楼船顺江，先入建业受孙皓降。",
+      "sourceType": "正史",
+      "review": "已校",
+      "weight": 2,
+      "footprints": [
+        "chengdu",
+        "jianye"
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "from": "liubei",
+      "to": "guanyu",
+      "type": "君臣",
+      "sinceYear": 184,
+      "sourceType": "正史",
+      "note": "恩若兄弟，正史无结义记载"
+    },
+    {
+      "from": "liubei",
+      "to": "zhangfei",
+      "type": "君臣",
+      "sinceYear": 184,
+      "sourceType": "正史",
+      "note": "正史称关羽年长数岁，张飞兄事之"
+    },
+    {
+      "from": "liubei",
+      "to": "guanyu",
+      "type": "结义",
+      "sinceYear": 184,
+      "sourceType": "演义",
+      "note": "桃园结义，第一回"
+    },
+    {
+      "from": "liubei",
+      "to": "zhugeliang",
+      "type": "君臣",
+      "sinceYear": 207,
+      "sourceType": "正史",
+      "note": "三顾茅庐，凡三往乃见"
+    },
+    {
+      "from": "liubei",
+      "to": "zhaoyun",
+      "type": "君臣",
+      "sinceYear": 191,
+      "sourceType": "正史",
+      "note": "长坂护主"
+    },
+    {
+      "from": "liubei",
+      "to": "pangtong",
+      "type": "君臣",
+      "sinceYear": 209,
+      "sourceType": "正史",
+      "note": "与诸葛亮并为军师中郎将"
+    },
+    {
+      "from": "liubei",
+      "to": "fazheng",
+      "type": "君臣",
+      "sinceYear": 211,
+      "sourceType": "正史",
+      "note": "入蜀与汉中的主要谋士"
+    },
+    {
+      "from": "liubei",
+      "to": "machao",
+      "type": "归附",
+      "sinceYear": 214,
+      "sourceType": "正史",
+      "note": "建安十九年归蜀"
+    },
+    {
+      "from": "liubei",
+      "to": "liushan",
+      "type": "亲属",
+      "sinceYear": 207,
+      "sourceType": "正史",
+      "note": "父子"
+    },
+    {
+      "from": "liubei",
+      "to": "sunquan",
+      "type": "联盟",
+      "sinceYear": 208,
+      "sourceType": "正史",
+      "note": "赤壁前的孙刘联盟"
+    },
+    {
+      "from": "liubei",
+      "to": "caocao",
+      "type": "敌对",
+      "sinceYear": 199,
+      "sourceType": "正史",
+      "note": "煮酒论英雄后决裂"
+    },
+    {
+      "from": "zhugeliang",
+      "to": "zhugejin",
+      "type": "亲属",
+      "sinceYear": 200,
+      "sourceType": "正史",
+      "note": "兄弟，分仕蜀吴"
+    },
+    {
+      "from": "zhugeliang",
+      "to": "xushu",
+      "type": "师友",
+      "sinceYear": 207,
+      "sourceType": "演义",
+      "note": "徐庶走马荐诸葛"
+    },
+    {
+      "from": "zhugeliang",
+      "to": "zhouyu",
+      "type": "联盟",
+      "sinceYear": 208,
+      "sourceType": "演义",
+      "note": "赤壁协力，小说多设斗智"
+    },
+    {
+      "from": "zhugeliang",
+      "to": "lusu",
+      "type": "师友",
+      "sinceYear": 208,
+      "sourceType": "正史",
+      "note": "过江联络，促成联盟"
+    },
+    {
+      "from": "zhugeliang",
+      "to": "jiangwei",
+      "type": "师友",
+      "sinceYear": 228,
+      "sourceType": "正史",
+      "note": "北伐中收姜维"
+    },
+    {
+      "from": "zhugeliang",
+      "to": "masu",
+      "type": "君臣",
+      "sinceYear": 214,
+      "sourceType": "正史",
+      "note": "街亭违令被斩"
+    },
+    {
+      "from": "zhugeliang",
+      "to": "simayi",
+      "type": "敌对",
+      "sinceYear": 228,
+      "sourceType": "正史",
+      "note": "渭南对峙"
+    },
+    {
+      "from": "caocao",
+      "to": "xunyu",
+      "type": "君臣",
+      "sinceYear": 191,
+      "sourceType": "正史",
+      "note": "迎天子都许之议"
+    },
+    {
+      "from": "caocao",
+      "to": "guojia",
+      "type": "君臣",
+      "sinceYear": 196,
+      "sourceType": "正史",
+      "note": "官渡前后的谋主"
+    },
+    {
+      "from": "caocao",
+      "to": "jiaxu",
+      "type": "君臣",
+      "sinceYear": 199,
+      "sourceType": "正史",
+      "note": "离间马超韩遂"
+    },
+    {
+      "from": "caocao",
+      "to": "zhangliao",
+      "type": "归附",
+      "sinceYear": 198,
+      "sourceType": "正史",
+      "note": "白门楼归曹"
+    },
+    {
+      "from": "caocao",
+      "to": "caopi",
+      "type": "亲属",
+      "sinceYear": 187,
+      "sourceType": "正史",
+      "note": "父子"
+    },
+    {
+      "from": "caocao",
+      "to": "caozhi",
+      "type": "亲属",
+      "sinceYear": 192,
+      "sourceType": "正史",
+      "note": "父子"
+    },
+    {
+      "from": "caocao",
+      "to": "yuanshao",
+      "type": "敌对",
+      "sinceYear": 200,
+      "sourceType": "正史",
+      "note": "官渡之战"
+    },
+    {
+      "from": "caocao",
+      "to": "lvbu",
+      "type": "敌对",
+      "sinceYear": 194,
+      "sourceType": "正史",
+      "note": "兖州之争与白门楼"
+    },
+    {
+      "from": "caocao",
+      "to": "dongzhuo",
+      "type": "敌对",
+      "sinceYear": 190,
+      "sourceType": "正史",
+      "note": "关东讨董"
+    },
+    {
+      "from": "caocao",
+      "to": "xuchu",
+      "type": "君臣",
+      "sinceYear": 197,
+      "sourceType": "正史",
+      "note": "近卫宿将"
+    },
+    {
+      "from": "caocao",
+      "to": "simayi",
+      "type": "君臣",
+      "sinceYear": 208,
+      "sourceType": "正史",
+      "note": "后期逐渐重用"
+    },
+    {
+      "from": "sunquan",
+      "to": "zhouyu",
+      "type": "君臣",
+      "sinceYear": 200,
+      "sourceType": "正史",
+      "note": "赤壁统兵"
+    },
+    {
+      "from": "sunquan",
+      "to": "lusu",
+      "type": "君臣",
+      "sinceYear": 200,
+      "sourceType": "正史",
+      "note": "力主抗曹"
+    },
+    {
+      "from": "sunquan",
+      "to": "lvmeng",
+      "type": "君臣",
+      "sinceYear": 200,
+      "sourceType": "正史",
+      "note": "袭取荆州"
+    },
+    {
+      "from": "sunquan",
+      "to": "luxun",
+      "type": "君臣",
+      "sinceYear": 222,
+      "sourceType": "正史",
+      "note": "夷陵拜将"
+    },
+    {
+      "from": "sunquan",
+      "to": "zhangzhao",
+      "type": "君臣",
+      "sinceYear": 194,
+      "sourceType": "正史",
+      "note": "孙策托孤，赤壁主和"
+    },
+    {
+      "from": "sunquan",
+      "to": "sunce",
+      "type": "亲属",
+      "sinceYear": 184,
+      "sourceType": "正史",
+      "note": "兄弟"
+    },
+    {
+      "from": "sunce",
+      "to": "sunjian",
+      "type": "亲属",
+      "sinceYear": 155,
+      "sourceType": "正史",
+      "note": "父子"
+    },
+    {
+      "from": "zhouyu",
+      "to": "huanggai",
+      "type": "君臣",
+      "sinceYear": 208,
+      "sourceType": "正史",
+      "note": "火攻献策与实施"
+    },
+    {
+      "from": "zhouyu",
+      "to": "sunce",
+      "type": "师友",
+      "sinceYear": 195,
+      "sourceType": "正史",
+      "note": "总角之好"
+    },
+    {
+      "from": "huanggai",
+      "to": "caocao",
+      "type": "敌对",
+      "sinceYear": 208,
+      "sourceType": "演义",
+      "note": "苦肉计诈降"
+    },
+    {
+      "from": "jianggan",
+      "to": "zhouyu",
+      "type": "敌对",
+      "sinceYear": 208,
+      "sourceType": "演义",
+      "note": "群英会盗书"
+    },
+    {
+      "from": "diaochan",
+      "to": "lvbu",
+      "type": "传说",
+      "sinceYear": 190,
+      "sourceType": "传说",
+      "note": "连环美人计，小说与后世戏曲"
+    },
+    {
+      "from": "diaochan",
+      "to": "dongzhuo",
+      "type": "传说",
+      "sinceYear": 190,
+      "sourceType": "传说",
+      "note": "正史无貂蝉其人"
+    },
+    {
+      "from": "lvbu",
+      "to": "dongzhuo",
+      "type": "敌对",
+      "sinceYear": 192,
+      "sourceType": "正史",
+      "note": "王允策动诛董"
+    },
+    {
+      "from": "yuanshao",
+      "to": "yanliang",
+      "type": "君臣",
+      "sinceYear": 190,
+      "sourceType": "正史",
+      "note": "河北将领"
+    },
+    {
+      "from": "yuanshao",
+      "to": "wenchou",
+      "type": "君臣",
+      "sinceYear": 190,
+      "sourceType": "正史",
+      "note": "河北将领"
+    },
+    {
+      "from": "yuanshao",
+      "to": "tianfeng",
+      "type": "君臣",
+      "sinceYear": 191,
+      "sourceType": "正史",
+      "note": "官渡前直谏被囚"
+    },
+    {
+      "from": "zhanghe",
+      "to": "yuanshao",
+      "type": "君臣",
+      "sinceYear": 191,
+      "sourceType": "正史",
+      "note": "官渡时归曹"
+    },
+    {
+      "from": "simayi",
+      "to": "zhanghe",
+      "type": "君臣",
+      "sinceYear": 228,
+      "sourceType": "正史",
+      "note": "街亭之役"
+    },
+    {
+      "from": "liubei",
+      "to": "liubiao",
+      "type": "师友",
+      "sinceYear": 201,
+      "sourceType": "正史",
+      "note": "同宗，依荆州屯新野"
+    },
+    {
+      "from": "liubei",
+      "to": "liuzhang",
+      "type": "敌对",
+      "sinceYear": 212,
+      "sourceType": "正史",
+      "note": "益州之争"
+    },
+    {
+      "from": "simayan",
+      "to": "sunhao",
+      "type": "敌对",
+      "sinceYear": 280,
+      "sourceType": "正史",
+      "note": "太康元年灭吴"
+    },
+    {
+      "from": "guanyu",
+      "to": "guanping",
+      "type": "亲属",
+      "sinceYear": 200,
+      "sourceType": "正史",
+      "note": "父子，同殁于临沮"
+    },
+    {
+      "from": "guanyu",
+      "to": "guanxing",
+      "type": "亲属",
+      "sinceYear": 220,
+      "sourceType": "正史",
+      "note": "关羽次子，正史早卒"
+    },
+    {
+      "from": "zhangfei",
+      "to": "zhangbao",
+      "type": "亲属",
+      "sinceYear": 221,
+      "sourceType": "演义",
+      "note": "伐吴先锋，正史早卒"
+    },
+    {
+      "from": "liubei",
+      "to": "mizhu",
+      "type": "君臣",
+      "sinceYear": 194,
+      "sourceType": "正史",
+      "note": "倾家财相资助"
+    },
+    {
+      "from": "liubei",
+      "to": "ganfuren",
+      "type": "亲属",
+      "sinceYear": 200,
+      "sourceType": "正史",
+      "note": "夫妻，长坂之难见赵云传"
+    },
+    {
+      "from": "liubei",
+      "to": "sunfuren",
+      "type": "联姻",
+      "sinceYear": 209,
+      "sourceType": "正史",
+      "note": "孙夫人联姻，后归吴"
+    },
+    {
+      "from": "liubei",
+      "to": "liufeng",
+      "type": "义父子",
+      "sinceYear": 201,
+      "sourceType": "正史",
+      "note": "荆州收养"
+    },
+    {
+      "from": "liubei",
+      "to": "taoqian",
+      "type": "托付",
+      "sinceYear": 194,
+      "sourceType": "正史",
+      "note": "让徐州，见《先主传》"
+    },
+    {
+      "from": "liubei",
+      "to": "jianyong",
+      "type": "师友",
+      "sinceYear": 184,
+      "sourceType": "正史",
+      "note": "布衣之交"
+    },
+    {
+      "from": "liubei",
+      "to": "liuqi",
+      "type": "联盟",
+      "sinceYear": 208,
+      "sourceType": "正史",
+      "note": "合兵夏口"
+    },
+    {
+      "from": "zhaoyun",
+      "to": "gongsunzan",
+      "type": "君臣",
+      "sinceYear": 191,
+      "sourceType": "正史",
+      "note": "先从公孙瓒，后随刘备"
+    },
+    {
+      "from": "zhangfei",
+      "to": "yanyan",
+      "type": "义释",
+      "sinceYear": 213,
+      "sourceType": "正史",
+      "note": "义释严颜并引路入川，见《张飞传》"
+    },
+    {
+      "from": "machao",
+      "to": "mateng",
+      "type": "亲属",
+      "sinceYear": 211,
+      "sourceType": "正史",
+      "note": "父子"
+    },
+    {
+      "from": "machao",
+      "to": "mada",
+      "type": "亲属",
+      "sinceYear": 211,
+      "sourceType": "正史",
+      "note": "从弟"
+    },
+    {
+      "from": "machao",
+      "to": "hansui",
+      "type": "联盟",
+      "sinceYear": 211,
+      "sourceType": "正史",
+      "note": "潼关联军，曹操离间"
+    },
+    {
+      "from": "pangde",
+      "to": "machao",
+      "type": "君臣",
+      "sinceYear": 211,
+      "sourceType": "正史",
+      "note": "马超旧部，后归曹"
+    },
+    {
+      "from": "zhugeliang",
+      "to": "jiangwan",
+      "type": "托付",
+      "sinceYear": 234,
+      "sourceType": "正史",
+      "note": "身后之托，蒋琬继政"
+    },
+    {
+      "from": "zhugeliang",
+      "to": "liyan",
+      "type": "同僚",
+      "sinceYear": 223,
+      "sourceType": "正史",
+      "note": "并受遗诏辅政"
+    },
+    {
+      "from": "zhugeliang",
+      "to": "maliang",
+      "type": "师友",
+      "sinceYear": 209,
+      "sourceType": "正史",
+      "note": "兄弟五人并有才名，良最贤"
+    },
+    {
+      "from": "maliang",
+      "to": "masu",
+      "type": "亲属",
+      "sinceYear": 190,
+      "sourceType": "正史",
+      "note": "兄弟"
+    },
+    {
+      "from": "zhugeliang",
+      "to": "wangping",
+      "type": "同僚",
+      "sinceYear": 228,
+      "sourceType": "正史",
+      "note": "街亭之败王平独全其军"
+    },
+    {
+      "from": "zhugeliang",
+      "to": "zhugezhan",
+      "type": "亲属",
+      "sinceYear": 227,
+      "sourceType": "正史",
+      "note": "父子"
+    },
+    {
+      "from": "zhugeliang",
+      "to": "huangyueying",
+      "type": "亲属",
+      "sinceYear": 197,
+      "sourceType": "传说",
+      "note": "正史仅称黄氏，名字出自民间"
+    },
+    {
+      "from": "zhugeliang",
+      "to": "simahui",
+      "type": "师友",
+      "sinceYear": 207,
+      "sourceType": "演义",
+      "note": "水镜先生荐卧龙凤雏"
+    },
+    {
+      "from": "jiangwan",
+      "to": "feiyi",
+      "type": "同僚",
+      "sinceYear": 246,
+      "sourceType": "正史",
+      "note": "相继执政"
+    },
+    {
+      "from": "liushan",
+      "to": "qiaozhou",
+      "type": "君臣",
+      "sinceYear": 263,
+      "sourceType": "正史",
+      "note": "降魏之议"
+    },
+    {
+      "from": "liushan",
+      "to": "jiangwan",
+      "type": "君臣",
+      "sinceYear": 223,
+      "sourceType": "正史",
+      "note": "后主与执政"
+    },
+    {
+      "from": "guanyu",
+      "to": "zhoucang",
+      "type": "随从",
+      "sinceYear": 200,
+      "sourceType": "演义",
+      "note": "扛刀周仓，正史无此人"
+    },
+    {
+      "from": "guanyu",
+      "to": "pangde",
+      "type": "敌对",
+      "sinceYear": 219,
+      "sourceType": "正史",
+      "note": "樊城之战，抬榇决死"
+    },
+    {
+      "from": "guanyu",
+      "to": "lvmeng",
+      "type": "敌对",
+      "sinceYear": 219,
+      "sourceType": "正史",
+      "note": "白衣渡江袭荆州"
+    },
+    {
+      "from": "guanyu",
+      "to": "panzhang",
+      "type": "敌对",
+      "sinceYear": 219,
+      "sourceType": "正史",
+      "note": "断麦城退路"
+    },
+    {
+      "from": "guanyu",
+      "to": "mifang",
+      "type": "敌对",
+      "sinceYear": 219,
+      "sourceType": "正史",
+      "note": "糜芳开城降吴"
+    },
+    {
+      "from": "guanyu",
+      "to": "huatuo",
+      "type": "疗毒",
+      "sinceYear": 219,
+      "sourceType": "演义",
+      "note": "刮骨疗毒，年代有出入"
+    },
+    {
+      "from": "mada",
+      "to": "weiyan",
+      "type": "敌对",
+      "sinceYear": 234,
+      "sourceType": "演义",
+      "note": "演义写奉遗计斩魏延"
+    },
+    {
+      "from": "huangquan",
+      "to": "liubei",
+      "type": "君臣",
+      "sinceYear": 214,
+      "sourceType": "正史",
+      "note": "夷陵后归魏，备曰孤负黄权"
+    },
+    {
+      "from": "caocao",
+      "to": "xiahoudun",
+      "type": "亲属",
+      "sinceYear": 190,
+      "sourceType": "正史",
+      "note": "族兄弟，从起兵"
+    },
+    {
+      "from": "caocao",
+      "to": "xiahouyuan",
+      "type": "亲属",
+      "sinceYear": 190,
+      "sourceType": "正史",
+      "note": "族兄弟，虎步关右"
+    },
+    {
+      "from": "caocao",
+      "to": "caohong",
+      "type": "亲属",
+      "sinceYear": 190,
+      "sourceType": "正史",
+      "note": "从弟，荥阳让马"
+    },
+    {
+      "from": "caocao",
+      "to": "caozhang",
+      "type": "亲属",
+      "sinceYear": 219,
+      "sourceType": "正史",
+      "note": "父子，黄须儿"
+    },
+    {
+      "from": "caocao",
+      "to": "yujin",
+      "type": "君臣",
+      "sinceYear": 196,
+      "sourceType": "正史",
+      "note": "三十年宿将，樊城之降"
+    },
+    {
+      "from": "caocao",
+      "to": "yuejin",
+      "type": "君臣",
+      "sinceYear": 198,
+      "sourceType": "正史",
+      "note": "每战先登"
+    },
+    {
+      "from": "caocao",
+      "to": "lidian",
+      "type": "君臣",
+      "sinceYear": 200,
+      "sourceType": "正史",
+      "note": "儒将，合肥同守"
+    },
+    {
+      "from": "caocao",
+      "to": "xunyou",
+      "type": "君臣",
+      "sinceYear": 196,
+      "sourceType": "正史",
+      "note": "军师，官渡画策"
+    },
+    {
+      "from": "xunyu",
+      "to": "xunyou",
+      "type": "亲属",
+      "sinceYear": 190,
+      "sourceType": "正史",
+      "note": "叔侄"
+    },
+    {
+      "from": "caopi",
+      "to": "zhenshi",
+      "type": "亲属",
+      "sinceYear": 204,
+      "sourceType": "正史",
+      "note": "邺城破后纳之，后为皇后"
+    },
+    {
+      "from": "caocao",
+      "to": "zhangxiu",
+      "type": "归附",
+      "sinceYear": 199,
+      "sourceType": "正史",
+      "note": "宛城之变后再降"
+    },
+    {
+      "from": "caocao",
+      "to": "huatuo",
+      "type": "医治",
+      "sinceYear": 208,
+      "sourceType": "正史",
+      "note": "为曹医头风，后杀之"
+    },
+    {
+      "from": "caocao",
+      "to": "zuoci",
+      "type": "敌对",
+      "sinceYear": 208,
+      "sourceType": "传说",
+      "note": "掷杯戏曹（演义）"
+    },
+    {
+      "from": "simayi",
+      "to": "simashi",
+      "type": "亲属",
+      "sinceYear": 249,
+      "sourceType": "正史",
+      "note": "父子，继掌魏政"
+    },
+    {
+      "from": "simayi",
+      "to": "simazhao",
+      "type": "亲属",
+      "sinceYear": 251,
+      "sourceType": "正史",
+      "note": "父子"
+    },
+    {
+      "from": "simazhao",
+      "to": "simayan",
+      "type": "亲属",
+      "sinceYear": 265,
+      "sourceType": "正史",
+      "note": "父子，代魏建晋"
+    },
+    {
+      "from": "simayi",
+      "to": "caoshuang",
+      "type": "敌对",
+      "sinceYear": 249,
+      "sourceType": "正史",
+      "note": "高平陵之变"
+    },
+    {
+      "from": "simazhao",
+      "to": "caocao",
+      "type": "篡夺",
+      "sinceYear": 255,
+      "sourceType": "传说",
+      "note": "「司马昭之心，路人所知」语出《汉晋春秋》"
+    },
+    {
+      "from": "dengai",
+      "to": "liushan",
+      "type": "敌对",
+      "sinceYear": 263,
+      "sourceType": "正史",
+      "note": "受成都之降"
+    },
+    {
+      "from": "simayan",
+      "to": "yanghu",
+      "type": "君臣",
+      "sinceYear": 269,
+      "sourceType": "正史",
+      "note": "都督荆州，遗策灭吴"
+    },
+    {
+      "from": "yanghu",
+      "to": "lukang",
+      "type": "敌对",
+      "sinceYear": 272,
+      "sourceType": "正史",
+      "note": "边境相峙而互敬其人"
+    },
+    {
+      "from": "wangjun",
+      "to": "simayan",
+      "type": "君臣",
+      "sinceYear": 280,
+      "sourceType": "正史",
+      "note": "楼船下益州"
+    },
+    {
+      "from": "wangjun",
+      "to": "sunhao",
+      "type": "敌对",
+      "sinceYear": 280,
+      "sourceType": "正史",
+      "note": "先入建业受降"
+    },
+    {
+      "from": "sunquan",
+      "to": "chengpu",
+      "type": "君臣",
+      "sinceYear": 200,
+      "sourceType": "正史",
+      "note": "三世老将，赤壁左右督"
+    },
+    {
+      "from": "sunquan",
+      "to": "handang",
+      "type": "君臣",
+      "sinceYear": 200,
+      "sourceType": "正史",
+      "note": "三世老将"
+    },
+    {
+      "from": "sunquan",
+      "to": "zhoutai",
+      "type": "君臣",
+      "sinceYear": 199,
+      "sourceType": "正史",
+      "note": "数救孙权于重围"
+    },
+    {
+      "from": "sunquan",
+      "to": "lingtong",
+      "type": "君臣",
+      "sinceYear": 208,
+      "sourceType": "正史",
+      "note": "江东少将，国士之风"
+    },
+    {
+      "from": "sunquan",
+      "to": "guyong",
+      "type": "君臣",
+      "sinceYear": 200,
+      "sourceType": "正史",
+      "note": "为相十九年"
+    },
+    {
+      "from": "lingtong",
+      "to": "ganning",
+      "type": "敌对",
+      "sinceYear": 203,
+      "sourceType": "正史",
+      "note": "杀父之仇，后同殿为臣"
+    },
+    {
+      "from": "ganning",
+      "to": "huangzu",
+      "type": "敌对",
+      "sinceYear": 203,
+      "sourceType": "正史",
+      "note": "先依黄祖，后献策破之"
+    },
+    {
+      "from": "sunjian",
+      "to": "huangzu",
+      "type": "敌对",
+      "sinceYear": 191,
+      "sourceType": "正史",
+      "note": "岘山之中伏"
+    },
+    {
+      "from": "sunce",
+      "to": "daqiao",
+      "type": "亲属",
+      "sinceYear": 199,
+      "sourceType": "正史",
+      "note": "纳桥公长女"
+    },
+    {
+      "from": "zhouyu",
+      "to": "qiaoxiao",
+      "type": "亲属",
+      "sinceYear": 199,
+      "sourceType": "正史",
+      "note": "纳小桥，见《周瑜传》"
+    },
+    {
+      "from": "zhugejin",
+      "to": "zhugeke",
+      "type": "亲属",
+      "sinceYear": 203,
+      "sourceType": "正史",
+      "note": "父子"
+    },
+    {
+      "from": "luxun",
+      "to": "lukang",
+      "type": "亲属",
+      "sinceYear": 226,
+      "sourceType": "正史",
+      "note": "父子，吴之最后屏障"
+    },
+    {
+      "from": "wangyun",
+      "to": "lvbu",
+      "type": "共谋",
+      "sinceYear": 192,
+      "sourceType": "正史",
+      "note": "合谋诛董卓"
+    },
+    {
+      "from": "wangyun",
+      "to": "dongzhuo",
+      "type": "敌对",
+      "sinceYear": 192,
+      "sourceType": "正史",
+      "note": "司徒诛董"
+    },
+    {
+      "from": "wangyun",
+      "to": "diaochan",
+      "type": "传说",
+      "sinceYear": 190,
+      "sourceType": "传说",
+      "note": "连环计为小说敷演"
+    },
+    {
+      "from": "lijue",
+      "to": "wangyun",
+      "type": "敌对",
+      "sinceYear": 192,
+      "sourceType": "正史",
+      "note": "为董卓复仇攻长安"
+    },
+    {
+      "from": "lijue",
+      "to": "guosi",
+      "type": "联盟",
+      "sinceYear": 192,
+      "sourceType": "正史",
+      "note": "乱长安后相攻，献帝东逃"
+    },
+    {
+      "from": "liuxie",
+      "to": "caocao",
+      "type": "君臣",
+      "sinceYear": 196,
+      "sourceType": "正史",
+      "note": "都许之后，政归曹氏"
+    },
+    {
+      "from": "liuxie",
+      "to": "dongcheng",
+      "type": "君臣",
+      "sinceYear": 199,
+      "sourceType": "正史",
+      "note": "衣带诏之托"
+    },
+    {
+      "from": "dongcheng",
+      "to": "caocao",
+      "type": "敌对",
+      "sinceYear": 199,
+      "sourceType": "正史",
+      "note": "衣带诏事泄"
+    },
+    {
+      "from": "liuxie",
+      "to": "caopi",
+      "type": "禅位",
+      "sinceYear": 220,
+      "sourceType": "正史",
+      "note": "延康元年禅魏，封山阳公"
+    },
+    {
+      "from": "gongsunzan",
+      "to": "yuanshao",
+      "type": "敌对",
+      "sinceYear": 191,
+      "sourceType": "正史",
+      "note": "界桥之战"
+    },
+    {
+      "from": "yuanshao",
+      "to": "jushou",
+      "type": "君臣",
+      "sinceYear": 191,
+      "sourceType": "正史",
+      "note": "缓战之谏不听"
+    },
+    {
+      "from": "yuanshao",
+      "to": "shenpei",
+      "type": "君臣",
+      "sinceYear": 191,
+      "sourceType": "正史",
+      "note": "死守邺城"
+    },
+    {
+      "from": "yuanshao",
+      "to": "xuyou",
+      "type": "君臣",
+      "sinceYear": 200,
+      "sourceType": "正史",
+      "note": "官渡叛投曹操"
+    },
+    {
+      "from": "xuyou",
+      "to": "caocao",
+      "type": "归附",
+      "sinceYear": 200,
+      "sourceType": "正史",
+      "note": "夜奔曹营，献乌巢之策"
+    },
+    {
+      "from": "caocao",
+      "to": "taoqian",
+      "type": "敌对",
+      "sinceYear": 193,
+      "sourceType": "正史",
+      "note": "父死于徐境，屠徐州"
+    },
+    {
+      "from": "kongrong",
+      "to": "caocao",
+      "type": "敌对",
+      "sinceYear": 196,
+      "sourceType": "正史",
+      "note": "屡以言语相讥，建安十三年被杀"
+    },
+    {
+      "from": "lvbu",
+      "to": "gaoshun",
+      "type": "君臣",
+      "sinceYear": 198,
+      "sourceType": "正史",
+      "note": "陷阵营每战必克"
+    },
+    {
+      "from": "zhanglu",
+      "to": "caocao",
+      "type": "归附",
+      "sinceYear": 215,
+      "sourceType": "正史",
+      "note": "汉中之降"
+    }
+  ],
+  "events": [
+    {
+      "id": "huangjin",
+      "name": "黄巾起事",
+      "fromYear": 184,
+      "toYear": 184,
+      "era": "中平元年",
+      "placeIds": [
+        "luoyang",
+        "ye",
+        "zhuozhou"
+      ],
+      "chapterIds": [
+        "001"
+      ],
+      "summary": "太平道聚众起事，州郡募兵，群雄由此登场。",
+      "phases": {
+        "cause": "宦官外戚相争、连年灾疫，民心思变。",
+        "process": "张角兄弟以太平道聚众，八州并起；朝廷募义兵镇压。",
+        "result": "张角病死，主力溃散，但地方募兵与豪强武装从此坐大。"
+      },
+      "viewpoints": [
+        {
+          "personId": "liubei",
+          "text": "我等在涿郡募兵，所恃者唯人和与一纸汉室名分。"
+        },
+        {
+          "personId": "zhangjiao",
+          "text": "苍天已死，黄天当立；只是这一年之后，天下再无太平。"
+        }
+      ]
+    },
+    {
+      "id": "taodong",
+      "name": "关东联军讨董",
+      "fromYear": 190,
+      "toYear": 190,
+      "era": "初平元年",
+      "placeIds": [
+        "luoyang",
+        "changan"
+      ],
+      "chapterIds": [
+        "005"
+      ],
+      "summary": "诸侯会盟讨董，迁都长安，联盟随即瓦解。",
+      "phases": {
+        "cause": "董卓入洛阳废立、专擅朝政。",
+        "process": "曹操发矫诏，关东诸郡会盟；董卓焚洛阳，迁都长安。",
+        "result": "盟军各怀异心，各自引兵归，转为群雄割据。"
+      },
+      "viewpoints": [
+        {
+          "personId": "caocao",
+          "text": "诸君迟疑不进，我只好独自西向；此后不再指望盟约。"
+        },
+        {
+          "personId": "yuanshao",
+          "text": "盟主之名好听，可谁先出兵，谁先耗掉自己的兵。"
+        }
+      ]
+    },
+    {
+      "id": "guandu",
+      "name": "官渡之战",
+      "fromYear": 200,
+      "toYear": 200,
+      "era": "建安五年",
+      "placeIds": [
+        "guandu",
+        "baima",
+        "ye",
+        "xuchang"
+      ],
+      "chapterIds": [
+        "030"
+      ],
+      "summary": "曹操以少击众，烧毁乌巢粮草，河北格局逆转。",
+      "phases": {
+        "cause": "袁绍据四州南下，曹操迎天子都许，双方必有一战。",
+        "process": "相持官渡数月，曹操夜袭乌巢，焚袁军粮草。",
+        "result": "袁绍大败，两年后病死；曹操逐步平定河北。"
+      },
+      "viewpoints": [
+        {
+          "personId": "caocao",
+          "text": "粮草一断，兵多也无用；我所赌的，是他不敢分兵救乌巢。"
+        },
+        {
+          "personId": "yuanshao",
+          "text": "田丰劝我缓攻，我不听；后来才知慢一年，赢面会大得多。"
+        }
+      ]
+    },
+    {
+      "id": "sangu",
+      "name": "三顾茅庐 · 隆中对",
+      "fromYear": 207,
+      "toYear": 207,
+      "era": "建安十二年",
+      "placeIds": [
+        "xinye",
+        "longzhong"
+      ],
+      "chapterIds": [
+        "037",
+        "038"
+      ],
+      "summary": "刘备三访隆中，得到一份跨有荆益的天下规划。",
+      "phases": {
+        "cause": "刘备寄居荆州，屡失根据地，急需一条明确路线。",
+        "process": "司马徽、徐庶荐诸葛亮，刘备凡三往乃见。",
+        "result": "隆中对定下先荆后益、两路北伐的方略。"
+      },
+      "viewpoints": [
+        {
+          "personId": "liubei",
+          "text": "我缺的不是勇气，是一张能走十年的地图。"
+        },
+        {
+          "personId": "zhugeliang",
+          "text": "隆中不过二十七岁的一席话；前提是要有人肯等三次。"
+        }
+      ]
+    },
+    {
+      "id": "chibi",
+      "name": "赤壁之战",
+      "fromYear": 208,
+      "toYear": 208,
+      "era": "建安十三年",
+      "placeIds": [
+        "jingzhou",
+        "xiakou",
+        "chibi",
+        "wulin",
+        "huarong",
+        "jiangling"
+      ],
+      "chapterIds": [
+        "043",
+        "044",
+        "046",
+        "049",
+        "050"
+      ],
+      "summary": "孙刘联军于长江中游以火攻破曹，三分之势由此成形。",
+      "phases": {
+        "cause": "曹操南下得荆州，顺江东进；孙权在战和之间，刘备退守夏口。",
+        "process": "诸葛亮使吴、周瑜统兵；黄盖火船乘东南风突入曹军水寨，战船连锁难以散开。",
+        "result": "曹军北撤，孙权稳据江东，刘备趁势取荆南，天下三分的雏形出现。"
+      },
+      "viewpoints": [
+        {
+          "personId": "caocao",
+          "text": "北方之兵不习水战，疫病又起；把船锁在一起本是稳军心，却成了最大的破绽。"
+        },
+        {
+          "personId": "zhouyu",
+          "text": "我算的不是东风，是曹军的水战短板、粮道与疫病；火只是最后一步。"
+        },
+        {
+          "personId": "liubei",
+          "text": "此战之后我才有立足之地；此前的二十年，一直在借别人的屋檐。"
+        },
+        {
+          "personId": "zhugeliang",
+          "text": "我此行只做了一件事：让江东相信，抵抗比归附更划算。"
+        }
+      ],
+      "highlight": true
+    },
+    {
+      "id": "yizhou",
+      "name": "刘备定益州",
+      "fromYear": 212,
+      "toYear": 214,
+      "era": "建安十九年",
+      "placeIds": [
+        "chengdu",
+        "hanzhong",
+        "jingzhou"
+      ],
+      "chapterIds": [
+        "065"
+      ],
+      "summary": "刘备入蜀收定益州，隆中对的「跨有荆益」落地。",
+      "phases": {
+        "cause": "刘璋邀刘备入蜀御张鲁，双方终至兵戎相见。",
+        "process": "诸葛亮、张飞溯江入蜀，刘备围成都，刘璋出降。",
+        "result": "刘备自领益州牧，同时守荆州与益州的长线也就此成形。"
+      },
+      "viewpoints": [
+        {
+          "personId": "liubei",
+          "text": "有了益州，才有资格谈天下；可荆州与益州之间，隔着太远的路。"
+        },
+        {
+          "personId": "zhugeliang",
+          "text": "两路出兵的前提是两路都稳，这条线后来成了最脆弱的一环。"
+        }
+      ]
+    },
+    {
+      "id": "tuogu",
+      "name": "白帝城托孤",
+      "fromYear": 223,
+      "toYear": 223,
+      "era": "章武三年",
+      "placeIds": [
+        "chengdu",
+        "jingzhou"
+      ],
+      "chapterIds": [
+        "085"
+      ],
+      "summary": "夷陵败后刘备托孤，诸葛亮独撑蜀汉全局。",
+      "phases": {
+        "cause": "夷陵大败，刘备退驻永安，病势日重。",
+        "process": "召诸葛亮托孤，嘱以嗣子与国事。",
+        "result": "刘禅即位，诸葛亮开府治事，重新修复与吴的联盟。"
+      },
+      "viewpoints": [
+        {
+          "personId": "liubei",
+          "text": "我把话说得那样重，是因为除了他，再无人能接住这局面。"
+        },
+        {
+          "personId": "zhugeliang",
+          "text": "草庐里我讲十年规划，如今要一个人把往后十一年都扛下来。"
+        }
+      ]
+    },
+    {
+      "id": "beifa",
+      "name": "诸葛亮北伐",
+      "fromYear": 228,
+      "toYear": 234,
+      "era": "建兴六年至十二年",
+      "placeIds": [
+        "hanzhong",
+        "jieting",
+        "wuzhangyuan"
+      ],
+      "chapterIds": [
+        "095",
+        "104"
+      ],
+      "summary": "五次北出秦岭，街亭失守，最终卒于五丈原。",
+      "phases": {
+        "cause": "蜀汉以一州之力抗中原，若不北出，强弱只会更悬。",
+        "process": "一出祁山，马谡失街亭；此后数出，粮运不继，与司马懿对峙渭南。",
+        "result": "建兴十二年卒于五丈原，蜀汉转入守势。"
+      },
+      "viewpoints": [
+        {
+          "personId": "zhugeliang",
+          "text": "粮道比谋略更难；每一次退兵，都不是因为算错，而是因为运不到。"
+        },
+        {
+          "personId": "simayi",
+          "text": "我只需守住不出，等他的粮尽。"
+        }
+      ]
+    },
+    {
+      "id": "guijin",
+      "name": "三国归晋",
+      "fromYear": 263,
+      "toYear": 280,
+      "era": "景耀六年至太康元年",
+      "placeIds": [
+        "chengdu",
+        "luoyang",
+        "jianye"
+      ],
+      "chapterIds": [
+        "119",
+        "120"
+      ],
+      "summary": "蜀亡、魏禅、吴降，近百年的分裂收束。",
+      "phases": {
+        "cause": "魏国国力远胜，蜀吴相继内耗。",
+        "process": "邓艾入成都，司马炎代魏建晋，王濬楼船顺江东下。",
+        "result": "孙皓出降，三分归一。"
+      },
+      "viewpoints": [
+        {
+          "personId": "simayan",
+          "text": "天下大势，合久必分，分久必合；我不过站在最后一段上。"
+        },
+        {
+          "personId": "sunhao",
+          "text": "江险仍在，只是守江的人已经不齐了。"
+        }
+      ]
+    }
+  ],
+  "places": [
+    {
+      "id": "zhuozhou",
+      "name": "涿郡",
+      "modern": "约今河北涿州一带",
+      "x": 63,
+      "y": 22,
+      "kind": "城邑"
+    },
+    {
+      "id": "luoyang",
+      "name": "洛阳",
+      "modern": "约今河南洛阳一带",
+      "x": 48,
+      "y": 36,
+      "kind": "都城"
+    },
+    {
+      "id": "changan",
+      "name": "长安",
+      "modern": "约今陕西西安一带",
+      "x": 36,
+      "y": 38,
+      "kind": "都城"
+    },
+    {
+      "id": "xuchang",
+      "name": "许都",
+      "modern": "约今河南许昌一带",
+      "x": 55,
+      "y": 43,
+      "kind": "都城"
+    },
+    {
+      "id": "ye",
+      "name": "邺城",
+      "modern": "约今河北临漳一带",
+      "x": 59,
+      "y": 27,
+      "kind": "都城"
+    },
+    {
+      "id": "guandu",
+      "name": "官渡",
+      "modern": "约今河南中牟一带",
+      "x": 56,
+      "y": 37,
+      "kind": "战场"
+    },
+    {
+      "id": "baima",
+      "name": "白马",
+      "modern": "约今河南滑县一带",
+      "x": 59,
+      "y": 34,
+      "kind": "战场"
+    },
+    {
+      "id": "xiapi",
+      "name": "下邳",
+      "modern": "约今江苏睢宁一带",
+      "x": 69,
+      "y": 47,
+      "kind": "城邑"
+    },
+    {
+      "id": "xinye",
+      "name": "新野",
+      "modern": "约今河南新野一带",
+      "x": 51,
+      "y": 55,
+      "kind": "城邑"
+    },
+    {
+      "id": "longzhong",
+      "name": "隆中",
+      "modern": "约今湖北襄阳一带",
+      "x": 47,
+      "y": 58,
+      "kind": "隐居地"
+    },
+    {
+      "id": "jingzhou",
+      "name": "荆州",
+      "modern": "约今湖北一带",
+      "x": 54,
+      "y": 63,
+      "kind": "州郡"
+    },
+    {
+      "id": "jiangling",
+      "name": "江陵",
+      "modern": "约今湖北荆州一带",
+      "x": 54,
+      "y": 66,
+      "kind": "城邑"
+    },
+    {
+      "id": "xiakou",
+      "name": "夏口",
+      "modern": "约今湖北武汉一带",
+      "x": 62,
+      "y": 65,
+      "kind": "城邑"
+    },
+    {
+      "id": "chibi",
+      "name": "赤壁",
+      "modern": "约今湖北赤壁一带",
+      "x": 60,
+      "y": 71,
+      "kind": "战场"
+    },
+    {
+      "id": "wulin",
+      "name": "乌林",
+      "modern": "约今湖北洪湖一带",
+      "x": 58,
+      "y": 69,
+      "kind": "战场"
+    },
+    {
+      "id": "huarong",
+      "name": "华容道",
+      "modern": "约今湖北监利一带",
+      "x": 56,
+      "y": 72,
+      "kind": "道路"
+    },
+    {
+      "id": "chengdu",
+      "name": "成都",
+      "modern": "约今四川成都一带",
+      "x": 27,
+      "y": 66,
+      "kind": "都城"
+    },
+    {
+      "id": "hanzhong",
+      "name": "汉中",
+      "modern": "约今陕西汉中一带",
+      "x": 35,
+      "y": 51,
+      "kind": "州郡"
+    },
+    {
+      "id": "nanzheng",
+      "name": "南郑",
+      "modern": "约今陕西汉中一带",
+      "x": 34,
+      "y": 52,
+      "kind": "城邑"
+    },
+    {
+      "id": "jieting",
+      "name": "街亭",
+      "modern": "约今甘肃秦安一带",
+      "x": 29,
+      "y": 41,
+      "kind": "战场"
+    },
+    {
+      "id": "wuzhangyuan",
+      "name": "五丈原",
+      "modern": "约今陕西岐山一带",
+      "x": 33,
+      "y": 43,
+      "kind": "战场"
+    },
+    {
+      "id": "jianye",
+      "name": "建业",
+      "modern": "约今江苏南京一带",
+      "x": 73,
+      "y": 59,
+      "kind": "都城"
+    }
+  ],
+  "timeline": [
+    {
+      "year": 184,
+      "era": "中平元年",
+      "title": "黄巾起事",
+      "eventId": "huangjin",
+      "placeIds": [
+        "luoyang",
+        "ye"
+      ]
+    },
+    {
+      "year": 189,
+      "era": "中平六年",
+      "title": "董卓入洛阳，废少帝",
+      "eventId": "taodong",
+      "placeIds": [
+        "luoyang"
+      ]
+    },
+    {
+      "year": 190,
+      "era": "初平元年",
+      "title": "关东联军讨董，迁都长安",
+      "eventId": "taodong",
+      "placeIds": [
+        "luoyang",
+        "changan"
+      ]
+    },
+    {
+      "year": 191,
+      "era": "初平二年",
+      "title": "孙坚破董卓，袁绍据冀州",
+      "placeIds": [
+        "luoyang",
+        "ye"
+      ]
+    },
+    {
+      "year": 192,
+      "era": "初平三年",
+      "title": "王允诛董卓",
+      "placeIds": [
+        "changan"
+      ]
+    },
+    {
+      "year": 194,
+      "era": "兴平元年",
+      "title": "孙策渡江，吕布入兖州",
+      "placeIds": [
+        "jianye",
+        "xuchang"
+      ]
+    },
+    {
+      "year": 196,
+      "era": "建安元年",
+      "title": "曹操迎天子都许",
+      "placeIds": [
+        "xuchang",
+        "luoyang"
+      ]
+    },
+    {
+      "year": 197,
+      "era": "建安二年",
+      "title": "袁术称帝，宛城之败",
+      "placeIds": [
+        "xuchang"
+      ]
+    },
+    {
+      "year": 198,
+      "era": "建安三年",
+      "title": "白门楼擒吕布",
+      "placeIds": [
+        "xiapi"
+      ]
+    },
+    {
+      "year": 199,
+      "era": "建安四年",
+      "title": "刘备离许都，据徐州",
+      "placeIds": [
+        "xuchang",
+        "xiapi"
+      ]
+    },
+    {
+      "year": 200,
+      "era": "建安五年",
+      "title": "官渡之战，孙策遇刺",
+      "eventId": "guandu",
+      "placeIds": [
+        "guandu",
+        "baima",
+        "ye"
+      ]
+    },
+    {
+      "year": 201,
+      "era": "建安六年",
+      "title": "刘备奔荆州，屯新野",
+      "placeIds": [
+        "xinye",
+        "jingzhou"
+      ]
+    },
+    {
+      "year": 202,
+      "era": "建安七年",
+      "title": "袁绍卒，诸子相争",
+      "placeIds": [
+        "ye"
+      ]
+    },
+    {
+      "year": 204,
+      "era": "建安九年",
+      "title": "曹操克邺城",
+      "placeIds": [
+        "ye"
+      ]
+    },
+    {
+      "year": 207,
+      "era": "建安十二年",
+      "title": "三顾茅庐，隆中对",
+      "eventId": "sangu",
+      "placeIds": [
+        "longzhong",
+        "xinye"
+      ]
+    },
+    {
+      "year": 208,
+      "era": "建安十三年",
+      "title": "赤壁之战",
+      "eventId": "chibi",
+      "placeIds": [
+        "chibi",
+        "wulin",
+        "huarong"
+      ]
+    },
+    {
+      "year": 209,
+      "era": "建安十四年",
+      "title": "周瑜取江陵，刘备据荆南",
+      "placeIds": [
+        "jiangling",
+        "jingzhou"
+      ]
+    },
+    {
+      "year": 210,
+      "era": "建安十五年",
+      "title": "周瑜卒，鲁肃领其众",
+      "placeIds": [
+        "jianye"
+      ]
+    },
+    {
+      "year": 211,
+      "era": "建安十六年",
+      "title": "潼关之战，刘备入蜀",
+      "eventId": "yizhou",
+      "placeIds": [
+        "changan",
+        "chengdu"
+      ]
+    },
+    {
+      "year": 212,
+      "era": "建安十七年",
+      "title": "孙权徙治建业，刘备与刘璋决裂",
+      "placeIds": [
+        "jianye",
+        "chengdu"
+      ]
+    },
+    {
+      "year": 214,
+      "era": "建安十九年",
+      "title": "刘备定益州",
+      "eventId": "yizhou",
+      "placeIds": [
+        "chengdu"
+      ]
+    },
+    {
+      "year": 215,
+      "era": "建安二十年",
+      "title": "张辽逍遥津，单刀会",
+      "placeIds": [
+        "jianye",
+        "jingzhou"
+      ]
+    },
+    {
+      "year": 217,
+      "era": "建安二十二年",
+      "title": "汉中之战起，鲁肃卒",
+      "placeIds": [
+        "hanzhong"
+      ]
+    },
+    {
+      "year": 219,
+      "era": "建安二十四年",
+      "title": "刘备称汉中王，关羽败亡",
+      "placeIds": [
+        "hanzhong",
+        "jingzhou",
+        "jiangling"
+      ]
+    },
+    {
+      "year": 220,
+      "era": "延康元年",
+      "title": "曹操卒，曹丕代汉称帝",
+      "placeIds": [
+        "luoyang",
+        "ye"
+      ]
+    },
+    {
+      "year": 221,
+      "era": "章武元年",
+      "title": "刘备称帝，伐吴",
+      "placeIds": [
+        "chengdu"
+      ]
+    },
+    {
+      "year": 222,
+      "era": "章武二年",
+      "title": "夷陵之战，陆逊火攻",
+      "placeIds": [
+        "jingzhou",
+        "jiangling"
+      ]
+    },
+    {
+      "year": 223,
+      "era": "章武三年",
+      "title": "白帝托孤",
+      "eventId": "tuogu",
+      "placeIds": [
+        "chengdu"
+      ]
+    },
+    {
+      "year": 225,
+      "era": "建兴三年",
+      "title": "南中平定，七擒孟获见裴注",
+      "placeIds": [
+        "chengdu"
+      ]
+    },
+    {
+      "year": 227,
+      "era": "建兴五年",
+      "title": "出师表，进驻汉中",
+      "placeIds": [
+        "hanzhong"
+      ]
+    },
+    {
+      "year": 228,
+      "era": "建兴六年",
+      "title": "第一次北伐，街亭失守",
+      "eventId": "beifa",
+      "placeIds": [
+        "jieting",
+        "hanzhong"
+      ]
+    },
+    {
+      "year": 229,
+      "era": "黄龙元年",
+      "title": "孙权称帝，迁都建业",
+      "placeIds": [
+        "jianye"
+      ]
+    },
+    {
+      "year": 231,
+      "era": "建兴九年",
+      "title": "第四次北伐，木牛流马",
+      "placeIds": [
+        "hanzhong",
+        "wuzhangyuan"
+      ]
+    },
+    {
+      "year": 234,
+      "era": "建兴十二年",
+      "title": "诸葛亮卒于五丈原",
+      "eventId": "beifa",
+      "placeIds": [
+        "wuzhangyuan"
+      ]
+    },
+    {
+      "year": 249,
+      "era": "嘉平元年",
+      "title": "高平陵之变，司马氏掌魏政",
+      "placeIds": [
+        "luoyang"
+      ]
+    },
+    {
+      "year": 263,
+      "era": "景耀六年",
+      "title": "邓艾入成都，蜀汉亡",
+      "eventId": "guijin",
+      "placeIds": [
+        "chengdu"
+      ]
+    },
+    {
+      "year": 265,
+      "era": "咸熙二年",
+      "title": "司马炎代魏建晋",
+      "eventId": "guijin",
+      "placeIds": [
+        "luoyang"
+      ]
+    },
+    {
+      "year": 280,
+      "era": "太康元年",
+      "title": "孙皓出降，三国归晋",
+      "eventId": "guijin",
+      "placeIds": [
+        "jianye",
+        "luoyang"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "src-taoyuan",
+      "type": "演义",
+      "title": "桃园结义",
+      "ref": "《三国演义》第一回",
+      "quote": "不求同年同月同日生，只愿同年同月同日死。",
+      "note": "正史仅载三人「恩若兄弟」，并无结义誓词与桃园场面。",
+      "chapters": [
+        "001"
+      ],
+      "tags": [
+        "第1回"
+      ]
+    },
+    {
+      "id": "src-sanying",
+      "type": "演义",
+      "title": "三英战吕布",
+      "ref": "《三国演义》第五回",
+      "quote": "三人围绕吕布，转灯儿般厮杀。",
+      "note": "虎牢关前的这场单挑出自小说；正史中讨董战事另有脉络。",
+      "chapters": [
+        "005"
+      ],
+      "tags": [
+        "第5回"
+      ]
+    },
+    {
+      "id": "src-sangu",
+      "type": "正史",
+      "title": "三顾茅庐",
+      "ref": "《三国志·诸葛亮传》",
+      "quote": "凡三往，乃见。",
+      "note": "诸葛亮《出师表》亦自述「三顾臣于草庐之中」，两处可互证。",
+      "chapters": [
+        "037"
+      ],
+      "tags": [
+        "诸葛亮传",
+        "出师表"
+      ]
+    },
+    {
+      "id": "src-longzhong",
+      "type": "正史",
+      "title": "隆中对",
+      "ref": "《三国志·诸葛亮传》",
+      "quote": "跨有荆益，保其岩阻，西和诸戎，南抚夷越。",
+      "note": "这是全书后半部局势的蓝图，也是判断「后来有没有走偏」的基准。",
+      "chapters": [
+        "038"
+      ],
+      "tags": [
+        "诸葛亮传"
+      ]
+    },
+    {
+      "id": "src-shezhan",
+      "type": "演义",
+      "title": "舌战群儒",
+      "ref": "《三国演义》第四十三回",
+      "quote": "（诸葛亮）一一应答，众皆失色。",
+      "note": "正史只载诸葛亮使吴、孙权决计抗曹，未载朝堂辩难。",
+      "chapters": [
+        "043"
+      ],
+      "tags": [
+        "第43回"
+      ]
+    },
+    {
+      "id": "src-jizhouyu",
+      "type": "演义",
+      "title": "智激周瑜",
+      "ref": "《三国演义》第四十四回",
+      "quote": "（孔明）诵曹植《铜雀台赋》以激之。",
+      "note": "小说为加强戏剧性所设；周瑜主战本于形势判断。",
+      "chapters": [
+        "044"
+      ],
+      "tags": [
+        "第44回"
+      ]
+    },
+    {
+      "id": "src-caochuan",
+      "type": "演义",
+      "title": "草船借箭",
+      "ref": "《三国演义》第四十六回",
+      "quote": "（孔明）命将草船拽回，箭已满矣。",
+      "note": "正史无此事；《三国志·吴主传》裴注载孙权濡须受箭，情节相近而主角不同。",
+      "chapters": [
+        "046"
+      ],
+      "tags": [
+        "第46回"
+      ]
+    },
+    {
+      "id": "src-kugurou",
+      "type": "演义",
+      "title": "苦肉计",
+      "ref": "《三国演义》第四十六回",
+      "quote": "（黄盖）愿受责打，以取曹操之信。",
+      "note": "正史载黄盖诈降与火攻，未载当众受刑。",
+      "chapters": [
+        "046"
+      ],
+      "tags": [
+        "第46回"
+      ]
+    },
+    {
+      "id": "src-jiefeng",
+      "type": "传说",
+      "title": "七星坛借东风",
+      "ref": "《三国演义》第四十九回",
+      "quote": "（孔明）披发仗剑，踏罡步斗。",
+      "note": "祭风为虚构；建安十三年冬季偶有东南风，见于火攻记载的背景。小说、正史、传说须分开看。",
+      "chapters": [
+        "049"
+      ],
+      "tags": [
+        "第49回",
+        "戏曲"
+      ]
+    },
+    {
+      "id": "src-huogong",
+      "type": "正史",
+      "title": "赤壁火攻",
+      "ref": "《三国志·周瑜传》",
+      "quote": "乃取蒙冲斗舰数十艘，实以薪草，膏油灌其中，裹以帷幕。",
+      "note": "火攻、诈降与曹军疫病均有史料依据，主将为周瑜。",
+      "chapters": [
+        "049"
+      ],
+      "tags": [
+        "周瑜传",
+        "裴注"
+      ]
+    },
+    {
+      "id": "src-huarong",
+      "type": "演义",
+      "title": "义释曹操",
+      "ref": "《三国演义》第五十回",
+      "quote": "（云长）长叹一声，勒回马头，放曹操过去。",
+      "note": "正史有曹操经华容道撤退、道遇泥泞的记载，无关羽放行一节。",
+      "chapters": [
+        "050"
+      ],
+      "tags": [
+        "第50回"
+      ]
+    },
+    {
+      "id": "src-yizhou",
+      "type": "正史",
+      "title": "刘备定益州",
+      "ref": "《三国志·先主传》",
+      "quote": "（建安十九年）璋出降，先主领益州牧。",
+      "note": "「跨有荆益」由此落地，也埋下两线难以相顾的隐患。",
+      "chapters": [
+        "065"
+      ],
+      "tags": [
+        "先主传"
+      ]
+    },
+    {
+      "id": "src-tuogu",
+      "type": "正史",
+      "title": "白帝托孤",
+      "ref": "《三国志·诸葛亮传》",
+      "quote": "君才十倍曹丕，必能安国，终定大事。",
+      "note": "章武三年，刘备病笃于永安宫，托孤于诸葛亮。",
+      "chapters": [
+        "085"
+      ],
+      "tags": [
+        "诸葛亮传"
+      ]
+    },
+    {
+      "id": "src-guiyi",
+      "type": "正史",
+      "title": "三国归晋",
+      "ref": "《晋书·王濬传》",
+      "quote": "王濬楼船下益州，金陵王气黯然收。",
+      "note": "太康元年吴亡，全书结于「合久必分，分久必合」。",
+      "chapters": [
+        "120"
+      ],
+      "tags": [
+        "晋书",
+        "第120回"
+      ]
+    },
+    {
+      "id": "src-qiqin",
+      "type": "传说",
+      "title": "七擒孟获",
+      "ref": "裴松之注引《汉晋春秋》",
+      "quote": "（亮）七纵七禽，而亮犹遣获。",
+      "note": "见于裴注所引，并非《三国志》陈寿正文，宜标为「后世记载／传说层」。",
+      "chapters": [
+        "087",
+        "090"
+      ],
+      "tags": [
+        "第87-90回",
+        "裴注"
+      ]
+    },
+    {
+      "id": "src-diaochan",
+      "type": "传说",
+      "title": "貂蝉与连环计",
+      "ref": "《三国演义》第八回、后世戏曲",
+      "quote": "（王允）以连环计离间董卓吕布。",
+      "note": "正史无貂蝉其人，仅载董卓侍婢与吕布私通之事。",
+      "chapters": [
+        "008"
+      ],
+      "tags": [
+        "第8回",
+        "戏曲"
+      ]
+    },
+    {
+      "id": "src-huaxiong",
+      "type": "演义",
+      "title": "温酒斩华雄",
+      "ref": "《三国演义》第五回",
+      "quote": "（关公）提华雄之头，掷于地上，其酒尚温。",
+      "note": "正史中华雄为孙坚所斩，小说移作关羽立名之战。",
+      "chapters": [
+        "005"
+      ],
+      "tags": [
+        "第5回"
+      ]
+    },
+    {
+      "id": "src-kongcheng",
+      "type": "演义",
+      "title": "空城计",
+      "ref": "《三国演义》第九十五回",
+      "quote": "（孔明）焚香操琴，司马懿疑有伏兵而退。",
+      "note": "正史无此事，且与司马懿当时所在不合；属典型的小说层内容。",
+      "chapters": [
+        "095"
+      ],
+      "tags": [
+        "第95回"
+      ]
+    },
+    {
+      "id": "src-bian",
+      "type": "演义",
+      "title": "怒鞭督邮",
+      "ref": "《三国演义》第二回",
+      "quote": "（张飞）就柳条上用力鞭打，一连打折了柳条十数枝。",
+      "note": "正史里缚督邮、杖二百的是刘备本人，见《先主传》注引《典略》；演义把火爆让给了张飞。",
+      "chapters": [
+        "002"
+      ],
+      "tags": [
+        "第2回"
+      ]
+    },
+    {
+      "id": "src-rangzhou",
+      "type": "正史",
+      "title": "陶谦让徐州",
+      "ref": "《三国志·先主传》",
+      "quote": "非刘玄德不能安此州也。",
+      "note": "「三让」的反复是小说节奏，让州之意见于正史。",
+      "chapters": [
+        "012"
+      ],
+      "tags": [
+        "先主传"
+      ]
+    },
+    {
+      "id": "src-sheji",
+      "type": "演义",
+      "title": "辕门射戟",
+      "ref": "《三国演义》第十六回",
+      "quote": "（吕布）弓弦响处，箭正中画戟小枝。",
+      "note": "射戟解斗亦见《吕布传》，营门立戟的场面为演义敷演。",
+      "chapters": [
+        "016"
+      ],
+      "tags": [
+        "第16回"
+      ]
+    },
+    {
+      "id": "src-baimen",
+      "type": "正史",
+      "title": "白门楼",
+      "ref": "《三国志·吕布传》",
+      "quote": "布虽骁猛，然无谋而多猜忌，不能制御其党。",
+      "note": "曹操杀吕布的判断依据；演义中刘备一句提醒定其死。",
+      "chapters": [
+        "019"
+      ],
+      "tags": [
+        "吕布传"
+      ]
+    },
+    {
+      "id": "src-yingxiong",
+      "type": "演义",
+      "title": "煮酒论英雄",
+      "ref": "《三国演义》第二十一回",
+      "quote": "今天下英雄，惟使君与操耳！",
+      "note": "「唯使君与操耳」语出《先主传》，青梅煮酒的场面为演义敷演。",
+      "chapters": [
+        "021"
+      ],
+      "tags": [
+        "第21回",
+        "先主传"
+      ]
+    },
+    {
+      "id": "src-cima",
+      "type": "正史",
+      "title": "白马刺颜良",
+      "ref": "《三国志·关羽传》",
+      "quote": "羽望见良麾盖，策马刺良于万众之中，斩其首还。",
+      "note": "万军斩将是正史明载的战绩。",
+      "chapters": [
+        "025"
+      ],
+      "tags": [
+        "关羽传"
+      ]
+    },
+    {
+      "id": "src-yishi",
+      "type": "演义",
+      "title": "义释黄忠",
+      "ref": "《三国演义》第五十三回",
+      "quote": "（黄忠）射一箭，正中云长盔缨根。",
+      "note": "长沙之争为演义创作；正史载黄忠随太守韩玄同降，并无大战。",
+      "chapters": [
+        "053"
+      ],
+      "tags": [
+        "第53回"
+      ]
+    },
+    {
+      "id": "src-danyi",
+      "type": "演义",
+      "title": "单刀赴会",
+      "ref": "《三国演义》第六十六回",
+      "quote": "（关羽）挽鲁肃之手曰：今日之会，饮酒而已。",
+      "note": "正史亦有单刀会，见《鲁肃传》，双方各带单刀，义正辞严者是鲁肃。",
+      "chapters": [
+        "066"
+      ],
+      "tags": [
+        "第66回",
+        "鲁肃传"
+      ]
+    },
+    {
+      "id": "src-baiqi",
+      "type": "演义",
+      "title": "百骑劫营",
+      "ref": "《三国演义》第六十八回",
+      "quote": "（甘宁）选精壮百人，尽插白鹅翎于盔上为号。",
+      "note": "百骑劫营为演义敷演；甘宁胆略见于《甘宁传》。",
+      "chapters": [
+        "068"
+      ],
+      "tags": [
+        "第68回"
+      ]
+    },
+    {
+      "id": "src-qijun",
+      "type": "正史",
+      "title": "水淹七军",
+      "ref": "《三国志·关羽传》",
+      "quote": "秋，大霖雨，汉水泛溢，禁所督七军皆没。",
+      "note": "水淹依赖天时；「威震华夏」由此而来。",
+      "chapters": [
+        "074"
+      ],
+      "tags": [
+        "关羽传"
+      ]
+    },
+    {
+      "id": "src-maicheng",
+      "type": "正史",
+      "title": "败走麦城",
+      "ref": "《三国志·吕蒙传》",
+      "quote": "羽自知孤穷，走保麦城。",
+      "note": "白衣渡江后荆州易手，关羽于临沮遇难。",
+      "chapters": [
+        "076",
+        "077"
+      ],
+      "tags": [
+        "吕蒙传"
+      ]
+    },
+    {
+      "id": "src-yuquan",
+      "type": "传说",
+      "title": "玉泉山显圣",
+      "ref": "《三国演义》第七十七回、民间信仰",
+      "quote": "（关公）在玉泉山顶大呼曰：还我头来！",
+      "note": "显圣属演义与民间信仰层；正史止于临沮之难。",
+      "chapters": [
+        "077"
+      ],
+      "tags": [
+        "第77回",
+        "关帝信仰"
+      ]
+    }
+  ],
+  "periods": [
+    {
+      "personId": "zhugeliang",
+      "label": "隆中时期",
+      "year": 207,
+      "era": "建安十二年",
+      "summary": "躬耕陇亩，尚未出仕；已知荆益形势，未知赤壁及其后诸事。",
+      "events": [
+        {
+          "year": 207,
+          "label": "隆中对"
+        }
+      ]
+    },
+    {
+      "personId": "zhugeliang",
+      "label": "荆州时期",
+      "year": 208,
+      "era": "建安十三年",
+      "summary": "出使江东，促成孙刘联盟；赤壁之战胜负此刻已知。",
+      "events": [
+        {
+          "year": 208,
+          "label": "赤壁之战"
+        }
+      ]
+    },
+    {
+      "personId": "zhugeliang",
+      "label": "蜀中时期",
+      "year": 214,
+      "era": "建安十九年",
+      "summary": "入蜀佐刘备定益州，开始处理两线难顾的局面。",
+      "events": [
+        {
+          "year": 214,
+          "label": "定益州"
+        },
+        {
+          "year": 223,
+          "label": "白帝托孤"
+        }
+      ]
+    },
+    {
+      "personId": "zhugeliang",
+      "label": "北伐时期",
+      "year": 228,
+      "era": "建兴六年",
+      "summary": "五次北出秦岭，与司马懿对峙，卒于五丈原。",
+      "events": [
+        {
+          "year": 228,
+          "label": "街亭之失"
+        },
+        {
+          "year": 234,
+          "label": "五丈原"
+        }
+      ]
+    },
+    {
+      "personId": "caocao",
+      "label": "讨董时期",
+      "year": 190,
+      "era": "初平元年",
+      "summary": "关东联军迟疑不进，此后不再倚仗盟约。",
+      "events": [
+        {
+          "year": 190,
+          "label": "讨董"
+        }
+      ]
+    },
+    {
+      "personId": "caocao",
+      "label": "迎天子时期",
+      "year": 196,
+      "era": "建安元年",
+      "summary": "迎献帝都许，挟天子以令诸侯，据兖豫。",
+      "events": [
+        {
+          "year": 196,
+          "label": "都许"
+        }
+      ]
+    },
+    {
+      "personId": "caocao",
+      "label": "官渡时期",
+      "year": 200,
+      "era": "建安五年",
+      "summary": "夜袭乌巢，败袁绍，逐步平定河北。",
+      "events": [
+        {
+          "year": 200,
+          "label": "官渡之战"
+        }
+      ]
+    },
+    {
+      "personId": "caocao",
+      "label": "赤壁时期",
+      "year": 208,
+      "era": "建安十三年",
+      "summary": "南下得荆州，顺江东进，于乌林遇火攻败退。",
+      "events": [
+        {
+          "year": 208,
+          "label": "赤壁之战"
+        }
+      ]
+    },
+    {
+      "personId": "zhouyu",
+      "label": "江东时期",
+      "year": 200,
+      "era": "建安五年",
+      "summary": "与孙策总角之好，辅孙权稳江东。",
+      "events": [
+        {
+          "year": 200,
+          "label": "辅孙权"
+        }
+      ]
+    },
+    {
+      "personId": "zhouyu",
+      "label": "赤壁时期",
+      "year": 208,
+      "era": "建安十三年",
+      "summary": "力主抗曹，统兵破曹于赤壁。",
+      "events": [
+        {
+          "year": 208,
+          "label": "赤壁之战"
+        }
+      ]
+    },
+    {
+      "personId": "liubei",
+      "label": "起兵时期",
+      "year": 184,
+      "era": "中平元年",
+      "summary": "涿郡募兵，无地盘、无兵，只有人和与汉室名分。",
+      "events": [
+        {
+          "year": 184,
+          "label": "起兵"
+        }
+      ]
+    },
+    {
+      "personId": "liubei",
+      "label": "荆州时期",
+      "year": 201,
+      "era": "建安六年",
+      "summary": "依刘表屯新野，寻访能定天下的人。",
+      "events": [
+        {
+          "year": 207,
+          "label": "三顾茅庐"
+        }
+      ]
+    },
+    {
+      "personId": "liubei",
+      "label": "赤壁时期",
+      "year": 208,
+      "era": "建安十三年",
+      "summary": "退守夏口，联吴抗曹，战后据荆南。",
+      "events": [
+        {
+          "year": 208,
+          "label": "赤壁之战"
+        }
+      ]
+    },
+    {
+      "personId": "liubei",
+      "label": "益州时期",
+      "year": 214,
+      "era": "建安十九年",
+      "summary": "定益州，跨有荆益，后称汉中王、称帝。",
+      "events": [
+        {
+          "year": 214,
+          "label": "定益州"
+        },
+        {
+          "year": 221,
+          "label": "称帝"
+        }
+      ]
+    },
+    {
+      "personId": "simayi",
+      "label": "入仕时期",
+      "year": 208,
+      "era": "建安十三年",
+      "summary": "初入曹氏幕府，尚未独当一面。",
+      "events": [
+        {
+          "year": 208,
+          "label": "辟为文学掾"
+        }
+      ]
+    },
+    {
+      "personId": "simayi",
+      "label": "抗蜀时期",
+      "year": 228,
+      "era": "建兴六年",
+      "summary": "西拒诸葛亮北伐，以坚守待粮尽。",
+      "events": [
+        {
+          "year": 228,
+          "label": "街亭"
+        },
+        {
+          "year": 234,
+          "label": "五丈原"
+        }
+      ]
+    },
+    {
+      "personId": "guanyu",
+      "label": "荆州时期",
+      "year": 219,
+      "era": "建安二十四年",
+      "summary": "北伐襄樊，威震华夏；此刻尚不知后方已换旗。",
+      "events": [
+        {
+          "year": 219,
+          "label": "水淹七军"
+        },
+        {
+          "year": 219,
+          "label": "走麦城"
+        }
+      ]
+    },
+    {
+      "personId": "jiangwei",
+      "label": "北伐后期",
+      "year": 253,
+      "era": "延熙十六年",
+      "summary": "费祎之后始得专兵，频年北出，国力渐耗。",
+      "events": [
+        {
+          "year": 253,
+          "label": "主持北伐"
+        }
+      ]
+    },
+    {
+      "personId": "liushan",
+      "label": "后主时期",
+      "year": 263,
+      "era": "景耀六年",
+      "summary": "邓艾已过阴平，此刻只知剑阁未失。",
+      "events": [
+        {
+          "year": 263,
+          "label": "邓艾入蜀"
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q-chibi",
+      "text": "赤壁之战，最后谁赢了？",
+      "year": 208,
+      "eventId": "chibi",
+      "answers": {
+        "default": "孙刘联军据江拒曹，火攻之后曹军北撤。",
+        "zhugeliang": "江东肯战，曹军又疫病缠身，火攻才有机会；胜负不在一阵之风。",
+        "zhouyu": "曹军不习水战、粮道又长，我算的是这些，不是天数。",
+        "caocao": "船锁在一起本为稳住北兵，却给了对方一把火。"
+      },
+      "basis": [
+        "《三国志·周瑜传》火攻、诈降与疫病记载",
+        "建安十三年（208）纪年"
+      ],
+      "creation": [
+        "回答措辞为本站改写，非史料原文"
+      ]
+    },
+    {
+      "id": "q-longzhong",
+      "text": "隆中对里，我该怎么取天下？",
+      "year": 207,
+      "eventId": "sangu",
+      "answers": {
+        "default": "先取荆州为家，再取益州为基，西和诸戎、南抚夷越，待天下有变两路出兵。",
+        "zhugeliang": "此策的前提是荆益俱在、孙刘不破；缺一条，两路就只剩一路。",
+        "liubei": "我缺的不是勇气，是一张能走十年的地图。"
+      },
+      "basis": [
+        "《三国志·诸葛亮传》隆中对原文"
+      ],
+      "creation": [
+        "「能走十年的地图」为本站白话改写"
+      ]
+    },
+    {
+      "id": "q-dongfeng",
+      "text": "听说有人能借来东南风？",
+      "year": 208,
+      "eventId": "chibi",
+      "answers": {
+        "default": "祭风是小说写法；史书只记火攻与当时的风势，未记设坛借风。",
+        "zhugeliang": "风自天时，非人力可借；我能做的是把船与火的时机算准。"
+      },
+      "basis": [
+        "《三国演义》第四十九回（小说层）",
+        "《三国志·周瑜传》火攻记载（正史层）"
+      ],
+      "creation": [
+        "人物口吻为本站创作"
+      ]
+    },
+    {
+      "id": "q-jieting",
+      "text": "街亭该派谁去守？",
+      "year": 228,
+      "eventId": "beifa",
+      "answers": {
+        "default": "此为军机，须据当时可用之将与地形而定；史载马谡违令失守。",
+        "zhugeliang": "用人的错在我，不在街亭的地势。"
+      },
+      "basis": [
+        "《三国志·马谡传》及诸葛亮本传"
+      ],
+      "creation": [
+        "「用人的错在我」为本站拟写"
+      ]
+    },
+    {
+      "id": "q-huarong",
+      "text": "华容道该不该放曹操？",
+      "year": 208,
+      "eventId": "chibi",
+      "answers": {
+        "default": "「义释曹操」出自小说；正史只载曹操经华容道遇泥泞撤退。",
+        "guanyu": "旧日之恩我已报过，此后阵前再不相让。"
+      },
+      "basis": [
+        "《三国演义》第五十回（小说层）",
+        "《三国志·武帝纪》裴注华容道记载"
+      ],
+      "creation": [
+        "关羽答语为本站创作"
+      ]
+    },
+    {
+      "id": "q-beifa",
+      "text": "北伐能不能成功？",
+      "year": 228,
+      "eventId": "beifa",
+      "answers": {
+        "default": "此刻只能说：粮道与国力是最大的限制，成败尚未可知。",
+        "zhugeliang": "我不敢言必成，只知若不北出，强弱只会更悬。"
+      },
+      "basis": [
+        "《三国志·诸葛亮传》",
+        "建兴六年（228）第一次北伐"
+      ],
+      "creation": [
+        "回答为本站拟写，不含后世结局"
+      ]
+    },
+    {
+      "id": "q-wuzhang",
+      "text": "五丈原之后，蜀汉会怎样？",
+      "year": 234,
+      "eventId": "beifa",
+      "answers": {
+        "default": "此刻我只知军中粮尽、身力不支，身后之事不可断言。",
+        "zhugeliang": "身后之事，非我所知，亦非我所能安排周全。"
+      },
+      "basis": [
+        "《三国志·诸葛亮传》建兴十二年"
+      ],
+      "creation": [
+        "回答为本站拟写，刻意不泄露 234 年后的史事"
+      ]
+    },
+    {
+      "id": "q-taoyuan",
+      "text": "当年桃园结义，可曾想到今日？",
+      "year": 184,
+      "eventId": "huangjin",
+      "answers": {
+        "default": "结义是小说写法；正史只说三人恩若兄弟。此时天下初乱，谁也看不到后来。",
+        "liubei": "今日只求募得义兵，他年之事，不敢预想。"
+      },
+      "basis": [
+        "《三国演义》第一回（小说层）",
+        "《三国志·关羽传》「恩若兄弟」"
+      ],
+      "creation": [
+        "刘备答语为本站创作"
+      ]
+    }
+  ],
+  "sourceTypes": [
+    "演义",
+    "正史",
+    "传说"
+  ],
+  "arcs": [
+    "群雄起事",
+    "北方混战",
+    "赤壁前后",
+    "三分成形",
+    "蜀汉北伐",
+    "三国归晋"
+  ]
+}
