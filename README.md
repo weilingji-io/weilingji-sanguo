@@ -4,6 +4,14 @@
 
 策划方案见 `docs/三国读书内容网站-策划方案.md`，对标作品的逐帧拆解见 `docs/三国图志视频逐帧拆解.md`。
 
+## 线上部署
+
+- 线上地址：<https://sanguo.weilingji.com>（Let's Encrypt HTTPS，自动续期）
+- 服务器：`ubuntu@82.157.170.195`，静态文件在 `/opt/weiling-sanguo`（与微零清单 `/opt/weiling-list` 并列）
+- Nginx 站点：`/etc/nginx/sites-available/sanguo.weilingji.com`；证书 `/etc/letsencrypt/live/sanguo.weilingji.com/`
+- 缓存策略：html/css/js no-cache，图片 7 天，data 1 小时；已开 gzip
+- 一键更新线上：`./scripts/deploy.sh`（重建数据 → rsync → 校验）
+
 ## 运行
 
 零依赖，只需要 Node.js ≥ 18：
